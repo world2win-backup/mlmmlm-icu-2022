@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>公告|新用户必读</title>
+    <link>https://mlmmlm.icu/t/topic/11</link>
+    <description>### 本论坛可以用邮箱注册，建议用protonmail注册，禁止用实名制邮箱注册，禁止用qq邮箱，163邮箱注册。*不要用以前使用过的用户名*。
+### 当心上传文件包含元信息！
+### 论坛的私信不安全，一旦管理员账号被控制，私信将会暴露，请移步protonmail或xmpp。利用D-H密钥交换确保前向安全。
+
+### 注册时请留意垃圾邮件(spam)，注册邮件大约10分钟后送到，请耐心等待。
+(如果用gmail注册的话可能被归类到promotion里面)
+
+3.**隐私问题**是最重要的问题，不要提到自己与他人的隐私。不要提到他人在互联网上的活动记录。
+
+3.5 可能暴露身份的就是论坛成员的言论还有你的邮箱，IP地址已经做过处理。
+
+4.就事论事，不要人身攻击。
+
+5.论坛管理员有义务对论坛进行定期备份并且保障成员的数据安全。
+
+### 如果有人问及是如何知道本站的，就说是在搜索引擎找到的。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 28 Jul 2022 13:33:48 +0000</lastBuildDate>
+    <category>公告</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/11.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2022/7/28<br>
+更新了防火墙关于Country IP的策略。</p>
+<p><span style="color:red"><span style="font-size:120%"><span class="bbcode-b">注意到mega.io若12个月没有登陆将被清除数据,建议将书籍OCR后上传到github</span></span> </span></p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/31">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/31</link>
+        <pubDate>Thu, 28 Jul 2022 13:33:48 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-31</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://meta.discourse.org/t/discourse-link-previews-through-a-proxy-server/72720">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/1/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="" height="">
+
+      <a href="https://meta.discourse.org/t/discourse-link-previews-through-a-proxy-server/72720" target="_blank" rel="noopener" title="01:34AM - 25 October 2017">Discourse Meta – 25 Oct 17</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://meta.discourse.org/t/discourse-link-previews-through-a-proxy-server/72720" target="_blank" rel="noopener">Discourse Link previews through a proxy server?</a></h3>
+
+  <p>I keep my forum’s server behind cloud flare due to a large amount of attacks against the site. The link previews and emails can leak the server’s backend IP Address. The email issue was resolved by setting up a SMTP relay that strips headers (if the...</p>
+
+  <p>
+    <span class="label1">Reading time: 2 mins 🕑</span>
+      <span class="label2">Likes: 22 ❤</span>
+  </p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><a href="https://wiki.archlinux.org/title/privoxy" class="onebox" target="_blank" rel="noopener">https://wiki.archlinux.org/title/privoxy</a></p>
+<p>2022/6/25<br>
+让discourse的出站流量经过tor<br>
+1.<br>
+安装tor和privoxy<br>
+<code>apt install tor</code><br>
+<code>apt install privoxy</code><br>
+2.<br>
+利用<code>ifconfig</code>找到<code>docker0</code>的ip地址，比如说<code>172.17.0.1</code><br>
+（这项配置在docker的网络模式为bridge时有效）<br>
+3.<br>
+在<code>/etc/privoxy/config</code>文件的末尾添加</p>
+<pre><code class="lang-auto">listen-address 172.17.0.1:8118
+forward-socks5 / localhost:9050 .
+</code></pre>
+<p>注意第二行的末尾有个点。<br>
+4.<br>
+重启privoxy<br>
+5.</p>
+<pre><code class="lang-auto">cd /var/discourse
+./launcher destroy app
+./launcher start app --docker-args "HTTP_PROXY=http://172.17.0.1:8118"
+</code></pre>
+<p>这样就完成了。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/30">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/30</link>
+        <pubDate>Thu, 23 Jun 2022 08:15:44 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-30</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote quote-modified" data-post="1" data-topic="1152">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/mlmmlm_admin/40/6_2.png" class="avatar">
+    <a href="https://mlmmlm.icu/t/topic/1152">安全警告：WebRTC导致真实IP泄露</a> <a class="badge-wrapper  bullet" href="https://mlmmlm.icu/c/13-category/13"><span class="badge-category-bg" style="background-color: #BF1E2E;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">公告</span></a>
+  </div>
+  <blockquote>
+    请问能不能加强网站所采取的安全措施呢？很多时候网站看似安全，实则却不安全。以2047.name（自由派论坛）为例： 2047自成立以来一直遭到来自中国境内的猛烈网络攻击，前两任站长均遭到中国当局<a href="https://2047.one/t/9387">抓捕 </a>或<a href="https://2047.one/t/17248">疑似抓捕 </a> 
+今年年初，2047BBS遭到据信由中共黑客主导的网络攻击。根据这次攻击的专业程度判断，这次攻击是中国政府组织的行动。“黑客利用了2047处理Youtube链接排版时的一个技术漏洞，导致…
+  </blockquote>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/11/29">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/29</link>
+        <pubDate>Sat, 18 Jun 2022 14:09:59 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-29</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>当心上传的文件包含元信息！</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/28">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/28</link>
+        <pubDate>Tue, 21 Sep 2021 13:33:54 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-28</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>测试：</p>
+<div style="text-align:right">
+<p><font size="14"><font color="red">全世界无产者联合起来</font></font></p>
+</div>
+          <p><a href="https://mlmmlm.icu/t/topic/11/27">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/27</link>
+        <pubDate>Thu, 16 Sep 2021 13:00:25 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-27</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>测试：</p>
+<h2>
+<a name="denial-of-the-difference-between-socialism-and-capitalism-is-not-allowed-1" class="anchor" href="https://mlmmlm.icu#denial-of-the-difference-between-socialism-and-capitalism-is-not-allowed-1"></a>Denial of the Difference Between Socialism and Capitalism Is Not Allowed</h2>
+<h3>
+<a name="repudiating-the-theme-about-white-cat-black-cat-2" class="anchor" href="https://mlmmlm.icu#repudiating-the-theme-about-white-cat-black-cat-2"></a>— Repudiating the theme about “white cat, black cat”</h3>
+<h4>
+<a name="by-chin-chih-po-3" class="anchor" href="https://mlmmlm.icu#by-chin-chih-po-3"></a>by Chin Chih-po</h4>
+<div style="text-align:center">
+<p><em>[This article is reprinted from</em> Peking Review <em>, <span class="hashtag">#16</span>, April 16, 1976, pp. 18-21.]</em></p>
+</div>
+<p>IN the struggle to beat back the Right deviationist attempt to reverse correct verdicts, Chairman Mao has penetratingly exposed and criticized the nature of the unrepentant capitalist-roader Teng Hsiao-ping in negating the taking of class struggle as the key link and in practising revisionism. Chairman Mao has pointed out: <strong>“This person does not grasp class struggle; he has never referred to this key link. Still his theme of ‘white cat, black cat,’ making no distinction between imperialism and Marxism.”</strong> It is of extremely great significance for us to study conscientiously this important directive of Chairman Mao’s, make an in-depth criticism of the reactionary theme about “white cat, black cat,” draw a clear demarcation line between Marxism and revisionism and between socialism on the one hand and capitalism and imperialism on the other so as to adhere to the Party’s basic line and carry the socialist revolution through to the end.</p>
+<div style="text-align:center">
+<h3>
+<a name="background-of-the-white-cat-black-cat-theme-and-its-essence-4" class="anchor" href="https://mlmmlm.icu#background-of-the-white-cat-black-cat-theme-and-its-essence-4"></a>Background of the “White Cat, Black Cat” Theme and Its Essence</h3>
+</div>
+<p>The reactionary fallacy “It doesn’t matter whether it is a white cat or a black cat, any cat that catches mice is a good cat” came out in 1961. At that time, owing to the sabotage by the Khrushchov renegade clique of the Soviet Union and serious natural disasters, China met with temporary economic difficulties and the struggle between the two classes, two roads and two lines was very acute and fierce. Class enemies both at home and abroad who rejoiced at our temporary difficulties slandered that China’s economy was “on the verge of collapse” and considered that socialist China was about to fall apart. Joining in the chorus of class enemies at home and abroad, the ringleaders of the revisionist line inside our Party tried their utmost to distort the real causes that gave rise to the temporary difficulties, ascribing them to the socialist system, the Party’s line, principles and policies without mentioning at all the sabotage by the Soviet revisionists and the serious natural disasters. They made a wrong appraisal of the situation and, thinking that the time for restoring capitalism had come, made frenzied attacks on socialism. The renegade, hidden traitor and scab Liu Shao-chi shouted himself hoarse, saying: “Industry should fall back to a sufficient degree and agriculture should do the same, including the fixing of farm output quotas based on individual households and returning to individual farming.” The bourgeois careerist and conspirator Lin Piao also trumpeted with great vigour that of the various types of relations of production in the world, “we’ll choose the one that will raise production.” What he really meant was to restore the capitalist relations of production. It was in these circumstances that Teng Hsiao-ping also came out talking blatantly about his theme on the “white cat and black cat.” For fear that people might not follow what he said, he went out of his way to elaborate: “What kind of relations of production is better? It seems that we have to take this attitude: Adopt whatever kind in whatever place that facilitates the restoration and development of production.” He also said: “Individual farming is also permissible as long as there is a rise in production.” Apparently, he thought that the socialist system no longer worked for it “has failed to catch mice”; to him the capitalist system was better for it “catches mice all right.” So he worked with might and main to turn the collective economy back to an individual economy and “twist” the New China advancing on the socialist road back to the capitalist road.</p>
+<p>Which one is better, socialism or capitalism? Whither China? This is a question that has been cleared up long ago. Chairman Mao pointed out in unmistakable terms: <strong>“The present social system of our country is far superior to that of the old days. If it were not so, the old system would not have been overthrown and the new system could not have been established. In saying that socialist relations of production are better suited to the development of the productive forces than are the old relations of production, we mean that they permit the productive forces to develop at a speed unattainable in the old society.”</strong> (<em>On the Correct Handling of Contradictions Among the People</em>.) Although China at that time had met with temporary economic difficulties, they were merely difficulties on the road of advance and we could overcome them by relying on the Party leadership and the initiative of the masses and on the socialist system itself. Under the guidance of Chairman Mao’s proletarian revolutionary line, our Party and the people of the whole country persisted in taking class struggle as the key link, criticized revisionism and capitalism, adhered to the policy of maintaining independence and keeping the initiative in our own hands and relying on our own efforts, strengthened and consolidated the socialist system under the dictatorship of the proletariat, took further steps to carry out the Party’s policies for the countryside, and consolidated the collective economy based on the three-level system of ownership of the means of production in the people’s commune, with the production team at the basic level. All this further brought the socialist initiative of the masses into play, and the result was the national economy quickly recovered and developed and the situation very soon took a turn for the better. Since then, in agricultural production in our country, there have been good harvests for 14 years in succession and industrial production too has been thriving. Hasn’t this historical fact fully demonstrated that, compared with the capitalist system, the socialist system has potentially unparalleled great strength? Isn’t this a forceful repudiation and negation of the “white cat, black cat” theme that negated socialism and advocated capitalism? Facts have given eloquent proof that <strong>“only socialism can save China.”</strong> (Mao Tsetung: <em>On the Correct Handling of Contradictions Among the People</em>.) If we were to act in the way proposed by Teng Hsiao-ping, let all the capitalist “white cats and black cats” come out, engage in individual farming and speculation, and embark on free enterprises, then the socialist collective economy would disintegrate, the cause of socialism would go down the drain and the state under the dictatorship of the proletariat would be turned into one under the dictatorship of the bourgeoisie. Then capitalist restoration such as that occurring in the Soviet Union would appear in our country. This is a thing the Chinese people absolutely will not agree. We can only advance, not retreat; we can only take the socialist road, not the capitalist road.</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/26">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/26</link>
+        <pubDate>Thu, 16 Sep 2021 12:56:46 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-26</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2021/9/16<br>
+安装BBCode插件<br>
+<a href="https://web.archive.org/web/20181005220704/https://meta.discourse.org/t/discourse-bbcode/65425" class="onebox" target="_blank" rel="noopener">https://web.archive.org/web/20181005220704/https://meta.discourse.org/t/discourse-bbcode/65425</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/25">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/25</link>
+        <pubDate>Thu, 16 Sep 2021 12:48:31 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-25</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2021/3/28<br>
+设置enable inline onebox on all domains为false</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/24">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/24</link>
+        <pubDate>Sun, 28 Mar 2021 09:49:16 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-24</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2021/3/20</p>
+<h1>重要安全更新</h1>
+<h3>论坛的私信不安全，一旦管理员账号被控制，私信将会暴露，请移步protonmail或xmpp。利用D-H密钥交换确保前向安全。</h3>
+<p>私信的安全性不高于公开的主题。</p>
+<p>管理员除了在命令行键入数据库删除命令无法彻底删除帖子。</p>
+<p>私信用于交换公钥。</p>
+<p>请勿在私信讨论关于个人隐私的，具有明显时间地域特征的敏感内容。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/23">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/23</link>
+        <pubDate>Sat, 20 Mar 2021 07:59:13 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-23</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2021/3/7</p>
+<p>将 log_anonymizer_details 设置为 false</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/22">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/22</link>
+        <pubDate>Sun, 07 Mar 2021 12:34:49 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-22</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="1" data-topic="472">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/mlmmlm.icu/mlmmlm_admin/40/6_2.png" class="avatar">
+    <a href="https://mlmmlm.icu/t/topic/472">Allow CloudFlare ip only for discourse app in docker container</a> <a class="badge-wrapper  bullet" href="https://mlmmlm.icu/c/9-category/9"><span class="badge-category-bg" style="background-color: #9EB83B;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">技术</span></a>
+  </div>
+  <blockquote>
+    Allow CloudFlare ip only for discourse app in docker container
+  </blockquote>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/11/21">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/21</link>
+        <pubDate>Thu, 25 Feb 2021 18:26:27 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-21</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2021/2/26</p>
+<p>发现邮件发不出去。<br>
+原因是docker容器内无法解析域名。<br>
+<a href="https://stackoverflow.com/questions/31667160/running-docker-container-iptables-no-chain-target-match-by-that-name" class="onebox" target="_blank" rel="noopener">https://stackoverflow.com/questions/31667160/running-docker-container-iptables-no-chain-target-match-by-that-name</a></p>
+<p>我键入了<code>systemctl restart docker</code>解决了这个问题，但是iptables却因此改变了。无法起到ip白名单的效果。</p>
+<pre><code class="lang-auto">Chain INPUT (policy ACCEPT 364 packets, 75703 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 ACCEPT     tcp  --  any    any     131.0.72.0/22        anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     172.64.0.0/13        anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     104.16.0.0/12        anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     162.158.0.0/15       anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     198.41.128.0/17      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     197.234.240.0/22     anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     188.114.96.0/20      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     190.93.240.0/20      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     108.162.192.0/18     anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     141.101.64.0/18      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     103.31.4.0/22        anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     103.22.200.0/22      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     103.21.244.0/22      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     173.245.48.0/20      anywhere             multiport dports http,https
+    0     0 DROP       tcp  --  any    any     anywhere             anywhere             multiport dports http,https
+
+Chain FORWARD (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+ 1990  750K DOCKER-USER  all  --  any    any     anywhere             anywhere
+ 1990  750K DOCKER-ISOLATION-STAGE-1  all  --  any    any     anywhere             anywhere
+ 1040  235K ACCEPT     all  --  any    docker0  anywhere             anywhere             ctstate RELATED,ESTABLISHED
+   59  3116 DOCKER     all  --  any    docker0  anywhere             anywhere
+  891  512K ACCEPT     all  --  docker0 !docker0  anywhere             anywhere
+    0     0 ACCEPT     all  --  docker0 docker0  anywhere             anywhere
+
+Chain OUTPUT (policy ACCEPT 188 packets, 26045 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain DOCKER (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+   55  2876 ACCEPT     tcp  --  !docker0 docker0  anywhere             172.17.0.2           tcp dpt:https
+    4   240 ACCEPT     tcp  --  !docker0 docker0  anywhere             172.17.0.2           tcp dpt:http
+
+Chain DOCKER-ISOLATION-STAGE-1 (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+  891  512K DOCKER-ISOLATION-STAGE-2  all  --  docker0 !docker0  anywhere             anywhere
+ 1990  750K RETURN     all  --  any    any     anywhere             anywhere
+
+Chain DOCKER-ISOLATION-STAGE-2 (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 DROP       all  --  any    docker0  anywhere             anywhere
+  891  512K RETURN     all  --  any    any     anywhere             anywhere
+
+Chain DOCKER-USER (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+ 1990  750K RETURN     all  --  any    any     anywhere             anywhere
+
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/11/20">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/20</link>
+        <pubDate>Thu, 25 Feb 2021 17:17:50 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-20</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://www.thomas-krenn.com/en/wiki/Saving_Iptables_Firewall_Rules_Permanently" class="onebox" target="_blank" rel="noopener">https://www.thomas-krenn.com/en/wiki/Saving_Iptables_Firewall_Rules_Permanently</a></p>
+<p>如果你是ubuntu用户，用<code>dpkg-reconfigure iptables-persistent</code>来保存设置。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/19">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/19</link>
+        <pubDate>Thu, 25 Feb 2021 06:37:04 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-19</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>方法：<br>
+1.先清除原有的规则：</p>
+<pre><code class="lang-bash">iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -t nat -F
+iptables -t mangle -F
+iptables -F
+iptables -X
+
+ip6tables -P INPUT ACCEPT
+ip6tables -P FORWARD ACCEPT
+ip6tables -P OUTPUT ACCEPT
+ip6tables -t nat -F
+ip6tables -t mangle -F
+ip6tables -F
+ip6tables -X
+</code></pre>
+<p>2.设置cloudflare的IP为白名单：</p>
+<pre><code class="lang-bash"># Source:
+# https://www.cloudflare.com/ips
+# https://support.cloudflare.com/hc/en-us/articles/200169166-How-do-I-whitelist-CloudFlare-s-IP-addresses-in-iptables-
+
+for i in `curl https://www.cloudflare.com/ips-v4`; do iptables -I INPUT -p tcp -m multiport --dports http,https -s $i -j ACCEPT; done
+for i in `curl https://www.cloudflare.com/ips-v6`; do ip6tables -I INPUT -p tcp -m multiport --dports http,https -s $i -j ACCEPT; done
+
+# Avoid racking up billing/attacks
+# WARNING: If you get attacked and CloudFlare drops you, your site(s) will be unreachable.
+iptables -A INPUT -p tcp -m multiport --dports http,https -j DROP
+ip6tables -A INPUT -p tcp -m multiport --dports http,https -j DROP
+</code></pre>
+<p>完成之后<code>iptables -L -v</code>将会是这样：</p>
+<pre><code class="lang-bash">Chain INPUT (policy ACCEPT 3370 packets, 2459K bytes)
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 ACCEPT     tcp  --  any    any     131.0.72.0/22        anywhere             multiport dports http,https
+  566 84264 ACCEPT     tcp  --  any    any     172.64.0.0/13        anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     104.16.0.0/12        anywhere             multiport dports http,https
+ 2439  241K ACCEPT     tcp  --  any    any     162.158.0.0/15       anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     198.41.128.0/17      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     197.234.240.0/22     anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     188.114.96.0/20      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     190.93.240.0/20      anywhere             multiport dports http,https
+  157 20624 ACCEPT     tcp  --  any    any     108.162.192.0/18     anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     141.101.64.0/18      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     103.31.4.0/22        anywhere             multiport dports http,https
+   33  5482 ACCEPT     tcp  --  any    any     103.22.200.0/22      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     103.21.244.0/22      anywhere             multiport dports http,https
+    0     0 ACCEPT     tcp  --  any    any     173.245.48.0/20      anywhere             multiport dports http,https
+   71  4192 DROP       tcp  --  any    any     anywhere             anywhere             multiport dports http,https
+
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/11/18">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/18</link>
+        <pubDate>Thu, 25 Feb 2021 06:28:38 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-18</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2021/2/25<br>
+经测试，这种方法仍然暴露ip。<br>
+原因是，如果访问https://xxx.xxx.xxx.xxx:443<br>
+nginx会先出示https证书（证书上有域名），建立tls链接后再判断是否允许该ip访问，如果不允许则返回403错误，403错误是通过tls返回的。</p>
+<p>要从iptables上禁止非ipcloudflare访问。<br>
+但是先前的尝试失败了，原因是规则没有清理干净。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/17">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/17</link>
+        <pubDate>Thu, 25 Feb 2021 06:22:58 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-17</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2021/2/20</p>
+<p>为了防止ip暴露，设cloudflare的IP为白名单。</p>
+<p><a href="https://www.cloudflare.com/en-gb/ips/" class="onebox" target="_blank" rel="noopener">https://www.cloudflare.com/en-gb/ips/</a><br>
+<a href="https://erichelgeson.github.io/blog/2014/01/18/whitelisting-cloudflare-in-nginx/" class="onebox" target="_blank" rel="noopener">https://erichelgeson.github.io/blog/2014/01/18/whitelisting-cloudflare-in-nginx/</a><br>
+<a href="https://meta.discourse.org/t/how-to-disable-access-to-anyone-not-coming-from-a-specific-ip-address/114907/7" class="onebox" target="_blank" rel="noopener">https://meta.discourse.org/t/how-to-disable-access-to-anyone-not-coming-from-a-specific-ip-address/114907/7</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/16">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/16</link>
+        <pubDate>Sat, 20 Feb 2021 03:26:07 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-16</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2020/10/11</p>
+<p>出于安全考虑，禁用onebox<br>
+<a href="https://meta.discourse.org/t/discourse-link-previews-through-a-proxy-server/72720/4" class="onebox" target="_blank" rel="noopener">https://meta.discourse.org/t/discourse-link-previews-through-a-proxy-server/72720/4</a><br>
+<a href="https://meta.discourse.org/t/disable-discourse-from-crawling-links/69778/5" class="onebox" target="_blank" rel="noopener">https://meta.discourse.org/t/disable-discourse-from-crawling-links/69778/5</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/15">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/15</link>
+        <pubDate>Sun, 11 Oct 2020 07:23:25 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-15</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2020/10/2<br>
+允许开放注册<br>
+并且禁止用国内邮箱注册</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/14">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/14</link>
+        <pubDate>Fri, 02 Oct 2020 09:42:19 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-14</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2020/9/26</p>
+<p>禁止开放注册。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/13">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/13</link>
+        <pubDate>Sat, 26 Sep 2020 06:23:37 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-13</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://mlmmlm.icu/t/topic/11/12">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/12</link>
+        <pubDate>Wed, 23 Sep 2020 14:29:28 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-12</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>更正：<br>
+由于本人太久没关注IRN了，忘了IRN原名叫什么了，造成了误解。给红色文献翻译（已停更）带来了不好的影响（虽然论坛根本没有多少人），下次发布公告的时必先核对。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/11">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/11</link>
+        <pubDate>Sun, 13 Sep 2020 12:25:58 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-11</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>我们认为一些组织具有改良主义倾向，不在推荐之列。<br>
+但是他们的文章可以作为参考，要用批判的眼光去阅读。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/10">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/10</link>
+        <pubDate>Sat, 05 Sep 2020 12:36:46 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-10</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2020.9.2 更新：</p>
+<p>1.禁用了邮件摘要功能<br>
+2.将“从不”设置为“站内信邮件提醒”和“收到回复邮件提醒”的默认值。意味着用户除了进行注册或重置密码外将不会收到邮件。我们的邮件资源很紧张，请用户不要修改邮件设置。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/11/9">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/9</link>
+        <pubDate>Wed, 02 Sep 2020 06:16:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-9</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>我发现大家都用protonmail注册账号这很好，protonmail数据库在瑞士，天朝警察要调查要费很大一番功夫。</p>
+<p>邮件的问题解决了之后暴露身份最大的可能就是你上传的图片。</p>
+<p>当心指纹，当心物体反射，当心标志性物体，当心数字水印，当心图片元信息。</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/1X/2737b38d0b5b44a53869c609b57e3968b7b7ae6a.ico" class="site-icon" width="32" height="32">
+      <a href="https://zhuanlan.zhihu.com/p/95960061" target="_blank" rel="noopener">知乎专栏</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:365/155;"><img src="https://mlmmlm.icu/uploads/default/original/1X/7b698df08889cc4d6bc7a3c470a3b98027a10c86.png" class="thumbnail" width="365" height="155"></div>
+
+<h3><a href="https://zhuanlan.zhihu.com/p/95960061" target="_blank" rel="noopener">如何清除手机拍照的图片 exif 防止泄露你的隐私</a></h3>
+
+<p>这两天有个微博话题 #微信发原图可泄露位置信息#网传用微信发送照片原图，会泄露位置信息。专家表示确实如此，不过需同时满足3个条件：①手机GPS定位已打开；②拍照设置保存了地理位置；③发送原图。然后【腾讯微…</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/1X/2737b38d0b5b44a53869c609b57e3968b7b7ae6a.ico" class="site-icon" width="32" height="32">
+      <a href="https://www.zhihu.com/question/50678532" target="_blank" rel="noopener">zhihu.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.zhihu.com/question/50678532" target="_blank" rel="noopener">如何看待阿里巴巴月饼事件中泄露公司内部截图的员工也将要被处理的事件？ - 知乎</a></h3>
+
+<p>有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。知乎凭借认真、专业和友善的社区氛围，结构化、易获得的优质内容，基于问答的内容生产方式和独特的社区机制，吸引、聚集了各行各业中大量的亲历者、内行人、领域专家、领域爱好者，将高质量的内容透过人的节点来成规模地生产和分享。用户通过问答等交流方式建立信任和连接，打造和提升个人影响力，并发现、获得新机会。</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/11/8">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/8</link>
+        <pubDate>Sun, 30 Aug 2020 05:11:53 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-8</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+      <item>
+        <title>公告|新用户必读</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href="https://mlmmlm.icu/t/topic/11/7">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/11/7</link>
+        <pubDate>Sat, 29 Aug 2020 06:31:46 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-11-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/11.rss">公告|新用户必读</source>
+      </item>
+  </channel>
+</rss>

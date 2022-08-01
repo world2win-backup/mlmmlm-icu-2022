@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>简评近期中帝一系列数据库泄漏问题</title>
+    <link>https://mlmmlm.icu/t/topic/1194</link>
+    <description># 简评近期中帝一系列数据库泄漏问题
+
+&gt;转自&lt;https://paper.wf/revolutware/jian-ping-jin-qi-zhong-di-xi-lie-shu-ju-ku-xie-lou-wen-ti&gt;。
+
+最近两个月，中帝政府已至少遭受了三起重大的数据库泄漏事件：
+
+五月，BBC 向公众披露了来自新疆警察系统内部的文件[1]，其中相当一部分来源于“再教育集中营”内部[2]；6月21日，IT之家报道超星学习通数据库泄漏[3]，包含用户姓名、手机号、性别、学校、学号、邮箱等信息，共计 1 亿 7273 万条；而就在6月30日，又有海外溃客披露了他们从上海警察数据库窃取的数据[4]。短期内多次遭受重大的网络安全问题，让人不免怀疑是有境外的溃客组织针对中帝政府发起大规模网络攻击。但一个有目共睹的事实是，中帝政府自身非常不重视网络安全问题。
+
+就普通人能看到的政府网站而言，相当一大批的政府网站连最基本的加密 http （https）也没有设置，使得用户在访问它们的过程中极易遭受各类网络攻击。更有甚者，未给网站配备域名，仅仅设置了 IP 地址，以为这样就不会暴露在公网上了。结果阻拦了不关心他们数据的普通网民，阻拦不了来窃取数据的溃客。
+
+等上级部门查到他们的时候，就把责任推给“临时工”——当然，他们也的确雇佣了很多临时工来管理他们的网站，甚至接触他们的敏感数据，将如此重大的工作交给临时工来做，难道还不足以说明他们对网络安全的不重视吗？而从“临时工”的角度，他们又为何要认真做事呢？马马虎虎把老爷们糊弄过去，交差拿钱走人不香吗？只知外包工作的老爷显然不懂保密技术，既然如此，又何不偷偷埋几个方便日后潜入的后门呢？
+
+他们不重视，可每天面对“商场如战场”的商业公司不得不重视，在和“友商”的“公平竞争”中要是不看好自己的商业机密，指不定哪天就被竞争对手“干趴下”了，为此商业公司大量使用加密技术，和用户对接的网站也要严加防范；普通用户同样也要重视，面对着纷繁复杂的社会，面对着充满各种诱惑、威胁的网络环境，他们哪怕为了人身、财产安全，也需要格外重视自己的隐私不被泄漏。商业公司和用户都很重视信息保密，他们之间的买卖、交易中也大量用到了加密技术。
+
+而政府需要直接从商业公司那里收税，还需要让公民承担各种各样的义务。而政府在竞争对手和被统治者都大量使用保密手段的情况下，总该做些什么来保持其优势统治地位吧。为此主要有两个选项：
+
+选项一：同样大量采用保密技术，不让商业公司和普通公民也知晓他们的秘密，快人一步行动；
+
+选项二：继续不重视保密技术，但是也要让商业公司，让个人也没法使用保密技术。
+
+很明显，使用保密技术就是能不让监视者知道秘密的，禁止保密是违反科学原理的。然而我们的政府却“毅然决然”地选择了选项二。自2019年以来颁布了一系列限制加密技术使用的法律，到了最近几个月还要求社交媒体运营商公开用户的 ip 属地，甚至到了他们自己的数据库大规模泄漏的时候，还不忘发布《互联网用户账号信息管理规定》[5]，要对所有用户发言实行不切实际的“先审后发”。当然，按照知乎网友的分析[6]，这种规定只会加速国内私有社交媒体平台的衰落。
+
+最终政府的监控标准越来越严格，对普通公民使用加密技术的限制越来越多，但到头来，用户依然在使用加密技术，他们会把各种各样的加密技术应用放在合法的 tls 信道内部、或者隐写在多媒体文件的细节里，政府甚至都搞不清楚谁具体使用了什么加密技术。
+
+政府自己一方面忙于阻拦其他人使用网络技术，一方面继续疏于网络安全建设。于是它们的数据库被世界各地各路溃客光顾，它们的网站被国内的临时工埋下后门，它们自己成了网络安全领域任人宰割，连嘴上号召的网络主权都守不住的电子“清政府”。
+
+违反科学的做法一定会付出代价的，哪怕用暴力手段一时压制住了代价，也只不过是推迟了代价的到来。然而，被推迟的代价必然是加倍的代价。
+
+[1]bbc对新疆文件的报道
+&lt;https://www.bbc.co.uk/news/extra/85qihtvw6e/the-faces-from-chinas-uyghur-detention-camps&gt;
+
+[2]新疆公安文件 &lt;https://m.cmx.im/@foner/10835735126646080&gt;
+
+[3]IT之家 6 月 21 日消息称超星学习通泄漏的数据包括姓名、手机号、性别、学校、学号、邮箱等信息，共计 1 亿 7273 万条。
+&lt;https://mastodon.social/@msd2/108519329692602679&gt;
+
+[4]上海国家警察数据库泄露： &lt;https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database&gt; tor url： &lt;http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database&gt;
+
+[5]网信办发布《互联网用户账号信息管理规定》将于 2022 年 8 月 1 日施行 &lt;https://botsin.space/@solidotbot/108554512859038949&gt;
+
+[6]知乎网友对网信办新规的分析 &lt;https://www.zhihu.com/question/538207120&gt;</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 03 Jul 2022 09:00:41 +0000</lastBuildDate>
+    <category>时评</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1194.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>简评近期中帝一系列数据库泄漏问题</title>
+        <dc:creator><![CDATA[cocuj331]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>简评近期中帝一系列数据库泄漏问题</h1>
+<blockquote>
+<p>转自<a href="https://paper.wf/revolutware/jian-ping-jin-qi-zhong-di-xi-lie-shu-ju-ku-xie-lou-wen-ti" rel="noopener nofollow ugc">https://paper.wf/revolutware/jian-ping-jin-qi-zhong-di-xi-lie-shu-ju-ku-xie-lou-wen-ti</a>。</p>
+</blockquote>
+<p>最近两个月，中帝政府已至少遭受了三起重大的数据库泄漏事件：</p>
+<p>五月，BBC 向公众披露了来自新疆警察系统内部的文件[1]，其中相当一部分来源于“再教育集中营”内部[2]；6月21日，IT之家报道超星学习通数据库泄漏[3]，包含用户姓名、手机号、性别、学校、学号、邮箱等信息，共计 1 亿 7273 万条；而就在6月30日，又有海外溃客披露了他们从上海警察数据库窃取的数据[4]。短期内多次遭受重大的网络安全问题，让人不免怀疑是有境外的溃客组织针对中帝政府发起大规模网络攻击。但一个有目共睹的事实是，中帝政府自身非常不重视网络安全问题。</p>
+<p>就普通人能看到的政府网站而言，相当一大批的政府网站连最基本的加密 http （https）也没有设置，使得用户在访问它们的过程中极易遭受各类网络攻击。更有甚者，未给网站配备域名，仅仅设置了 IP 地址，以为这样就不会暴露在公网上了。结果阻拦了不关心他们数据的普通网民，阻拦不了来窃取数据的溃客。</p>
+<p>等上级部门查到他们的时候，就把责任推给“临时工”——当然，他们也的确雇佣了很多临时工来管理他们的网站，甚至接触他们的敏感数据，将如此重大的工作交给临时工来做，难道还不足以说明他们对网络安全的不重视吗？而从“临时工”的角度，他们又为何要认真做事呢？马马虎虎把老爷们糊弄过去，交差拿钱走人不香吗？只知外包工作的老爷显然不懂保密技术，既然如此，又何不偷偷埋几个方便日后潜入的后门呢？</p>
+<p>他们不重视，可每天面对“商场如战场”的商业公司不得不重视，在和“友商”的“公平竞争”中要是不看好自己的商业机密，指不定哪天就被竞争对手“干趴下”了，为此商业公司大量使用加密技术，和用户对接的网站也要严加防范；普通用户同样也要重视，面对着纷繁复杂的社会，面对着充满各种诱惑、威胁的网络环境，他们哪怕为了人身、财产安全，也需要格外重视自己的隐私不被泄漏。商业公司和用户都很重视信息保密，他们之间的买卖、交易中也大量用到了加密技术。</p>
+<p>而政府需要直接从商业公司那里收税，还需要让公民承担各种各样的义务。而政府在竞争对手和被统治者都大量使用保密手段的情况下，总该做些什么来保持其优势统治地位吧。为此主要有两个选项：</p>
+<p>选项一：同样大量采用保密技术，不让商业公司和普通公民也知晓他们的秘密，快人一步行动；</p>
+<p>选项二：继续不重视保密技术，但是也要让商业公司，让个人也没法使用保密技术。</p>
+<p>很明显，使用保密技术就是能不让监视者知道秘密的，禁止保密是违反科学原理的。然而我们的政府却“毅然决然”地选择了选项二。自2019年以来颁布了一系列限制加密技术使用的法律，到了最近几个月还要求社交媒体运营商公开用户的 ip 属地，甚至到了他们自己的数据库大规模泄漏的时候，还不忘发布《互联网用户账号信息管理规定》[5]，要对所有用户发言实行不切实际的“先审后发”。当然，按照知乎网友的分析[6]，这种规定只会加速国内私有社交媒体平台的衰落。</p>
+<p>最终政府的监控标准越来越严格，对普通公民使用加密技术的限制越来越多，但到头来，用户依然在使用加密技术，他们会把各种各样的加密技术应用放在合法的 tls 信道内部、或者隐写在多媒体文件的细节里，政府甚至都搞不清楚谁具体使用了什么加密技术。</p>
+<p>政府自己一方面忙于阻拦其他人使用网络技术，一方面继续疏于网络安全建设。于是它们的数据库被世界各地各路溃客光顾，它们的网站被国内的临时工埋下后门，它们自己成了网络安全领域任人宰割，连嘴上号召的网络主权都守不住的电子“清政府”。</p>
+<p>违反科学的做法一定会付出代价的，哪怕用暴力手段一时压制住了代价，也只不过是推迟了代价的到来。然而，被推迟的代价必然是加倍的代价。</p>
+<p>[1]bbc对新疆文件的报道<br>
+<a href="https://www.bbc.co.uk/news/extra/85qihtvw6e/the-faces-from-chinas-uyghur-detention-camps" rel="noopener nofollow ugc">https://www.bbc.co.uk/news/extra/85qihtvw6e/the-faces-from-chinas-uyghur-detention-camps</a></p>
+<p>[2]新疆公安文件 <a href="https://m.cmx.im/@foner/10835735126646080" rel="noopener nofollow ugc">https://m.cmx.im/@foner/10835735126646080</a></p>
+<p>[3]IT之家 6 月 21 日消息称超星学习通泄漏的数据包括姓名、手机号、性别、学校、学号、邮箱等信息，共计 1 亿 7273 万条。<br>
+<a href="https://mastodon.social/@msd2/108519329692602679" rel="noopener nofollow ugc">https://mastodon.social/@msd2/108519329692602679</a></p>
+<p>[4]上海国家警察数据库泄露： <a href="https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database" rel="noopener nofollow ugc">https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database</a> tor url： <a href="http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database" rel="noopener nofollow ugc">http://breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database</a></p>
+<p>[5]网信办发布《互联网用户账号信息管理规定》将于 2022 年 8 月 1 日施行 <a href="https://botsin.space/@solidotbot/108554512859038949" rel="noopener nofollow ugc">https://botsin.space/@solidotbot/108554512859038949</a></p>
+<p>[6]知乎网友对网信办新规的分析 <a href="https://www.zhihu.com/question/538207120" rel="noopener nofollow ugc">https://www.zhihu.com/question/538207120</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1194/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1194/1</link>
+        <pubDate>Sun, 03 Jul 2022 09:00:41 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1194-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1194.rss">简评近期中帝一系列数据库泄漏问题</source>
+      </item>
+  </channel>
+</rss>
