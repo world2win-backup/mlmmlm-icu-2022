@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>关于资料整理的计划</title>
+    <link>https://mlmmlm.icu/t/topic/1255</link>
+    <description>1.拆分PRD同志的GitHub仓库，利用 `git clone --filter`特性。
+2.整理已经OCR的资料
+3.将mega上的资料迁移到github和gitlab
+4.便于搜索的《文化大革命文库》
+5.将《红旗》、马恩全集、列宁全集OCR一遍，但是不排版</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 31 Jul 2022 15:06:04 +0000</lastBuildDate>
+    <category>一般讨论</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1255.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="https://mlmmlm.icu/u/azide">@azide</a> 最好是组织一下看看有哪些需要搞的吧。你是想在这里讨论解决么</p>
+<p>马列之声的书可以不那么紧急，先把最紧急的搞完</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/14">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/14</link>
+        <pubDate>Sun, 31 Jul 2022 15:06:04 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-14</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>GitHub上好像还有文化大革命文库的备份，但是缺点是不好按照时间、人物进行分类</p>
+</blockquote>
+<p>这个好解决，把下面这个目录parse一边就行了</p><aside class="onebox githubfolder" data-onebox-src="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+
+      <a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <h3><a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">cultural-revolution-database/site/content/post at master ·...</a></h3>
+
+  <p><a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">master/site/content/post</a></p>
+
+  <p><span class="label1">中国文化大革命文库 The Chinese Cultural Revolution Database - cultural-revolution-database/site/content/post at master · speechfree/cultural-revolution-database</span></p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1255/13">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/13</link>
+        <pubDate>Sun, 31 Jul 2022 15:04:47 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-13</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/o3oim3WbNhl0SzmiziDdPYf6S3p.docx">红旗1976年第一期.docx</a> (134.5 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/l1xOY28boxQyiVu7uKKCNyHfL2E.docx">红旗1976年第二期.docx</a> (118.5 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/lIVF8Hv2ZgnJjUBtRnjgVqOUGyU.docx">红旗1976年第三期.docx</a> (124.5 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/4QTntiGqjaLTXoFnb8l9syHEvEf.docx">红旗1976年第四期.docx</a> (124.1 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/tUvP1HTxUVAPj1VHArKhy4HcAjp.docx">红旗1976年第五期.docx</a> (115.3 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/rt8iUYNgtMlRj2K0sGZsqUFEt5Z.docx">红旗1976年第六期.docx</a> (115.3 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/5QAQo8NrfXo9mtALtBFOoe3XZaq.docx">红旗1976年第七期.docx</a> (109.3 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/xOAA8h1r16s79DzhvfGyVtEbWtg.docx">红旗1976年第八期.docx</a> (121.6 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/mf5l2RLK3TleFYR7rVJ3oqQOuqH.docx">红旗1976年第九期.docx</a> (119.5 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/csnNTehwJutLimMQiHjxK7aZ8bS.docx">红旗1976年第十期.docx</a> (91.6 KB)</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/12">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/12</link>
+        <pubDate>Sun, 31 Jul 2022 14:47:50 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-12</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="http://gitlab.com/revo--" class="onebox" target="_blank" rel="noopener nofollow ugc">gitlab.com/revo--</a><br>
+有部分书的文字版。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/11">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/11</link>
+        <pubDate>Sun, 31 Jul 2022 14:45:40 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-11</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>目前做到可以搜索就行了，如果文章重要再校对，不用手工录入，调用API即可。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/10">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/10</link>
+        <pubDate>Sun, 31 Jul 2022 14:42:14 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-10</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+        <description><![CDATA[
+            <p>红旗76年1-10期我制作了文字版，可惜没空校对，后面自己也没继续录入了，可以先录入进去。王洪文的文革讲话我自制了一份，我收录到的大致是38份讲话，还在一直更新中。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/9">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/9</link>
+        <pubDate>Sun, 31 Jul 2022 14:40:59 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-9</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>文件太大了，我没有技术做到，而且1976后的书可能会DMCA</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/8">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/8</link>
+        <pubDate>Sun, 31 Jul 2022 14:39:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-8</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+        <description><![CDATA[
+            <p>最好是筛选后转存github吧</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/7">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/7</link>
+        <pubDate>Sun, 31 Jul 2022 14:37:49 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>有很多，包括文库第一版，首页有详细收录列表</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/6">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/6</link>
+        <pubDate>Sun, 31 Jul 2022 14:37:16 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>还有一个问题mlzs的电子书有800GB，现在放在mega上，但是mega如果一年不登录会被删掉，所以应该放在那里？</p>
+<p>谁熟悉libgen，应该可以传ftp</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/5">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/5</link>
+        <pubDate>Sun, 31 Jul 2022 14:36:55 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+        <description><![CDATA[
+            <p>目前是只收录了毛思万和文集第八卷吗？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/4">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/4</link>
+        <pubDate>Sun, 31 Jul 2022 14:35:07 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://banned-historical-archives.github.io/">
+  <header class="source">
+
+      <a href="https://banned-historical-archives.github.io/" target="_blank" rel="noopener nofollow ugc">banned-historical-archives.github.io</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://banned-historical-archives.github.io/" target="_blank" rel="noopener nofollow ugc">和谐历史档案馆 Banned Historical Archives</a></h3>
+
+  <p>和谐历史档案馆 Banned Historical Archives</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+我已经做了便于搜索的《文化大革命文库》</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/3">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/3</link>
+        <pubDate>Sun, 31 Jul 2022 14:29:18 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>最好是广泛发动同志们一起进行，大家一起参与进来。</p>
+<p>你设想是以什么形式合作整理？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/2">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/2</link>
+        <pubDate>Sun, 31 Jul 2022 14:14:01 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>1.拆分PRD同志的GitHub仓库，利用 <code>git clone --filter</code>特性。<br>
+2.整理已经OCR的资料<br>
+3.将mega上的资料迁移到github和gitlab<br>
+4.便于搜索的《文化大革命文库》<br>
+5.将《红旗》、马恩全集、列宁全集OCR一遍，但是不排版</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/1</link>
+        <pubDate>Sun, 31 Jul 2022 14:11:07 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+  </channel>
+</rss>
