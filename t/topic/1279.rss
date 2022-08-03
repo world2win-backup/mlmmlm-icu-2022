@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>建议构建一个统一标准的档案馆/数据库</title>
+    <link>https://mlmmlm.icu/t/topic/1279</link>
+    <description>我发现民间已经有不少人在做资料收集和校验工作。第一可能无法避免重复劳动，第二，资料的二次汇编难以保证真实性，第三缺乏统一的版本管理，难以维护。
+
+所以我最近做了一个收集被和谐的资料的历史档案馆。
+
+banned-historical-archives.github.io
+
+与现有的文库/资料集的区别有
+  * 仅收录中央名义发表的文件，关键人物的讲话/书信/著作等文稿，群众运动中重要文献，不收录传记/分析解读/研究类的文稿。
+  * 收录的文稿经过最细粒度的加工，每个段落保留原有的排版信息以及角标注释信息，在必要时可以对比不同版本文稿中的注释。非标准化的加工则无法区分文中子标题/子标题日期/段落/引文/注释等信息，使正文的版本对比变得困难。
+  * 收录多种来源的文稿，可进行版本对比。
+  * 可溯源，可验证。所有信息均来自对原始文件（如pdf）的解析，可以校验原始文件的摘要确保一致。
+  * 解析算法公开透明，同时包含丰富测试用例，保证解析算法更新后的正确性。
+
+
+对于马恩列斯的重要文件也用这种模式管理比较好？</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 02 Aug 2022 12:39:30 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1279.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>我想了一下，可以这么改进，在issue里面按一定规范发贴可以让机器人自动转成代码发出pull request，例如把第33行第一个x换成y，第34行第一个a换成b</p>
+<p>标题：修复OCR错误<br>
+内容：</p>
+<blockquote>
+<p>操作：替换，文章id：asdf，行数：33，‘x’，‘y’，34，‘a’，‘b’</p>
+</blockquote>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/24">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/24</link>
+        <pubDate>Tue, 02 Aug 2022 12:39:30 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-24</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>那普通同志现阶段帮不上很大忙啊，只能等待后续开发了</p>
+<p>应当尽快营造条件让更多同志参与进来，这件事是个不小的工程。恐怕不能仅靠少数技术人员。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/23">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/23</link>
+        <pubDate>Tue, 02 Aug 2022 12:28:54 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-23</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>直接改结果可能不行，可以让技术员转换成对应代码，比如第几行的什么字改成什么，发到github issue上面。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/22">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/22</link>
+        <pubDate>Tue, 02 Aug 2022 12:25:03 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-22</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>有没有可能将解析的结果分发出来相当于待处理的数据，普通同志校对文字部分，完工之后技术员再上传？</p>
+<p>校对这件事有必要而且工作量不小（我这段时间 OCR 文件的经验）</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/21">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/21</link>
+        <pubDate>Tue, 02 Aug 2022 12:20:40 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-21</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>当然最好开发一个图形化校对工具，自动生成相应代码，给非技术同志使用。现阶段的校对流程中需要写代码，和提交解析器的步骤差不多。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/20">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/20</link>
+        <pubDate>Tue, 02 Aug 2022 12:19:27 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-20</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>校对的流程不需要考虑在内么？看你写的流程普通同志能参与的应该就只有校对这步了。</p>
+<p>不校对恐怕是不行的，我很怀疑直接 OCR 出来的文字的可读性。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/19">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/19</link>
+        <pubDate>Tue, 02 Aug 2022 12:16:47 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-19</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>二手数据也有价值，录进去可以用来辅助校验OCR的结果，减少工作量，除非这些二手数据也来自同一个版本的OCR。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/18">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/18</link>
+        <pubDate>Tue, 02 Aug 2022 12:13:14 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-18</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>大概的流程是：<br>
+上传图片/pdf/等一手资料到issue-》技术员定制解析程序（调整OCR参数/版本/解析器）-》技术员发起pull request-》审核通过合并分支-》ci （持续集成）自动执行</p>
+<p>注意技术员只管解析算法，不需要上传OCR/解析器解析后的文本，解析工作统一由 ci 完成。<br>
+ci在完成后自动部署web页面。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/17">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/17</link>
+        <pubDate>Tue, 02 Aug 2022 11:51:21 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-17</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>因为OCR也分很多种版本的，要保证最后写入数据库中的每个数据都是可复现的，OCR的具体参数/具体版本也需要用git版本控制</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/16">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/16</link>
+        <pubDate>Tue, 02 Aug 2022 11:40:42 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-16</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>大部分都能确定出自哪份图片文件。如果能派上用场我可以把图片文件也打包上传</p>
+<aside class="quote no-group" data-username="aaa" data-post="10" data-topic="1279">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/ea666f/40.png" class="avatar"> aaa:</div>
+<blockquote>
+<p>图片就不用你们转文本了</p>
+</blockquote>
+</aside>
+<p>机器先扫一遍大家都会的，关键是后面的文字校对很耗费人力。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/15">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/15</link>
+        <pubDate>Tue, 02 Aug 2022 11:05:21 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-15</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>这看起来不是一手的数据</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/14">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/14</link>
+        <pubDate>Tue, 02 Aug 2022 11:03:49 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-14</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/BloChKDT#07Klh24nGtrOKD2xU-hu9A">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/2/27e2a08bb812d325aa4964c02a5a95f4703047eb.png" class="site-icon" width="" height="">
+
+      <a href="https://mega.nz/folder/BloChKDT#07Klh24nGtrOKD2xU-hu9A" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://mega.nz/folder/BloChKDT#07Klh24nGtrOKD2xU-hu9A" target="_blank" rel="noopener nofollow ugc">26.58 MB folder on MEGA</a></h3>
+
+  <p>2821 files and 154 subfolders</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>这样子的文本能否派上用场？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/13">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/13</link>
+        <pubDate>Tue, 02 Aug 2022 11:01:52 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-13</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>人工校对的结果也写在解析器代码里面，利用代码的版本控制好管理一点。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/12">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/12</link>
+        <pubDate>Tue, 02 Aug 2022 10:57:37 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-12</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+        <description><![CDATA[
+            <p>现有的ocr技术做不到准确率太高，源文件模糊的更不用说，尤其是标点符号，排版，近形字。还是需要人工手动校对</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/11">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/11</link>
+        <pubDate>Tue, 02 Aug 2022 10:55:29 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-11</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>图片就不用你们转文本了，后面都交给懂技术的人</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/10">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/10</link>
+        <pubDate>Tue, 02 Aug 2022 10:53:57 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-10</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>对，由懂技术的人写解析代码</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/9">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/9</link>
+        <pubDate>Tue, 02 Aug 2022 10:52:18 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-9</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>如果人工校验发现原始文件的错误（解析后也必然是错误的结果），可以把如何修正的内容写在解析器的代码里。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/8">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/8</link>
+        <pubDate>Tue, 02 Aug 2022 10:51:15 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-8</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>将图片转换成文本（附带图片文件），然后懂技术的同志将文本解析合并进库，是这样一个流程吧？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/7">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/7</link>
+        <pubDate>Tue, 02 Aug 2022 10:49:11 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>就是字面意思，原始文件可能是数据库文件，照片，pdf，word。就是第一手资料的格式</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/6">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/6</link>
+        <pubDate>Tue, 02 Aug 2022 10:45:30 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="aaa" data-post="4" data-topic="1279">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/ea666f/40.png" class="avatar"> aaa:</div>
+<blockquote>
+<p>带上原始文件</p>
+</blockquote>
+</aside>
+<p>提供 PDF 和文本文件？文本文件需要什么格式？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/5">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/5</link>
+        <pubDate>Tue, 02 Aug 2022 10:43:11 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>先做重要的pdf，原著，手稿，会议记录，占不了什么空间。github上面提交pull request，带上原始文件和解析算法，这个可能有点门槛。<br>
+或者先开个issue附上原始文件，等其他人帮忙写解析器。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/4">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/4</link>
+        <pubDate>Tue, 02 Aug 2022 10:41:29 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>支持，目前的情况的确不应该各自为战了。目前我们怎么对这个数据库做贡献？</p>
+<p>另外 PDF 文件是不是保存在网盘上比保存 Github 里更好，不然以后文件多起来整个库就会像 prolet 的库那样，10 GB+ 非常臃肿。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/3">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/3</link>
+        <pubDate>Tue, 02 Aug 2022 10:23:51 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+        <description><![CDATA[
+            <p>支持，统一的、高精度的、可检索的档案馆是很有必要的，对比功能也能方便同志们查询中修在文献上动了什么手脚。以后可以考虑再立项设立收录所有有价值的革命文献方便查阅和减少重复劳动。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/2">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/2</link>
+        <pubDate>Tue, 02 Aug 2022 09:36:19 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+      <item>
+        <title>建议构建一个统一标准的档案馆/数据库</title>
+        <dc:creator><![CDATA[aaa]]></dc:creator>
+        <description><![CDATA[
+            <p>我发现民间已经有不少人在做资料收集和校验工作。第一可能无法避免重复劳动，第二，资料的二次汇编难以保证真实性，第三缺乏统一的版本管理，难以维护。</p>
+<p>所以我最近做了一个收集被和谐的资料的历史档案馆。</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://banned-historical-archives.github.io">
+  <header class="source">
+
+      <a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">banned-historical-archives.github.io</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">和谐历史档案馆 Banned Historical Archives</a></h3>
+
+  <p>和谐历史档案馆 Banned Historical Archives</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>与现有的文库/资料集的区别有</p>
+<ul>
+<li>仅收录中央名义发表的文件，关键人物的讲话/书信/著作等文稿，群众运动中重要文献，不收录传记/分析解读/研究类的文稿。</li>
+<li>收录的文稿经过最细粒度的加工，每个段落保留原有的排版信息以及角标注释信息，在必要时可以对比不同版本文稿中的注释。非标准化的加工则无法区分文中子标题/子标题日期/段落/引文/注释等信息，使正文的版本对比变得困难。</li>
+<li>收录多种来源的文稿，可进行版本对比。</li>
+<li>可溯源，可验证。所有信息均来自对原始文件（如pdf）的解析，可以校验原始文件的摘要确保一致。</li>
+<li>解析算法公开透明，同时包含丰富测试用例，保证解析算法更新后的正确性。</li>
+</ul>
+<p>对于马恩列斯的重要文件也用这种模式管理比较好？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1279/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1279/1</link>
+        <pubDate>Tue, 02 Aug 2022 09:31:18 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1279-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+      </item>
+  </channel>
+</rss>

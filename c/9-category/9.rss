@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>技术 - 马列毛群众</title>
+    <link>https://mlmmlm.icu/c/9-category/9</link>
+    <description>&#39;技术&#39; 类别中的话题 </description>
+    <language>zh-CN</language>
+      <lastBuildDate>Wed, 03 Aug 2022 10:26:17 +0000</lastBuildDate>
+      <atom:link href="https://mlmmlm.icu/c/9-category/9.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Weapon Caching</title>
+          <dc:creator><![CDATA[msc]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://web.archive.org/web/20170711070828/http://www.itstactical.com:80/intellicom/tradecraft/cache-king-store-weapons-non-electronic-equipment-long-term/">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/c/c888121bc6297e517126bb97e29b2fd6f31ed3ff.png" class="site-icon" width="" height="">
+
+      <a href="https://web.archive.org/web/20170711070828/http://www.itstactical.com:80/intellicom/tradecraft/cache-king-store-weapons-non-electronic-equipment-long-term/" target="_blank" rel="noopener" title="11:37AM - 14 June 2017">ITS Tactical – 14 Jun 17</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/9/9d30bcf2b0b7c38d0bc36735c0191173ae441fc7.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://web.archive.org/web/20170711070828/http://www.itstactical.com:80/intellicom/tradecraft/cache-king-store-weapons-non-electronic-equipment-long-term/" target="_blank" rel="noopener">Cache is King: How to Store Weapons and Non-Electronic Equipment for the Long...</a></h3>
+
+  <p>2 of 2 in the series Cache is KingCache is KingCache is King: Learn How to Plan and Create Your... View Article</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<h3>
+<a name="massive-weapons-cache-seized-from-home-in-upscale-los-angeles-neighborhood-1" class="anchor" href="https://mlmmlm.icu#massive-weapons-cache-seized-from-home-in-upscale-los-angeles-neighborhood-1"></a>Massive weapons cache seized from home in upscale Los Angeles neighborhood</h3>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/0f64fa0781d912a3cb3f473d3eac33958d429a98.jpeg" alt="image" data-base62-sha1="2cbvdNuyUX0KN9ZyDMcXxuH0F5e" width="480" height="360"></p>
+<p><code>https://www.youtube.com/watch?v=9PoG__7TnGQ</code></p>
+            <p><small>2 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1284">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1284</link>
+          <pubDate>Wed, 03 Aug 2022 10:26:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1284</guid>
+          <source url="https://mlmmlm.icu/t/topic/1284.rss">Weapon Caching</source>
+        </item>
+        <item>
+          <title>建议构建一个统一标准的档案馆/数据库</title>
+          <dc:creator><![CDATA[aaa]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>我发现民间已经有不少人在做资料收集和校验工作。第一可能无法避免重复劳动，第二，资料的二次汇编难以保证真实性，第三缺乏统一的版本管理，难以维护。</p>
+<p>所以我最近做了一个收集被和谐的资料的历史档案馆。</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://banned-historical-archives.github.io">
+  <header class="source">
+
+      <a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">banned-historical-archives.github.io</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">和谐历史档案馆 Banned Historical Archives</a></h3>
+
+  <p>和谐历史档案馆 Banned Historical Archives</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>与现有的文库/资料集的区别有</p>
+<ul>
+<li>仅收录中央名义发表的文件，关键人物的讲话/书信/著作等文稿，群众运动中重要文献，不收录传记/分析解读/研究类的文稿。</li>
+<li>收录的文稿经过最细粒度的加工，每个段落保留原有的排版信息以及角标注释信息，在必要时可以对比不同版本文稿中的注释。非标准化的加工则无法区分文中子标题/子标题日期/段落/引文/注释等信息，使正文的版本对比变得困难。</li>
+<li>收录多种来源的文稿，可进行版本对比。</li>
+<li>可溯源，可验证。所有信息均来自对原始文件（如pdf）的解析，可以校验原始文件的摘要确保一致。</li>
+<li>解析算法公开透明，同时包含丰富测试用例，保证解析算法更新后的正确性。</li>
+</ul>
+<p>对于马恩列斯的重要文件也用这种模式管理比较好？</p>
+            <p><small>24 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1279">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1279</link>
+          <pubDate>Tue, 02 Aug 2022 09:31:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1279</guid>
+          <source url="https://mlmmlm.icu/t/topic/1279.rss">建议构建一个统一标准的档案馆/数据库</source>
+        </item>
+        <item>
+          <title>高能材料的敏感性：大量 CHNOFCl 化合物的热力学因素的证据Sensitivity of energetic materials: Evidence of thermodynamic factor on a large array of CHNOFCl compounds</title>
+          <dc:creator><![CDATA[msc]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p><a href="https://sci-hub.se/https://doi.org/10.1016/j.cej.2021.129804" class="onebox" target="_blank" rel="noopener">https://sci-hub.se/https://doi.org/10.1016/j.cej.2021.129804</a></p>
+            <p><small>2 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1266">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1266</link>
+          <pubDate>Tue, 02 Aug 2022 00:17:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1266</guid>
+          <source url="https://mlmmlm.icu/t/topic/1266.rss">高能材料的敏感性：大量 CHNOFCl 化合物的热力学因素的证据Sensitivity of energetic materials: Evidence of thermodynamic factor on a large array of CHNOFCl compounds</source>
+        </item>
+        <item>
+          <title>推荐三个网站</title>
+          <dc:creator><![CDATA[adt]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>transfer.sh<br>
+oshi.at<br>
+temp.pm</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1264">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1264</link>
+          <pubDate>Mon, 01 Aug 2022 12:38:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1264</guid>
+          <source url="https://mlmmlm.icu/t/topic/1264.rss">推荐三个网站</source>
+        </item>
+        <item>
+          <title>转载：常见的支持 ActivityPub 协议的社交媒体项目</title>
+          <dc:creator><![CDATA[cocuj331]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <h1>
+<a name="activitypub-1" class="anchor" href="https://mlmmlm.icu#activitypub-1"></a>常见的支持 ActivityPub 协议的社交媒体项目</h1>
+<blockquote>
+<p>本文转载于发布在自由的邦联制博客平台 writeefreely ，原文链接：<a href="https://paper.wf/technopower/chang-jian-de-zhi-chi-activitypub-de-she-jiao-mei-ti-xiang-mu/" rel="noopener nofollow ugc">https://paper.wf/technopower/chang-jian-de-zhi-chi-activitypub-de-she-jiao-mei-ti-xiang-mu/</a>。</p>
+</blockquote>
+<p>如今的社交媒体多是私有厂商垄断了所有服务器和所有渠道的集中制社交媒体，用户在这些社交媒体上发表的任何内容都可以被私有厂商随意抹除，用户的内容发布受到私有厂商的控制。</p>
+<p>那么是否有能充分实现用户自由的社交媒体平台呢？有的，支持 ActivityPub 协议的各社交媒体平台由志愿者搭建的无数个实例组成，实例和实例之间允许互联，哪怕是不同项目的实例。用户也可以自己搭建相关实例。</p>
+<p>以下是对常见的支持 ActivityPub 协议的社交媒体项目的简要介绍：</p>
+<p>一、微博客类：</p>
+<ol>
+<li>mastodon，最主流的基于 ActivityPub 的邦联制社交平台，其上实例（每个实例都可以和别的实例互联，甚至还可以和别的项目互联，下同）众多，各种语言都有，实例基本上都需要邮箱注册。文档和部分实例请参考 mastdon 项目的<a href="https://joinmastodon.org/" rel="noopener nofollow ugc">官网</a>
+</li>
+<li>pleroma，另一个社交类邦联实例，热度在社交类里仅次于 mastodon ，其上实例的界面风格往往比起 mastodon 来说更加柔和，且不一定需要邮箱注册。其<a href="https://pleroma.social/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>Misskey，这个项目上的实例多为东亚人使用，几乎很难见到英文实例，反而中文实例和日文实例很多。同样不一定需要邮箱注册。<a href="https://join.misskey.page/en" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>hubzilla，同样是邦联制社交平台，需要邮箱注册，资料不多。<a href="https://hubzilla.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>friendica，邦联制社交平台，资料不多。<a href="http://friendi.ca/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>diaspora*，据说是最早的邦联社交平台，在它之下才诞生了 hubzilla 和 friendica 。<a href="https://diasporafoundation.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>GNU socoial，邦联制社交平台，特色是支持通过 xmpp 客户端更新消息。<a href="https://gnusocial.network/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+</ol>
+<p>二、影音类</p>
+<ol>
+<li>peertube，邦联制视频分享平台，可与其他本项目实例或其他项目的实例如 mastodon 的实例共通，下同。<a href="https://joinpeertube.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>Funkwhale，邦联制音乐分享平台。<a href="https://funkwhale.audio/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>PixelFed，邦联制图片分享平台。<a href="https://pixelfed.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+</ol>
+<p>三、博客类</p>
+<ol>
+<li>wirtefreely，简洁邦联制博客平台，虽然不可以直接通过某一实例看见其他实例的内容，但是实例和实例之间的数据迁移很容易实现，社交类邦联制平台甚至可以直接订阅其实例。<a href="https://writefreely.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>plume，功能更加完善的邦联制博客平台，和writefreely一样不可以直接通过某一实例访问其他实例，但实例间的数据迁移也很容易。<a href="https://joinplu.me/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+</ol>
+<p>四、网站建立类</p>
+<p>wordpress，该项目可以用来建网站。<a href="https://wordpress.org/" rel="noopener nofollow ugc">项目官网</a></p>
+<p>详情请参考: <a href="https://the-federation.info/" rel="noopener nofollow ugc">https://the-federation.info/</a>或者<a href="https://fedidb.org/network?s=All" rel="noopener nofollow ugc">https://fedidb.org/network?s=All</a>这些邦联制社交媒体目录网站收录了各邦联制项目，也收集了它们的实例。需要找某项目的实例注册，可参考这些目录网站。</p>
+<p>最后，欢迎到我们的聊天室来讨论。聊天室的 JID 是 <a href="mailto:tret9@muc.pimux.de">tret9@muc.pimux.de</a> 口令是 Oup)OtofWecin0 ，欢迎希望系统学习自由软件和保密技术不当伸手党的同志加入。</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1253">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1253</link>
+          <pubDate>Sun, 31 Jul 2022 07:01:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1253</guid>
+          <source url="https://mlmmlm.icu/t/topic/1253.rss">转载：常见的支持 ActivityPub 协议的社交媒体项目</source>
+        </item>
+        <item>
+          <title>关于dead drop和piratebox</title>
+          <dc:creator><![CDATA[adt]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>情报秘密放置点 (Dead drop)</p>
+<p>查看全部<br>
+死投或死信箱是间谍交易的一种方法，用于使用秘密位置在两个人之间传递物品或信息。通过避免直接开会，个人可以维护操作安全性。这种方法与所谓的实时下落是相反的，所谓的实时下落是因为两个人见面以交换物品或信息。众所周知，间谍及其处理人员会使用各种技术执行死掉的下落，以隐藏物品并发出下落信号。 维基百科（英文)</p><aside class="onebox wikipedia" data-onebox-src="https://en.m.wikipedia.org/wiki/Dead_drop">
+  <header class="source">
+
+      <a href="https://en.m.wikipedia.org/wiki/Dead_drop" target="_blank" rel="noopener nofollow ugc">en.m.wikipedia.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/4/4a5df0da9d0a8b81c79569bd3d4facfe565cd674.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://en.m.wikipedia.org/wiki/Dead_drop" target="_blank" rel="noopener nofollow ugc">Dead drop</a></h3>
+
+<p>A dead drop or dead letter box is a method of espionage tradecraft used to pass items or information between two individuals (e.g., a case officer and an agent, or two agents) using a secret location. By avoiding direct meetings, individuals can maintain operational security.  This method stands in contrast to the live drop, so-called because two persons meet to exchange items or information.
+ Spies and their handlers have been known to perform dead drops using various techniques to hide items (s...</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>A PirateBox is a portable electronic device, often consisting of a Wi-Fi router and a device for storing information, creating a wireless network that allows users who are connected to share files anonymously and locally. By design, this device is disconnected from the Internet.</p><aside class="onebox wikipedia" data-onebox-src="https://en.m.wikipedia.org/wiki/PirateBox">
+  <header class="source">
+
+      <a href="https://en.m.wikipedia.org/wiki/PirateBox" target="_blank" rel="noopener nofollow ugc">en.m.wikipedia.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/3/35617a29fe687da8d23de1afb41eb96fc3cfc917.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://en.m.wikipedia.org/wiki/PirateBox" target="_blank" rel="noopener nofollow ugc">PirateBox</a></h3>
+
+<p>
+ A PirateBox is a portable electronic device, often consisting of a Wi-Fi router and a device for storing information, creating a wireless network that allows users who are connected to share files anonymously and locally. By design, this device is disconnected from the Internet.
+ The PirateBox was originally designed to exchange data freely under the public domain or under a free license.
+ The PirateBox was designed in 2011 by David Darts, a professor at the Steinhardt School of Culture, Educat...</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1250">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1250</link>
+          <pubDate>Sat, 30 Jul 2022 12:43:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1250</guid>
+          <source url="https://mlmmlm.icu/t/topic/1250.rss">关于dead drop和piratebox</source>
+        </item>
+        <item>
+          <title>「苏修间谍落网记」</title>
+          <dc:creator><![CDATA[adt]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/1/1be0fc1ff078405873348ba83b10212ef20e1436.jpeg" alt="image" data-base62-sha1="3YCV0JI0KS78dxzKrULddUtANZY" width="560" height="460"></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/8/8206861f0bb684928fca58934e7a3a0f7e837b9d.jpeg" alt="image" data-base62-sha1="iyg30ItmTmnZv7XOAYlDNRNFd25" width="560" height="460"></p>
+            <p><small>5 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1247">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1247</link>
+          <pubDate>Sat, 30 Jul 2022 11:38:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1247</guid>
+          <source url="https://mlmmlm.icu/t/topic/1247.rss">「苏修间谍落网记」</source>
+        </item>
+        <item>
+          <title>甲基二氯化膦的合成方法</title>
+          <dc:creator><![CDATA[azide]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/stJGpUY7DuYiqwqZf057QSTHp6z.html">Preparation of elemental phosphorous (Summation).html</a> (112.2 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/kLKXeKNORriUoUzi4w1Ve9UI2LY.pdf">甲基二氯化膦的合成方法_朱凤香.pdf</a> (114.9 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/gnJzg2a6Khdh8txHsjHq1aJb0Ap.pdf">甲基二氯化膦的合成方法概述_谭锦.pdf</a> (205.5 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/2g59hfb7Q81Eq9xE8wS5B0eXzII.pdf">methylphosphine.pdf</a> (1.2 MB)</p>
+            <p><small>3 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1241">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1241</link>
+          <pubDate>Wed, 27 Jul 2022 07:54:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1241</guid>
+          <source url="https://mlmmlm.icu/t/topic/1241.rss">甲基二氯化膦的合成方法</source>
+        </item>
+        <item>
+          <title>bilibili uid1062153457 骄傲无产者 的搜索结果</title>
+          <dc:creator><![CDATA[azide]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/6T7n1rden0h73ljOKA3RKBvezlo.json">search1.json</a> (23.6 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/kA7DTMMZhP3e5BZVnfh06rz0SGe.json">search2.json</a> (23.7 KB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/lM6NxO7bMPsqejVMUjojZ4fRlq2.json">search3.json</a> (14.6 KB)</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1240">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1240</link>
+          <pubDate>Wed, 27 Jul 2022 00:55:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1240</guid>
+          <source url="https://mlmmlm.icu/t/topic/1240.rss">bilibili uid1062153457 骄傲无产者 的搜索结果</source>
+        </item>
+        <item>
+          <title>【转载】中國人民解放軍基地及設施</title>
+          <dc:creator><![CDATA[adt]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p><code>https://www.google.com/maps/d/viewer?mid=19Q8BraU1Nmnk23TzMb5rhXFuIAnOpTTq</code></p>
+<p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/wgbVnCFjtoB21kjBMcVPEfjW7go.kml">中國人民解放軍基地及設施 (持續更新).kml</a> (1.0 MB)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/u5XTvbfSei2jWEUMx3za2UsUF53.kmz">中國人民解放軍基地及設施 (持續更新).kmz</a> (1.1 MB)</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1225">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1225</link>
+          <pubDate>Tue, 26 Jul 2022 03:45:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1225</guid>
+          <source url="https://mlmmlm.icu/t/topic/1225.rss">【转载】中國人民解放軍基地及設施</source>
+        </item>
+        <item>
+          <title>简要介绍几种常见的监控码</title>
+          <dc:creator><![CDATA[cocuj331]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <h1>
+<a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>简要介绍几种常见的监控码</h1>
+<p>和中帝的封疫政策同步强化的是各式各样打着“健康码”旗号的监控码，这些监控码的泛滥不仅严重阻碍了我们的日常出行，也在不断威胁着我们本就脆弱的隐私安全。但这些监控码有什么区别吗？它们在中帝监控人民方面发挥了的作用是否有区别呢？本文将带你做一个简要了解。</p>
+<h2>
+<a name="h-2" class="anchor" href="https://mlmmlm.icu#h-2"></a>一、场所码</h2>
+<p>最常见的监控码是场所码，它们常常出现在各种公共场所的入口。各地方政府的监控码，例如北京的“健康宝”、上海的“随申码”以及之前也给储户赋了红码的河南“豫康码”等都有对应的场所码，甚至有的单位比如某些医院、学校、政府部门还为自己所在的场所专门编制了专属的场所码。场所码虽然用到了 QR 码技术和“大数据”技术，但本质上就是电子版的“到访登记册”，如果某个感染者也扫了某一场所的场所码，那么该场所就会被识别为中高风险地区，和感染者到访时间相近的到访者将会被识别为“密切接触者”。</p>
+<p>但事实上，场所码无论如何都给到访者增加了麻烦，以至于越来越多的人为了仅仅嫌“扫码麻烦”，而放弃进入超市、商场、餐馆消费，这一点令商家不敢过于严格配合政府强迫每一个到访者认真扫码。与此同时各地政府又都想编制专属的场所码，让自己的码成为自己管辖区内的绝对权威，以至于在监控码最泛滥的时期，到访者要扫数个码才能进入某一公共场所。而对于到访者来说，“扫码”本就是负担，且这负担越来越麻烦，不扫的风险又有限（大不了不进该场所），所以渐渐就不会再认真扫码。况且除非扫码者非常配合政府，每次都认真扫码，当地政府的监控码系统也不“掉链子”从来不出任何故障，否则不可能记录其所有的到访记录。</p>
+<p>以上种种因素让场所码的执行效果大打折扣，以至于最配合的到访者反而因而去各种场所都扫场所码，反而比那些“不配合国际防疫政策“的人更容易变“密接”被拉去隔离。</p>
+<h2>
+<a name="h-3" class="anchor" href="https://mlmmlm.icu#h-3"></a>二、行程卡</h2>
+<p>全程是“通信大数据行程卡”，由工信部中国信通院牵头，联合中国电信、中国移动、中国联通三大运营商推出的行程查询服务[1]，其早期版本也需要在各场所入口处扫码（以至于到了现在依旧有让到访者扫“行程卡”的保安），但其基于的技术“以基站数据服务为依据”[2]，并不需要到访者主动扫码，在目前版本，到访码仅需凭借其和微信、支付宝帐号绑定的手机号“一键查询”即可。在流程上，行程卡比各种场所码要简便不少，且需要到访者主动出示的情况也比较少，因此不太容易被到访者抵制。</p>
+<p>但事实上，行程卡对到访者隐私的侵害却比场所码要强很多。行程卡实际上通过用户的手机 sim 卡与信号基站的信号传输来确定到访者的位置，到访者如果保持电话和蜂窝网络信号，那么他去过什么地方，在什么地方停留了多长时间都会被行程卡系统记录。有不少避开了场所码却依旧被判断为密接的人，正是因为行程被记录在了行程卡系统里，所以才暴露了。</p>
+<h2>
+<a name="h-4" class="anchor" href="https://mlmmlm.icu#h-4"></a>三、监控码系统</h2>
+<p>各地的场所码，还有全国统一的行程卡都是和个人的实名信息绑定的。不仅包括个人的真实身份，还包括个人接种疫苗的信息，做核酸时间间隔的信息等等。这些信息加上由行程卡、场所码记录的个人位置数据，让完全配合的个人在中帝面前毫无隐私可言，他们遇到了被中帝侵害资产的事情，也将很快被中帝镇压，因为中帝很快就能找到他们，给他们赋上红码，让他们哪都去不了。前不久的河南红码事件正是如此，最近各地频频发生烂尾楼业主断供事件，中帝是否会继续沿用监控码系统“维稳”，还有待观察。</p>
+<p>总的来说，监控码是对群众隐私的严重侵犯，但这种升级到访登记册的做法，本就不高明，各地政府又试图自行构建自己的监控码，群众对于监控码的配合程度也谈不上多高，能实现的监视效果比预期会大打折扣，以至于最后在群众自觉和自发的反抗中更加形同虚设。</p>
+<p>最后，欢迎到我们的聊天室来讨论。聊天室的 JID 是 <a href="mailto:tret9@muc.pimux.de">tret9@muc.pimux.de</a> 口令是 Oup)OtofWecin0 ，欢迎希望系统学习自由软件和保密技术不当伸手党的同志加入。</p>
+<p>[1] <a href="https://baijiahao.baidu.com/s?id=1687941817026475667" rel="noopener nofollow ugc">一文带你了解通信大数据行程卡是什么</a><br>
+[2] <a href="https://zh.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%A1%8C%E7%A8%8B%E5%8D%A1" rel="noopener nofollow ugc">通信大数据行程卡</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1220">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1220</link>
+          <pubDate>Sat, 23 Jul 2022 10:34:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1220</guid>
+          <source url="https://mlmmlm.icu/t/topic/1220.rss">简要介绍几种常见的监控码</source>
+        </item>
+        <item>
+          <title>简要推测新浪微博“整治”“错别字”的技术实现</title>
+          <dc:creator><![CDATA[cocuj331]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <h1>
+<a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>简要推测新浪微博“整治”“错别字”的技术实现</h1>
+<p>7月13日，新浪微博官方称[1]：</p>
+<blockquote>
+<p>为营造清朗的网络空间，维护文明健康的社区生态秩序，站方将对站内利用谐音字、变体字等“错别字”发布、传播不良信息的违规行为开展集中整治。主要内容如下：</p>
+<ol>
+<li>加大对利用“错别字”借机传播不良信息等违规行为的排查清理力度；</li>
+<li>健全平台用语管理机制，完善关键词识别模型；</li>
+<li>通过建立正向激励机制、加强站内宣介等方式，引导站内用户规范使用汉字。</li>
+</ol>
+<p>站方呼吁广大网友在参与社区讨论时，文明表达观点，规范使用汉字。如发现相关违规内容，欢迎通过前台举报投诉入口和@微博管理员 的方式进行举报，我们将及时予以处置。<span class="hashtag">#微博社区公告</span>#</p>
+</blockquote>
+<p>毫无疑问，这是新浪微博官方呼应网新办新规[2]的表现，也是国内私有社交媒体舆论收紧的又一标志性事件。关于国内网络舆论收紧造成的影响，背后反映的社会问题等等已有无数的文章论述过，本文仅试图讨论新浪微博将采用怎样的技术手段来“整治”“错别字”。</p>
+<p>事先声明，我们探讨技术实现的目的不是鼓励大家继续停留在私有的社交媒体，而是试图了解敌人的手段，达到“知彼知己”的效果。大家还是应该自觉使用自由的社交媒体（如 mastodon、writefreely）和自由的即时通讯系统（如 xmpp、Matrix），不仅对信息安全有利，更能推动自由软件运动的发展。</p>
+<p>先来看看新浪微博官方对“错别字”的定义：谐音字、变体字等。这个定义基本上涵盖了目前充斥着社交媒体的谐音以及拼音缩写，还有这些年已经不太流行的“火星文”等。这些汉字的变型体，被群众广泛用来在私有平台上规避审查。随着舆论管制的收紧，对这些汉字变型体的打压也就变得严厉了。</p>
+<p>为了审查这些变型体，就应该先将它们从正常的词汇中区别出来。很显然，像是 yyds（永远的神）、aswl（啊我死了） 这样的字母词在汉语中已经作为正式表达的十分有限，如 VCD、WTO 等。火星文要用到大量生僻字。谐音词也有不少都是新造的词，比如“晶哥”是“警哥”的谐音。这些词汇与正常的汉语词汇区别很大，它们的特征十分明显。</p>
+<p>为此，有一种思路是：可以根据权威词典，比如《现代汉语词典》《新华字典》划定的汉语核心词、常用词以及常用字建立词库、字库白名单，白名单以外的字、词禁止出现，一旦被检测到便自动屏蔽。</p>
+<p>另外一种思路是，让“人工智能”检测用户发布的文字中每句出现的字母、生僻字、emoji ，并自动对检测的文句分词（即将一句话中出现的字自动断成一个个词，比如“今天天气很热”，就能被分为“今天/天气/很/热”）。将其中的异常结果，比如出现过多字母、生僻字、emoji 或者有难以分词之处的内容，提交人工审核，来决定是否屏蔽。</p>
+<p>总而言之，新浪微博“整治”“错别字”的技术门槛不高，群众使用“错别字”实现隐写的门槛也同样不高。如果新浪微博以及其他私有平台确实长期将“错别字”纳入审核范围，此类简陋的隐写方法将很快被群众放弃。</p>
+<p>如果非要使用私有平台隐写，可以采取怎么样的技术手段呢？</p>
+<p>首先是语言学的手段。</p>
+<p>古代文人会用诗文含沙射影地批评朝政，他们会将对时事的看法含蓄地表达在对山水、景物的描摹中，比如毛氏父子校《三国演义》开篇的《临江仙》中“青山依旧在，几度夕阳红”指的主要是历史的变迁，朝代的更迭，而非自然景物的变化。哪怕是现在，在私有社交媒体上，有许多所谓的“文艺青年”也会引用经典文学、影视作品的词句表达他们的看法。这种含沙射影的方法只适用于知识分子，且读者也会根据自己的想法理解，最终的解读效果会有很大偏差。</p>
+<p>另一种语言学手段是“黑话”，即事先约定好“黑话”，在交流的时候使用外人听不懂的“黑话”。在经典影片《林海雪原》中出现的“天王盖地虎，宝塔镇河妖”就属于“黑话”。黑话也和含沙射影有相同的问题，即只适合小圈子，不适合大范围传播。当然，随着字母词的滥用，特别是粉圈对字母词的滥用，越来越多的字母词只能被小圈子内解读，形成了事实上的黑话。圈外人看着这些字母词会“傻傻分不清”，比如 JB 可以理解为“进步”，也可以理解为“举报”，还可以理解为“基本”等等。</p>
+<p>不断严苛的言论审核标准本来就在助推网络社区的小圈子化，未来不愿意离开私有社交媒体的人只会呆在各自的小圈子里，形成一个又一个的“信息茧房”。</p>
+<p>但是，语言学的手段永远不是我们首先考虑的。有没有基于信息技术的隐写方法呢？当然有。</p>
+<p>此前就有网民试图把文字内容截成图发布，这一手段随着 OCR 文字识别技术的发展和普及已不再那么有效，甚至对图片做镜像处理，模糊处理也并不好用。这是因为文字始终还是显示在图片中，就算机器识别不了，肉眼也能识别，互联网巨头多雇几个审核就能发现端倪。相对合理的办法是把文字“写进”图片（确切地说是写进图片的数据里），使得审核者的肉眼无法识别，他们所用的机器难以检测，只有了解的人有办法从图片中提取文字。</p>
+<p>这一方法具体该如何操作呢？欢迎到我们的聊天室来讨论。聊天室的 JID 是 <a href="mailto:tret9@muc.pimux.de">tret9@muc.pimux.de</a> 口令是 Oup)OtofWecin0 ，欢迎希望系统学习自由软件和保密技术不当伸手党的同志加入。</p>
+<p>最后，还是希望大家尽快抛弃私有社交媒体，使用自由的社交媒体。私有社交媒体终究是由互联网巨头，而非用户主导的，用户无论使用什么手段也终究是被动的。</p>
+<p>[1]原微博： <a href="https://weibo.com/1934183965/LC43v6SBi" rel="noopener nofollow ugc">https://weibo.com/1934183965/LC43v6SBi</a><br>
+[2]转引澎湃新闻 <a href="https://www.thepaper.cn/newsDetail_forward_18786756" rel="noopener nofollow ugc">https://www.thepaper.cn/newsDetail_forward_18786756</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1207">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1207</link>
+          <pubDate>Sun, 17 Jul 2022 09:45:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1207</guid>
+          <source url="https://mlmmlm.icu/t/topic/1207.rss">简要推测新浪微博“整治”“错别字”的技术实现</source>
+        </item>
+        <item>
+          <title>刺杀安倍所用的枪</title>
+          <dc:creator><![CDATA[azide]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://web.archive.org/web/20220710103833/https://www.zhihu.com/question/542211522/answer/2565500606">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/f/fcdbf50965978a6297614ccae5051bf69a597287.png" class="site-icon" width="" height="">
+
+      <a href="https://web.archive.org/web/20220710103833/https://www.zhihu.com/question/542211522/answer/2565500606" target="_blank" rel="noopener nofollow ugc">web.archive.org</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://web.archive.org/web/20220710103833/https://www.zhihu.com/question/542211522/answer/2565500606" target="_blank" rel="noopener nofollow ugc">安倍枪击案嫌犯使用的枪支疑为 3D 打印机制作，弹药来源成谜，还有哪些与此枪支及弹药有关的信息？ - 知乎</a></h3>
+
+  <p>如果你跟厂子里，开5000一月的师傅说，你要用3D打印来做这玩意：他会觉得你在侮辱他；有线锯，台虎钳，AB…</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>10 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1200">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1200</link>
+          <pubDate>Sun, 10 Jul 2022 10:42:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1200</guid>
+          <source url="https://mlmmlm.icu/t/topic/1200.rss">刺杀安倍所用的枪</source>
+        </item>
+        <item>
+          <title>学习简易火炸药制作，服务中国无产阶级革命</title>
+          <dc:creator><![CDATA[gonzalofficial]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <blockquote>
+<p>毛泽东主席告诉我们，人是最重要的。武器是有用的。所以我们的任务特别是针对人民，从意识形态和政治方面强化人民，在这种情况下，在思想上和政治上建设军队，在军事上建设军队。这是我们的出发点……此外，不起眼的炸药将继续发挥重要作用，地雷是人民的武器。对我们来说，我们的原则是寻找群众中每个人都能使用的最简单的武器，因为我们的战争是人民的战争。否则，这就不是一场人民战争，而我们的战争确实是一场人民战争。这就引出了第二个问题，武器的制造。我们正在努力在武器制造方面取得进展，对方现在也很清楚这一点。这一点直接通知了总统府，是由我们自己，由人民亲手制造的迫击炮发动的。（《与贡萨罗主席的访谈》）</p>
+</blockquote>
+<p>中国的革命者学习掌握火炸药制作是十分有必要的。毛主义告诉我们，帝国主义国家的无产阶级革命也要走持久的人民战争的道路，且中国的无产者们早就准备好了造反。我们在武器装备方面需要能够与当局的反动武装力量对抗，这样才能提振革命群众的士气，将更多群众拉拢到革命的战线上来，推动我国工人运动向新的高峰迈进，并且可以降低革命的伤亡，护航无产阶级取得革命的胜利。另外，掌握武器制作的方法能够打唯武器论者一记响亮的巴掌，反击主张唯武器论的机会主义者们所认为的”中国群众没有武器，无法与政府军队战斗“的谬论。</p>
+<p>因此我总结了这一教程。pdf下载地址：</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/file/mw1FGDTB#ybeXNyO44yobd_MlpdFyxQ3tp8B6SjG3QENzDL3RAqY">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/a/a4c4542f033b736fefb823cb91a540cad7a4c970.png" class="site-icon" width="32" height="32">
+
+      <a href="https://mega.nz/file/mw1FGDTB#ybeXNyO44yobd_MlpdFyxQ3tp8B6SjG3QENzDL3RAqY" target="_blank" rel="noopener">mega.nz</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/1/14e12ed9bd4fb8fba27844e3b826054905b21da6.png" class="thumbnail onebox-avatar" width="500" height="500" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/1/14e12ed9bd4fb8fba27844e3b826054905b21da6_2_10x10.png">
+
+<h3><a href="https://mega.nz/file/mw1FGDTB#ybeXNyO44yobd_MlpdFyxQ3tp8B6SjG3QENzDL3RAqY" target="_blank" rel="noopener">4.43 MB file on MEGA</a></h3>
+
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>5 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1183">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1183</link>
+          <pubDate>Thu, 23 Jun 2022 14:07:14 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1183</guid>
+          <source url="https://mlmmlm.icu/t/topic/1183.rss">学习简易火炸药制作，服务中国无产阶级革命</source>
+        </item>
+        <item>
+          <title>這是法革共和曆嗎？</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <pre><code class="lang-auto">#法蘭西共和國元年始於1792年9月22日午夜。
+#一年分为12个月，每月30天，每月分为3周，每周10天，每年第360天后设置闰日五天为公众假日（闰年设置六天）。
+#共和历的日制采用十进时，即十个小时等于一天，或一天拥有十个小时。对时和分的划分则为百进制，每小时分为100分钟，每分钟为100秒。与二十四进制的日制和六十进制的时制和秒制相比，原先一天为1440分钟或86400秒，而共和历的一天有1000分钟或100000秒。
+#由于新的制度少了440个分钟单位或者多出了13600个秒单位，因此共和历的一分钟应等于原先的86.4秒（比原先长44%），或者一秒只等于原先的0.864秒（比原先短13.6%）。 
+import time
+ss=((1792/4-12)*366+(1792-1792/4+12)*365+31+29+30+30+31+30+31+31+30+23)*24*60*60
+while True:
+    st=((2000/4-12)*366+(2000-2000/4+12)*365)*24*60*60+time.time()
+    st=st-ss
+    st=st/0.864
+    fr=[ss/100/100/10,(ss/100/100)%10,(ss/100)%100,ss%100]
+    year,month=0,0
+    def days(a):
+        global year,month
+        run=int(a/(365*3+366))
+        unrun=run*3
+        year=run+unrun
+        day=unrun*365+run*366
+        r=a-day
+        for z in range(3):
+            if r&gt;365:r=r-365;year+=1
+        if r&gt;365:runb=True
+        if r&gt;366:r=r-366;year+=1
+        for z in range(11):
+            if r&gt;30:r=r-30;month=abs(z+1-6)
+            else:month=1;break
+        if r&gt;30:
+            month=12
+            if runb:
+                if r&gt;36:r=r-36
+            elif r&gt;35:r=r-35
+        return r if r&gt;=1 else 1
+    d=days(st/100/100/10)
+    now=[year,month,int(d),int((st/100/100)%10),int((st/100)%100),st%100]
+    #print(fr)
+    print(now)
+    time.sleep(1)
+</code></pre>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1141">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1141</link>
+          <pubDate>Sat, 23 Oct 2021 13:10:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1141</guid>
+          <source url="https://mlmmlm.icu/t/topic/1141.rss">這是法革共和曆嗎？</source>
+        </item>
+        <item>
+          <title>求教网络安全问题</title>
+          <dc:creator><![CDATA[xjpssb]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>各位亲爱的mlmmlm论坛的同志<br>
+看了你们的技术贴，我深深地感到利用好加密和自由软件是进行革命工作的必不可少的技能，但作为电脑小白（只会用付费翻墙软件的那种）我感觉自己还有很多不了解的地方，现在列举一些向你们请教：<br>
+1、VPN的供应商能否定位用户呢？我个人用的Superfast，有没有更安全的VPN呢？<br>
+2、element、telegram这些软件安全吗？<br>
+3、怎么获得虚拟手机号呢？<br>
+4、为了防止别人获得我的id除了用vpn还有什么要做的吗？<br>
+5、谷歌云盘和onedrive存文件安全吗？<br>
+6、在这里招募志同道合的同志安全吗？<br>
+预先感谢各位同志的解答！</p>
+            <p><small>18 个帖子 - 7 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1084">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1084</link>
+          <pubDate>Sat, 16 Oct 2021 12:27:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1084</guid>
+          <source url="https://mlmmlm.icu/t/topic/1084.rss">求教网络安全问题</source>
+        </item>
+        <item>
+          <title>如何低成本生产氯酸钠？氯磷好汉们怎么样与绿林好汉们结合？</title>
+          <dc:creator><![CDATA[yjsnpi]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>武装对抗特色党是必然的，我们现在就要学习武器的生产方法。<br>
+氯酸钠是一种常见的强氧化剂，可以用于制造炸药。在特色党统治日益加强的今天，我们难以购买成品氯酸钠，所以我们需要自己去生产。<br>
+制备氯酸钠有电解法和次氯酸盐歧化法。然而，次氯酸盐歧化法因为成本过高被排除，特色党对电子元件基本上不管制，所以我们只能利用电解法生产。<br>
+有没有了解的同志能介绍低成本生产氯酸钠的方法？</p>
+            <p><small>12 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1034">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1034</link>
+          <pubDate>Sat, 11 Sep 2021 14:08:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1034</guid>
+          <source url="https://mlmmlm.icu/t/topic/1034.rss">如何低成本生产氯酸钠？氯磷好汉们怎么样与绿林好汉们结合？</source>
+        </item>
+        <item>
+          <title>想问下电报软件（telegram）的不安全性</title>
+          <dc:creator><![CDATA[racl]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>看到论坛里有人提到电报并不安全，想了解下除了数据储存在电报官方服务器上还有其他不安全的地方吗？</p>
+            <p><small>5 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/901">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/901</link>
+          <pubDate>Wed, 26 May 2021 08:19:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-901</guid>
+          <source url="https://mlmmlm.icu/t/topic/901.rss">想问下电报软件（telegram）的不安全性</source>
+        </item>
+        <item>
+          <title>再论马克思主义语境下的生产力（兼谈唯生产力论）</title>
+          <dc:creator><![CDATA[news_porter]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <h1>再论马克思主义语境下的生产力（兼谈唯生产力论）</h1>
+<p>出处：《新闻》十二月上</p>
+<blockquote>
+<p>（编者按：这是一篇来稿，我们认为语言比较通俗，并且不失准确。可以作为各位读者的参考，以帮助锻炼读者朋友们的通俗化表达能力，这一方面可以促进吸收理论知识，另一方面也有助于理论知识的传播。 故刊载。）</p>
+<p>（作者：本文虽然叫 “ 再论 ” ，但并没有前文，之所以是 “ 再 ” ，是相对前人对生产力的论述而言的。）</p>
+</blockquote>
+<p>我们都知道马克思主义的历史唯物主义的最基础的论点是“生产力决定生产关系”，无论马克思主义者还是修正主义者都不否认这个观点。但很多人对这句话中的每一个词都没能正确理解，以自己的感性认识判断什么是“生产力”，什么是“生产关系”，什么是“决定”（在这个语境下的）。于是，他们随随便便就得出了“生产力就是技术，就是机器，就是产品”，“生产关系就是谁拿钱多，谁拿钱少”，“决定就是生产力多高生产关系就有多先进”，接着荒唐地提出“只要生产力大发展，人民就能过上好日子”。这荒唐的观点正是唯生产力论。</p>
+<p>自唯生产力论的谬误从各色非蠢即坏的歹人嘴里吐出来后，马克思主义者和唯生产力论者的论战持续到了现在，无数的马克思主义理论家对它进行了深入批判。而与此同时，社会的发展和残酷的现实也让人民群众不得不开始怀疑唯生产力论，正视那个“ 让中国再次伟大 ”的宏伟大饼。但持此论者依然在狡辩，唯生产力论依然在麻痹着很多人的神经。一句话，唯生产力论仍然具有一定市场。</p>
+<p>尽管我们不得不承认，消灭这些残余的唯生产力论市场不能只通过理论批判（批判的武器），社会，特别是阶级斗争的发展，才能从根本上消灭产生唯生产力论的产生土壤（武器的批判）。不过，此时仍然能将唯生产力论所存在的根本问题暴露给大家，让大家增强对唯生产力论的抵抗能力，而还在对这个问题感到困惑的人也可以稍微借助本文理清一点思路。</p>
+<p>正如本文开头所说的那样，很多人的唯生产力论思想和概念的混乱有着很大关系，那么搞清楚概念自然是很重要的。我们来谈谈什么是“生产力”。</p>
+<p>生产力，从字面意思上看，就是“生产这一行为产生的力”，而“力”这个概念，很明显像物理学上的。事实上，“生产力”和物理学上的“力”虽然不是一个概念，但搞清楚物理学上的“力”是什么对理解什么是“生产力”很有帮助。</p>
+<p>生产是生产的“力”，而物理学上的“力”是指“物体对物体的作用”，为了搞清它们的关系，我们先探讨一下什么是“生产”，马克思主义语境下的“生产”。从感性认识上讲好像就是造某些东西，不过这是不准确的，马克思主义对生产有着更清晰更明确的定义。</p>
+<p>马克思主义对生产的定义是：“劳动者（且不论是奴隶，是小农，还是雇佣工人）使用某种劳动工具（也不论是耒耜，还是牛犁，还是拖拉机或机床）对某种劳动对象（当然也不论是种子，还是农田或是煤矿、石油）劳动（一贯的，这里不论是体力劳动还是脑力劳动，但首先是体力劳动）并产生劳动果实（别管是粮食还是蔬菜了，总之是物的），生产毫无疑问就是人类改造和利用自然为人类社会服务的行为，那么“生产力”也毫无疑问就是人类改造并利用自然的能力。</p>
+<p>物理学上的“力”还有一个特点，“不能脱离物体而单独存在”，“生产力”当然也是如此。从“力”的定义（物体对物体的作用）中，我们可以得知，“力”是某种“作用”，不是物质，是现象，物质运动中产生的现象。生产力那边也是如此，它是劳动者、劳动工具和劳动对象的有机结合的表现出的情况，是生产中的现象。那种认为科学技术就是生产力的观点是曲解“生产力”概念的表现。物理学上的“力”有一个“生产力”所没有的属性，量化，生产力不可量化，虽然我们可以认为原始社会生产力不如奴隶社会，奴隶社会的没封建社会的高，封建社会的又没资本主义社会的高，但具体论及生产力有多大，是可行的吗？能像物理上的“力”以多少“牛顿”（英文简写“ N ”，科学家牛顿对力学的贡献很大，所以以他的名字作为力学的常用单位）来衡量大小吗？认为生产力可以被简单量化的观点毫无疑问是把自然科学的东西照搬到社会科学上来。</p>
+<p>当然，实际上，一般很少有唯生产力论者直接说“科学技术<strong>就是</strong>生产力”，他们的通常表述为“科学技术是<strong>第一</strong>生产力”。我们必须承认“第一生产力”这种说法，以及“ xxxx 是第一生产力”这种句式，其中说的“第一 xxxx ”，并不是指“ xxxx ”本身。可根据汉语的语言习惯，它和“美味的食物”、“漂亮的衣服”这种表达看起来很像，很容易让人以为“这个第一就是强调它很重要的意思”，由此能直接被误解成“科学技术是生产力，而且是最重要的生产力”，这种误会起到的作用比唯生产力论者原来所表达的意思能起到的作用大很多，他们索性就任由这种误会散播了。</p>
+<p>可我们如果回到“科学技术是第一生产力”这句话本来的意思上来理解它，它仍然是不对的，它的意思无非“科学技术在生产中起到的作用，大于甚至远大于劳动者起到的”，这是可能的吗？生产分明是为人类社会服务的，是人类改造自然的活动，且劳动果实属于人类（这里先不论是无阶级社会中的劳动者，还是阶级社会中的统治阶级），那么科学技术还能有自己的独立性呢？还能因为其不能为当时社会服务，只是具有某种“先进性”，就被劳动者广泛运用？分明是人（占据统治地位的那些人）觉得什么东西好用，能更好地为自己服务才用的。所以<strong>科学技术并不是第一生产力</strong>。</p>
+<p>有人可能会说“劳动者是第一生产力”。尽管这么表述某种程度上也对，但这种说法具有很强的误导性，所以还是不建议使用，可以表述地更准确一些，例如“劳动者的劳动对生产具有绝定性作用”之类的。</p>
+<p>搞清楚生产力的概念后，我们再来思考一下阶级社会中的“生产力”的提高是否就意味着人民能过上好日子？</p>
+<p>的确，不得不承认，没有生产力的提高，也就没有社会财富的大量涌现，这是人民能过上好日子不可或缺的东西。但古往今来，“<strong>不可或缺</strong>”从来都不是“<strong>有了就有</strong>”，社会财富涌现后，达官贵人们会带着他们的爪牙一顿哄抢，人民几乎捞不着半点好。有人说，老百姓不是人数更多吗？先别谈人数，老百姓一个二个冲上去能打得过全副武装的爪牙鹰犬吗？打不过吧。</p>
+<p>所以阶级社会中不是生产力提高了，人民就有好日子，反倒是生产力提高后，很有可能出现的情况是，达官贵人各个胡吃海塞，中饱私囊，还给给爪牙们一人发一套高科技装备，把老百姓收拾得更加服服贴贴。</p>
+<p>但也不得不承认，生产力提高后，劳动人民虽然在分配中处于不利地位，但终究还是会比生产力水平低的时候有更好的营养，更多的受教育机会，以及更重要的，更高级的工作关系以及其他一切和生产活动相关的社会关系（也就是生产关系）也将出现，并开始成长。劳动人民此时虽然依旧受着剥削和压迫，依然被剥削阶级奴役，但他们比以往有了更强的力量，更强的斗争力量，甚至于到了资本主义时代能有力量斗出一个新的世界。</p>
+<p>想都不用想，一定还有人说。“毕竟是生产力水平提高了，老百姓终究还是比以前过的好了，这也挺好的嘛”。挺好的？挺好的就是指剥夺劳动人民的劳动果实，然后再像打发要饭的一样“赏给”他们一点残汤剩饭吗？扯淡！要饭的没有给谁干活，可劳动人民却创造了人类社会的全部物质和精神财富！</p>
+<p>私有制固然是必然产生的，但私有制的产生是建立在生产力不足以产生社会化大生产，但却足够产生剩余产品。此时生产力水平低下却也不至于低到原始社会。这种生产力水平只能拘泥于小生产，不能带来社会化大生产。可是资本主义时代短短几百年所创造出的生产力甚至比历史上所有时期创造出的生产力的总和还要大，在资本主义社会社会化大生产得以最初实现，但小生产的产物——私有制，却在限制着它的发展。如今私有制这个套在新社会上的外壳就要破裂了，十年一次的经济危机与长期的大萧条就是表现，而现代无产阶级将以革命的方式运用名为“社会化大生产”的炸药，炸毁陈旧的私有制。</p>
+<p>生产力决定生产关系中的“决定”就是这个意思，它不是“ xxx <strong>就</strong> xxx”，而是“ xxx <strong>才</strong> xxx ”。“生产力决定生产关系”换句话说就是“有什么样的生产力才有什么样的生产关系”，旧的生产关系不会自动滚进历史垃圾桶，新的生产关系不会自动占据统治地位，事在人为，革命阶级来为。</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/820">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/820</link>
+          <pubDate>Mon, 19 Apr 2021 04:48:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-820</guid>
+          <source url="https://mlmmlm.icu/t/topic/820.rss">再论马克思主义语境下的生产力（兼谈唯生产力论）</source>
+        </item>
+        <item>
+          <title>微幕 O$ ——在恶意里找“便利”</title>
+          <dc:creator><![CDATA[news_porter]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <h1>微幕 O$ ——在恶意里找“便利”</h1>
+<p>出处：《新闻》二一年二月下</p>
+<p>编者按：这是一篇内部投稿。</p>
+<p>时至今日，信息技术越来越发达，越来越在社会生产生活的方方面面发挥着重要作用。然而在技术的飞速发展背后，却是私有软件支持下的防火长城、大规模监控、“人肉搜索”、跨省追捕。在资本家手中，科技成了镇压人民群众反抗的有力武器。这一切在有着波拿巴主义加持之下的中华帝国，又显得格外突出。</p>
+<p>我们今天就来介绍一下微幕 O$ （我们对“微信”的蔑称，下文会讲解该蔑称的由来）——中帝的大规模监控网络的基石之一。它从诞生起，就携带着各种后台、恶意漏洞，用户的隐私能被它们背后的资本家互联网巨头以及其背后的官僚垄断资产阶级一览无余。然而在拥有国家暴力的中帝官僚垄断资产阶级的有意推动下，它还是成了在中国占绝对垄断地位的即时通讯软件，如今它的市场占有率高达93%，也就是说在中国，除了一些没有智能手机的老人外，几乎找不到一个从来不使用微幕的人了。</p>
+<p>那么，微幕到底是一个怎样的软件呢？我们到底对它了解多少呢？目前尚未发现有关微幕的渗透测试报告，我们对其源代码究竟包含什么，一无所知。但我们仍然能从其功能本身透露着的恶意里管中窥豹，让大家看看微幕已经暴露出来的恶意究竟有多恐怖。</p>
+<h2>一、微幕 O$ 直接针对用户的恶意</h2>
+<p>如果说微幕仅仅作为一款即时通讯软件，那么仅仅分析其功能本身的恶意即可，但微幕本身所具有的功能却远超出了一个即时通讯软件所应该具有的，仿佛一部手机上的所有功能都能用微幕实现，这也就是“微幕 O$”这一说法的由来，O$，意为它仿佛巴不得自己就是一个超级定制版的操作系统（OS, Operation System），但实际上并非如此，它的“S”不是用户给的“S”级好评，而仅仅是个“$”，钱的象征，资本主义的象征，资本家的贪婪的象征。当然这其中就包括了微幕的第一个恶意——对手机外存和内存的贪婪霸占，一个微幕程序刚下载的时候就已经需要1G左右的外存空间才能正常运行，而当用户不进行任何彻底的数据清理，仅仅半年后就会占到将近50G的外存空间。用户当然有能力清理掉这些数据，但当这些数据都被清理后，用户将面临着需要再次登录的境地，再次登录？在麻花藤最为猖狂的时候，每当用户再次登录都需要好友验证，或者向麻花藤发短信验证，只是关于登录的恶意，我们将在后文谈到，此处先按下不表，后文详谈。</p>
+<p>那么这些被无缘无故就保存在用户手机上的数据，究竟是些什么呢？疼孝子说只是一些图片、视频的缓存罢了，然而当我们真的获取了手机的 root 权限去找寻这些数据时，却能发现很多奇怪的文件，此处也先按不表，后文详谈。</p>
+<p>目前，微幕这套玩法，似乎有“厂传厂”的趋势，其他互联网巨头纷纷效法微幕，于是网抑云变成了网抑云 O$，百毒网盘变成了百毒网盘 0$，资乎、批站也不例外，互联网巨头纷纷将各种各样和他们核心业务毫无关连的功能内置其中，于是用户的手机外存空间时常告急，甚至还有不少用户乐于此道，让他的手机上时刻充斥着高达几百个各类 app，而这些 app，每一个几乎都是一个 O$，于是手机一年不换就会因卡顿而无法使用，不少人直接“转投”IThings，接受更彻底的盘剥。</p>
+<p>不过，我们终究主要聊的还是它们中的代表——微幕，下面就微幕的各个功能进行分析，然后汇总得出一个惊人的结论，这个结论最好在看完前面的分析以后再看。</p>
+<h2>二、功能上的具体表现</h2>
+<h3>（1）聊天功能</h3>
+<p>作为一款即时通讯软件，最主要的当然是聊天功能，微幕提供个人之间的私聊和多人的群聊，还提供了音视频通话。</p>
+<p><strong>1.个人聊天</strong></p>
+<p>聊天功能中最主要也最必要的功能是个人聊天功能，个人聊天功能如何设计很大程度上就决定了聊天软件的优劣。那么微幕的个人聊天功能到底如何呢？</p>
+<p>先不谈安全问题，仅从用户的使用体验上来讲，它也已经是蹩脚到不行：其他聊天软件都能看到对方是否在线，无论是自由的 xmpp 即时通讯软件，还是不自由且同样是麻花藤出的阿Q都可以。但在微幕这里是行不通的，任何人在线还是不在线根本看不出来，甚至不允许用户设置任何“状态”（如阿Q上常见的“在线”、“忙碌”等等，设置后会在用户头像附近有所表示）。这一点配合着微幕官方设置的登录困难，让用户根本不可能下线——除非用户关机或断开手机与互联网的连接。</p>
+<p>而就聊天本身呢？其他聊天软件上常见的引用回复功能往往会引用对方所发出的一整条消息，而在微幕这里，它是以省略的形式出现的，并且很蹩脚地将引用内容放在回复内容之下。即便就是这么个破功能，却也只是在去年（2020年）才上线，而微幕至少在2015年左右就已经十分普遍了。至于消息反馈嘛，阿Q都没有的功能，微幕怎么可能有呢？因此在微幕上对面是否收到了你的消息，只能通过猜测，当然看看对方的朋友圈是否发言了，对方是否用“看一看”功能分享微幕宫中号文章，也是一种推测方法。</p>
+<p>当然想要私聊，还得添加好友，怎么添加好友？通常情况无非是“扫码”，从微幕群里添加，用对方的手机号添加，以及让好友推送相关账号信息。至于在阿Q上都十分常见的添加方式——用统一的阿Q号添加也是不存在的，微幕号是用户自己设置的，检索困难，因此很少有微幕用户通过微幕号添加对方好友，当然微幕官方也根本没心思搞好这方面的检索功能。从朋友圈呢？用户自己的朋友圈里消息的评论从来只有来自好友的，而好友的好友的评论则不会出现，也就谈不上从这里添加他们为好友。从微幕宫中号的评论区呢？评论用户头像无法点击，微幕号博主的微幕号和私号也是独立的。</p>
+<p>以上都是微幕在私聊功能方面的不便利之处，当然，相信读者也从其中发现了不少安全隐患：不设状态，且重登录困难，这会让用户养成不注销微幕而放任它一直在线的习惯，让微幕一直在后台运行时刻监视着用户；不设消息反馈功能，也不允许用户设置状态，这会让用户养成从微幕自带的社交媒体那里判断对方“是否在线，是否收到”的习惯，这无形中让用户越来越喜欢窥视他人隐私，同时也降低了用户自己的隐私意识；不以统一的账号，而是以各种千奇百怪的所谓“方便的”方法添加对方好友，让微幕官方在一次次扫码，一次次用手机号添加，一次次通过群聊、微幕“好友”介绍中不断了解到用户的社会关系等等情况，越来越变得比用户自己还了解用户。这已经非常可怕了，但技术层面的内容却更为大众所忽视：</p>
+<p>在微幕上，个人账号和个人账号之间的私聊没有任何加密机制，服务器的控制者因此能够监控到任何私聊通信的内容，用户在微幕上发出的任何消息都会被麻花藤的服务器记录保存，配合着敏感词检查、数据库管理（所谓“大数据”技术其实只是这个技术）等技术，能让所谓“境外势力”零口供伏法，只要他们不放松对微幕的警惕，如今至少在新疆的无数少数民族同胞，仅仅因为在微幕私聊中发送了中帝认为不当的言论，就被投入了集中营，过着暗无天日的生活。微幕甚至还能做到吞没包含敏感词的消息，即发出者不因为网络状况不良，仅仅因为所言涉及敏感词的原因，就不能发出消息，或者说未显示“发送失败”提示，对方却收不到，这一点配合着消息反馈功能的缺失一道，对消息管制来说十分有用，而麻花藤的服务器却会“本本分分”地记录这条消息。</p>
+<p><strong>2.群聊方面：</strong></p>
+<p>微幕在群聊方面的问题，甚至连微幕的忠实用户（奴才）也难以忍受，因为它的群聊功能的确蹩脚到不能更蹩脚。从用户需要加入群聊开始，微幕群聊的恶意就在不停展现着：</p>
+<p>所有微幕群默认用户无需审核加入，且主要加入方式为“扫码”以及面对面“建群”（需在手机端开启定位功能），无固定的群聊号或其他标识，“好友”可以强制邀请用户入群，邀请没有明显提示且无法直接拒绝，只能事后退出。</p>
+<p>用户（被绑架）参与的所有微幕群聊默认仅在服务端维护，而不会自动同步到用户的群列表，需要用户手动记录，由此诱发出现用户几乎不知道自己加过多少微幕群。</p>
+<p>微幕群内 @全体成员 仅能群管理员能通过公告功能实现，且公告不能在用户自建的群内保存记录。而所有群聊成员想找到自己想 @ 的人都十分困难，尤其在数百人的大群里，所以各种大型微幕群往往成为了领导们消息集中发布的场所，每当消息发布，就是无数的“收到”“收到”淹没了本来发布的内容。微幕还不支持群聊内私聊，用户想比较便利地和想 @ 的人私聊几乎只能添加对方的好友。</p>
+<p>微幕群聊关于用户加入的设计等于鼓励“好友”互相侵犯对方的隐私，强行绑架对方参与自己期待的谈话。和用户的群列表并不自动记录这一点配合，进一步方便了“好友”们互相出卖，而被出卖者却连自己被卖到哪里去都记不住。群内单独 @ 人这方面功能的蹩脚，又让用户往往习惯于直接选择添加那位用户的好友进行私聊，这进一步鼓励了用户去侵犯其他用户隐私，也降低了他们对隐私的重视程度。而培养这种不重视甚至蔑视自己和他人的隐私权的用户习惯，是微幕官方奴役用户的重要手段。</p>
+<p><strong>3.录音附件方面：</strong></p>
+<p>这个是微幕内置录音功能，用于代替打字，这也是微幕最开始的宣传点之一，为了为用户很容易就使用到，录音功能被设计得十分容易被用户发现（打字框左边），甚至一度录音功能是默认出现的，打字功能反而需要手动调成，对于接触互联网较晚且文化程度较低的中老年人来说，打字本就是需要学习的，现在突然来了一个录音聊天功能，他们自然会选择使用录音，至于录音聊天的效率是否高，以及其他用户是否有耐心听他们的录音，是无所谓的。像他们一样的老贼，也只会录音，而年轻人则是他们可以随意欺侮的对象。对此年轻人对这些油腻老贼没完没了的语音往往不堪忍受。</p>
+<p>估计是微幕官方的也忍受不了了，它们推出了录音转文字的功能。而这转换功能还正确率极高，即便是口音浓重的某些北方方言语音也能基本识别出大概的意思。而如此高效的语音识别可不是手机那可怜的处理能力足以及时完成的，想要如此精准地识别录音，需要的是庞大的数据库，就用户个人的手机端那种平均只有 128 GB ，最高也只有 512 GB 的外存空间来说是远远不够的。因此该功能只能在服务端实现——录音会被上传到服务器，然后在那里转换为文字——这等于录音和转换出来的文字在用户正式发送前就已经被服务器得知了，即使用户取消发送也无法挽回。</p>
+<p>可即便如此，但凡说了南方的各种方言，或者口齿不清，还是没法正确识别，所以年轻人往往不得不反复听着领导发来的超长语音，仔细分辨其意思。这对于资本主义生产来说都是极其浪费的，但官僚们可不管，他们的收入和资本主义的状况没有直接关系。</p>
+<p>而在微幕上录好的语音以附带有时间的长条显示，录音文件的格式大小等信息一概不被用户所知。从外部导入的音频（如本地的录音文件、音乐文件）并不方便收听，且和“语音”（录音聊天产生的语音）有着肉眼可见的标识区别。</p>
+<p>中国的互联网寡头为了开拓市场，大力向文化程度低下还不愿意学习新知识的老贼推广录音聊天，录音相比于文字，包含了生物学信息，更能让中帝以及一切反动派锁定监视目标。而微幕的录音内容能精准识别，说明微幕在服务器端部署了相当高效的语音识别系统，这点使得腾讯对用户语音的大规模监控也成为了可能。当然，发“语音”而被警方问询甚至逮捕的也有案例。</p>
+<h3>（2）视频电话和语音电话（实时通话功能）功能</h3>
+<p>微幕的视频电话、语音电话的素质如何？不言而喻，素质极低：不仅画面模糊，音画时常不同步，时常还有回声传出，声音质量也低。它们的音画质量甚至远不如 jitsi meeting 等自由的成熟实现。即使这样糟糕的体验也不算完，在连接过程中，网络不佳进而导致连接无法继续的现象非常常见。</p>
+<p>而想使用这样糟糕的音、视频电话功能，还需要在联系方的私人聊天窗口，需要点击附加键（一个“+”号），然后点击“语言通话”按钮，接着点击“视频通话”按钮。而在好友列表中则需要手动找到对应的好友点击其头像，点击“语音通话”按钮后点击“视频通话”按钮。当然，在每次通话结束后，会在和会话人的对话窗口里留下通话记录信息，会记录通话时长、通话结束状态等信息，这本质上就是只能通过向对方发送请求实现，不存在“聊天室”，而懒惰的中老年人往往会点击这种信息进行下一次通话。</p>
+<p>但要这么做就得保证长期不清理聊天记录，而对于微幕来说还得长期保持登录状态，因为在微幕，用户每一次重登录都意味着数据的清零。</p>
+<p>麻花藤不希望用户使用不方便自己分析的视频电话功能，于是通过把这个功能实现得极其糟糕的方式来避免用户给自己增加麻烦，但懒惰的中老年人还是乐此不疲，甚至它们自己也习惯了这一套，认为它很“舒服”、“方便”，年轻人向它们推广 jitsi meeting，很有可能会以这玩意没法“提醒”对方而拒绝，但像打电话一样打视频电话本就是一个不尊重他人隐私的坏习惯，尽管恶臭的老贼们不会认为这是在给“他人”打视频电话。</p>
+<p>尽管视频电话的内容不方便麻花藤分析，但离不开它的中老年人却因为数据备份问题而因此被彻底锁住了。</p>
+<p>语音电话、视频电话均没有为用户设计的加密机制。而微幕视频电话甚至还在向对方发送视频电话请求而通话尚未建立之时，就打开双方的摄像头，虽然此时两方还互相看不见，但两方均可以看见自己的影像。</p>
+<p>无数人因为使用音、视频通话功能“不当”而被警方问询甚至逮捕，相关用户“隐私”协议里也存在允许警方随时调查的条款。</p>
+<p>###（3）文件传输功能</p>
+<p>微幕的文件传输功能极其糟糕，使用体验极差：文件传输速度极慢，文件传输有严格的大小限制，超过100mb的文件不可传输。但这个对于用户安全来说反而不是很值得一谈，尽管阿Q这方面功能比起微幕使用体验要好很多，但它们都没有对文件内容的任何保护，因此，疼讯方面可以任意存档、检查内容，任何包含敏感词的文字文件和许多图片文件都无法传输，但却会被麻花藤的服务器存档。</p>
+<h3>（4）内置功能问题</h3>
+<p>内置浏览器和文件查看器，对于这一点几乎每一个能被冠以 “O$” 之称号的私有软件都希望将其做得登峰造极。无论是不是微幕 O$ ，任何在应用内出现的链接只能跳转到微幕内置浏览器查看，然而吊诡的是，接着网页那边还会提示用户下载它们的 app 查看，可是即使用户下载了它们的 app 也常常看不到相关内容，更有甚者，在用户已经下载了相关 app 的情况下，如果在这种内置浏览器里打开链接，还是会提示需要下载 app。</p>
+<p>也许是麻花藤想通了和这些私有软件的母公司谈拢了，也许是麻花藤想进一步控制用户，它们发明了小程序，而小程序也在其他 O$ 之间蔓延。小程序毕竟也还是该厂商的地盘，小程序对应的厂商不甘心，往往会加倍索要权限，又不想在小程序上投入太多，自家的 O$，才是重点，于是，它们往往存在很多 bug；对于如今主流的 O$ 们来说，“友商”的内容一定要在自家 O$ 的小程序功能上实现，中国的互联网经济越是发展，中国的互联网用户就越是不了解跳转功能。</p>
+<p>而到了如今，越来多的中帝政府产的“老大哥应用”，因为不及格的开发水准，而使得软件即使正常运行都困难，更别提监控了。为此官僚垄断资产阶级不得不“屈尊”去搞开发成本更低的小程序，稍微蹲下一点身段和麻花藤等民间资本一道监视并欺压中国人民。</p>
+<p>而对于微幕的来说，不仅链接如此，各种文件也是如此，用户任何在微幕内接受的文件（别忘了它们已经先被麻花藤存档）默认会在内置文件查看器里打开（包括压缩文件），还会诱导用户安装阿Q浏览器，而所查看的内容可能都会被采样并上传到麻花藤的服务器。当然，阿Q也一样，不得不说阿Q这个麻花藤的历史遗留问题，也在逐渐微幕化。</p>
+<h3>（5）朋友圈（juan）功能（捆绑在微幕里的社交媒体）</h3>
+<p>作为社交媒体，微幕朋友圈（juan）是极其难以使用的，即使相比于阿Q空间，它也是差劲到极点的：</p>
+<p>在微幕朋友圈（juan）这里，只要那位“好友的好友”不是某位用户的好友，用户就不能看到他们的点赞、评论。由于看不见非好友评论，阻碍了社交的便利性，此时往往需要在共同群聊里点击相关用户头像，或者让已有好友推荐好友，然而最主要的方式就是扫对应添加该用户链接的二维码，然后才能查看至多该用户的十张朋友圈（juan）图片。</p>
+<p>而在实际的内容发布体验上，发布纯文字内容的朋友圈（juan）需要长按实际代表发布功能的照相机图标，十分隐蔽且麻烦，否则所发内容必须带图片。而转发朋友圈的原创内容困难（不是来自微幕宫中号以及其他平台的，而是在朋友圈（juan）内直接发布的），缺乏一键转发功能。这些即使在阿Q空间里都是难以想象的。</p>
+<p>而微幕发展到了如今，开始在用户的朋友圈（juan）内“精准推送”各种广告，麻花藤内置了一个找寻起来十分复杂的按钮来关闭广告的“精准推送”，然而它不仅是有时间限制的（往往只能保持数月），更是不能关闭广告的，只能关闭所谓“精准推送”，这几乎就是在戏弄用户。</p>
+<p>微幕朋友圈（juan）的这种设计，无疑在引诱用户为了看到评论滥加好友，然后进一步被滥加的好友绑架、侵犯隐私。</p>
+<p>而便利化其他平台（本质上来说，相对于微幕朋友（juan），微幕宫中号也是“其他平台”）的转发功能，而给本平台内容的转发设置重重限制，可以便利麻花藤通过记录、分析用户的发言等活动、甚至录音和别的私有软件上的信息。</p>
+<h3>（6）公众号功能</h3>
+<p>微幕宫中号上曾经一度有不少质量尚可的图文内容，连不少自诩“革命”的组织也曾开过微幕宫中号，但想要订阅上面的文章，必须使用微幕，接受来自麻花藤的盘剥。毕竟公众号文章只能在微幕程序里收到推送，公众号及其内容总目无法通过浏览器查看，这方便了麻花藤将现有读者束缚在微幕平台上，并引诱新用户为了阅读文章而堕入微幕的泥坑。虽然到了如今，在中帝社会的被统治阶级中间，似乎已经找不出一个使用智能手机而完全不使用微幕的人了。</p>
+<p>微幕宫中号里的单篇文章可以通过浏览器查看，但默认的链接为“短链接”，其背后的真实链接其实非常长，其中夹杂的内容不少是用来供追踪器标记的，想要清理这些追踪标记十分困难。</p>
+<p>如今人人都在说微薄的控评有多可怕，但在微幕宫中号这里，每篇文章都能轻易实现控评，对于访客来说，评论受限很大，每条评论都至少需要发布者审核，且不能跟评其他评论者。即便如此也不可能在不能登录微幕账号的网页端里评论——这又是一个让用户呆在微幕程序里的办法。</p>
+<p>然而即便如此，文章页面还是存在大量广告，无论是微幕发出的还是文章作者发出的。</p>
+<p>创作者实际上也不可能获得什么好处，有人说“注册微幕宫中号账号等于裸奔”，虽然只是注册微幕帐号就已经如此，不过对于早已裸奔很久的中国互联网用户来说，这好像不是什么事，只是它的注册的麻烦程度还是超乎想象，需要提供身份证、手机号、人脸识别数据等信息，这种信息搜刮能力已经无限接近于黑狗条子的水平，它在效果上更成为麻花藤进一步榨取用户的帮凶。就算如此，公众号仅仅半年不发表任何内容就会冻结，需要经手续解冻。</p>
+<h3>（7）登录功能</h3>
+<p>微幕账号必须通过手机号登录，这不仅是开了私有软件手机号注册的先河，也是微幕账号用于登录的真正凭证。</p>
+<p>微幕官方一开始就没打算开发电脑版，之后随着市场需求的发展，微幕电脑版终于像被挤牙膏一般挤出来了，但用户惊奇地发现必须经过手机端“扫码”才能登录，如今支持 GNU/Linux 系统的阿Q版本也是这个尿性，很有可能就是为微幕试水的。</p>
+<p>除了一开始说的重登录就存在的困难以外，微幕对于用户更换系统实例（如刷机、换手机或其他移动设备）的检查更为可怕，此时往往需要向麻花藤所留的电话发送固定的短信验证码（而非麻花藤向用户发送），或者请求至少两位好友向用户的账户发送指定数字。</p>
+<p>其他私有软件商家（如霉团、噩了么）为了吸引新用户往往选择给予新用户一点小利而选择“杀熟”，但垄断到麻花藤这个地步，新用户或者说新注册的账号必须“积极使用”，就像无知者加入粉圈（juan）组织那样被层层考验，否则会被限制登录。麻花藤已经不满足于单纯鼓励用户互相侵犯隐私以方便自己榨取，而要借助捆绑的“公共服务”强迫用户接受自己建构的社会惯性了：为了访问这些“公共服务”你将不得不使用微幕，而要让微幕保持可用，你还必须“积极”参与会被麻花藤窃听、审查的通信、和“好友”一起互相绑架对方。</p>
+<h3>（8）数据迁移功能</h3>
+<p>1.微幕的数据迁移高度依赖电脑端和手机端的互相传输，用户希望迁移聊天数据，需要先在电脑和手机同时登录，且它们必须使用同一局域网（wifi、热点），才能将聊天数据传输到电脑，在新的手机系统实例上登录后，再在同一局域网下的手机、电脑同时登录条件下传回手机。这种愚蠢的传输方式，不是希望极度盘剥用户的寡头绝对想不出来。</p>
+<p>而麻花藤还把微幕用户的数据强行加密，用户根本无法通过 adb 工具来自行选择备份想要的数据。</p>
+<h3>（9）支付功能</h3>
+<p>移动支付如今越来越有代替现金的趋势，那些无耻的建制派人士甚至扬言这是新四大发明之一。然而，比起单纯刷卡的移动支付，以微幕支付和支付鸨为代表的移动支付真的方便吗？对于用户而言，实际上在结算的时候并没有使用现金方便，真正方便的是让零售业资本家更彻底地剥削售货员，售货员在这种不断地搜码之中连找钱，和顾客交涉的能力都将不需要，他们的工作也更加机械了。</p>
+<p>但获益更多的无疑是麻花藤和四十大盗，他们通过创造移动支付的社会惯性来进一步奴役用户，顺便也做些不可告人的事情：微幕“钱包”中的资金有理由怀疑可以被麻花藤随意贷取，而用户无法察觉。而前些天四十大盗匪首和中帝的“对线”则已经暴露了它早就干过相关的勾当。</p>
+<p>任何转账信息都会被麻花藤记录下来，借此在通信联系的基础上进一步采集经济上的联系。对于这点，相似的内容简直都要被讲吐了，几乎任何 O$ 都会从事。</p>
+<p>培养用户使用移动支付的社会惯性还能做到什么呢？配合着大规模的数据记录和搜集，互联网寡头可以分析用户的经济活动，分析总结后供精准投放广告或出卖，而用户无法察觉。这就是在无形中将用户牢牢地控制在它们手上。</p>
+<p>这种社会惯性使得一些小商贩开始拒收或者变相拒收现金，此时中帝出来明确叫停了这种拒收。当然中帝也不可能为被统治阶级的利益考虑，中帝的叫停只是为了限制这些民间资本挑战它的金融霸权罢了，毕竟某种程度上讲这些被拿来移动支付的资金是直接被民间资本所“保管”的，虽然目前它们还不至于将用户的钱纷纷卷走，但这种“保管”本身就包含着这种倾向。中帝还是希望这些钱直接存放在它自己的国有银行里为好。</p>
+<h3>（10）用户完全无法干预的“功能”</h3>
+<p>微幕通过过度索要权限，滥用权限（而非后门），就可以做到在后台常驻，而不被系统“杀死”，此时不仅会消耗大量内存使得手机运行速度变慢，电量消耗加剧，电池等硬件设备使用寿命下降，还可以偷偷录音，甚至偷偷打开摄像头。如果配合着用户那被养成的不注销微幕的社会惯性。几乎能做到24小时全天候监视用户。</p>
+<p>微幕对手机内存的贪婪，也是一个人尽皆知的事实，b站一位 up 主专门做过视频分析和揭露微幕大量占用用户手机内存的事实（视频链接： <a href="https://www.bilibili.com/video/BV1FK4y1f7vm" class="inline-onebox" rel="noopener nofollow ugc">我的内存去哪了？上帝视角看这些国产APP是如何吃内存的_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</a> ），在 android 端私有软件可以通过大量侵占内存还加强对用户的监控，但内存被大量占用户必然导致手机运行越来越卡顿，到了最后，用户不得不选择换手机，而开发 android 系统智能机的厂商就顺应这种“需求”，把手机内存越做越大。在烂苹果暴君那里，它“只许库克放火，不许‘友商’点灯”，对在烂苹果系统上运行的软件设置了重重限制，不让“友商”多分一杯羹，所以它才能长期保持 6GB 的内存而不出现严重卡顿。可是即便如此，面对在中帝社会能占绝对垄断地位的麻花藤系，它也不得不妥协。于是烂苹果的系统中添加了为微幕专门准备的代码，给微幕在它们那里放宽一定限制。</p>
+<p>微幕 O$ 占着用户的内存不是白白占着，在后台运作期间，它会自动不停下载用户无法访问的插件，这些内容仅仅通过清理用户数据无法删除，它们被储存于用户目录以外，用户没有 root 权限无法访问、删除。有人获取 android 的 root 权限以后，曾试图寻找这些文件，发现在 /data 目录下，它们广泛存在，其中有一些是 apk 文件，其中一个 apk 叫作 xweb ，这是麻花藤开发的浏览器框架。除此以外还有其他不能打开的文件，我们尚不了解这些文件的实际作用。</p>
+<h3>小结</h3>
+<p>上面罗列了十项微信的“功能”，微信侵犯用户隐私，勾连当局的罪行已昭然若揭。微幕的软件性质也已经显现：<strong>微幕是一个鼓励用户互相侵犯隐私，以供麻花藤暗中渔利的、伪装成即时通信平台的社交媒体。微幕的一切设计都是方便麻花藤榨取用户，而完全没有为用户考虑的成分。<strong>微幕将即时通讯和社交媒体高度捆绑到一起，捆绑到社交媒体甚至都不能独立存在为止，一般我们会这么看待问题。但如果我们换一个角度去看，真正被捆绑的反而是即时通讯那部分，而微幕的社交媒体本就是独立存在的呢？听起来似乎有些奇怪，但微幕所想实现的软件目的却是如此，或者说微幕本就是一个蹩脚的</strong>社交媒体</strong>。在微幕这里即时通讯不过是扩大社交面的工具，因为微幕朋友圈（juan）、微幕宫中号是微幕相当核心的内容，但是它们单独使用都是蹩脚的。如果配合着即时通讯一块用呢？差不多也能实现用户本来就想实现的一些功能，如和作者、评论者讨论问题，看到更多的好友在微幕朋友圈（juan）里的评论等等。</p>
+<p>而微幕的即时通讯功能的表现很差也可以从这个角度解释：其他的社交媒体，如微薄、批站、资乎等也存在私聊功能，它们的私聊功能也同样很一般，但挨骂却很少，这是为什么？因为用户并不怎么会用到它们，因此它们的设计水平也足够了。实际上微幕也的确如此，只是它是经过了伪装而已。它伪装得极好，界面就像货真价实的即时通讯软件一样，但它最耀眼的部分，却是微幕宫中号和朋友圈（juan），如今微幕官方还想继续开一个视频号，打算在流媒体领域继续延续它的霸权，只是如今的用户已经习惯了被抖蝇、侩手、傻瓜视频、批站等长短视频平台奴役，麻花藤这条绝对垄断的泥潭里泡久的大鳄，妄图和流媒体的稀树草原上的豺狗、秃鹰们再一次（上一次是推出微湿）较量，恐怕也没有那么容易。</p>
+<p>它们这么做的目的也的确就是榨取用户隐私，比起偏向于私人的即时通讯软件，社交媒体的公开性更大，用户也更容易受到隐私侵犯，于是麻花藤的“最优秀”的产品经理张小龙就以社交媒体的设计思路设计了微幕。而微幕越是发展，它们就越要更能榨取用户，至于用户的便利性，那是不需要怎么考虑的。凭借着绝对垄断的地位，麻花藤简直连“爱用不用”都懒得对用户说，中帝社会自有一大堆“微孝子”直接或间接强迫他人使用微幕，在这股社会惯性的泥石流里，个人是很难反抗的。</p>
+<h2>三、软件之外的恶意，真正的恶意</h2>
+<p>但麻花藤绝不会满足于就这样压榨着用户，它们还想要的更多，甚至还想“当婊子立牌坊”。</p>
+<p>2021年1月22日，深圳市南山区人民法院判决用户起诉麻花藤侵权败诉，明确微幕好友关系不属于个人隐私。</p>
+<p>麻花藤“南山必胜客”的恶名早已响彻人间，但无论南山区还是北山区，法院的公开判决基本能相当于中帝官僚垄断资产阶级的意思。中帝的法律里对隐私权的定义是：<em>隐私是指用户对其生活领域不愿公开的信息享有不被他人知悉的权利</em>。这一个“愿不愿”的依据是什么呢？就是私有软件在使用前用来“骚扰”用户的用户协议。私有软件厂商将用户协议写得繁杂冗长，用户很难快速把握它们到底表达了什么，但为了使用这些私有软件就必须签署用户协议。这像极了旧社会的地主强迫农民签订的“卖身契”。这也是自愿吗？不，这就是强迫！中帝又怎么会反对这种强迫呢？尽管中帝的证据法规则里明确写了“<em>强迫、胁迫、欺诈等霸王约定，也不能作为公民意志的书证</em>”，但中帝的空文法律还少吗？它们正是要打着这种“自愿”的旗号强迫人民臣服于它们的恶法！</p>
+<p>从这个意义上讲，“维稳”以制造“太平盛世”的现象，不只是私有软件的资本家寡头们在主观上的渴望，更是以律令的形式固定下来的中帝意志和强制要求。法令不仅对此有周到的规定，确保私有软件侵犯个人隐私的合法性，还具有严密的处罚制度以确保这些法案在实际上具有强大的可操作性。与此正好相反的是，许多保护公民生活权利的法案都是没有罚则的虚设条款，从此也可以见得中帝对此的决心非同一般。</p>
+<p>《网络安全法》第28、29、68条规定：</p>
+<blockquote>
+<p>网络运营者应当为<em>公安机关</em>、<em>国家安全机关</em>依<em>法</em>维护<em>国家安全</em>和侦查<em>犯罪</em>的活动，提供技术支持和协助，<em>国家</em>支持网络运营者<strong>收集、分析、通报和应急处置</strong>等方面进行合作，<em>拒绝</em>、<em>阻碍**有关部门</em>依法实施的监督检查处的，<strong>处5万元以上50万元以下罚款</strong>，主管人员和其他直接责任人员，<strong>处1万元以上10万元以下罚款</strong>。</p>
+</blockquote>
+<p>而第55～57条规定：</p>
+<blockquote>
+<p>发生网络安全事件，应当立即启动<em>网络安全事件应急预案</em>，发现网络存在较大安全风险或者发生安全事件的，可以对该网络的运营者的法定代表人或者主要负责人进行约谈（编者注：然而中帝自己的政府网站几乎没有几个开了 https 来减少网络攻击的），因网络安全事件，发生突发事件或者生产安全事故的，应当依照《中华人民共和国突发事件应对法》、《中华人民共和国安全生产法》等有关法律、行政法规的规定处置，<strong>经国务院决定或者批准，可以在特定区域对网络通信采取限制等临时措施</strong>（编者注：历史上曾有案例，2009年7月5日，新疆乌鲁木齐发生了严重的暴力恐怖事件，事件的策划者为世界维吾尔族大会及热比娅等反动分子，事件发生后新疆当地的网络和内地中断了整整10个月，而“世维会”煽动群众所用的工具也的确是推特、facebook 等国外的私有社交媒体平台）。</p>
+</blockquote>
+<p>同时该法案的细则之一《互联网信息服务管理办法》进一步规定了在保存用户使用过程的<strong>最低限</strong>要求：</p>
+<blockquote>
+<p>互联网信息服务提供者，应当<strong>记录提供的信息内容及其发布时间、互联网地址或者域名</strong>；互联网接入服务提供者（编者注：如移动、联通、电信等运营商）应当记录<strong>上网用户的上网时间、用户帐号、互联网地址或者域名、主叫电话号码</strong>等信息。互联网信息服务提供者和互联网接入服务提供者的记录备份应当保存<strong>60日</strong>，并在国家有关机关<em>依法</em>查询时予以提供，并<strong>应当立即停止传输，保存有关记录，并向国家有关机关报告</strong>。</p>
+</blockquote>
+<p>在了解到上述这些以后，对于过去总有左翼作家动辄就被约谈、法办、禁声的事件想必也就不足为奇了。如果你曾经认为自己在私有网络的规则下具有人权并感到自己很安全，那么上述这些基本不对非专业群体公开的法律规定，可能会打消你曾经的幻想，更甚，类似上述这样的细则还有<strong>数部</strong>，完备的设置了处罚各种情况的处理规程，广泛的包含了与互联网相关的各种情况，<strong>立法完备的程度堪比目前最为完善的刑法部门</strong>。</p>
+<p>何况中帝社会中的大量封建残余思想，以及中帝旨在通过让群众“裸奔”来让自己更安全的做法，更加剧了中帝笼罩下的人民对隐私权的蔑视，这种情况下，这些法条无异于是在说：“你看<em>国家</em>都不觉得那是隐私，对你这个‘小老百姓’来说有啥可隐私的啊？”封建残余思想让中帝社会的中坚容易把子女当成自己的所有物，轻视子女的隐私权，这同样也会让他们轻视自己的隐私权，而微幕的流行又加剧了中国人民对隐私的轻视，隐私受轻视的环境加剧了中国人民对微幕的感染程度，而微幕感染程度的增加又在一定程度上加剧了旧家长对子女，领导对下属的控制。这是一个让被统治阶级所受压迫越来越深的恶性循环。</p>
+<p>微幕又不同于一般的软件产品，它是中帝默许甚至暗中支持麻花藤大力推广的“老大哥”应用，是中帝和麻花藤共同用信息技术监控人民的产物，其背后也有着中帝的以法律的形式固定下来的暴力支持。反对它不可能像民国时期的群众抵制日货那样自发，因为中帝有着庞大的官僚体系，庞大的军警镇压力量，以及庞大的舆论监管和反动思想灌输体系，而微幕就是这些在私有软件领域最明显的表现，从这个意义上讲，<strong>反对微幕就是在反对中帝，而反对中帝就需要打倒中帝！</strong></p>
+<p>打倒中帝无疑需要一场革命，一场革命无疑需要革命的先锋队，如今在帝国主义的中国，最革命也最有革命力量的阶级毫无疑问是无产阶级，那么这个革命的先锋队<strong>必须</strong>是<strong>无产阶级的先锋队</strong>。为此，先进分子必须组织起来，融入工人阶级，发动起广大人民群众，成为真正的无产阶级先锋队，带领人民群众<strong>掀起反中帝的人民战争浪潮！</strong></p>
+<p>只是正如之前的分析那样，中国人民大量使用微幕，而中国的工人阶级也不可能例外。而为此我们需要使用微幕？如果有谁这么想，只能说他失了智，而这么长的文字，这么长的分析全是对牛弹琴。</p>
+<p>那么我们需要怎么做？如何应对以大规模监控（微幕恰好是其中重要的一环）为突出特点的中帝的镇压力量呢？对此只有一条路可选，那就是无产阶级革命以及其中的革命自由软件运动！先进分子要将自由软件运动的伟大成果，播撒向工人阶级，让工人阶级成为自由软件运动的主体，将其发展成革命自由软件运动，而不是延续小资产阶级自由软件运动的片面斗争路线直到走向反动。我们要用自由软件的清泉代替私有软件的污泥浊水，用无产阶级革命的滔滔江河洗荡被中帝的一切反动势力污染的中华大地！没有无产阶级革命的暴力不可能完成这一切！当代的无产阶级革命也不可能离开革命自由软件运动！</p>
+<h3>同志们，行动起来！将自由软件运动的成果传播到工人阶级当中！掀起无产阶级革命的浪潮！</h3>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/716">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/716</link>
+          <pubDate>Wed, 24 Mar 2021 14:11:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-716</guid>
+          <source url="https://mlmmlm.icu/t/topic/716.rss">微幕 O$ ——在恶意里找“便利”</source>
+        </item>
+        <item>
+          <title>软件自由与路线问题</title>
+          <dc:creator><![CDATA[news_porter]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <h1>软件自由与路线问题</h1>
+<p>出处：《新闻》七月上</p>
+<p>编者按：这是一篇内部投稿。</p>
+<h2>私有软件的危害以及危害的成因</h2>
+<p>最近几天，微信被爆出了用户因修改密码被封号的事件（没错是修改密码），一个外国人用微信国际版（wechat）修改密码为fu*kcpc1989（1989年的六四事件相关）后，仅仅过了45秒，其微信帐号就被永久封禁。这一事件使得微信到底有多危险这一点暴露得更加淋漓尽致。</p>
+<p>微信等私有软件监控用户早已不是什么新闻，在搜索引擎中很轻易就能搜到很多在微信上发表“反动”（实为反对中国政府）言论被逮捕的例子，只是这回腾讯的业务终于在登录密码上也暴露出来了，我们可以试着问一句，<strong>如果腾讯连密码都要检测，那么还有什么是他们不检测的呢？</strong></p>
+<p>一部安装了微信QQ等主流私有应用的手机是你身边的间谍，而一部充斥着大量私有软件的手机更是你肚子里的蛔虫，你说过什么，写过什么，拍过什么，看过什么，通通都能在连同私有操作系统在内的私有软件们的通力配合下一览无余地全部暴露在监控者的眼中。监控者还能将你的隐私信息出卖给其他买家——政府、商家、诈骗分子、黑社会以及其他你不愿意接触到的人。如果坚持使用他们的话，你的隐私就毫不隐私了，你的秘密就毫不秘密了。更别说还有很难被发现的mfsocket等专门用来监控的软件是否存在你手机上了。</p>
+<p>对于我们来说，这种情况对我们的个人隐私造成了巨大破坏的行为是极为危险的，不仅我们当下的一言一行可以被资本家们收集到，甚至我们未来可能会做出怎样的举动以及选择，也能在大数据技术的支持之下得以预判断。这种根本毫无秘密可言的情况下，保护自己的家人朋友都成问题，发展革命力量更无异于天方夜谭。甚至于说，只要稍微越界，哪怕开一个和政治稍有关系的玩笑，警察都会上门访问。不要以为这只是一个构想出来的极端案例，这本身就是赤裸裸的现实。在新疆，在新疆集中营、网监最为盛行的2017—2019年里，有多少少数民族同胞仅仅因为发了疑似政治相关的内容就被抓进了集中营，到了如今很多少数民族同胞已经不敢再使用智能手机了。想想看，在这种情况下，如果不使用自由软件，也不拒绝哪怕限制使用私有软件，我们不仅要自废武功，放弃线上的通讯；也要避免线下交流时携带任何电子设备，毕竟手机等电子设备可以录音，而私有软件是可以通过种种手段取得录音权限的。</p>
+<p>然而在另一方面，遗憾的是，在目前的生活环境里完全抛弃私有软件对很多人来说是不现实的。正如理查德·斯托曼讲的那样，人们对于私有软件的依赖存在社会惯性：周围人包括你的同事上级都在使用私有软件进行工作时，你也不能置身事外；并且大部分人也并没有接触过自由软件，或者说接触过也并不知道什么是自由软件。但上述情况并不是“从来如此便对的”：大部分人接触不到自由软件，大部分人对于私有软件的依赖，都是资本家强加给我们的，例如危信钉钉无一不是和工作和学习绑定的，他们用旧的社会关系将私有软件强加给我们。如果我们拒绝使用微信或者钉钉，我们很有可能因此会找不到工作；现在有很多线下的店铺也更期望顾客使用移动支付，他们常常以没有零钱为借口拒绝现金交易，但移动支付平台同样都是私有软件，这也是较难拒绝的方面；而在社交和娱乐领域大部分都使用私有软件，这同时也加大了我们避免使用私有软件的成本。上述情况一方面代表了我们彻底脱离私有软件需要一个过程，一方面也说明了在私有软件平台上的宣传是不可避免的，因为在自由软件平台上呼吁私有软件用户放弃私有软件无异于是隔空喊话，但这种宣传本来就应当以揭露私有软件的罪恶，引导群众自行离开私有软件的渊薮，来到自由软件的天下为目的。</p>
+<h2>自由软件·路线问题</h2>
+<p>可惜的是，某些自称代表了无产阶级的组织对私有软件仍抱有侥幸心理，并且他们以“怕麻烦”和“工人多使用微信”为借口拒绝将这些自由软件工具作为他们的主要线上宣传手段。<strong>从行动上看这无异于自杀，而且拔出萝卜带出泥有可能带上一串人陷入危险之中</strong>。</p>
+<p>“怕麻烦”，我倒想问问了，究竟是谁怕麻烦？是工人还是这些工人“代表”们？工人怕麻烦很正常，工人内部同样存在先进和落后之分，也许其中较为落后的部分就会因为“麻烦”而选择放弃自己的隐私权，甘心甘于现状。但是作为工人“代表”的某些组织的成员呢？你们也怕麻烦吗？你们自称自己是工人的代表，就应该拿出代表的样子来，不能在任何阶级斗争的问题上和资产阶级妥协。私有软件是资产阶级强加给人民群众，尤其是工人阶级的，是资产阶级对无产阶级的阶级斗争的表现，作为工人代表应当在一切领域贯彻马列毛主义，率先回击这种反动阶级的阶级斗争。</p>
+<p>“工人多使用微信”，又一可笑的理由。然而，工人不仅多使用微信，而且还普遍受着剩余价值的剥削呢。对于工人普遍受剥削的情况，能表示认同，并且要做出回击；对于信息领域的剥削，却视而不见或没有引起重视。难道某些工人“代表”们不是不满于工人受剥削的事实，而是仅仅在乎工人的工资水平高不高，生活水平高不高吗？所以能改变经济状况的，反剩余价值剥削，就做；对于改变经济状况没有直接帮助的，比如反对私有软件领域的信息盘剥就视而不见。如果真是如此你们有什么资格说自己是工人阶级利益的代表呢？你们连工人阶级的历史使命都不清楚，只知道工人生活水平不够好。如果并非如上所述，那么至少也代表了某些工人“代表”在阶级斗争问题上的不彻底性，以及他们的失职：<strong>他们没能将最革命的带给广大工人阶级</strong>。</p>
+<p>对于你们为什么不大力普及自由软件，并把自由软件平台作为自己的宣传主阵地，我想可能是以下的原因：我们为什么需要某物，是因为我们对某物有需求。这句话看起来像是同语反复的车轱辘话，但却是一句颠扑不破的真理。很多小资产者不选择使用自由软件，不是因为他不知道，而是因为他不需要。他不需要也不想改变现有的社会秩序，不需要也不想破坏资本家吃肉小资产阶级喝汤的局面。因而他会认为自由软件没什么人开发和维护，比不过私有软件。而对于某些自称代表了无产阶级利益的组织呢？他们则认为没有必要向工人灌输彻彻底底的革命思想，没有必要为持久人民战争做好舆论准备和组织准备，自然也不想“大费周章”地教会工人使用自由软件，并大力弘扬自由软件平台。</p>
+<p>你们的内心深处一定还有这样的声音让你们对自由软件的使用始终不上心：<strong>我们没必要为革命做充足的准备，只要在现有条件下把群众拉拢过来就好了，能合法就合法吧，组织程度什么的无所谓，人民武装力量的建设准备有无所谓，所以就“不麻烦”地暂且用用私有软件吧</strong>。但是，合法斗争不能直接为最终取得政权做铺垫，中间必然会经历非法斗争。</p>
+<p>为什么？事实如此：看看美国最近的事件吧，目前当地（明尼苏达市附近）尚没有成型的先锋队的带领，可群众就已经和资产阶级政府爆发了暴力冲突，这说明什么？当社会的阶级矛盾不断累计时，对立的双方将不可避免地走向暴力冲突之中。以前涨工资能哄好无产阶级，但当无产阶级日渐觉醒后，他们要的权益就会更多，而资产阶级的让步是有限的——<strong>他们绝无可能让步到消灭自身的程度</strong>，所以暴力冲突是不可避免的。这就是说，如果到了工人们已经个个恨不得立刻对资本家食肉寝皮、挫骨扬灰之时，你却在那里大喊“法律！法律！”妄图继续合法斗争。这种情况下你又如何证明自己代表了工人阶级的利益呢？</p>
+<p>既然非法斗争本就不可避免，并且不会在运动的最后才不可避免，那从一开始就应当做好非法斗争的准备，这就需要群众性的鼓动，这自然不可能仅在线上实现，但如果不能排除各种私有软件的存在，在线下同样很危险，很容易就会给革命事业造成巨大损失。但与此同时，网络与计算机技术作为第三次科技革命的伟大产物，本来可以让各地革命组织更方便地进行交流，从而促进他们形成先锋队。不使用这种工具简直就是自废武功。但无论哪一样，都需要使用自由软件，都需要先进分子将自由软件传播给以工人阶级为代表的人民大众。因而必须正视私有软件的危害，更必须正视路线问题的重要性。</p>
+<p>没有安全的交流就不可能有安全的行动。我们的事业的风险是巨大的，是随时都有生命危险的——这不是危言耸听，因为不安全的交流带来的牺牲是不值得的，而路线错误导致的牺牲又是最根本的——当年的四·一二就是前车之鉴。正确的路线使我们渐渐选择了使用自由软件的线上宣传，而不是继续和左圈一起在私有软件平台上渐渐腐烂；错误的路线使得某些组织没有脱离私有软件的打算，继续走合法路线。没有革命的理论，就没有革命的行动。<strong>彻底革命的理论必然指引正确道路，而稍加不彻底的革命理论都会使革命运动走向万劫不复的深渊</strong>。</p>
+            <p><small>12 个帖子 - 5 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/711">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/711</link>
+          <pubDate>Wed, 24 Mar 2021 12:48:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-711</guid>
+          <source url="https://mlmmlm.icu/t/topic/711.rss">软件自由与路线问题</source>
+        </item>
+        <item>
+          <title>问一个关于处理IP的问题</title>
+          <dc:creator><![CDATA[XingPing]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>如何处理自己的IP地址？怎么更改才能不被发现。</p>
+            <p><small>5 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/586">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/586</link>
+          <pubDate>Sat, 06 Mar 2021 12:10:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-586</guid>
+          <source url="https://mlmmlm.icu/t/topic/586.rss">问一个关于处理IP的问题</source>
+        </item>
+        <item>
+          <title>百度大脑高精度版，含段落信息</title>
+          <dc:creator><![CDATA[adt]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <pre><code class="lang-python">
+【已删除】
+</code></pre>
+            <p><small>13 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/489">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/489</link>
+          <pubDate>Sat, 27 Feb 2021 12:03:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-489</guid>
+          <source url="https://mlmmlm.icu/t/topic/489.rss">百度大脑高精度版，含段落信息</source>
+        </item>
+        <item>
+          <title>告别专有软件全能***，如何利用智能手机制作电子书</title>
+          <dc:creator><![CDATA[adt]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>1.对图像进行压缩<br>
+<a href="https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/</a><br>
+2. Scan Tailor<br>
+<a href="https://github.com/scantailor/scantailor" class="onebox" target="_blank" rel="noopener nofollow ugc">https://github.com/scantailor/scantailor</a><br>
+3.把照片合成一本书<br>
+<a href="https://stackoverflow.com/questions/8955425/how-can-i-convert-a-series-of-images-to-a-pdf-from-the-command-line-on-linux" class="onebox" target="_blank" rel="noopener nofollow ugc">https://stackoverflow.com/questions/8955425/how-can-i-convert-a-series-of-images-to-a-pdf-from-the-command-line-on-linux</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/480">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/480</link>
+          <pubDate>Fri, 26 Feb 2021 12:49:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-480</guid>
+          <source url="https://mlmmlm.icu/t/topic/480.rss">告别专有软件全能***，如何利用智能手机制作电子书</source>
+        </item>
+        <item>
+          <title>【小技巧】如何在个人电脑与vps之间传输大文件</title>
+          <dc:creator><![CDATA[adt]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>如果你有文件要传输到vps上，可以先上传到mega.nz然后再使用<br>
+<a href="https://github.com/meganz/MEGAcmd" class="onebox" target="_blank" rel="noopener nofollow ugc">https://github.com/meganz/MEGAcmd</a><br>
+下载到vps上。<br>
+从vps下载大文件可以先用MEGAcmd上传到MEGA上，然后下载到电脑上。</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/479">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/479</link>
+          <pubDate>Fri, 26 Feb 2021 11:11:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-479</guid>
+          <source url="https://mlmmlm.icu/t/topic/479.rss">【小技巧】如何在个人电脑与vps之间传输大文件</source>
+        </item>
+  </channel>
+</rss>
