@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+    <link>https://mlmmlm.icu/t/topic/1305</link>
+    <description>https://electronics-diy.com/electronic_schematic.php?id=1065
+
+https://en.wikipedia.org/wiki/2200-meter_band</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 10 Aug 2022 02:51:34 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1305.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>Pure-Python Reed Solomon encoder/decoder<br>
+纯 Python 实现的 Reed Solomon 编码器/解码器</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://pypi.org/project/reedsolo/">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b21571882e9fe245d5dfca39ca88a2c73b892af0.png" class="site-icon" width="" height="">
+
+      <a href="https://pypi.org/project/reedsolo/" target="_blank" rel="noopener nofollow ugc">PyPI</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/f/fbd3be5698076d694ade5b76ea8b3484d745cd4c.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://pypi.org/project/reedsolo/" target="_blank" rel="noopener nofollow ugc">reedsolo</a></h3>
+
+  <p>Pure-Python Reed Solomon encoder/decoder</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox wikipedia" data-onebox-src="https://zh.wikipedia.org/wiki/%E9%87%8C%E5%BE%B7-%E6%89%80%E7%BD%97%E9%97%A8%E7%A0%81">
+  <header class="source">
+
+      <a href="https://zh.wikipedia.org/wiki/%E9%87%8C%E5%BE%B7-%E6%89%80%E7%BD%97%E9%97%A8%E7%A0%81" target="_blank" rel="noopener nofollow ugc">zh.wikipedia.org</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://zh.wikipedia.org/wiki/%E9%87%8C%E5%BE%B7-%E6%89%80%E7%BD%97%E9%97%A8%E7%A0%81" target="_blank" rel="noopener nofollow ugc">里德-所罗门码</a></h3>
+
+<p>里德-所罗门码（Reed-solomon codes，簡稱里所码或 RS codes）是一种前向錯誤更正的信道编码，对由校正过采样数据所产生的有效多项式。编码过程首先在多个点上对这些多项式求冗余，然后将其传输或者存储。对多项式的这种超出必要值的采样使得多项式超定（过限定）。当接收器正确地收到足够的点后，它就可以恢复原来的多项式，即使接收到的多项式上有很多点被噪声干扰失真。
+ 里德-所罗门码被广泛地应用于各种商业用途，最显著的是在 CD、DVD、蓝光光盘和QR code上的使用；在数据传输中，它也被用于 DSL 和 WiMAX；广播系统中 DVB 和 ATSC 也闪现着它的身影；在计算机科学里，它是 RAID 6 标准的重要成员。
+ 里德-所罗门码是定长码。这意味着一个固定长度输入的数据将被处理成一个固定长度的输出数据。在最常用的（255,223）里所码中，223个里德-所罗门输入符号（每个符号有8个位元）被编码成255个输出符号。
+ 里德-所罗门码，如同卷积码一样，是一种透明码。这代表如果信道符号在队列的某些地方被反转，解码器一样可以工作。解码结果将是原始数据的补充。但是，里所码在缩短后...</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1305/2">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/2</link>
+        <pubDate>Wed, 10 Aug 2022 02:51:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://electronics-diy.com/electronic_schematic.php?id=1065">
+  <header class="source">
+      <img src="https://electronics-diy.com/electronic_schematic.php/favicon.ico" class="site-icon" width="" height="">
+
+      <a href="https://electronics-diy.com/electronic_schematic.php?id=1065" target="_blank" rel="noopener nofollow ugc">electronics-diy.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://electronics-diy.com/electronic_schematic.php?id=1065" target="_blank" rel="noopener nofollow ugc">100W Transmitter Amplifier for 2200m</a></h3>
+
+  <p>This particular transmitter was later shipped up to VY1JA in the Yukon where, thanks to Jay's excellent antenna system, it was heard in Europe as well as in New Zealand during one of the Trans-Pacific Tests! Running 24 volts on the final will produce...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox wikipedia" data-onebox-src="https://en.wikipedia.org/wiki/2200-meter_band">
+  <header class="source">
+
+      <a href="https://en.wikipedia.org/wiki/2200-meter_band" target="_blank" rel="noopener nofollow ugc">en.wikipedia.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/7/70ebf68271ee2f4b97cf1653f7ceddcf6fd0b58f.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://en.wikipedia.org/wiki/2200-meter_band" target="_blank" rel="noopener nofollow ugc">2200-meter band</a></h3>
+
+<p>The 2200-meter or 136&nbsp;kHz band is the lowest frequency band in which amateur radio operators are licensed to transmit. It was formally allocated to amateurs at the 2007 World Radiocommunication Conference (WRC-07). The band is available on a secondary basis in all ITU regions with the limitation that amateur stations have maximum radiated power of 1&nbsp;watt effective isotropic radiated power.
+ The 2200-meter band is within the low frequency (LF) band, just below the 153–279&nbsp;kHz longwave broadcast ba...</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1305/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/1</link>
+        <pubDate>Wed, 10 Aug 2022 02:49:59 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+  </channel>
+</rss>

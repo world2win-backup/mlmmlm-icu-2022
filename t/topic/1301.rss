@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>一些无线电的基础知识</title>
+    <link>https://mlmmlm.icu/t/topic/1301</link>
+    <description>https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-modulation/amplitude-modulation-theory-time-domain-frequency-domain/
+
+https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-modulation/frequency-modulation-theory-time-domain-frequency-domain/
+
+https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf
+
+https://www.youtube.com/watch?v=o9XCnZQkvQ0</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 13 Aug 2022 10:15:40 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1301.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/0alGwaqT#v024hNPAYHMrrbBRMBySpQ">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/9/9741bfb741263513f2763649afe9f592ff68ed22.png" class="site-icon" width="" height="">
+
+      <a href="https://mega.nz/folder/0alGwaqT#v024hNPAYHMrrbBRMBySpQ" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://mega.nz/folder/0alGwaqT#v024hNPAYHMrrbBRMBySpQ" target="_blank" rel="noopener nofollow ugc">1.14 GB folder on MEGA</a></h3>
+
+  <p>46 files and 6 subfolders</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+文革时期无线电杂志</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/6">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/6</link>
+        <pubDate>Sat, 13 Aug 2022 10:15:40 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox stackexchange" data-onebox-src="https://physics.stackexchange.com/questions/659296/are-the-field-lines-on-a-bar-magnet-diagram-contour-lines">
+  <header class="source">
+
+      <a href="https://physics.stackexchange.com/questions/659296/are-the-field-lines-on-a-bar-magnet-diagram-contour-lines" target="_blank" rel="noopener nofollow ugc">physics.stackexchange.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://physics.stackexchange.com/users/274910/samyak-marathe" target="_blank" rel="noopener nofollow ugc">
+    <img alt="Samyak Marathe" src="https://mlmmlm.icu/uploads/default/original/2X/f/f2563c50daeb3e40e8ac653c04480d357b06b989.jpeg" class="thumbnail onebox-avatar" width="" height="">
+  </a>
+
+<h4>
+  <a href="https://physics.stackexchange.com/questions/659296/are-the-field-lines-on-a-bar-magnet-diagram-contour-lines" target="_blank" rel="noopener nofollow ugc">Are the field lines on a bar magnet diagram contour lines?</a>
+</h4>
+
+<div class="tags">
+  <strong>electromagnetism, magnetic-fields, potential, vector-fields</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://physics.stackexchange.com/users/274910/samyak-marathe" target="_blank" rel="noopener nofollow ugc">
+    Samyak Marathe
+  </a>
+  on <a href="https://physics.stackexchange.com/questions/659296/are-the-field-lines-on-a-bar-magnet-diagram-contour-lines" target="_blank" rel="noopener nofollow ugc">10:40AM - 14 Aug 21 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>The magnetic field however is generally not such a field: in mathematical parlance, we say it is not a <a href="https://en.wikipedia.org/wiki/Conservative_vector_field" rel="noopener nofollow ugc">conservative field</a>. (As noted in the comments) A notable exception to this is a magnetic dipole, such as a bar magnet, whose magnetic field can be described in terms of a scalar field <a href="https://en.wikipedia.org/wiki/Magnetic_scalar_potential" rel="noopener nofollow ugc">whose contours run perpendicular to the field lines</a>. This, however, is a special case.</p>
+<p><a href="https://aip.scitation.org/doi/pdf/10.1063/1.168384" class="onebox" target="_blank" rel="noopener nofollow ugc">https://aip.scitation.org/doi/pdf/10.1063/1.168384</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/5">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/5</link>
+        <pubDate>Sat, 13 Aug 2022 07:57:25 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>关于天线的科普<br>
+BV1g54y1X7VF</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/4">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/4</link>
+        <pubDate>Sat, 13 Aug 2022 07:31:23 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://open.163.com/newview/movie/courseintro?newurl=XFVMGNB30">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/7/7aadac85aa9437341e7d430948bb2ae05469654c.png" class="site-icon" width="" height="">
+
+      <a href="https://open.163.com/newview/movie/courseintro?newurl=XFVMGNB30" target="_blank" rel="noopener nofollow ugc">open.163.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+<h3><a href="https://open.163.com/newview/movie/courseintro?newurl=XFVMGNB30" target="_blank" rel="noopener nofollow ugc">天线原理</a></h3>
+
+  <p>本课程是电子信息类本科专业的必修课程，内容包括：天线的基本概念和基本理论；常用线天线及其阵列的基本工作原理；面天线基础，包括面元的辐射特性、喇叭天线、旋转抛物面天线以及卡塞格伦天线等常用面天线的结构、工作原理和基本分析方法；天线主要电参数的测量原理和方法等。要求学生通过学习本课程掌握常用天线的基本概念、基本工作原理和基本分析及测量方法，为今后的学习和工作打下基础。本课程采用的教材为马汉炎教授编著、哈尔滨工业大学出版社出版的《天线技术》，该教材的体例与国内许多本科教材一致，通用性很强，着重于基本概...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+课程介绍：本课程是电子信息类本科专业的必修课程，内容包括：天线的基本概念和基本理论；常用线天线及其阵列的基本工作原理；面天线基础，包括面元的辐射特性、喇叭天线、旋转抛物面天线以及卡塞格伦天线等常用面天线的结构、工作原理和基本分析方法；天线主要电参数的测量原理和方法等。要求学生通过学习本课程掌握常用天线的基本概念、基本工作原理和基本分析及测量方法，为今后的学习和工作打下基础。本课程采用的教材为马汉炎教授编著、哈尔滨工业大学出版社出版的《天线技术》，该教材的体例与国内许多本科教材一致，通用性很强，着重于基本概念的讲解，适合初学者学习。授课人提供与该教材相配套的辅导材料，包括对知识点的分析和大量的例题、习题及解答过程，便于学习者自学。</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1tQ4y1y7aJ/">
+  <header class="source">
+
+      <a href="https://www.bilibili.com/video/BV1tQ4y1y7aJ/" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/2/2578563124b6b3fa4d1c4214acbb89da24fb623b.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.bilibili.com/video/BV1tQ4y1y7aJ/" target="_blank" rel="noopener nofollow ugc">什么是三极管？结构及工作原理_哔哩哔哩_bilibili</a></h3>
+
+  <p>什么是三极管？结构及工作原理, 视频播放量 28324、弹幕量 11、点赞数 392、投硬币枚数 111、收藏人数 709、转发人数 150, 视频作者 猎板PCB, 作者简介 1-12层PCB打样、中小批量，关注我们，www.pcbhunt.com，相关视频：三极管原理动画演示 Bipolar Junction Transistor -...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1EW411u7th/">
+  <header class="source">
+
+      <a href="https://www.bilibili.com/video/BV1EW411u7th/" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/a/ae177e0fa101664e14146821b040824a259006ad.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.bilibili.com/video/BV1EW411u7th/" target="_blank" rel="noopener nofollow ugc">【计算机科学速成课】[40集全/精校] - Crash Course Computer Science_哔哩哔哩_bilibili</a></h3>
+
+  <p>【计算机科学速成课】[40集全/精校] - Crash Course Computer Science共计40条视频，包括：1. 计算机早期历史-Early Computing、2. 电子计算机-Electronic Computing、3. 布尔逻辑 和 逻辑门-Boolean Logic &amp; Logic Gates、4. 二进制-Representing Numbers and Letters with Binary_BiliBili、5. 算术逻辑单元-How Computers...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1y34y1C7mp">
+  <header class="source">
+
+      <a href="https://www.bilibili.com/video/BV1y34y1C7mp" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/f/f2b38211ddb975b65485068347b36f290b8c4928.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.bilibili.com/video/BV1y34y1C7mp" target="_blank" rel="noopener nofollow ugc">《射频电路基础（高频电子线路）》 上半部合集  西安电子科技大学 邓军_哔哩哔哩_bilibili</a></h3>
+
+  <p>《射频电路基础（高频电子线路）》 上半部合集  西安电子科技大学...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1Ks41157L6">
+  <header class="source">
+
+      <a href="https://www.bilibili.com/video/BV1Ks41157L6" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/c/c2666c3493fd7441f019c0a996bfeb2780abea6c.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.bilibili.com/video/BV1Ks41157L6" target="_blank" rel="noopener nofollow ugc">小米对讲机2瓦U段通联175km_哔哩哔哩_bilibili</a></h3>
+
+  <p>这里是BG6TPE，我的QTH在武汉庙山，28楼楼顶，海拔高度100m，通联175km外的大洪山中继，小米对讲机2瓦发射，使用钻石771天线。
+所以，小米对讲机这个玩具完全没问题的！高度&gt;好天气环境&gt;天线&gt;功率，我感觉1瓦或者0.5瓦也能通，可惜小米没法调功率。
+顺便录完视频后又第一次通联了荆州中继。, 视频播放量 27635、弹幕量 31、点赞数 122、投硬币枚数 6、收藏人数 87、转发人数 61, 视频作者 灰羽工坊, 作者简介...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1301/3">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/3</link>
+        <pubDate>Sat, 13 Aug 2022 06:52:53 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>如果有什么问题可以直接在这个贴子里面问，虽然我也不太懂。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/2">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/2</link>
+        <pubDate>Wed, 10 Aug 2022 02:52:19 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-modulation/amplitude-modulation-theory-time-domain-frequency-domain/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-modulation/amplitude-modulation-theory-time-domain-frequency-domain/</a></p>
+<p><a href="https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-modulation/frequency-modulation-theory-time-domain-frequency-domain/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-modulation/frequency-modulation-theory-time-domain-frequency-domain/</a></p>
+<aside class="onebox pdf" data-onebox-src="https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf">
+  <header class="source">
+
+      <a href="https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf" target="_blank" rel="noopener nofollow ugc">ecb.torontomu.ca</a>
+  </header>
+
+  <article class="onebox-body">
+    <a href="https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf" target="_blank" rel="noopener nofollow ugc"><span class="pdf-onebox-logo"></span></a>
+
+<h3><a href="https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf" target="_blank" rel="noopener nofollow ugc">Chap3_AM-notes%20Part%202.pdf</a></h3>
+
+  <p class="filesize">670.19 KB</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><a href="https://www.youtube.com/embed/o9XCnZQkvQ0?autoplay=1&amp;feature=oembed&amp;wmode=opaque">https://www.youtube.com/embed/o9XCnZQkvQ0</a></p>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1301/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/1</link>
+        <pubDate>Wed, 10 Aug 2022 02:39:44 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+  </channel>
+</rss>

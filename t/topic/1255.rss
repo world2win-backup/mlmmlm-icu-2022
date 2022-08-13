@@ -9,224 +9,128 @@
 4.便于搜索的《文化大革命文库》
 5.将《红旗》、马恩全集、列宁全集OCR一遍，但是不排版</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Aug 2022 07:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2022 05:35:14 +0000</lastBuildDate>
     <category>一般讨论</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1255.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>关于资料整理的计划</title>
         <dc:creator><![CDATA[106coup]]></dc:creator>
         <description><![CDATA[
-            <aside class="quote" data-post="1" data-topic="1271">
-  <div class="title">
-    <div class="quote-controls"></div>
-    <img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/1/77aa72/40.png" class="avatar">
-    <a href="https://mlmmlm.icu/t/topic/1271">目前收录的文字资料</a> <a class="badge-wrapper  bullet" href="https://mlmmlm.icu/c/7-category/7"><span class="badge-category-bg" style="background-color: #BF1E2E;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">文献 | 书籍</span></a>
-  </div>
-  <blockquote>
-    <a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>收录内容：
-《中国文化大革命文库》中毛、四人、毛远新、康生、谢富治资料 
-《毛泽东思想万岁》六八年汉版，第一到第五卷 
-《红旗》一九七六年第一到第十期 
-《鲁迅全集》 
-各地造反派资料（见楼下） 
-其他一些书籍（见楼下）
-  </blockquote>
+            <p>说实在的我不会建议去上传到 Z-Library，因为那就是一个盈利性的对 library genesis 的镜像，库存不公开，运营不透明。</p>
+<p>书籍应当优先被传到 library genesis，LG 会把大家上传的书一千本一份全部公开出来，近两年来他们还为书籍做了 IPFS 功能。</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/c/c57b40d3af3491b00ee34366e5fde28b3f6a7e6e.jpeg" alt="image" data-base62-sha1="sb085Fe1YIrWrUxblBaoBS588Mu" width="461" height="500"></p>
+<p>由于 Z-Lib 是 LG 的镜像，所以用户上传到 LG 的所有书籍过一阵子都会出现在 Z-Lib。</p>
+<p>LG 那边像是封禁了你的 IP，他们对书籍的质量比较重视，社区志愿的 Librarian 们会尽量去填充上传的每一本书的元数据。这种大量上传的行为他们比较反感（马列之声的这批资料连标题都参差不齐）。据管理员团队所言“他们手里待上传的书比已经在 LG 上的书还多，囤积资料不是重点，重点是填充尽可能多的元数据为人们所用”（We have more books to upload than are already on LG, hoarding material is not the point, the point is to fill in as much metadata as possible for people to use）。</p>
+<p>这是 LG 后台的上传队列：</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/e/e9172dbf3c4f74b4861d360836a420bcc0e93c7e.png" alt="image" data-base62-sha1="xg0UsUWaGrfipc1cvpYa53rGOD4" width="690" height="226"></p>
+<aside class="quote no-group" data-username="Xuan_JunHe" data-post="47" data-topic="1255">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/xuan_junhe/40/1867_2.png" class="avatar"> Xuan_JunHe:</div>
+<blockquote>
+<p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/yHMe6WS8MuVGrZETs2LfvkJZyCO.list">lf2.list</a> (1.2 MB)</p>
+</blockquote>
 </aside>
-
-<p>目前有的资料，Prolet 的 Github 库那边还有一些文字版资料没收录进来。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/15">阅读完整话题</a></p>
+<p>从这个文件可以查到我们使用脚本上传了 5465 本书。</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/0aa220853ac1e04e7029b96392259162b0838868.png" alt="image" data-base62-sha1="1w484L7ennKzehWk9oeBoeQuWCY" width="690" height="42"><br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/d/da76a95e9935b4aab0be6b015a42e3a73ae01910.png" alt="image" data-base62-sha1="vaCjPyfHM669ID1SOLig8ns1eco" width="261" height="41"></p>
+<p>社区正在处理这五千多本书。</p>
+<p>马列之声的库存据估计应该有超过五万本。</p>
+<p><a class="mention" href="https://mlmmlm.icu/u/fffv">@fffv</a></p>
+<aside class="quote no-group" data-username="fffv" data-post="57" data-topic="1255" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/f/9f8e36/40.png" class="avatar"> fffv:</div>
+<blockquote>
+<p>可以用IPFS存吧？零成本</p>
+</blockquote>
+</aside>
+<p>使用 IPFS 是可行的，只是需要有地方一直存放文件，时不时 pin 文件才能保持文件可下载。如果没人去 pin 文件那么书籍也是会消失的。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/58">阅读完整话题</a></p>
         ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/15</link>
-        <pubDate>Tue, 02 Aug 2022 07:14:51 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-15</guid>
+        <link>https://mlmmlm.icu/t/topic/1255/58</link>
+        <pubDate>Sat, 13 Aug 2022 05:18:05 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-58</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[fffv]]></dc:creator>
+        <description><![CDATA[
+            <p>可以用IPFS存吧？零成本</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/57">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/57</link>
+        <pubDate>Fri, 12 Aug 2022 15:42:16 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-57</guid>
         <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
       </item>
       <item>
         <title>关于资料整理的计划</title>
         <dc:creator><![CDATA[106coup]]></dc:creator>
         <description><![CDATA[
-            <p><a class="mention" href="https://mlmmlm.icu/u/azide">@azide</a> 最好是组织一下看看有哪些需要搞的吧。你是想在这里讨论解决么</p>
-<p>马列之声的书可以不那么紧急，先把最紧急的搞完</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/14">阅读完整话题</a></p>
+            <p>先搁置吧，继续维持你的网盘就好了。经济方面维持不了可以考虑拆分成多个保存。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/56">阅读完整话题</a></p>
         ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/14</link>
-        <pubDate>Sun, 31 Jul 2022 15:06:04 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-14</guid>
+        <link>https://mlmmlm.icu/t/topic/1255/56</link>
+        <pubDate>Fri, 12 Aug 2022 15:04:50 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-56</guid>
         <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
       </item>
       <item>
         <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
         <description><![CDATA[
-            <blockquote>
-<p>GitHub上好像还有文化大革命文库的备份，但是缺点是不好按照时间、人物进行分类</p>
-</blockquote>
-<p>这个好解决，把下面这个目录parse一边就行了</p><aside class="onebox githubfolder" data-onebox-src="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post">
+            <p>傳送到Z-Library同樣需要人工輸入元信息，否則仍然會被視作垃圾數據。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/55">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/55</link>
+        <pubDate>Fri, 12 Aug 2022 14:58:45 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-55</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/f/fc84f6184c3cb1782dd6f4325d166b414929ffdb.png" alt="Screenshot from 2022-08-12 04-33-37" data-base62-sha1="A1TbPB3W53JWh2LNfWAGpQDpUeL" width="690" height="276"><br>
+現在出現錯誤了。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/54">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/54</link>
+        <pubDate>Fri, 12 Aug 2022 08:33:56 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-54</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>如果不行的话把剩下的书传Z-library</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/53">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/53</link>
+        <pubDate>Fri, 12 Aug 2022 08:32:19 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-53</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/raAFma5R#BeD2qTjxwol47G6jrzdPmQ">
   <header class="source">
-      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b9188d6a55ebb8c293719b8cb9800fb830b740b0.png" class="site-icon" width="" height="">
 
-      <a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">github.com</a>
+      <a href="https://mega.nz/folder/raAFma5R#BeD2qTjxwol47G6jrzdPmQ" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
   </header>
 
   <article class="onebox-body">
-    <h3><a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">cultural-revolution-database/site/content/post at master ·...</a></h3>
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
 
-  <p><a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">master/site/content/post</a></p>
+<h3><a href="https://mega.nz/folder/raAFma5R#BeD2qTjxwol47G6jrzdPmQ" target="_blank" rel="noopener nofollow ugc">11.51 GB folder on MEGA</a></h3>
 
-  <p><span class="label1">中国文化大革命文库 The Chinese Cultural Revolution Database - cultural-revolution-database/site/content/post at master · speechfree/cultural-revolution-database</span></p>
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-          <p><a href="https://mlmmlm.icu/t/topic/1255/13">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/13</link>
-        <pubDate>Sun, 31 Jul 2022 15:04:47 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-13</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
-        <description><![CDATA[
-            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/o3oim3WbNhl0SzmiziDdPYf6S3p.docx">红旗1976年第一期.docx</a> (134.5 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/l1xOY28boxQyiVu7uKKCNyHfL2E.docx">红旗1976年第二期.docx</a> (118.5 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/lIVF8Hv2ZgnJjUBtRnjgVqOUGyU.docx">红旗1976年第三期.docx</a> (124.5 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/4QTntiGqjaLTXoFnb8l9syHEvEf.docx">红旗1976年第四期.docx</a> (124.1 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/tUvP1HTxUVAPj1VHArKhy4HcAjp.docx">红旗1976年第五期.docx</a> (115.3 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/rt8iUYNgtMlRj2K0sGZsqUFEt5Z.docx">红旗1976年第六期.docx</a> (115.3 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/5QAQo8NrfXo9mtALtBFOoe3XZaq.docx">红旗1976年第七期.docx</a> (109.3 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/xOAA8h1r16s79DzhvfGyVtEbWtg.docx">红旗1976年第八期.docx</a> (121.6 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/mf5l2RLK3TleFYR7rVJ3oqQOuqH.docx">红旗1976年第九期.docx</a> (119.5 KB)<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/csnNTehwJutLimMQiHjxK7aZ8bS.docx">红旗1976年第十期.docx</a> (91.6 KB)</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/12">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/12</link>
-        <pubDate>Sun, 31 Jul 2022 14:47:50 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-12</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
-        <description><![CDATA[
-            <p><a href="http://gitlab.com/revo--" class="onebox" target="_blank" rel="noopener nofollow ugc">gitlab.com/revo--</a><br>
-有部分书的文字版。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/11">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/11</link>
-        <pubDate>Sun, 31 Jul 2022 14:45:40 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-11</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
-        <description><![CDATA[
-            <p>目前做到可以搜索就行了，如果文章重要再校对，不用手工录入，调用API即可。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/10">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/10</link>
-        <pubDate>Sun, 31 Jul 2022 14:42:14 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-10</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
-        <description><![CDATA[
-            <p>红旗76年1-10期我制作了文字版，可惜没空校对，后面自己也没继续录入了，可以先录入进去。王洪文的文革讲话我自制了一份，我收录到的大致是38份讲话，还在一直更新中。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/9">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/9</link>
-        <pubDate>Sun, 31 Jul 2022 14:40:59 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-9</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
-        <description><![CDATA[
-            <p>文件太大了，我没有技术做到，而且1976后的书可能会DMCA</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/8">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/8</link>
-        <pubDate>Sun, 31 Jul 2022 14:39:20 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-8</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
-        <description><![CDATA[
-            <p>最好是筛选后转存github吧</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/7">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/7</link>
-        <pubDate>Sun, 31 Jul 2022 14:37:49 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-7</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[aaa]]></dc:creator>
-        <description><![CDATA[
-            <p>有很多，包括文库第一版，首页有详细收录列表</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/6">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/6</link>
-        <pubDate>Sun, 31 Jul 2022 14:37:16 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-6</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
-        <description><![CDATA[
-            <p>还有一个问题mlzs的电子书有800GB，现在放在mega上，但是mega如果一年不登录会被删掉，所以应该放在那里？</p>
-<p>谁熟悉libgen，应该可以传ftp</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/5">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/5</link>
-        <pubDate>Sun, 31 Jul 2022 14:36:55 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-5</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[one_normal_one]]></dc:creator>
-        <description><![CDATA[
-            <p>目前是只收录了毛思万和文集第八卷吗？</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/4">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/4</link>
-        <pubDate>Sun, 31 Jul 2022 14:35:07 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-4</guid>
-        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[aaa]]></dc:creator>
-        <description><![CDATA[
-            <aside class="onebox allowlistedgeneric" data-onebox-src="https://banned-historical-archives.github.io/">
-  <header class="source">
-
-      <a href="https://banned-historical-archives.github.io/" target="_blank" rel="noopener nofollow ugc">banned-historical-archives.github.io</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://banned-historical-archives.github.io/" target="_blank" rel="noopener nofollow ugc">和谐历史档案馆 Banned Historical Archives</a></h3>
-
-  <p>和谐历史档案馆 Banned Historical Archives</p>
+  <p>103 files and 5 subfolders</p>
 
 
   </article>
@@ -239,41 +143,331 @@
   <div style="clear: both"></div>
 </aside>
 <p>
-我已经做了便于搜索的《文化大革命文库》</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/3">阅读完整话题</a></p>
+這些是OCR數據。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/52">阅读完整话题</a></p>
         ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/3</link>
-        <pubDate>Sun, 31 Jul 2022 14:29:18 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-3</guid>
+        <link>https://mlmmlm.icu/t/topic/1255/52</link>
+        <pubDate>Thu, 11 Aug 2022 05:02:16 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-52</guid>
         <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
       </item>
       <item>
         <title>关于资料整理的计划</title>
         <dc:creator><![CDATA[106coup]]></dc:creator>
         <description><![CDATA[
-            <p>最好是广泛发动同志们一起进行，大家一起参与进来。</p>
-<p>你设想是以什么形式合作整理？</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/2">阅读完整话题</a></p>
+            <p><a class="mention" href="https://mlmmlm.icu/u/xuan_junhe">@Xuan_JunHe</a> <a class="mention" href="https://mlmmlm.icu/u/adt">@adt</a></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/048411c7a615b2ac222dd54f71df8bf3ee86166b.png" alt="image" data-base62-sha1="DWRMcJa2esZ1SgcocOJpxVz84X" width="690" height="346"></p>
+<p>看起来是管理员那边处理的。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/51">阅读完整话题</a></p>
         ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/2</link>
-        <pubDate>Sun, 31 Jul 2022 14:14:01 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-2</guid>
+        <link>https://mlmmlm.icu/t/topic/1255/51</link>
+        <pubDate>Thu, 11 Aug 2022 04:51:08 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-51</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>我这里没有问题<a href="https://library.bz/main/uploads/new/90F337938E6C90CBA89C587850F58CCA" rel="noopener nofollow ugc">https://library.bz/main/uploads/new/90F337938E6C90CBA89C587850F58CCA</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/50">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/50</link>
+        <pubDate>Thu, 11 Aug 2022 04:48:43 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-50</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            401 Authorization Required
+
+<h1>401 Authorization Required</h1>
+<hr>nginx
+          <p><a href="https://mlmmlm.icu/t/topic/1255/49">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/49</link>
+        <pubDate>Thu, 11 Aug 2022 04:42:22 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-49</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>你curl一下<code>https://library.bz/main/uploads/</code>看看什么情况。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/48">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/48</link>
+        <pubDate>Thu, 11 Aug 2022 04:41:17 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-48</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/yHMe6WS8MuVGrZETs2LfvkJZyCO.list">lf2.list</a> (1.2 MB)<br>
+這是已經上傳完成的書籍的索引。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/47">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/47</link>
+        <pubDate>Thu, 11 Aug 2022 03:20:32 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-47</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>TypeError(“‘NoneType’ object is not subscriptable”)<br>
+現在無法上傳，上傳一定失敗，返回值為None。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/46">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/46</link>
+        <pubDate>Thu, 11 Aug 2022 03:20:00 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-46</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/mzSnJJzo3sjShyD3eb3tjeMKg7K.py">uplibgen.py</a> (2.1 KB)</p>
+<pre><code class="lang-auto">import os,sys,time
+from libgen_uploader import LibgenUploader
+from returns.pipeline import is_successful
+from libgen_uploader import LibgenMetadata
+
+u = LibgenUploader()
+def main_cycle():time.sleep(1);main()
+def main():
+    try:
+        lf=[]
+        lf2=[]
+        upurl=[]
+        if os.path.exists('lf.txt'):
+            f=open('lf.txt','r');lf=eval(f.read());f.close()
+        if os.path.exists('lf2.txt'):
+            f=open('lf2.txt','r');lf2=eval(f.read());f.close()
+        
+        for a,b,c in os.walk(sys.path[0]):
+            for d in c:
+                if d[-3:]!='jpg' and d[-2:]!='py' and d[-3:]!='txt' and d[-3:]!='swp':
+                    print(lp:='%s/%s'%(a,d))
+                    if lp not in lf:
+                        m = LibgenMetadata(title='.'.join(lp.split('/')[-1:][0].split('.')[:-1]), language='Chinese')
+                        result = u.upload_scitech(lp,metadata=m)
+                        if is_successful(result):
+                            upload_url = result.unwrap()
+                            if lp not in lf:lf.append([lp])
+                            if upload_url not in lf2:lf2.append([lp,upload_url])
+
+                            f=open('lf.txt','w+')
+                            for line in lf: {
+                                f.write(line[0] + '\n')
+                            }
+                            f.close()
+
+                            f=open('lf2.txt','w+')
+                            for line in lf2: {
+                                f.write(line[0] + '\n' + line[1] + '\n')
+                            }
+                            f.close()
+
+                            print(len(lf),upload_url)
+                        else:
+                            failure = result.failure()
+                            print(failure)
+                            if lp not in lf:lf.append([lp])
+
+                            f=open('lf.txt','w+')
+                            for line in lf: {
+                                f.write(line[0] + '\n')
+                            }
+                            f.close()
+    except:main_cycle()
+main()
+
+</code></pre>
+<p>我把你代码的写入文件部分改了改，仅仅是为了输出的整齐。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/45">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/45</link>
+        <pubDate>Wed, 10 Aug 2022 12:05:01 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-45</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p>几年以来马列之声电子书的问题算是彻底解决了</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/44">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/44</link>
+        <pubDate>Wed, 10 Aug 2022 08:49:19 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-44</guid>
         <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
       </item>
       <item>
         <title>关于资料整理的计划</title>
         <dc:creator><![CDATA[azide]]></dc:creator>
         <description><![CDATA[
-            <p>1.拆分PRD同志的GitHub仓库，利用 <code>git clone --filter</code>特性。<br>
-2.整理已经OCR的资料<br>
-3.将mega上的资料迁移到github和gitlab<br>
-4.便于搜索的《文化大革命文库》<br>
-5.将《红旗》、马恩全集、列宁全集OCR一遍，但是不排版</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1255/1">阅读完整话题</a></p>
+            <aside class="quote no-group" data-username="106coup" data-post="41" data-topic="1255">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/1/77aa72/40.png" class="avatar"> 106coup:</div>
+<blockquote>
+<p>担心的只是安全性问题</p>
+</blockquote>
+</aside>
+<p>如果流量走https其实还好，如果这个域名有很多人链接就比较难确定到个人。<br>
+https的sni尚无法加密。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/43">阅读完整话题</a></p>
         ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255/1</link>
-        <pubDate>Sun, 31 Jul 2022 14:11:07 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1255-1</guid>
+        <link>https://mlmmlm.icu/t/topic/1255/43</link>
+        <pubDate>Wed, 10 Aug 2022 08:43:33 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-43</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>是的，全部上傳。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/42">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/42</link>
+        <pubDate>Wed, 10 Aug 2022 08:41:45 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-42</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/arNicrShZaBVkwJf3sxXhiVBxW3.zip">目录.zip</a> (1.5 MB)</p>
+<p>我刚自己试了一下用这个脚本上传书可以直连不用代理，担心的只是安全性问题</p>
+<p><a class="mention" href="https://mlmmlm.icu/u/xuan_junhe">@Xuan_JunHe</a> 800 GB 你打算自己全部上传吗？是否需要帮助？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/41">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/41</link>
+        <pubDate>Wed, 10 Aug 2022 08:37:13 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-41</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>就是我是想问一下是怎么做的，如果用我自己的电脑做vmess的流量不够，用vps做储存空间又不够大。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/40">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/40</link>
+        <pubDate>Wed, 10 Aug 2022 08:36:28 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-40</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[106coup]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/9/9735739f56e32abb908ac95909f954a0c1033a75.jpeg" alt="image" data-base62-sha1="lzECik2wlad0vyXradA7Q3E17QF" width="637" height="500"><br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/2/22c760742616467c69822c172a5aeef3d17ced8e.png" alt="image" data-base62-sha1="4XFoB8YMmNw36yt3Q70oR7jf6uq" width="690" height="391"></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/39">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/39</link>
+        <pubDate>Wed, 10 Aug 2022 08:00:03 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-39</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://library.bz/main/uploads/BB52AD855435BD22234530AEDAFC2D5D" class="onebox" target="_blank" rel="noopener nofollow ugc">https://library.bz/main/uploads/BB52AD855435BD22234530AEDAFC2D5D</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/38">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/38</link>
+        <pubDate>Wed, 10 Aug 2022 07:59:33 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-38</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://library.bz/main/uploads/8E473099A52A7226E2C2238161854F0D" class="onebox" target="_blank" rel="noopener nofollow ugc">https://library.bz/main/uploads/8E473099A52A7226E2C2238161854F0D</a><br>
+效果就像這樣。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/37">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/37</link>
+        <pubDate>Wed, 10 Aug 2022 07:58:56 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-37</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>看起来没什么问题。你是在自家电脑上做还是vps上做？最好设置一下时间间隔。<br>
+请用tree命令把mega的mlzsbooks的目录上传到论坛里。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/36">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/36</link>
+        <pubDate>Wed, 10 Aug 2022 07:37:10 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-36</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>已開始自動化上傳，代碼是這樣的：<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/4V5BF5hAvFS9opH0ptWmGXKSri7.py">uplibgen.py</a> (1.6 KB)</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/35">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/35</link>
+        <pubDate>Wed, 10 Aug 2022 07:34:18 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-35</guid>
+        <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>你应该用 <code>upload_scitech</code>而不用 <code>upload_fiction</code></p>
+<pre><code class="lang-auto"># use metadata contained in the book
+u = LibgenUploader()
+u.upload_scitech("book.epub")
+
+# session-wide metadata source
+u = LibgenUploader(metadata_source="amazon_it")
+u.upload_scitech("book.epub", metadata_query="9788812312312") #这里想办法提取到ISBN号就可以成功了
+
+# book-level metadata source
+u = LibgenUploader()
+u.upload_scitech(
+    "book.epub",
+    metadata_source="amazon_it",
+    metadata_query=["9788812312312", "another_isbn"] # you can pass an array of values in case the first ones don't return results
+)
+
+# custom, user-provided metadata (override default/fetched)
+from libgen_uploader import LibgenMetadata
+
+m = LibgenMetadata(title="new title", authors=["John Smith", "Jack Black"])
+#如果不行手动填写title和language
+u.upload_scitech("book.epub", metadata=m)
+</code></pre>
+<p>这里其实有四段代码，最后一种适合我们的情况。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1255/34">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255/34</link>
+        <pubDate>Wed, 10 Aug 2022 07:15:55 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1255-34</guid>
         <source url="https://mlmmlm.icu/t/topic/1255.rss">关于资料整理的计划</source>
       </item>
   </channel>
