@@ -11,9 +11,752 @@ https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf
 
 https://www.youtube.com/watch?v=o9XCnZQkvQ0</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Aug 2022 10:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 14:19:07 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1301.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>HB-1A 型三波段 CW QRP 收发信机说明书<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/Ap3G2qBhW3mK5vAaHXnsa6t1XXo.pdf">HB-1A.pdf</a> (591.9 KB)</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/18">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/18</link>
+        <pubDate>Mon, 15 Aug 2022 14:19:07 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-18</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/08546ef1c409692d468e87ec3021a2940c0fc03d.jpeg" alt="image" data-base62-sha1="1bGItPHj5gQV0McMHRLTCJcjSZn" width="690" height="483"><br>
+这里3SK74被错印为35K74。<br>
+这些元件都能买得到或者找到替代。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/17">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/17</link>
+        <pubDate>Mon, 15 Aug 2022 13:58:04 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-17</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>推荐先看这本书</p>
+<h3>
+<a name="downloadhttpsb-okccbook60366430c2d50-1" class="anchor" href="https://mlmmlm.icu#downloadhttpsb-okccbook60366430c2d50-1"></a><a href="https://b-ok.cc/book/6036643/0c2d50" rel="noopener nofollow ugc">业余无线电通信 | 童效勇 | download</a>
+</h3>
+<p>特别是介绍关于业余波段的那一章。<br>
+我们用的wifi是2.4GHz或者5GHz频段，这个频段的仪器设备十分昂贵而且需要更加复杂的知识，有点是传输速率比较大。业余频段的传输速率小但是容易实现。）</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/16">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/16</link>
+        <pubDate>Mon, 15 Aug 2022 08:25:27 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-16</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>可惜 <em>UserLAnd</em>被墙了，不然安装很方便。<br>
+下载termux后可以直接</p>
+<pre><code class="lang-auto">apt install -y curl
+bash -c "$(curl -LfsS 'https://gitee.com/mo2/linux/raw/master/debian.sh')"
+</code></pre>
+<p>就可以安装好了。<br>
+因为使用gitee的源所以不会被墙，不推荐用Android做任何敏感操作。（因为可能植入恶意代码）</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/15">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/15</link>
+        <pubDate>Mon, 15 Aug 2022 08:08:38 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-15</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>手機上運行GNU/Linux在F-Droid上有很多應用，搜索Linux即可。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/14">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/14</link>
+        <pubDate>Mon, 15 Aug 2022 06:59:55 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-14</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>利用openssl加密字符串</p><aside class="onebox stackexchange" data-onebox-src="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line">
+  <header class="source">
+
+      <a href="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line" target="_blank" rel="noopener nofollow ugc">stackoverflow.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://stackoverflow.com/users/1144720/arun-nath" target="_blank" rel="noopener nofollow ugc">
+    <img alt="arun nath" src="https://mlmmlm.icu/uploads/default/original/2X/b/bfb36a833789e01e6b911ffac7f3621e832e8578.png" class="thumbnail onebox-avatar" width="" height="">
+  </a>
+
+<h4>
+  <a href="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line" target="_blank" rel="noopener nofollow ugc">Encrypt a string using openssl command line</a>
+</h4>
+
+<div class="tags">
+  <strong>linux, openssl</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://stackoverflow.com/users/1144720/arun-nath" target="_blank" rel="noopener nofollow ugc">
+    arun nath
+  </a>
+  on <a href="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line" target="_blank" rel="noopener nofollow ugc">01:21PM - 11 Apr 12 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>在手机上运行ubuntu<br>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/help/termux/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://mirrors.tuna.tsinghua.edu.cn/help/termux/</a></p><aside class="onebox allowlistedgeneric" data-onebox-src="https://gitee.com/mirrors/termux">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/5/5b911152a3844770295ead9467e1517155d505eb.png" class="site-icon" width="" height="">
+
+      <a href="https://gitee.com/mirrors/termux" target="_blank" rel="noopener nofollow ugc">Gitee</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/5/54f47b55e10578dd50cad3b9f50e11d6f8989402.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://gitee.com/mirrors/termux" target="_blank" rel="noopener nofollow ugc">Gitee 极速下载/termux</a></h3>
+
+  <p>Termux app Termux&nbsp;是一个 Android 终端仿真应用程序，用于在 Android 手机上搭建一个完整的 Linux 环境</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p><a href="https://www.jianshu.com/p/a0a774bd5059" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.jianshu.com/p/a0a774bd5059</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/13">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/13</link>
+        <pubDate>Mon, 15 Aug 2022 06:13:29 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-13</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/6036643/0c2d50">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/6036643/0c2d50" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/6036643/0c2d50" target="_blank" rel="noopener nofollow ugc">业余无线电通信 | 童效勇 | download</a></h3>
+
+  <p>业余无线电通信 | 童效勇 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/5725158/100b41">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/5725158/100b41" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/5725158/100b41" target="_blank" rel="noopener nofollow ugc">你是火腿吗:业余无线电通信 (无线电科普丛书) | 徐辉 | download</a></h3>
+
+  <p>你是火腿吗:业余无线电通信 (无线电科普丛书) | 徐辉 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/17356384/3c634f">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/17356384/3c634f" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/17356384/3c634f" target="_blank" rel="noopener nofollow ugc">JARL业余无线电手册 | 日本业余无线电联盟, 徐坚 | download</a></h3>
+
+  <p>JARL业余无线电手册 | 日本业余无线电联盟, 徐坚 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1301/12">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/12</link>
+        <pubDate>Mon, 15 Aug 2022 05:27:07 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-12</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/21625326/31954b">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/21625326/31954b" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/21625326/31954b" target="_blank" rel="noopener nofollow ugc">模拟CMOS集成电路设计[国外名校最新教材精选] | 拉扎维 | download</a></h3>
+
+  <p>模拟CMOS集成电路设计[国外名校最新教材精选] | 拉扎维 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.zhihu.com/question/421580723">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/f/fba26de9eabbb19c2963fea539ad8850e2793881.png" class="site-icon" width="" height="">
+
+      <a href="https://www.zhihu.com/question/421580723" target="_blank" rel="noopener nofollow ugc">zhihu.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://www.zhihu.com/question/421580723" target="_blank" rel="noopener nofollow ugc">请问如何高效学习拉扎维的《模拟CMOS集成电路设计》? - 知乎</a></h3>
+
+  <p>自己看书看的进度太慢，请问各位大佬有没有相关的教程能推荐一下，或者传授一下相关的学习经验？感谢！</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/2849078/3865a0">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/2849078/3865a0" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/2849078/3865a0" target="_blank" rel="noopener nofollow ugc">Introduction to RF Power Amplifier Design and Simulation | Abdullah E. |...</a></h3>
+
+  <p>Introduction to RF Power Amplifier Design and Simulation | Abdullah E. | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1301/11">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/11</link>
+        <pubDate>Mon, 15 Aug 2022 05:25:27 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-11</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/5498616/83dd0c">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/5498616/83dd0c" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/5498616/83dd0c" target="_blank" rel="noopener nofollow ugc">电磁学 第四版-赵凯华 陈熙谋 | 赵凯华 陈熙谋 | download</a></h3>
+
+  <p>电磁学 第四版-赵凯华 陈熙谋 | 赵凯华 陈熙谋 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/11736537/73ed7a">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/11736537/73ed7a" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/11736537/73ed7a" target="_blank" rel="noopener nofollow ugc">电磁场与电磁波 第2版 | （美）程著；何业军，桂良启译 | download</a></h3>
+
+  <p>电磁场与电磁波 第2版 | （美）程著；何业军，桂良启译 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/3511909/db1f53">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/3511909/db1f53" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/3511909/db1f53" target="_blank" rel="noopener nofollow ugc">电动力学导论 | David. J. Griffiths | download</a></h3>
+
+  <p>电动力学导论 | David. J. Griffiths | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/2050807/2ed8a0">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/2050807/2ed8a0" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/2050807/2ed8a0" target="_blank" rel="noopener nofollow ugc">Fundamentals of electromagnetics for electrical and computer engineering |...</a></h3>
+
+  <p>Fundamentals of electromagnetics for electrical and computer engineering | Nannapaneni Narayana Rao | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/2695051/36d409">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.cc/book/2695051/36d409" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.cc/book/2695051/36d409" target="_blank" rel="noopener nofollow ugc">Classical Electrodynamics | John David Jackson | download</a></h3>
+
+  <p>Classical Electrodynamics | John David Jackson | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1301/10">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/10</link>
+        <pubDate>Mon, 15 Aug 2022 05:20:10 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-10</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>提纲</p>
+<p>Electromagnetic radiation</p>
+<p>Maxwell’s equations</p>
+<p>Liénard–Wiechert potential</p>
+<p>Poynting vector</p>
+<p>F = qE + qv × B</p>
+<p>Larmor formula</p>
+<p>均匀平面电磁波中电场幅度和磁场幅度之比为一定值。定义电场幅度和磁场幅度比为媒质本征阻抗，用μ表示<br>
+在自由空间中传播的电磁波，电场幅度与磁场幅度之比为377<br>
+<a href="http://course.sdu.edu.cn/Download2/90e0b6a3-6641-4721-962d-1bc53fceb14c.pdf" class="onebox" target="_blank" rel="noopener nofollow ugc">http://course.sdu.edu.cn/Download2/90e0b6a3-6641-4721-962d-1bc53fceb14c.pdf</a></p>
+<p>等效电路</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://ieeexplore.ieee.org/document/1694985">
+  <header class="source">
+
+      <a href="https://ieeexplore.ieee.org/document/1694985" target="_blank" rel="noopener nofollow ugc">ieeexplore.ieee.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/a/a1e84ccbdc71b9ad5c74a781689e6e0b2ad5b8d3.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://ieeexplore.ieee.org/document/1694985" target="_blank" rel="noopener nofollow ugc">Equivalent Circuit of the Field Equations of Maxwell-I</a></h3>
+
+  <p>An equivalent circuit is developed representing the field equations of Maxwell for an electromagnetic field containing conductors and bound charges. Both transient and sinusoidal field phenomena may now be studied by the network analyzer or by...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>集总参数模型<br>
+分布参数模型</p><aside class="onebox stackexchange" data-onebox-src="https://physics.stackexchange.com/questions/563827/what-exactly-are-the-field-equations-that-hold-in-the-distributed-circuit-and">
+  <header class="source">
+
+      <a href="https://physics.stackexchange.com/questions/563827/what-exactly-are-the-field-equations-that-hold-in-the-distributed-circuit-and" target="_blank" rel="noopener nofollow ugc">physics.stackexchange.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://physics.stackexchange.com/users/102243/quantumwhisp" target="_blank" rel="noopener nofollow ugc">
+    <img alt="Quantumwhisp" src="https://mlmmlm.icu/uploads/default/original/2X/2/2d53ca3b9b4745b4010e41204f5967c5743932d2.png" class="thumbnail onebox-avatar" width="" height="">
+  </a>
+
+<h4>
+  <a href="https://physics.stackexchange.com/questions/563827/what-exactly-are-the-field-equations-that-hold-in-the-distributed-circuit-and" target="_blank" rel="noopener nofollow ugc">What exactly are the field equations that hold in the "distributed-circuit" and the "lumped circuit"-models?</a>
+</h4>
+
+<div class="tags">
+  <strong>electromagnetism, electric-circuits, approximations</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://physics.stackexchange.com/users/102243/quantumwhisp" target="_blank" rel="noopener nofollow ugc">
+    Quantumwhisp
+  </a>
+  on <a href="https://physics.stackexchange.com/questions/563827/what-exactly-are-the-field-equations-that-hold-in-the-distributed-circuit-and" target="_blank" rel="noopener nofollow ugc">02:21PM - 05 Jul 20 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>波导</p>
+<p>EM waves in conductors</p>
+<p><a href="http://pleclair.ua.edu/PH253/Notes/radiation_EM-waves.pdf" class="onebox" target="_blank" rel="noopener nofollow ugc">http://pleclair.ua.edu/PH253/Notes/radiation_EM-waves.pdf</a></p>
+<aside class="onebox stackexchange" data-onebox-src="https://physics.stackexchange.com/questions/652902/ac-power-em-waves-and-poynting-vector">
+  <header class="source">
+
+      <a href="https://physics.stackexchange.com/questions/652902/ac-power-em-waves-and-poynting-vector" target="_blank" rel="noopener nofollow ugc">physics.stackexchange.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+<h4>
+  <a href="https://physics.stackexchange.com/questions/652902/ac-power-em-waves-and-poynting-vector" target="_blank" rel="noopener nofollow ugc">AC power, EM waves and Poynting vector</a>
+</h4>
+
+<div class="tags">
+  <strong>electromagnetic-radiation, electric-circuits, electric-current, poynting-vector</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://mlmmlm.icu" rel="noopener">
+    user232620
+  </a>
+  on <a href="https://physics.stackexchange.com/questions/652902/ac-power-em-waves-and-poynting-vector" target="_blank" rel="noopener nofollow ugc">03:23AM - 23 Jul 21 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>有关电学的一个巨大误解BV1cQ4y1e7Lu<br>
+这才是电真正的工作原理BV1T5411X7sK</p>
+<p>当电磁波频率低时，主要藉由有形的导电体才能传递；当频率渐提高时，电磁波就会外溢到导体之外，不需要介质也能向外传递能量，这就是辐射。</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://farside.ph.utexas.edu/teaching/315/Waveshtml/node65.html">
+  <header class="source">
+
+      <a href="https://farside.ph.utexas.edu/teaching/315/Waveshtml/node65.html" target="_blank" rel="noopener nofollow ugc">farside.ph.utexas.edu</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://farside.ph.utexas.edu/teaching/315/Waveshtml/node65.html" target="_blank" rel="noopener nofollow ugc">Electromagnetic Wave Propagation in Conductors</a></h3>
+
+  <p>Electromagnetic Wave Propagation in Conductors</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><a href="https://sci-hub.se/10.1109/TPWRD.2003.817744" class="onebox" target="_blank" rel="noopener nofollow ugc">https://sci-hub.se/10.1109/TPWRD.2003.817744</a><br>
+（准静态分析）</p>
+<aside class="onebox wikipedia" data-onebox-src="https://zh.wikipedia.org/zh-hans/%E5%81%B6%E6%A5%B5%E5%AD%90">
+  <header class="source">
+
+      <a href="https://zh.wikipedia.org/zh-hans/%E5%81%B6%E6%A5%B5%E5%AD%90" target="_blank" rel="noopener nofollow ugc">zh.wikipedia.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/7/7491c3db7c7fb62d50ea7e5c0a81671754436961.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://zh.wikipedia.org/zh-hans/%E5%81%B6%E6%A5%B5%E5%AD%90" target="_blank" rel="noopener nofollow ugc">偶極子</a></h3>
+
+<p>在電磁學裏，有兩種偶極子（英语：Dipole）：
+ 偶極子的性質可以用它的偶極矩描述。
+ 電偶極矩（
+  
+    
+      
+        
+          p
+        
+      
+    
+    {\displaystyle \mathbf {p} }
+  
+）由負電荷指向正電荷，大小等於正電荷量乘以正負電荷之間的距離。磁偶極矩（
+  
+    
+      
+        
+          m
+        
+      
+    
+    {\displaystyle \mathbf {m} }
+  
+）的方向，根據右手法則，是大拇指從載流迴路的平面指出的方向，而其它手指則指向電流運行方向，磁偶極矩的大小等於電流乘以線圈面積。
+ 除了載流迴路以外，電子和許多基本粒子都擁有磁偶極矩。它們都會產生磁場，與一個非常小的載流迴路產生的磁場完全相同。但是，現時大多數的科學觀點認為這個磁偶極矩是電子的自然性質，而非由載流迴路生成。
+</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>利用python做调制解调的实验</p>
+<p>场线的绘制算法。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/9">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/9</link>
+        <pubDate>Sun, 14 Aug 2022 06:57:18 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-9</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://reference.wolfram.com/language/ref/Spectrogram.html.zh">
+  <header class="source">
+
+      <a href="https://reference.wolfram.com/language/ref/Spectrogram.html.zh" target="_blank" rel="noopener nofollow ugc">reference.wolfram.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://reference.wolfram.com/language/ref/Spectrogram.html.zh" target="_blank" rel="noopener nofollow ugc">Spectrogram—Wolfram 语言参考资料</a></h3>
+
+  <p>Spectrogram[list] 绘制 list 的频谱图. Spectrogram[list, n] 使用长度为 n 的分区. Spectrogram[list, n, d] 使用偏移为 d 的分区. Spectrogram[list, n, d, wfun] 对每个分区应用平滑窗口w wfun. Spectrogram[list, n, d, wfun, m] 在计算变换之前用零把分区填充至长度 m. Spectrogram[audio, ...] 绘制 audio 的频谱.</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox stackexchange" data-onebox-src="https://stackoverflow.com/questions/44787437/how-to-convert-a-wav-file-to-a-spectrogram-in-python3">
+  <header class="source">
+
+      <a href="https://stackoverflow.com/questions/44787437/how-to-convert-a-wav-file-to-a-spectrogram-in-python3" target="_blank" rel="noopener nofollow ugc">stackoverflow.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://stackoverflow.com/users/7153699/sreehari-r" target="_blank" rel="noopener nofollow ugc">
+    <img alt="Sreehari R" src="https://mlmmlm.icu/uploads/default/original/2X/7/7688ef54fb721a240918ea44f99751ea066e195d.jpeg" class="thumbnail onebox-avatar" width="" height="">
+  </a>
+
+<h4>
+  <a href="https://stackoverflow.com/questions/44787437/how-to-convert-a-wav-file-to-a-spectrogram-in-python3" target="_blank" rel="noopener nofollow ugc">How to convert a .wav file to a spectrogram in python3</a>
+</h4>
+
+<div class="tags">
+  <strong>python, numpy, audio, matplotlib</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://stackoverflow.com/users/7153699/sreehari-r" target="_blank" rel="noopener nofollow ugc">
+    Sreehari R
+  </a>
+  on <a href="https://stackoverflow.com/questions/44787437/how-to-convert-a-wav-file-to-a-spectrogram-in-python3" target="_blank" rel="noopener nofollow ugc">06:30PM - 27 Jun 17 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1301/8">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/8</link>
+        <pubDate>Sat, 13 Aug 2022 15:06:39 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-8</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://gitlab.com/revorevo/radio" class="onebox" target="_blank" rel="noopener nofollow ugc">https://gitlab.com/revorevo/radio</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/7">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/7</link>
+        <pubDate>Sat, 13 Aug 2022 13:51:38 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
       <item>
         <title>一些无线电的基础知识</title>
         <dc:creator><![CDATA[one_normal_one]]></dc:creator>

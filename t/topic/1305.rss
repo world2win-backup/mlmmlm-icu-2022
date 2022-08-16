@@ -7,9 +7,62 @@
 
 https://en.wikipedia.org/wiki/2200-meter_band</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 10 Aug 2022 02:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 08:14:48 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1305.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>利用openssl加密字符串</p>
+<h4>
+<a name="encrypt-a-string-using-openssl-command-linehttpsstackoverflowcomquestions10106771encrypt-a-string-using-openssl-command-line-1" class="anchor" href="https://mlmmlm.icu#encrypt-a-string-using-openssl-command-linehttpsstackoverflowcomquestions10106771encrypt-a-string-using-openssl-command-line-1"></a><a href="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line" rel="noopener nofollow ugc">Encrypt a string using openssl command line</a>
+</h4>
+<p><strong>linux, openssl</strong></p>
+<p>asked by <a href="https://stackoverflow.com/users/1144720/arun-nath" rel="noopener nofollow ugc"> arun nath </a> on <a href="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line" rel="noopener nofollow ugc">01:21PM - 11 Apr 12 UTC</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/4">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/4</link>
+        <pubDate>Mon, 15 Aug 2022 08:14:48 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>这里有另外一个实现</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://github.com/jaesparza/radio-beacon">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+
+      <a href="https://github.com/jaesparza/radio-beacon" target="_blank" rel="noopener nofollow ugc">GitHub</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/d/d05a0ee26e7dc05d76398136636ad3cd1aa84640.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://github.com/jaesparza/radio-beacon" target="_blank" rel="noopener nofollow ugc">GitHub - jaesparza/radio-beacon: A multimode radio beacon for QRSS (FSK-CW,...</a></h3>
+
+  <p>A multimode radio beacon for QRSS (FSK-CW, CW) and WSPR. Implemented using AD9850 and STM32duino. Repository hosting schematics, software and other implementation notes. - GitHub - jaesparza/radio-...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1305/3">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/3</link>
+        <pubDate>Mon, 15 Aug 2022 08:14:01 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
       <item>
         <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
         <dc:creator><![CDATA[azide]]></dc:creator>
