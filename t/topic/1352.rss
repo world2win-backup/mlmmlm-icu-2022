@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</title>
+    <link>https://mlmmlm.icu/t/topic/1352</link>
+    <description>## 首先，GNU/Hurd是不能通過USB U盤來進入Live的。
+
+https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html
+
+## USB 1.1/2.0
+
+USB is not supported at this time.
+
+However, USB-type keyboards and mice may (and have been reported to) work nevertheless, given that the hardware / BIOS is doing emulation to the supported legacy interfaces.
+
+目前不支持 USB。
+
+但是，鑑於硬件/BIOS 正在對受支持的傳統接口進行仿真，USB 類型的鍵盤和鼠標可能（並且已經被報告）仍然可以工作。
+
+https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/
+
+## 第 2 步 – 在 Linux 上查找您的 USB 設備名稱（編者註：這裡可以直接使用GParted可視化地確定設備名稱。）
+插入您的 U 盤並輸入以下 df 命令以查看它是否自動安裝在 Debian 或任何其他 Linux 桌面系統上：
+
+`df`
+
+示例輸出（參見我的 USB 的 /media/vivek/data）：
+
+
+```
+Filesystem            1K-blocks    Used Available Use% Mounted on
+udev                   16432268       0  16432268   0% /dev
+tmpfs                   3288884   26244   3262640   1% /run
+/dev/mapper/md0_crypt 491076512 9641092 456420380   3% /
+tmpfs                  16444408  105472  16338936   1% /dev/shm
+tmpfs                      5120       4      5116   1% /run/lock
+tmpfs                  16444408       0  16444408   0% /sys/fs/cgroup
+/dev/sdc1             122546800  124876 116153868   1% /boot
+tmpfs                   3288880      24   3288856   1% /run/user/119
+tmpfs                   3288880      72   3288808   1% /run/user/1000
+/dev/sdd1               1467360 1467360         0 100% /media/vivek/data
+```
+
+您也可以嘗試使用 lsblk 命令或 dmesg 命令來列出您的 USB 設備：
+
+```
+lsblk
+dmesg
+```
+
+您需要卸載 /media/vivek/data：
+`sudo umount /media/vivek/data`
+
+或嘗試：
+`sudo umount /dev/sdd1`
+
+另一種選擇是運行 dmesg 命令來找出 USB 設備名稱：
+
+`sudo dmesg`
+
+示例輸出：
+
+
+```
+[461339.310378] usb 2-1.7: new high-speed USB device number 12 using ehci-pci
+[461339.420453] usb 2-1.7: New USB device found, idVendor=0781, idProduct=558a
+[461339.420457] usb 2-1.7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[461339.420460] usb 2-1.7: Product: Ultra
+[461339.420461] usb 2-1.7: Manufacturer: SanDisk
+[461339.420463] usb 2-1.7: SerialNumber: FooBarNixCraftSerialNumber
+[461339.421010] usb-storage 2-1.7:1.0: USB Mass Storage device detected
+[461339.421457] scsi host6: usb-storage 2-1.7:1.0
+[461340.431909] scsi 6:0:0:0: Direct-Access     SanDisk  Ultra            1.00 PQ: 0 ANSI: 6
+[461340.432886] sd 6:0:0:0: Attached scsi generic sg4 type 0
+[461340.433448] sd 6:0:0:0: [sdd] 121307136 512-byte logical blocks: (62.1 GB/57.8 GiB)
+[461340.435434] sd 6:0:0:0: [sdd] Write Protect is off
+[461340.435438] sd 6:0:0:0: [sdd] Mode Sense: 43 00 00 00
+[461340.436405] sd 6:0:0:0: [sdd] Write cache: disabled, read cache: enabled, doesn&#39;t support DPO or FUA
+[461340.449612]  sdd: sdd1 sdd2
+```
+
+很明顯 /dev/sdd 是我的 U 盤設備名稱。 您也可以使用 lsblk 命令。 例如：
+`lsblk`
+
+## 第 4 步 – 在 Linux 上創建可啟動的 U 盤
+
+**警告：** 請注意 USB stick/pen/disk名稱。 錯誤的名稱總是會導致數據丟失。 確保鍵入正確的名稱。
+
+鍵入 [按照 dd 命令從 .ISO 文件創建可啟動 USB 映像](https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with -dd命令/）：
+
+`sudo dd if=artful-desktop-amd64.iso of=/dev/sdd bs=1M status=progress`
+另一個例子：
+
+`sudo dd if=ubuntu-20.04.1-live-server-amd64.iso of=/dev/sda bs=1M status=progress`
+dd 命令會將進程數據寫入 U 盤（/dev/sdd 或 /dev/sda），並且屏幕上會出現一個進度條。
+
+### Ubuntu 從終端創建可啟動的 Ubuntu USB 閃存驅動器
+
+在此示例中，我將為 ubuntu-18.04.3-live-server-amd64.iso 文件創建一個可啟動的閃存驅動器，如下所示：
+
+`sudo dd if=/isos/ubuntu-18.04.3-live-server-amd64.iso of=/dev/sdb bs=1M status=progress`
+![Ubuntu iso bootable USB create using dd command on Linux|599x154](upload://oyCzbZTVl8WtwDev8a17TbG9hU6.png)
+
+### 另一個例子
+
+`sudo dd if=/isos/ubuntu-19.04-live-server-amd64.iso of=/dev/sdb bs=1M status=progress`
+這是我看到的：
+
+`748+0 records in 748+0 records out 784334848 bytes (784 MB, 748 MiB) copied, 119.174 s, 6.6 MB/s`
+
+### 了解 dd 命令選項
+
+* &lt;kbd&gt;dd&lt;/kbd&gt; : 啟動 dd 命令寫入 DVD/CD iso 映像。
+* &lt;kbd&gt;if=/iso/ubuntu.iso&lt;/kbd&gt; : 輸入文件的路徑。
+* &lt;kbd&gt;of=/dev/sdd&lt;/kbd&gt; ：目標 USB 磁盤/棒的路徑。
+* &lt;kbd&gt;bs=1M&lt;/kbd&gt; ：一次讀取和寫入最多 BYTES 個字節。 在此示例中，一次 1M。
+* &lt;kbd&gt;status=progress&lt;/kbd&gt; : 將圖像寫入 U 盤時顯示進度條，例如 /dev/sdd。 有關詳細信息，請參閱“[Linux dd 命令顯示帶有狀態的進度複製欄](https://www.cyberciti.biz/faq/linux-unix-dd-command-show-progress-while-coping/)”。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 21 Aug 2022 10:43:46 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1352.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox stackexchange" data-onebox-src="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware">
+  <header class="source">
+
+      <a href="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware" target="_blank" rel="noopener nofollow ugc">serverfault.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://serverfault.com/users/120769/lacrosse1991" target="_blank" rel="noopener nofollow ugc">
+    <img alt="lacrosse1991" src="https://mlmmlm.icu/uploads/default/original/2X/9/9e8ab89be83a6918f3c1776ab2c34effc1d1b2f9.png" class="thumbnail onebox-avatar" width="" height="">
+  </a>
+
+<h4>
+  <a href="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware" target="_blank" rel="noopener nofollow ugc">Is it possible to reboot a Linux OS without rebooting the hardware?</a>
+</h4>
+
+<div class="tags">
+  <strong>linux, debian, raid</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://serverfault.com/users/120769/lacrosse1991" target="_blank" rel="noopener nofollow ugc">
+    lacrosse1991
+  </a>
+  on <a href="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware" target="_blank" rel="noopener nofollow ugc">11:35PM - 24 Mar 15 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1352/2">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1352/2</link>
+        <pubDate>Sun, 21 Aug 2022 10:43:46 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1352-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/1352.rss">如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</source>
+      </item>
+      <item>
+        <title>如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <h2>
+<a name="gnuhurdusb-ulive-1" class="anchor" href="https://mlmmlm.icu#gnuhurdusb-ulive-1"></a>首先，GNU/Hurd是不能通過USB U盤來進入Live的。</h2>
+<p><a href="https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html</a></p>
+<h2>
+<a name="usb-1120-2" class="anchor" href="https://mlmmlm.icu#usb-1120-2"></a>USB 1.1/2.0</h2>
+<p>USB is not supported at this time.</p>
+<p>However, USB-type keyboards and mice may (and have been reported to) work nevertheless, given that the hardware / BIOS is doing emulation to the supported legacy interfaces.</p>
+<p>目前不支持 USB。</p>
+<p>但是，鑑於硬件/BIOS 正在對受支持的傳統接口進行仿真，USB 類型的鍵盤和鼠標可能（並且已經被報告）仍然可以工作。</p>
+<p><a href="https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/</a></p>
+<h2>
+<a name="h-2-linux-usb-gparted-3" class="anchor" href="https://mlmmlm.icu#h-2-linux-usb-gparted-3"></a>第 2 步 – 在 Linux 上查找您的 USB 設備名稱（編者註：這裡可以直接使用GParted可視化地確定設備名稱。）</h2>
+<p>插入您的 U 盤並輸入以下 df 命令以查看它是否自動安裝在 Debian 或任何其他 Linux 桌面系統上：</p>
+<p><code>df</code></p>
+<p>示例輸出（參見我的 USB 的 /media/vivek/data）：</p>
+<pre><code class="lang-auto">Filesystem            1K-blocks    Used Available Use% Mounted on
+udev                   16432268       0  16432268   0% /dev
+tmpfs                   3288884   26244   3262640   1% /run
+/dev/mapper/md0_crypt 491076512 9641092 456420380   3% /
+tmpfs                  16444408  105472  16338936   1% /dev/shm
+tmpfs                      5120       4      5116   1% /run/lock
+tmpfs                  16444408       0  16444408   0% /sys/fs/cgroup
+/dev/sdc1             122546800  124876 116153868   1% /boot
+tmpfs                   3288880      24   3288856   1% /run/user/119
+tmpfs                   3288880      72   3288808   1% /run/user/1000
+/dev/sdd1               1467360 1467360         0 100% /media/vivek/data
+</code></pre>
+<p>您也可以嘗試使用 lsblk 命令或 dmesg 命令來列出您的 USB 設備：</p>
+<pre><code class="lang-auto">lsblk
+dmesg
+</code></pre>
+<p>您需要卸載 /media/vivek/data：<br>
+<code>sudo umount /media/vivek/data</code></p>
+<p>或嘗試：<br>
+<code>sudo umount /dev/sdd1</code></p>
+<p>另一種選擇是運行 dmesg 命令來找出 USB 設備名稱：</p>
+<p><code>sudo dmesg</code></p>
+<p>示例輸出：</p>
+<pre><code class="lang-auto">[461339.310378] usb 2-1.7: new high-speed USB device number 12 using ehci-pci
+[461339.420453] usb 2-1.7: New USB device found, idVendor=0781, idProduct=558a
+[461339.420457] usb 2-1.7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[461339.420460] usb 2-1.7: Product: Ultra
+[461339.420461] usb 2-1.7: Manufacturer: SanDisk
+[461339.420463] usb 2-1.7: SerialNumber: FooBarNixCraftSerialNumber
+[461339.421010] usb-storage 2-1.7:1.0: USB Mass Storage device detected
+[461339.421457] scsi host6: usb-storage 2-1.7:1.0
+[461340.431909] scsi 6:0:0:0: Direct-Access     SanDisk  Ultra            1.00 PQ: 0 ANSI: 6
+[461340.432886] sd 6:0:0:0: Attached scsi generic sg4 type 0
+[461340.433448] sd 6:0:0:0: [sdd] 121307136 512-byte logical blocks: (62.1 GB/57.8 GiB)
+[461340.435434] sd 6:0:0:0: [sdd] Write Protect is off
+[461340.435438] sd 6:0:0:0: [sdd] Mode Sense: 43 00 00 00
+[461340.436405] sd 6:0:0:0: [sdd] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+[461340.449612]  sdd: sdd1 sdd2
+</code></pre>
+<p>很明顯 /dev/sdd 是我的 U 盤設備名稱。 您也可以使用 lsblk 命令。 例如：<br>
+<code>lsblk</code></p>
+<h2>
+<a name="h-4-linux-u-4" class="anchor" href="https://mlmmlm.icu#h-4-linux-u-4"></a>第 4 步 – 在 Linux 上創建可啟動的 U 盤</h2>
+<p><strong>警告：</strong> 請注意 USB stick/pen/disk名稱。 錯誤的名稱總是會導致數據丟失。 確保鍵入正確的名稱。</p>
+<p>鍵入 [按照 dd 命令從 .ISO 文件創建可啟動 USB 映像](<a href="https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with" rel="noopener nofollow ugc">https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with</a> -dd命令/）：</p>
+<p><code>sudo dd if=artful-desktop-amd64.iso of=/dev/sdd bs=1M status=progress</code><br>
+另一個例子：</p>
+<p><code>sudo dd if=ubuntu-20.04.1-live-server-amd64.iso of=/dev/sda bs=1M status=progress</code><br>
+dd 命令會將進程數據寫入 U 盤（/dev/sdd 或 /dev/sda），並且屏幕上會出現一個進度條。</p>
+<h3>
+<a name="ubuntu-ubuntu-usb-5" class="anchor" href="https://mlmmlm.icu#ubuntu-ubuntu-usb-5"></a>Ubuntu 從終端創建可啟動的 Ubuntu USB 閃存驅動器</h3>
+<p>在此示例中，我將為 ubuntu-18.04.3-live-server-amd64.iso 文件創建一個可啟動的閃存驅動器，如下所示：</p>
+<p><code>sudo dd if=/isos/ubuntu-18.04.3-live-server-amd64.iso of=/dev/sdb bs=1M status=progress</code><br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/a/ac1e141369869c99b3d7e047e802f92214ee3412.png" alt="Ubuntu iso bootable USB create using dd command on Linux" data-base62-sha1="oyCzbZTVl8WtwDev8a17TbG9hU6" width="599" height="154"></p>
+<h3>
+<a name="h-6" class="anchor" href="https://mlmmlm.icu#h-6"></a>另一個例子</h3>
+<p><code>sudo dd if=/isos/ubuntu-19.04-live-server-amd64.iso of=/dev/sdb bs=1M status=progress</code><br>
+這是我看到的：</p>
+<p><code>748+0 records in 748+0 records out 784334848 bytes (784 MB, 748 MiB) copied, 119.174 s, 6.6 MB/s</code></p>
+<h3>
+<a name="dd-7" class="anchor" href="https://mlmmlm.icu#dd-7"></a>了解 dd 命令選項</h3>
+<ul>
+<li>
+<kbd>dd</kbd> : 啟動 dd 命令寫入 DVD/CD iso 映像。</li>
+<li>
+<kbd>if=/iso/ubuntu.iso</kbd> : 輸入文件的路徑。</li>
+<li>
+<kbd>of=/dev/sdd</kbd> ：目標 USB 磁盤/棒的路徑。</li>
+<li>
+<kbd>bs=1M</kbd> ：一次讀取和寫入最多 BYTES 個字節。 在此示例中，一次 1M。</li>
+<li>
+<kbd>status=progress</kbd> : 將圖像寫入 U 盤時顯示進度條，例如 /dev/sdd。 有關詳細信息，請參閱“<a href="https://www.cyberciti.biz/faq/linux-unix-dd-command-show-progress-while-coping/" rel="noopener nofollow ugc">Linux dd 命令顯示帶有狀態的進度複製欄</a>”。</li>
+</ul>
+          <p><a href="https://mlmmlm.icu/t/topic/1352/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1352/1</link>
+        <pubDate>Sun, 21 Aug 2022 08:27:28 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1352-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1352.rss">如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</source>
+      </item>
+  </channel>
+</rss>

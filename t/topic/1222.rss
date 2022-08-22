@@ -7,16 +7,19 @@
 
 https://mega.nz/folder/katBwKZC#KdIIPb3cNgq-C-OIzayTew</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Aug 2022 08:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Aug 2022 07:18:22 +0000</lastBuildDate>
     <category>文献 | 书籍</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1222.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>马列毛主义书单学习资源</title>
         <dc:creator><![CDATA[106coup]]></dc:creator>
         <description><![CDATA[
-            <p>链接如果挂了尝试把 libgen.rs 换成别的，换域名是常有的事。<br>
-Libgen 不会下载的话可以去 Z-Lib 搜索文件名（可能搜不到）或者搜索 MD5（一定能搜到，上面链接 “md5=” 后面的就是 MD5），那里也有。Libgen 的速度比 Z-Lib 快，而且没有一天十次的限制，还可以用 IPFS。<br>
-上面的分享链接次日生效（等待 Libgen 的图书馆员审核），审核通过后 IPFS 下载链接 1-3 天内在下载界面显示。</p>
+            <p>善用 Ctrl + F。<br>
+libgen.unblockit.bet 域名不用翻墙，但是封面看不见。如果嫌弃可以换可以看封面且稳定的 library.rs。<br>
+链接如果挂了尝试把 libgen.unblockit.bet 换成别的，换域名是常有的事。<br>
+Libgen 不会下载的话可以去 Z-Lib 搜索文件名（可能搜不到）或者搜索 MD5（一定能搜到，链接 “md5=” 后面的就是 MD5），那里也有。Libgen 的速度比 Z-Lib 快，而且没有一天十次的限制，还可以用 IPFS。<br>
+存在一种可能性：即连接失效，搜索 md5 也搜不到，那就是因为在上传后 Libgen 将文件进行了变更（改变了 md5）（原因不明），这种情况只能去搜索标题碰运气了。<br>
+下面的分享链接一般次日生效（等待 Libgen 的图书馆员审核），审核通过后 IPFS 下载链接一般 1-3 天内在下载界面显示。</p>
           <p><a href="https://mlmmlm.icu/t/topic/1222/3">阅读完整话题</a></p>
         ]]></description>
         <link>https://mlmmlm.icu/t/topic/1222/3</link>
@@ -34,337 +37,425 @@ Libgen 不会下载的话可以去 Z-Lib 搜索文件名（可能搜不到）或
 <a name="h-2" class="anchor" href="https://mlmmlm.icu#h-2"></a>马列毛主义简介：</h2>
 <blockquote>
 <p>《高举马克思列宁毛主义的鲜红旗帜》印度共产党（毛主义）.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=E3AC674FAECBC30272871E4741CB9C5E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=E3AC674FAECBC30272871E4741CB9C5E</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E3AC674FAECBC30272871E4741CB9C5E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E3AC674FAECBC30272871E4741CB9C5E</a><br>
 为什么是毛主义–什么是毛主义？.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=759D662837847B296B5B749E236539B3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=759D662837847B296B5B749E236539B3</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=759D662837847B296B5B749E236539B3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=759D662837847B296B5B749E236539B3</a><br>
 列宁：卡尔马克思.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=BC5207FA5910732E1D962D49287D2A74" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=BC5207FA5910732E1D962D49287D2A74</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BC5207FA5910732E1D962D49287D2A74" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BC5207FA5910732E1D962D49287D2A74</a><br>
 列宁：马克思主义的三个来源和三个组成部分1975印刷.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=3723A2822DE494CDF1B8B090888F95F8" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=3723A2822DE494CDF1B8B090888F95F8</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3723A2822DE494CDF1B8B090888F95F8" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3723A2822DE494CDF1B8B090888F95F8</a><br>
 印共（毛）：马列毛基本教程.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=23D8A6BC544243F52B71740C09763394" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=23D8A6BC544243F52B71740C09763394</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=23D8A6BC544243F52B71740C09763394" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=23D8A6BC544243F52B71740C09763394</a><br>
 恩格斯：社会主义从空想到科学的发展.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=469F16A995E0A4EF49B5E16CDEA8E7E3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=469F16A995E0A4EF49B5E16CDEA8E7E3</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=469F16A995E0A4EF49B5E16CDEA8E7E3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=469F16A995E0A4EF49B5E16CDEA8E7E3</a><br>
 斯大林：论列宁主义基础.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=BF4B5EF69B6DF790C9F52E7B3E2F44E3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=BF4B5EF69B6DF790C9F52E7B3E2F44E3</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BF4B5EF69B6DF790C9F52E7B3E2F44E3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BF4B5EF69B6DF790C9F52E7B3E2F44E3</a><br>
 革命国际主义运动1984年宣言.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=ECD7F3A6715360924DFDB5D40A39D85A" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=ECD7F3A6715360924DFDB5D40A39D85A</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=ECD7F3A6715360924DFDB5D40A39D85A" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=ECD7F3A6715360924DFDB5D40A39D85A</a><br>
 革命国际主义运动：马列毛主义万岁.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=104C151C942EC8F9E9440465536923F6" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=104C151C942EC8F9E9440465536923F6</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=104C151C942EC8F9E9440465536923F6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=104C151C942EC8F9E9440465536923F6</a><br>
 马克思恩格斯：共产党宣言1963.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=9CF70B0FD0CB453CACFE8013C94281C5" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=9CF70B0FD0CB453CACFE8013C94281C5</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=9CF70B0FD0CB453CACFE8013C94281C5" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=9CF70B0FD0CB453CACFE8013C94281C5</a><br>
 马克思：哥达纲领批判1971.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=95CA40C95F55CFFD4176474DD54DABCF" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=95CA40C95F55CFFD4176474DD54DABCF</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=95CA40C95F55CFFD4176474DD54DABCF" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=95CA40C95F55CFFD4176474DD54DABCF</a></p>
 </blockquote>
 <h2>
 <a name="h-3" class="anchor" href="https://mlmmlm.icu#h-3"></a>辩证唯物主义：</h2>
 <blockquote>
 <p>列宁：哲学笔记1974.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=68577E5DE94CE534C119BA69C850E148" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=68577E5DE94CE534C119BA69C850E148</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=68577E5DE94CE534C119BA69C850E148" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=68577E5DE94CE534C119BA69C850E148</a><br>
 列宁：唯物主义和经验批判主义1971.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=41DF5B2E5BD06F2215646CADA4CA0548" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=41DF5B2E5BD06F2215646CADA4CA0548</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=41DF5B2E5BD06F2215646CADA4CA0548" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=41DF5B2E5BD06F2215646CADA4CA0548</a><br>
 哲学小辞典（辨证唯物、历史唯物主义部分）超链接整理版.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=5CC4818B596B7D1E5B3F255ACB288ED6" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=5CC4818B596B7D1E5B3F255ACB288ED6</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=5CC4818B596B7D1E5B3F255ACB288ED6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=5CC4818B596B7D1E5B3F255ACB288ED6</a><br>
 恩格斯：自然辩证法1971.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F667F96E870E37187615EBA9732A63C5" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F667F96E870E37187615EBA9732A63C5</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F667F96E870E37187615EBA9732A63C5" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F667F96E870E37187615EBA9732A63C5</a><br>
 恩格斯：路德维希?费尔巴哈和德国古典哲学的终结1972_.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=342840A9A7F1D52A77C23EF516FA326A" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=342840A9A7F1D52A77C23EF516FA326A</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=342840A9A7F1D52A77C23EF516FA326A" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=342840A9A7F1D52A77C23EF516FA326A</a><br>
 斯大林：论辩证唯物主义和历史唯物主义.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=B8A636C38E56EDD3E1B68BABC7D53589" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=B8A636C38E56EDD3E1B68BABC7D53589</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=B8A636C38E56EDD3E1B68BABC7D53589" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=B8A636C38E56EDD3E1B68BABC7D53589</a><br>
 李达：唯物辩证法大纲1978.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=781C6358644114EAACB9302ED955CA61" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=781C6358644114EAACB9302ED955CA61</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=781C6358644114EAACB9302ED955CA61" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=781C6358644114EAACB9302ED955CA61</a><br>
 毛泽东：实践论 矛盾论1968.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=790DF42BA932501C7BD9BF0919C438FA" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=790DF42BA932501C7BD9BF0919C438FA</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=790DF42BA932501C7BD9BF0919C438FA" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=790DF42BA932501C7BD9BF0919C438FA</a><br>
 社会主义时期的党内资产阶级 谈谈党内资产阶级 上海市委写作组 1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=13C66FF59278212156CD43960890C2E5" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=13C66FF59278212156CD43960890C2E5</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=13C66FF59278212156CD43960890C2E5" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=13C66FF59278212156CD43960890C2E5</a></p>
 </blockquote>
 <h2>
 <a name="h-4" class="anchor" href="https://mlmmlm.icu#h-4"></a>历史唯物主义：</h2>
 <blockquote>
 <p>列宁：伟大的创举1975.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=7A144AC2ECB27AD317FD6D2E76A37E0F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=7A144AC2ECB27AD317FD6D2E76A37E0F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=7A144AC2ECB27AD317FD6D2E76A37E0F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=7A144AC2ECB27AD317FD6D2E76A37E0F</a><br>
 列宁：国家与革命1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=1EB3364DBE442D887B411BE51848B69C" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=1EB3364DBE442D887B411BE51848B69C</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=1EB3364DBE442D887B411BE51848B69C" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=1EB3364DBE442D887B411BE51848B69C</a><br>
 列宁：社会主义与战争.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=527DDA7335BB38D722DAF61FB767547E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=527DDA7335BB38D722DAF61FB767547E</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=527DDA7335BB38D722DAF61FB767547E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=527DDA7335BB38D722DAF61FB767547E</a><br>
 列宁：青年团的任务1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=1157B593864A9F80EBC63C3F1B9F4CE0" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=1157B593864A9F80EBC63C3F1B9F4CE0</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=1157B593864A9F80EBC63C3F1B9F4CE0" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=1157B593864A9F80EBC63C3F1B9F4CE0</a><br>
 卢森堡：社会改良还是社会革命？1958.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=CF45ABE52692DB7F1875FFDB84F07E5C" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=CF45ABE52692DB7F1875FFDB84F07E5C</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=CF45ABE52692DB7F1875FFDB84F07E5C" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=CF45ABE52692DB7F1875FFDB84F07E5C</a><br>
 姚文元：论林彪反党集团的社会基础.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=ADC8F2CBB14BB352AA220B84CEFB4746" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=ADC8F2CBB14BB352AA220B84CEFB4746</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=ADC8F2CBB14BB352AA220B84CEFB4746" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=ADC8F2CBB14BB352AA220B84CEFB4746</a><br>
 张春桥 姚文元：马克思、恩格斯、列宁论无产阶级专政1975.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=2DF55D9D55AE71AD6B9A847981092F31" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=2DF55D9D55AE71AD6B9A847981092F31</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=2DF55D9D55AE71AD6B9A847981092F31" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=2DF55D9D55AE71AD6B9A847981092F31</a><br>
 张春桥：论对资产阶级的全面专政 破除资产阶级的法权思想.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=3DE8EB1BD4E061F4192C3E9CF9DC60B4" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=3DE8EB1BD4E061F4192C3E9CF9DC60B4</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3DE8EB1BD4E061F4192C3E9CF9DC60B4" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3DE8EB1BD4E061F4192C3E9CF9DC60B4</a><br>
 恩格斯：家庭、私有制和国家的起源1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=56CF9644DFF37433C580E2DE8181541F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=56CF9644DFF37433C580E2DE8181541F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=56CF9644DFF37433C580E2DE8181541F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=56CF9644DFF37433C580E2DE8181541F</a><br>
 普列汉诺夫：论一元论历史观之发展1973.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=6A7CDB284F980206B75809B4D3A4D55E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=6A7CDB284F980206B75809B4D3A4D55E</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=6A7CDB284F980206B75809B4D3A4D55E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=6A7CDB284F980206B75809B4D3A4D55E</a><br>
 普列汉诺夫：论个人在历史上的作用问题1964.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=54C93ADAA8BFFCDC90BFD61F4201EEF7" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=54C93ADAA8BFFCDC90BFD61F4201EEF7</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=54C93ADAA8BFFCDC90BFD61F4201EEF7" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=54C93ADAA8BFFCDC90BFD61F4201EEF7</a><br>
 毛泽东：关于正确处理人民内部矛盾的问题.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=3B611D340072B67BE63F24697889D471" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=3B611D340072B67BE63F24697889D471</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3B611D340072B67BE63F24697889D471" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3B611D340072B67BE63F24697889D471</a><br>
 社会主义时期的党内资产阶级 谈谈党内资产阶级 上海市委写作组 1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=13C66FF59278212156CD43960890C2E5" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=13C66FF59278212156CD43960890C2E5</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=13C66FF59278212156CD43960890C2E5" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=13C66FF59278212156CD43960890C2E5</a></p>
 </blockquote>
 <h2>
 <a name="h-5" class="anchor" href="https://mlmmlm.icu#h-5"></a>资本主义政治经济学</h2>
 <blockquote>
 <p>关于第三世界国家的官僚资本主义进程的说明.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=B069184378F417C5C9532CAC04CAA347" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=B069184378F417C5C9532CAC04CAA347</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=B069184378F417C5C9532CAC04CAA347" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=B069184378F417C5C9532CAC04CAA347</a><br>
 列宁：帝国主义是资本主义的最高阶段1974.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=3EBA840AA41F9396E4348FB63369A24E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=3EBA840AA41F9396E4348FB63369A24E</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3EBA840AA41F9396E4348FB63369A24E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3EBA840AA41F9396E4348FB63369A24E</a><br>
 徐禾：政治经济学概论（书签版）.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=532FB38167694555776BF72D64183283" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=532FB38167694555776BF72D64183283</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=532FB38167694555776BF72D64183283" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=532FB38167694555776BF72D64183283</a><br>
 政治经济学 帝国主义部分 南开1976修订本.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F8F07AEFB7C924F46DCCC8DDA98C0C1C" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F8F07AEFB7C924F46DCCC8DDA98C0C1C</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F8F07AEFB7C924F46DCCC8DDA98C0C1C" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F8F07AEFB7C924F46DCCC8DDA98C0C1C</a><br>
 政治经济学 资本主义部分 南开1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=93EDDB1E96E006816F7F37EC21571473" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=93EDDB1E96E006816F7F37EC21571473</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=93EDDB1E96E006816F7F37EC21571473" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=93EDDB1E96E006816F7F37EC21571473</a><br>
 马克思-雇佣劳动与资本1965.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=162ADA6E2812224E7FD5D75EA7C88208" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=162ADA6E2812224E7FD5D75EA7C88208</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=162ADA6E2812224E7FD5D75EA7C88208" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=162ADA6E2812224E7FD5D75EA7C88208</a><br>
 马克思：工资、价格和利润1974.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=740BD5A27D93768FB0985B1ED59F203F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=740BD5A27D93768FB0985B1ED59F203F</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=740BD5A27D93768FB0985B1ED59F203F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=740BD5A27D93768FB0985B1ED59F203F</a></p>
 </blockquote>
 <h2>
 <a name="h-6" class="anchor" href="https://mlmmlm.icu#h-6"></a>社会主义政治经济学</h2>
 <blockquote>
 <p>列宁：无产阶级专政时代的经济与政治.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=A44920053B7CAB17A72AF35C52BB8255" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=A44920053B7CAB17A72AF35C52BB8255</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=A44920053B7CAB17A72AF35C52BB8255" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=A44920053B7CAB17A72AF35C52BB8255</a><br>
 政治经济学 社会主义部分 南开1976修订本_.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=5DF57153ECD356AE3A6AC45842853D4F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=5DF57153ECD356AE3A6AC45842853D4F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=5DF57153ECD356AE3A6AC45842853D4F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=5DF57153ECD356AE3A6AC45842853D4F</a><br>
 政治经济学基础知识 青年自学丛书1975.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=3F251E3B7EB2144BF9ABC33C4CCBA8ED" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=3F251E3B7EB2144BF9ABC33C4CCBA8ED</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3F251E3B7EB2144BF9ABC33C4CCBA8ED" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3F251E3B7EB2144BF9ABC33C4CCBA8ED</a><br>
 政治经济学讲座 讨论稿供参考1959.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=FE4E90A0F9515452E74FE03A83D11AC1" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=FE4E90A0F9515452E74FE03A83D11AC1</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=FE4E90A0F9515452E74FE03A83D11AC1" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=FE4E90A0F9515452E74FE03A83D11AC1</a><br>
 斯大林：苏联社会主义经济问题.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=1CB1896B14DF87CDFCEFD2EAD284B54A" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=1CB1896B14DF87CDFCEFD2EAD284B54A</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=1CB1896B14DF87CDFCEFD2EAD284B54A" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=1CB1896B14DF87CDFCEFD2EAD284B54A</a><br>
 毛主席读《政治经济学教科书》(第三版)社会主义部分的笔记1967.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F729F1FD124C2FBEA00A0CE815FAF3AB" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F729F1FD124C2FBEA00A0CE815FAF3AB</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F729F1FD124C2FBEA00A0CE815FAF3AB" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F729F1FD124C2FBEA00A0CE815FAF3AB</a><br>
 社会主义政治经济学 (未定稿第二版讨论稿).pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=E7CF5D8E8FC75FECB6BC2F647B5A5C2F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=E7CF5D8E8FC75FECB6BC2F647B5A5C2F</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E7CF5D8E8FC75FECB6BC2F647B5A5C2F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E7CF5D8E8FC75FECB6BC2F647B5A5C2F</a></p>
 </blockquote>
 <h2>
 <a name="h-7" class="anchor" href="https://mlmmlm.icu#h-7"></a>历史</h2>
 <blockquote>
 <p>中国古代史 上册.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F0FC3365BD4886B74D874936DC96250C" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F0FC3365BD4886B74D874936DC96250C</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F0FC3365BD4886B74D874936DC96250C" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F0FC3365BD4886B74D874936DC96250C</a><br>
 中国古代史 下册.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=BE854112BFF2A8CB4C8D0B019CB3E8CF" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=BE854112BFF2A8CB4C8D0B019CB3E8CF</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BE854112BFF2A8CB4C8D0B019CB3E8CF" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BE854112BFF2A8CB4C8D0B019CB3E8CF</a><br>
 中国古代史 中册.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=98E72823BBA5EE521AB426796868359C" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=98E72823BBA5EE521AB426796868359C</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=98E72823BBA5EE521AB426796868359C" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=98E72823BBA5EE521AB426796868359C</a><br>
 儒法斗争史稿1975.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=59F7BB28C1094CF126A06C5338D0FC9F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=59F7BB28C1094CF126A06C5338D0FC9F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=59F7BB28C1094CF126A06C5338D0FC9F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=59F7BB28C1094CF126A06C5338D0FC9F</a><br>
 简明世界史古代部分1974.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=08279C791BB7F8B679354244B6418603" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=08279C791BB7F8B679354244B6418603</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=08279C791BB7F8B679354244B6418603" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=08279C791BB7F8B679354244B6418603</a><br>
 简明世界史现代部分（征求意见稿）1975.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=8B80BCB62E0C61A44DD39FEA9D2E3A41" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=8B80BCB62E0C61A44DD39FEA9D2E3A41</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8B80BCB62E0C61A44DD39FEA9D2E3A41" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8B80BCB62E0C61A44DD39FEA9D2E3A41</a><br>
 简明世界史近代部分1974.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=B9BD28D7E62BFDF22BB3D80C8AC9A196" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=B9BD28D7E62BFDF22BB3D80C8AC9A196</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=B9BD28D7E62BFDF22BB3D80C8AC9A196" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=B9BD28D7E62BFDF22BB3D80C8AC9A196</a><br>
 近代中国史稿 上册1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=1E4EE41D7D39B92C548BF28D137D42E8" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=1E4EE41D7D39B92C548BF28D137D42E8</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=1E4EE41D7D39B92C548BF28D137D42E8" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=1E4EE41D7D39B92C548BF28D137D42E8</a><br>
 近代中国史稿 下册1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=FD600F0E1D877DD626A3275276C5532E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=FD600F0E1D877DD626A3275276C5532E</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=FD600F0E1D877DD626A3275276C5532E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=FD600F0E1D877DD626A3275276C5532E</a></p>
 </blockquote>
 <h2>
 <a name="h-8" class="anchor" href="https://mlmmlm.icu#h-8"></a>无产阶级政党</h2>
 <blockquote>
 <p>党的基础知识 青年自学丛书1974.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=2A0C2E175173E4A8748479ED76803F38" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=2A0C2E175173E4A8748479ED76803F38</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=2A0C2E175173E4A8748479ED76803F38" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=2A0C2E175173E4A8748479ED76803F38</a><br>
 列宁与军事化共产党.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=5F47DE36EECE36F6FBFDF9626AA90926" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=5F47DE36EECE36F6FBFDF9626AA90926</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=5F47DE36EECE36F6FBFDF9626AA90926" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=5F47DE36EECE36F6FBFDF9626AA90926</a><br>
 列宁：共产主义运动中的“左派”幼稚病1973.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=DCC03A83112CDECCA3AFEBA461E85E3E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=DCC03A83112CDECCA3AFEBA461E85E3E</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=DCC03A83112CDECCA3AFEBA461E85E3E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=DCC03A83112CDECCA3AFEBA461E85E3E</a><br>
 列宁：怎么办？1965.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=8DAB7D8F293041E763F7F2F1D7DF52E5" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=8DAB7D8F293041E763F7F2F1D7DF52E5</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8DAB7D8F293041E763F7F2F1D7DF52E5" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8DAB7D8F293041E763F7F2F1D7DF52E5</a><br>
 列宁：进一步退两步1975.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=2FEF3A81BCC0687687A8E179EFC37CAD" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=2FEF3A81BCC0687687A8E179EFC37CAD</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=2FEF3A81BCC0687687A8E179EFC37CAD" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=2FEF3A81BCC0687687A8E179EFC37CAD</a><br>
 印共（毛）城市工作手册.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=2904058EFA2F84A9C1EBCAFCF186D636" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=2904058EFA2F84A9C1EBCAFCF186D636</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=2904058EFA2F84A9C1EBCAFCF186D636" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=2904058EFA2F84A9C1EBCAFCF186D636</a><br>
 秘鲁共产党总路线.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04</a><br>
 美国堪萨斯红卫兵的新路线.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=686CF50DB11217293F32A02D00638008" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=686CF50DB11217293F32A02D00638008</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=686CF50DB11217293F32A02D00638008" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=686CF50DB11217293F32A02D00638008</a></p>
 </blockquote>
 <h2>
 <a name="h-9" class="anchor" href="https://mlmmlm.icu#h-9"></a>继续革命论</h2>
 <blockquote>
 <p>对党内资产阶级问题的看法概要1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=62B6DA72DC6154CAD69DA40FD3C7327E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=62B6DA72DC6154CAD69DA40FD3C7327E</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=62B6DA72DC6154CAD69DA40FD3C7327E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=62B6DA72DC6154CAD69DA40FD3C7327E</a><br>
 怎样理解资产阶级就在共产党内——北京市第三次理论讨论会的五个发言材料.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=86D1D9B765665E7AB0AB5E88FE8411FF" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=86D1D9B765665E7AB0AB5E88FE8411FF</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=86D1D9B765665E7AB0AB5E88FE8411FF" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=86D1D9B765665E7AB0AB5E88FE8411FF</a><br>
 社会主义时期的党内资产阶级 谈谈党内资产阶级 上海市委写作组 1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=13C66FF59278212156CD43960890C2E5" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=13C66FF59278212156CD43960890C2E5</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=13C66FF59278212156CD43960890C2E5" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=13C66FF59278212156CD43960890C2E5</a><br>
 社会主义社会与党的基本路线的基本矛盾 1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=60858F1D5A34F4E7BCC6708FDB51860F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=60858F1D5A34F4E7BCC6708FDB51860F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=60858F1D5A34F4E7BCC6708FDB51860F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=60858F1D5A34F4E7BCC6708FDB51860F</a><br>
 认真学习毛主席重要指示 搞清楚资产阶级就在共产党内1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=508EDC025169A6117346B4BF77E96E0D" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=508EDC025169A6117346B4BF77E96E0D</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=508EDC025169A6117346B4BF77E96E0D" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=508EDC025169A6117346B4BF77E96E0D</a><br>
 辽宁省委宣传组理论问题讨论会 1976年2-3月.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=664CA7D96A90C429628399D7861C592B" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=664CA7D96A90C429628399D7861C592B</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=664CA7D96A90C429628399D7861C592B" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=664CA7D96A90C429628399D7861C592B</a></p>
 </blockquote>
 <h2>
 <a name="h-10" class="anchor" href="https://mlmmlm.icu#h-10"></a>国际共产主义运动</h2>
 <blockquote>
 <p>为了国际毛主义统一会议！关于国际共产主义运动及其当前总政治路线商榷的提案.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=05C8C588254D0AEED67864816F41EB5D" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=05C8C588254D0AEED67864816F41EB5D</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=05C8C588254D0AEED67864816F41EB5D" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=05C8C588254D0AEED67864816F41EB5D</a><br>
 保卫贡萨罗主席的生命就是保卫毛主义！.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=EB784AF64E553149D947C522429CC425" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=EB784AF64E553149D947C522429CC425</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=EB784AF64E553149D947C522429CC425" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=EB784AF64E553149D947C522429CC425</a><br>
 关于国际共产主义运动总路线的论战1965.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=89C68EA2C9C406CCAF5392C30C054951" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=89C68EA2C9C406CCAF5392C30C054951</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=89C68EA2C9C406CCAF5392C30C054951" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=89C68EA2C9C406CCAF5392C30C054951</a><br>
 反击教条主义者对毛泽东思想的进攻——评恩维尔·霍查的《帝国主义与革命》.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F2F44EC5BBAC9E4E86BEA9F17D766651" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F2F44EC5BBAC9E4E86BEA9F17D766651</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F2F44EC5BBAC9E4E86BEA9F17D766651" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F2F44EC5BBAC9E4E86BEA9F17D766651</a><br>
 国际共产主义运动中两条路线斗争简史1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=8F73137A3A114802EF7A3C1DCDE10505" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=8F73137A3A114802EF7A3C1DCDE10505</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8F73137A3A114802EF7A3C1DCDE10505" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8F73137A3A114802EF7A3C1DCDE10505</a><br>
 国际共产主义运动简史 (1848-1917)文字版1976.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=582EDEE95C7BA451E3F388C477C36956" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=582EDEE95C7BA451E3F388C477C36956</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=582EDEE95C7BA451E3F388C477C36956" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=582EDEE95C7BA451E3F388C477C36956</a><br>
 在毛主义和人民战争下对取消主义斗争和团结国际共运：关于阿共（毛）对2018年五一宣言的批评.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=474E1C94040396043244B7F01D140E48" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=474E1C94040396043244B7F01D140E48</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=474E1C94040396043244B7F01D140E48" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=474E1C94040396043244B7F01D140E48</a><br>
 阿吉特：反对阿瓦基安主义.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=B78C14B9AA5FA704A208D813719A8FD0" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=B78C14B9AA5FA704A208D813719A8FD0</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=B78C14B9AA5FA704A208D813719A8FD0" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=B78C14B9AA5FA704A208D813719A8FD0</a></p>
 </blockquote>
 <h2>
 <a name="h-11" class="anchor" href="https://mlmmlm.icu#h-11"></a>十九世纪法国革命</h2>
 <blockquote>
 <p>马克思：法兰西内战1971.pdf<br>
-<a href="https://library.bz/main/uploads/AD77C7D5BCAE26AE8B16602D5CBB51D4" rel="noopener nofollow ugc">https://library.bz/main/uploads/AD77C7D5BCAE26AE8B16602D5CBB51D4</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=AD77C7D5BCAE26AE8B16602D5CBB51D4" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=AD77C7D5BCAE26AE8B16602D5CBB51D4</a><br>
 马克思：法兰西的阶级斗争1848-1850.chm<br>
-<a href="https://library.bz/main/uploads/6B19CDFE6170EE4A73DE34D1A266586F" rel="noopener nofollow ugc">https://library.bz/main/uploads/6B19CDFE6170EE4A73DE34D1A266586F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=6B19CDFE6170EE4A73DE34D1A266586F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=6B19CDFE6170EE4A73DE34D1A266586F</a><br>
 马克思：路易波拿巴的雾月十八日.chm<br>
-<a href="https://library.bz/main/uploads/C33DCAEA21324A6CF52B4ECC7FD8067B" rel="noopener nofollow ugc">https://library.bz/main/uploads/C33DCAEA21324A6CF52B4ECC7FD8067B</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=C33DCAEA21324A6CF52B4ECC7FD8067B" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=C33DCAEA21324A6CF52B4ECC7FD8067B</a></p>
 </blockquote>
 <h2>
 <a name="h-12" class="anchor" href="https://mlmmlm.icu#h-12"></a>苏俄（联）革命</h2>
 <blockquote>
 <p>《联共（布）党史简明教程》1975.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=9C5C3C475B65B08A05EB35FB3A220DA8" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=9C5C3C475B65B08A05EB35FB3A220DA8</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=9C5C3C475B65B08A05EB35FB3A220DA8" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=9C5C3C475B65B08A05EB35FB3A220DA8</a><br>
 列宁：再论工会、目前局势及托洛茨基同志和布哈林同志的错误.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=4279ED6389160583D3B0122B5B2C8F52" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=4279ED6389160583D3B0122B5B2C8F52</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=4279ED6389160583D3B0122B5B2C8F52" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=4279ED6389160583D3B0122B5B2C8F52</a><br>
 列宁：无产阶级革命和叛徒考茨基1964.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F096BD4F54AD294DFADD5DAFD784BCC4" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F096BD4F54AD294DFADD5DAFD784BCC4</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F096BD4F54AD294DFADD5DAFD784BCC4" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F096BD4F54AD294DFADD5DAFD784BCC4</a><br>
 列宁：社会民主党在民主革命中两种策略1964.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=161EF565DEB6D891B4DA2C39A1E41AC8" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=161EF565DEB6D891B4DA2C39A1E41AC8</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=161EF565DEB6D891B4DA2C39A1E41AC8" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=161EF565DEB6D891B4DA2C39A1E41AC8</a><br>
 列宁：论工会、目前局势及托洛茨基同志的错误.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=55A4861818247B2DD28B4D3C2A0702C3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=55A4861818247B2DD28B4D3C2A0702C3</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=55A4861818247B2DD28B4D3C2A0702C3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=55A4861818247B2DD28B4D3C2A0702C3</a><br>
 列宁：论无产阶级在这次革命中的任务.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=63A480BF60A52A54E2676636EA79B445" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=63A480BF60A52A54E2676636EA79B445</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=63A480BF60A52A54E2676636EA79B445" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=63A480BF60A52A54E2676636EA79B445</a><br>
 夏尔贝特兰：苏联国内阶级斗争.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=19A1479C8A1FCC953841D70256E93265" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=19A1479C8A1FCC953841D70256E93265</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=19A1479C8A1FCC953841D70256E93265" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=19A1479C8A1FCC953841D70256E93265</a><br>
 安德鲁·M·斯密斯：哪个东方才是红的？毛主义在苏联及东欧的存在 1956-1980.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=6CD455CE4786D984F4E4B1FB61263B59" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=6CD455CE4786D984F4E4B1FB61263B59</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=6CD455CE4786D984F4E4B1FB61263B59" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=6CD455CE4786D984F4E4B1FB61263B59</a><br>
 革命联盟：资本主义是怎样在苏联复辟的.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=D03CC7EF62E31061B600BD739DAC57FB" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=D03CC7EF62E31061B600BD739DAC57FB</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=D03CC7EF62E31061B600BD739DAC57FB" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=D03CC7EF62E31061B600BD739DAC57FB</a></p>
 </blockquote>
 <h2>
 <a name="h-13" class="anchor" href="https://mlmmlm.icu#h-13"></a>中国革命</h2>
 <blockquote>
 <p>中国共产党两条路线斗争史讲义（修改稿）1976.7.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=10E3BA0B96A2AFDC244C4526964BCBCF" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=10E3BA0B96A2AFDC244C4526964BCBCF</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=10E3BA0B96A2AFDC244C4526964BCBCF" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=10E3BA0B96A2AFDC244C4526964BCBCF</a><br>
 中国革命的道路：论解放后两条道路的斗争.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=6DB7332AF6485D6D2D217AAB7B6BF536" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=6DB7332AF6485D6D2D217AAB7B6BF536</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=6DB7332AF6485D6D2D217AAB7B6BF536" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=6DB7332AF6485D6D2D217AAB7B6BF536</a><br>
 共产主义小组（毛主义）：纪念中国共产党成立一百周年.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=E0AF2F2C68DDCBB7C3A535A58995BBE6" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=E0AF2F2C68DDCBB7C3A535A58995BBE6</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E0AF2F2C68DDCBB7C3A535A58995BBE6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E0AF2F2C68DDCBB7C3A535A58995BBE6</a><br>
 印共毛社会帝国主义中国2021.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=D1B500FE328F0BCBF0ECE92E0F266CC8" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=D1B500FE328F0BCBF0ECE92E0F266CC8</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=D1B500FE328F0BCBF0ECE92E0F266CC8" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=D1B500FE328F0BCBF0ECE92E0F266CC8</a><br>
 国际共产主义运动史 下 广西民族学院共运史教研组 第九章第三节.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=D221ACE9CADCD3CB8C345453F7834177" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=D221ACE9CADCD3CB8C345453F7834177</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=D221ACE9CADCD3CB8C345453F7834177" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=D221ACE9CADCD3CB8C345453F7834177</a><br>
 塞里斯与帝国主义.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=8F6C830AA630C208D8C3823EEE78797B" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=8F6C830AA630C208D8C3823EEE78797B</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8F6C830AA630C208D8C3823EEE78797B" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8F6C830AA630C208D8C3823EEE78797B</a><br>
 夏尔贝特兰：中国的文化大革命与工业组织.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=42074DB8F2E3CB0086117075139B5FE6" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=42074DB8F2E3CB0086117075139B5FE6</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=42074DB8F2E3CB0086117075139B5FE6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=42074DB8F2E3CB0086117075139B5FE6</a><br>
 寒流急：试论“特色”资本的崛起和中国工人阶级再解放之路.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=9CBFD95BEC9C4F600D466B196484E0C6" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=9CBFD95BEC9C4F600D466B196484E0C6</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=9CBFD95BEC9C4F600D466B196484E0C6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=9CBFD95BEC9C4F600D466B196484E0C6</a><br>
 毛泽东选集（一卷本）.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3</a><br>
 美国马列毛主义革命学习小组：论中国的文化大革命及其对未来的遗产.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=B1FC7321B68649BEBBD4547F846C771F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=B1FC7321B68649BEBBD4547F846C771F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=B1FC7321B68649BEBBD4547F846C771F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=B1FC7321B68649BEBBD4547F846C771F</a><br>
 讨特色檄文.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=BA5CF30EE5FAAD90F7E93E9A005BF0DD" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=BA5CF30EE5FAAD90F7E93E9A005BF0DD</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BA5CF30EE5FAAD90F7E93E9A005BF0DD" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BA5CF30EE5FAAD90F7E93E9A005BF0DD</a><br>
 韩丁：翻身—中国一个村庄的革命纪实.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=D441E5FDF9713157EA37FEC82051B6DA" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=D441E5FDF9713157EA37FEC82051B6DA</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=D441E5FDF9713157EA37FEC82051B6DA" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=D441E5FDF9713157EA37FEC82051B6DA</a></p>
 </blockquote>
 <h2>
 <a name="h-14" class="anchor" href="https://mlmmlm.icu#h-14"></a>秘鲁革命</h2>
 <blockquote>
 <p>与贡萨罗主席的访谈.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=1D0A097B0D90983E8C805CD6C02697A5" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=1D0A097B0D90983E8C805CD6C02697A5</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=1D0A097B0D90983E8C805CD6C02697A5" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=1D0A097B0D90983E8C805CD6C02697A5</a><br>
 作为发展人民战争的一部分，进行秘鲁共产党的全面重组，以在全国夺取政权！抓住贡萨罗思想解决新问题.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=03223ADE1456C6AAF274F575BF958467" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=03223ADE1456C6AAF274F575BF958467</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=03223ADE1456C6AAF274F575BF958467" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=03223ADE1456C6AAF274F575BF958467</a><br>
 我们应该如何看待秘鲁的人民战争.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=DAE523E8BA0400C8C71BA782A5F45C12" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=DAE523E8BA0400C8C71BA782A5F45C12</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=DAE523E8BA0400C8C71BA782A5F45C12" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=DAE523E8BA0400C8C71BA782A5F45C12</a><br>
 秘鲁共产党总路线.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BE7DEF8D9F0242C2C6E4045315B5EA04</a><br>
 贡萨罗主席虎笼演讲.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=0EE8C39986C9167B2F26AAB60ED47370" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=0EE8C39986C9167B2F26AAB60ED47370</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=0EE8C39986C9167B2F26AAB60ED47370" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=0EE8C39986C9167B2F26AAB60ED47370</a></p>
 </blockquote>
 <h2>
 <a name="h-15" class="anchor" href="https://mlmmlm.icu#h-15"></a>印度革命</h2>
 <blockquote>
 <p>《印度共产党（毛）文献集》上册.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F813EE30A67E80A36ED91796AED71C95" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F813EE30A67E80A36ED91796AED71C95</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F813EE30A67E80A36ED91796AED71C95" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F813EE30A67E80A36ED91796AED71C95</a><br>
 《印度共产党（毛）文献集》下册.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=9AA075B3811F3A9DE937372B40C004B6" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=9AA075B3811F3A9DE937372B40C004B6</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=9AA075B3811F3A9DE937372B40C004B6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=9AA075B3811F3A9DE937372B40C004B6</a><br>
 印共毛：关于印度革命的战略问题.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=212DAC6368753AEAAA20654DEEC11AD0" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=212DAC6368753AEAAA20654DEEC11AD0</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=212DAC6368753AEAAA20654DEEC11AD0" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=212DAC6368753AEAAA20654DEEC11AD0</a><br>
 印共毛：高举马列毛主义的鲜红旗帜.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=EB20D84673E935324FA6215D34A18628" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=EB20D84673E935324FA6215D34A18628</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=EB20D84673E935324FA6215D34A18628" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=EB20D84673E935324FA6215D34A18628</a><br>
 印度一些革命派的重要文件、文章汇编1970.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F736990FC33D5A440401085282C44D15" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F736990FC33D5A440401085282C44D15</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F736990FC33D5A440401085282C44D15" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F736990FC33D5A440401085282C44D15</a></p>
 </blockquote>
 <h2>
 <a name="h-16" class="anchor" href="https://mlmmlm.icu#h-16"></a>民族问题和民族解放斗争</h2>
 <blockquote>
 <p>列宁：民族和殖民地问题提纲初稿.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=BDD6DBBC1F238F9EF27DF659F40E066B" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=BDD6DBBC1F238F9EF27DF659F40E066B</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BDD6DBBC1F238F9EF27DF659F40E066B" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BDD6DBBC1F238F9EF27DF659F40E066B</a><br>
 斯大林：马克思主义和民族问题.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=83760EB72EAC2BFF0C2C0DD4D6D0489A" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=83760EB72EAC2BFF0C2C0DD4D6D0489A</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=83760EB72EAC2BFF0C2C0DD4D6D0489A" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=83760EB72EAC2BFF0C2C0DD4D6D0489A</a><br>
 易卜拉新·凯帕喀亚：土耳其民族问题.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=414B934832DFE22AAB043051BE83878B" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=414B934832DFE22AAB043051BE83878B</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=414B934832DFE22AAB043051BE83878B" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=414B934832DFE22AAB043051BE83878B</a><br>
 毛泽东选集（一卷本）.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3</a></p>
 </blockquote>
 <h2>
 <a name="h-17" class="anchor" href="https://mlmmlm.icu#h-17"></a>无产阶级革命战略：持久人民战争</h2>
 <blockquote>
 <p>巴共（红色派）：人民战争与革命.pdf<br>
-<a href="https://library.bz/main/uploads/3B2BB0824035B737C0E1CFBCF9E3A415" rel="noopener nofollow ugc">https://library.bz/main/uploads/3B2BB0824035B737C0E1CFBCF9E3A415</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3B2BB0824035B737C0E1CFBCF9E3A415" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3B2BB0824035B737C0E1CFBCF9E3A415</a><br>
 加拿大革命共产党：持久人民战争：革命的唯一途径.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=F241DACE86FA01DFC45A10022BA2DB9C" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=F241DACE86FA01DFC45A10022BA2DB9C</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F241DACE86FA01DFC45A10022BA2DB9C" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F241DACE86FA01DFC45A10022BA2DB9C</a><br>
 挪威为人民服务-共产主义联盟：捍卫和应用持久人民战争的普适性.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=934971547A9C038DEB18D8516BFCFBBD" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=934971547A9C038DEB18D8516BFCFBBD</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=934971547A9C038DEB18D8516BFCFBBD" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=934971547A9C038DEB18D8516BFCFBBD</a><br>
 法共毛：帝国主义国家中的人民战争.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=E5A066C02EA607D240094D425848B645" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=E5A066C02EA607D240094D425848B645</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E5A066C02EA607D240094D425848B645" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E5A066C02EA607D240094D425848B645</a><br>
 阶级立场：人民战争——通向解放的唯一道路.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=4501521A2C0BAF7C82BD38DF2C8F24F4" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=4501521A2C0BAF7C82BD38DF2C8F24F4</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=4501521A2C0BAF7C82BD38DF2C8F24F4" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=4501521A2C0BAF7C82BD38DF2C8F24F4</a></p>
 </blockquote>
 <h2>
 <a name="h-18" class="anchor" href="https://mlmmlm.icu#h-18"></a>进一步学习</h2>
 <blockquote>
 <p>斯大林选集.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=67B03482447D4E5273A6B44408F9EDEC" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=67B03482447D4E5273A6B44408F9EDEC</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=67B03482447D4E5273A6B44408F9EDEC" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=67B03482447D4E5273A6B44408F9EDEC</a><br>
 毛泽东著作选读（乙种本）1版 1965.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=B9729C81DC27BF78468968FAA4BBC5C3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=B9729C81DC27BF78468968FAA4BBC5C3</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=B9729C81DC27BF78468968FAA4BBC5C3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=B9729C81DC27BF78468968FAA4BBC5C3</a><br>
 毛泽东著作选读（甲种本）1版上 1964.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=3AEA9172980168B1D252839397A69EBF" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=3AEA9172980168B1D252839397A69EBF</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3AEA9172980168B1D252839397A69EBF" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3AEA9172980168B1D252839397A69EBF</a><br>
 毛泽东著作选读（甲种本）1版下 1964.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=5B1FF205354893E9D2DCADF672355C9D" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=5B1FF205354893E9D2DCADF672355C9D</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=5B1FF205354893E9D2DCADF672355C9D" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=5B1FF205354893E9D2DCADF672355C9D</a><br>
 毛泽东选集（一卷本）.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=02BBFD6FFCDFCD01FF2E1F7E728EECA3</a><br>
 列宁选集 1972 第一卷.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=E6EEBAFE3977C0153DE6B58FAE567CB0" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=E6EEBAFE3977C0153DE6B58FAE567CB0</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E6EEBAFE3977C0153DE6B58FAE567CB0" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E6EEBAFE3977C0153DE6B58FAE567CB0</a><br>
 列宁选集 1972 第三卷.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=175ADD46D98CE6FC2FEF5DB0F35B563F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=175ADD46D98CE6FC2FEF5DB0F35B563F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=175ADD46D98CE6FC2FEF5DB0F35B563F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=175ADD46D98CE6FC2FEF5DB0F35B563F</a><br>
 列宁选集 1972 第二卷.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=662C740B9E2E6495330F9C2C17061BC8" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=662C740B9E2E6495330F9C2C17061BC8</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=662C740B9E2E6495330F9C2C17061BC8" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=662C740B9E2E6495330F9C2C17061BC8</a><br>
 列宁选集 1972 第四卷.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=1B869B7E4140F08CE63A14DB43F3CDA9" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=1B869B7E4140F08CE63A14DB43F3CDA9</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=1B869B7E4140F08CE63A14DB43F3CDA9" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=1B869B7E4140F08CE63A14DB43F3CDA9</a><br>
 马克思恩格斯选集  第一卷 1972 第一版.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=E9E5E476006FCCFE2E63EDF0CAA8422E" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=E9E5E476006FCCFE2E63EDF0CAA8422E</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E9E5E476006FCCFE2E63EDF0CAA8422E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E9E5E476006FCCFE2E63EDF0CAA8422E</a><br>
 马克思恩格斯选集  第三卷 1972 第一版.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=3B037B59137FC648EAF88ADE8266E33F" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=3B037B59137FC648EAF88ADE8266E33F</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3B037B59137FC648EAF88ADE8266E33F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3B037B59137FC648EAF88ADE8266E33F</a><br>
 马克思恩格斯选集  第二卷 1972 第一版.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=7448E74AD9A836607CD4D923B7AC9F96" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=7448E74AD9A836607CD4D923B7AC9F96</a><br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=7448E74AD9A836607CD4D923B7AC9F96" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=7448E74AD9A836607CD4D923B7AC9F96</a><br>
 马克思恩格斯选集  第四卷 1972 第一版.pdf<br>
-<a href="https://libgen.rs/book/index.php?md5=D35F9EFFAEAAFEE11FE97197BF76FF43" rel="noopener nofollow ugc">https://libgen.rs/book/index.php?md5=D35F9EFFAEAAFEE11FE97197BF76FF43</a></p>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=D35F9EFFAEAAFEE11FE97197BF76FF43" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=D35F9EFFAEAAFEE11FE97197BF76FF43</a><br>
+红旗58.1-7.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=4716873E168F7F3AE1FA7EB5E932EE5E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=4716873E168F7F3AE1FA7EB5E932EE5E</a><br>
+红旗58.8-14.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=0DF0303234C2EE6EEA2D089541BFE90E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=0DF0303234C2EE6EEA2D089541BFE90E</a><br>
+红旗59.1-8.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=4392C0B8D8B1F32C3203D735E11676C7" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=4392C0B8D8B1F32C3203D735E11676C7</a><br>
+红旗59.17-24.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=A92067821F53B20BDCC6E1DBEED1F513" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=A92067821F53B20BDCC6E1DBEED1F513</a><br>
+红旗59.9-16.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=176AC4E139D58DDF32B003CF490C5152" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=176AC4E139D58DDF32B003CF490C5152</a><br>
+红旗60.1-8.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=38B6EEFA41D8DFBB8F77C4C7207B9095" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=38B6EEFA41D8DFBB8F77C4C7207B9095</a><br>
+红旗60.17-24.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=36FBE7D1FE6795E3D5739DDC7A965896" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=36FBE7D1FE6795E3D5739DDC7A965896</a><br>
+红旗60.9-16.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=266482BB44215FD4ED7653DC8E1355B1" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=266482BB44215FD4ED7653DC8E1355B1</a><br>
+红旗61.1-8.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=5F4AA6E0740C291C465DBE15BFFD2F76" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=5F4AA6E0740C291C465DBE15BFFD2F76</a><br>
+红旗61.17-24.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=B2B4089EBC7C6549ED10B6228F8FE649" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=B2B4089EBC7C6549ED10B6228F8FE649</a><br>
+红旗61.9-16.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=D3CA24A1E1B644921BEC2A8C4C52AFB7" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=D3CA24A1E1B644921BEC2A8C4C52AFB7</a><br>
+红旗62.1-7.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8A8F8CC9E1AE0C97085A213DA6A5A892" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8A8F8CC9E1AE0C97085A213DA6A5A892</a><br>
+红旗62.15-21.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=7948DB409C3D734F57C777B07ADD0310" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=7948DB409C3D734F57C777B07ADD0310</a><br>
+红旗62.8-14.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BEB88411323F86522A2F11DF1664B479" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BEB88411323F86522A2F11DF1664B479</a><br>
+红旗63.1-8.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=2ABD9B3550ADE20D3C5FB28E6C08A270" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=2ABD9B3550ADE20D3C5FB28E6C08A270</a><br>
+红旗63.17-24.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=459451F37698C2A1CF85DAA0E2F7FC7B" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=459451F37698C2A1CF85DAA0E2F7FC7B</a><br>
+红旗63.9-16.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8A7BB8BFE5918581379AA4554E286F33" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8A7BB8BFE5918581379AA4554E286F33</a><br>
+红旗64.1-8.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=147663333B0074BEE38113E2E1774D72" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=147663333B0074BEE38113E2E1774D72</a><br>
+红旗64.17-24.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=A137AB1419AED3E940C64F3E3FA16B33" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=A137AB1419AED3E940C64F3E3FA16B33</a><br>
+红旗64.9-16.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F211BAA07EE49DE023E2A02D2D66B8E3" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F211BAA07EE49DE023E2A02D2D66B8E3</a><br>
+红旗64.z1-2.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E8F156FE9124E322064477E18FD3C05C" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E8F156FE9124E322064477E18FD3C05C</a><br>
+红旗65.1-7.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=C2F7FB2D0F9CF00C8A9BBA36D2CA6CD6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=C2F7FB2D0F9CF00C8A9BBA36D2CA6CD6</a><br>
+红旗65.8-13.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8C8747ABCA11D058CB68A4B14A56440A" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8C8747ABCA11D058CB68A4B14A56440A</a><br>
+红旗66.1-8.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=D93489683F0DA86CA536E1822EA462AB" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=D93489683F0DA86CA536E1822EA462AB</a><br>
+红旗66.9-15.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F693FD330562060D9B9BE445F44EB9E8" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F693FD330562060D9B9BE445F44EB9E8</a><br>
+红旗67.1-8.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=45D9797B6B67C7FBAF731E1DD146EB96" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=45D9797B6B67C7FBAF731E1DD146EB96</a><br>
+红旗67.9-16.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=BCF37954E59857B1918045FFEA140B0D" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=BCF37954E59857B1918045FFEA140B0D</a><br>
+红旗68.1-5.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=6F32C3287B18D6630C15A075BF762233" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=6F32C3287B18D6630C15A075BF762233</a><br>
+红旗69.1-7.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=05541A79F970BAE5C3663132FB995D3A" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=05541A79F970BAE5C3663132FB995D3A</a><br>
+红旗69.8-12.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3138E116175DF1D6D731DD7EB62BA589" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3138E116175DF1D6D731DD7EB62BA589</a><br>
+红旗70.1-6.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F07D533748AAF06703763A362808E901" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F07D533748AAF06703763A362808E901</a><br>
+红旗70.7-12.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=3A244A5FD673385167718EC3E54FFEA6" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=3A244A5FD673385167718EC3E54FFEA6</a><br>
+红旗71.1-6.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=99A2FAA55793539E0300C3664BBED737" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=99A2FAA55793539E0300C3664BBED737</a><br>
+红旗71.7-13.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=E80DE8A95949817A34201F081C4A01B2" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=E80DE8A95949817A34201F081C4A01B2</a><br>
+红旗72.1-6.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8F2D8ED8D536FE83CABB3A407308E44A" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8F2D8ED8D536FE83CABB3A407308E44A</a><br>
+红旗72.7-12.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=A36A9C83BDB57C6F3030DAC4E6BD91B4" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=A36A9C83BDB57C6F3030DAC4E6BD91B4</a><br>
+红旗73.1-6.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=66EE80157CAF46B11091E2B2F713EE43" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=66EE80157CAF46B11091E2B2F713EE43</a><br>
+红旗73.7-12.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=1FA9F5C0A87BB3E93945106F5740094F" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=1FA9F5C0A87BB3E93945106F5740094F</a><br>
+红旗74.1-6.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=72634FCEBB5AE0CB03597D6DD520E178" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=72634FCEBB5AE0CB03597D6DD520E178</a><br>
+红旗74.7-12.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=8EC5945E82EEC2DB22644ED505AF8B33" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=8EC5945E82EEC2DB22644ED505AF8B33</a><br>
+红旗75.1-6.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=09591F613E3E192093C49DD1DD3E340B" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=09591F613E3E192093C49DD1DD3E340B</a><br>
+红旗75.7-12.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=21A5FCB1B1B753486CFFC7052E834227" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=21A5FCB1B1B753486CFFC7052E834227</a><br>
+红旗76.1-6.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=C12EE4C71E1EE89DEBF446777442349E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=C12EE4C71E1EE89DEBF446777442349E</a><br>
+红旗76.7-12.pdf<br>
+<a href="https://libgen.unblockit.bet/book/index.php?md5=F2FB70A9AA032325ECB3D16A3D70D18E" rel="noopener nofollow ugc">https://libgen.unblockit.bet/book/index.php?md5=F2FB70A9AA032325ECB3D16A3D70D18E</a></p>
 </blockquote>
           <p><a href="https://mlmmlm.icu/t/topic/1222/2">阅读完整话题</a></p>
         ]]></description>

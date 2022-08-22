@@ -25,9 +25,32 @@ steghide
 7.安全的工作环境。
 当执法机构试图破门时能够提前预知并且毁灭证据。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Aug 2022 08:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Aug 2022 03:22:43 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/17.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>利用技术手段武装自己</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote" data-post="1" data-topic="1351">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/6a8cbe/40.png" class="avatar">
+    <a href="https://mlmmlm.icu/t/topic/1351">v2ray透明代理</a> <a class="badge-wrapper  bullet" href="https://mlmmlm.icu/c/9-category/9"><span class="badge-category-bg" style="background-color: #9EB83B;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">技术</span></a>
+  </div>
+  <blockquote>
+    关于iptables（man page的中文翻译） 
+<a href="https://web.archive.org/web/20220821031958/https://manpages.debian.org/wheezy/manpages-zh/iptables.8.zh_CN.html" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20220821031958/https://manpages.debian.org/wheezy/manpages-zh/iptables.8.zh_CN.html</a>
+  </blockquote>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/17/12">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/17/12</link>
+        <pubDate>Sun, 21 Aug 2022 03:22:43 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-17-12</guid>
+        <source url="https://mlmmlm.icu/t/topic/17.rss">利用技术手段武装自己</source>
+      </item>
       <item>
         <title>利用技术手段武装自己</title>
         <dc:creator><![CDATA[azide]]></dc:creator>
