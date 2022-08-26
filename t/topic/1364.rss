@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>检索sci-hub的信息</title>
+    <link>https://mlmmlm.icu/t/topic/1364</link>
+    <description>原作者：@Xuan_JunHe</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 24 Aug 2022 12:13:46 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1364.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>检索sci-hub的信息</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>下載PDF那裡由於與Sci-Hub的網絡連接不穩定可能出現錯誤停止代碼，需要加一個異常處理循環：<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/1gT3w0gtNWPQElzVEKNFoDHzaeV.py">download_pdfs.py</a> (768 Bytes)</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1364/5">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1364/5</link>
+        <pubDate>Wed, 24 Aug 2022 12:13:46 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1364-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/1364.rss">检索sci-hub的信息</source>
+      </item>
+      <item>
+        <title>检索sci-hub的信息</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>大文件的來源（一個包含每篇文章的元數據的SQL表）：<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/d/d4c1ef2ef40b2094966dd3f224836440ca8c5155.png" alt="Screenshot from 2022-08-24 08-09-21" data-base62-sha1="um8J12QhwRFkzwd9WnVzvdxjU9L" width="690" height="397"></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1364/4">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1364/4</link>
+        <pubDate>Wed, 24 Aug 2022 12:09:37 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1364-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/1364.rss">检索sci-hub的信息</source>
+      </item>
+      <item>
+        <title>检索sci-hub的信息</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>小文件的來源和效果顯示：<br>
+<code>split -l 32 scimag_2020-05-30.sql new_scimag_2020-05-30.sql</code><br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/c/cc1701c8a962929cf33539423ef904e306e041d1.png" alt="Screenshot from 2022-08-24 08-05-26" data-base62-sha1="t7sHa5CBL0M6mrz36X8BM87htAZ" width="626" height="499"></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1364/3">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1364/3</link>
+        <pubDate>Wed, 24 Aug 2022 12:06:42 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1364-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/1364.rss">检索sci-hub的信息</source>
+      </item>
+      <item>
+        <title>检索sci-hub的信息</title>
+        <dc:creator><![CDATA[msc]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/7/7cc7a038aebfbf3cae316282318557d1345537b7.png" alt="Screenshot from 2022-08-23 22-57-43" data-base62-sha1="hNQTYhrTwdKT0mJGQsVAFG4f7o3" width="363" height="113"></p>
+<p>小文件搜索程式：</p>
+<pre><code class="lang-auto">import os,sys
+st=[]
+s='Sodium Chlorate'
+n=0
+for a in os.walk('new_scimag_2020-05-30'):
+    for b in a[2]:
+        n+=1
+        print('%d / %d'%(n,len(a[2])))
+        f=open(ld:='%s/%s'%(a[0],b));t=[c.split('),(')for c in f.read().split('\n')if'VALUES'in c];f.close()
+        for c in range(len(t)):
+            if'VALUES ('in t[c][0]:
+                keys=t[c][0].split('VALUES')[0].replace('INSERT INTO `scimag` (','[').replace(') ',']').replace('\'','\\\'').replace('`','\'')
+                t[c][0]='[%s]'%t[c][0].split('VALUES (')[1]
+            for d in range(len(t[c])-1):
+                if d+1==len(t[c])-1:t[c][d+1]=t[c][d+1][:-2]
+                t[c][d+1]='[%s]'%t[c][d+1]
+        t2=[]
+        for c in t:
+            for d in c:
+                t2.append(d)
+        t=t2
+        for c in t:
+            if c.find(s)!=-1:st.append(c)
+        print(len(st))
+tt=[keys]
+tt.extend(st)
+tt='\n'.join(tt)
+f=open('scimag_search_result.txt','w+');f.write(tt);f.close()
+</code></pre>
+<p>在所有Sci Hub文件元信息中的搜索結果：<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/5nWfrLTp5EaaWxSKMnvPoBVv30Y.txt">scimag_search_result.txt</a> (56.9 KB)</p>
+<p><strong>簡化搜索結果：</strong><br>
+[‘Conductivity of Sodium Chlorate-Sodium Chloride-Water System at High Temperature’, ‘10.1149/1.2407487’, ‘’, ‘1970’, ‘’, ‘’, ‘’, ‘\x00’]<br>
+[‘Emergence and Amplification of Chirality via Achiral–Chiral Polymorphic Transformation in Sodium Chlorate Solution Growth’, ‘10.1021/cg500527t’, ‘’, ‘2014’, ‘07’, ‘02’, ‘’, ‘<a href="http://pubs.acs.org/doi/abs/10.1021/cg500527t">http://pubs.acs.org/doi/abs/10.1021/cg500527t</a>’]<br>
+[‘ACS Reagent Chemicals (Specifications and Procedures for Reagents and Standard-Grade Reference Materials) || Sodium Chlorate’, ‘10.1021/acsreagents.4339.20160601’, ‘’, ‘2017’, ‘’, ‘’, ‘0-8412-3046-3’, ‘’]<br>
+[‘Achiral Metastable Crystals of Sodium Chlorate Forming Prior to Chiral Crystals in Solution Growth’, ‘10.1021/cg401324f’, ‘’, ‘2013’, ‘12’, ‘04’, ‘’, ‘<a href="http://pubs.acs.org/doi/abs/10.1021/cg401324f">http://pubs.acs.org/doi/abs/10.1021/cg401324f</a>’]<br>
+[‘Raney Type Surfaces Prepared by High Energy Ball Milling: Application to the Synthesis of Electroanalysts for the Sodium Chlorate Industry’, ‘10.4028/www.scientific.net/MSF.312-314.513’, ‘’, ‘1999’, ‘’, ‘’, ‘’, ‘<a href="http://www.scientific.net/MSF.312-314.513">http://www.scientific.net/MSF.312-314.513</a>’]<br>
+[‘Oral Sodium Chlorate, Topical Disinfection, and Younger Weaning Age Reduce Salmonella enterica Shedding in Pigs’, ‘10.4315/0362-028x-70.8.1798’, ‘’, ‘2007’, ‘08’, ‘’, ‘’, ‘’]<br>
+[‘Effect of Administering Sodium Chlorate in Drinking Water onSalmonellaTyphimurium Concentrations in Weaned and Finished Pigs’, ‘10.1186/1751-0147-44-S1-P63’, ‘’, ‘2003’, ‘03’, ‘’, ‘’, ‘<a href="http://link.springer.com/article/10.1186%2F1751-0147-44-S1-P63">http://link.springer.com/article/10.1186%2F1751-0147-44-S1-P63</a>’]<br>
+['Prepar…………………………<br>
+（下略）</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<p>簡化代碼：</p>
+<pre><code class="lang-auto">f=open('scimag_search_result.txt','r');t=[eval(a)for a in f.read().split('\n')][1:];f.close()
+t2=[]
+for a in t:
+    t2.append(repr([a[3],a[1],a[2],a[5],a[6],a[7],a[13],a[20]]))
+t2='\n'.join(t2)
+f=open('scimag_sr.txt','w+');f.write(t2);f.close()
+</code></pre>
+<h1>
+<a name="sci-hubpdfmega-1" class="anchor" href="https://mlmmlm.icu#sci-hubpdfmega-1"></a>Sci-Hub上全部元信息包含氯酸鈉的文章PDF下載（MEGA）：</h1>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/WfhTmJBL#ZXu0tzbl5lbEODGWi8ZVyQ">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/e/eadc408fb8687ffeab26cbea1a4d82f7afab1ff8.png" class="site-icon" width="" height="">
+
+      <a href="https://mega.nz/folder/WfhTmJBL#ZXu0tzbl5lbEODGWi8ZVyQ" target="_blank" rel="noopener">mega.nz</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://mega.nz/folder/WfhTmJBL#ZXu0tzbl5lbEODGWi8ZVyQ" target="_blank" rel="noopener">240.2 MB folder on MEGA</a></h3>
+
+  <p>281 files</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/yDg3QaLZ#fM0S2ELzwm7vaWs2bBf3Eg">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/e/eadc408fb8687ffeab26cbea1a4d82f7afab1ff8.png" class="site-icon" width="" height="">
+
+      <a href="https://mega.nz/folder/yDg3QaLZ#fM0S2ELzwm7vaWs2bBf3Eg" target="_blank" rel="noopener">mega.nz</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://mega.nz/folder/yDg3QaLZ#fM0S2ELzwm7vaWs2bBf3Eg" target="_blank" rel="noopener">122.23 MB folder on MEGA</a></h3>
+
+  <p>144 files</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/qfhS6n8eft9lBNRp9Uyv4mNry3L.py">download_pdfs.py</a> (764 Bytes)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/5XdFnjnP2su9H1BsgWgrGiRGWsR.py">get_links.py</a> (243 Bytes)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/5PDgHVZUGnJiIF2jtvJW3sWWWrM.py">get_simplified.py</a> (245 Bytes)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/1t3jtBJN34zCAnXc6cPTZcqz5Tm.py">reads.py</a> (971 Bytes)<br>
+（代碼暫不支持重複文件名下載，準備修改為以MD5為文件名）<br>
+以MD5為文件名的：<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/wX3jzg55lQCV6eeicYP2NKYTN0l.py">download_pdfs.py</a> (630 Bytes)<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/wesNNwMGGpUGGTPUSbrqLRXKYYx.py">get_simplified.py</a> (251 Bytes)</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1364/2">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1364/2</link>
+        <pubDate>Wed, 24 Aug 2022 12:02:45 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1364-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/1364.rss">检索sci-hub的信息</source>
+      </item>
+      <item>
+        <title>检索sci-hub的信息</title>
+        <dc:creator><![CDATA[msc]]></dc:creator>
+        <description><![CDATA[
+            <p>原作者：<a class="mention" href="https://mlmmlm.icu/u/xuan_junhe">@Xuan_JunHe</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1364/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1364/1</link>
+        <pubDate>Wed, 24 Aug 2022 11:59:19 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1364-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1364.rss">检索sci-hub的信息</source>
+      </item>
+  </channel>
+</rss>
