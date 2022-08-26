@@ -5,6 +5,253 @@
     <link>https://mlmmlm.icu</link>
     <description>最新帖子</description>
       <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[@xjds0 xjds0]]></dc:creator>
+        <description><![CDATA[ <aside class="quote no-group" data-username="azide" data-post="1" data-topic="1255">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/6a8cbe/40.png" class="avatar"> azide:</div>
+<blockquote>
+<p>1.拆分PRD同志的GitHub仓库，利用 <code>git clone --filter</code>特性。</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="azide" data-post="1" data-topic="1255">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/6a8cbe/40.png" class="avatar"> azide:</div>
+<blockquote>
+<p>4.便于搜索的《文化大革命文库》</p>
+</blockquote>
+</aside>
+<p>已经完成</p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255?page=6#post_110</link>
+        <pubDate>Fri, 26 Aug 2022 08:46:26 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5557</guid>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[@adt adt]]></dc:creator>
+        <description><![CDATA[ <p><a class="mention" href="https://mlmmlm.icu/u/106coup">@106coup</a> <a class="mention" href="https://mlmmlm.icu/u/aaa">@aaa</a> <a class="mention" href="https://mlmmlm.icu/u/one_normal_one">@one_normal_one</a> <a class="mention" href="https://mlmmlm.icu/u/news_porter">@news_porter</a></p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255?page=6#post_109</link>
+        <pubDate>Fri, 26 Aug 2022 08:35:47 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5556</guid>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[@adt adt]]></dc:creator>
+        <description><![CDATA[ <p>我发现PRD同志直接把用手机拍摄书籍时未经处理的图片直接上传了。</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://web.archive.org/web/20220826082849/https://github.com/ProletRevDicta/Prolet/issues/48">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+
+      <a href="https://web.archive.org/web/20220826082849/https://github.com/ProletRevDicta/Prolet/issues/48" target="_blank" rel="noopener nofollow ugc">GitHub</a>
+  </header>
+
+  <article class="onebox-body">
+    <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+<h3><a href="https://web.archive.org/web/20220826082849/https://github.com/ProletRevDicta/Prolet/issues/48" target="_blank" rel="noopener nofollow ugc">有必要压缩图片以便于传播 · Issue #48 · ProletRevDicta/Prolet</a></h3>
+
+  <p>目前大部分的上传和下载操作要绕地球一圈。 《上海工人革命造反总司令部斗争纪要》有40张图片占170MB。 现在智能手机的像素都很高，产生的图片很大。 一般一张图片400kB就足够OCR操作了。建议先压缩再上传。 但是一般的压缩格式无法减少图片文件占的空间。</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>这个文件夹竟然占了2GB<br>
+501M ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月/上海文化大革命史话 送审稿第1卷（P1-P264）<br>
+683M ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月/上海文化大革命史话 送审稿第2卷（P265-P632）<br>
+675M ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月/上海文化大革命史话 送审稿第3卷（P633-P991）<br>
+2.0G ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月</p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255?page=6#post_108</link>
+        <pubDate>Fri, 26 Aug 2022 08:31:47 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5555</guid>
+      </item>
+      <item>
+        <title>关于资料整理的计划</title>
+        <dc:creator><![CDATA[@xjds0 xjds0]]></dc:creator>
+        <description><![CDATA[ <p>有资料需要ocr后上传至github。</p>
+<p>501M ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月/上海文化大革命史话 送审稿第1卷（P1-P264）<br>
+683M ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月/上海文化大革命史话 送审稿第2卷（P265-P632）<br>
+675M ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月/上海文化大革命史话 送审稿第3卷（P633-P991）<br>
+2.0G ./上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月<br>
+43M ./北京大学学报<br>
+103M ./姚文元<br>
+6.4M ./宗明兰<br>
+350M ./1976年11月”中央宣传口“编的“四人帮”35种黑材料， ”全国宣传工作会议“<br>
+120M ./云南揭批查<br>
+164M ./上海工人革命造反总司令部斗争纪要 一月风暴丛书 《工人造反报》编辑部、《一月风暴》编辑部 工总司出版系统总联络站出版 1967年<br>
+361M ./无产阶级文化大革命<br>
+703M ./张春桥<br>
+99M ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/上海民兵斗争史资料16 “‘四人帮’在上海经营‘第二武装’的始末” “上海民兵斗争史资料组” 1980年12月<br>
+203M ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/上海民兵斗争史资料18 “‘四人帮’大搞第二武装罪行材料”第三、四部分 “上海民兵斗争史资料组” 1980年12月<br>
+223M ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/上海民兵斗争史资料22 “‘四人帮’经营第二武装的记事“ “上海民兵斗争史资料组” 1981年1月<br>
+181M ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/上海民兵斗争史资料17 “‘四人帮’大搞第二武装罪行材料”第一、二部分 “上海民兵斗争史资料组” 1980年12月<br>
+159M ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/上海民兵斗争史资料19 “‘四人帮’大搞第二武装罪行材料”第五部分 “上海民兵斗争史资料组” 1980年12月<br>
+222M ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/上海民兵斗争史资料21 【上海民兵系统人员“揭批查”文章选录】 “上海民兵斗争史资料组” 1981年1月<br>
+153M ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/上海民兵斗争史资料20 【上海民兵系统人员反对“第二武装”若干言行】 “上海民兵斗争史资料组” 1981年1月<br>
+1.3G ./上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月<br>
+381M ./上海工人革命造反派代表会议文件汇编 一月风暴丛书 上海工人革命造反总司令部 《工人造反报》编辑部、《一月风暴》编辑部 1967年12月<br>
+16M ./杨春甫<br>
+242M ./上海<br>
+313M ./夏邦银、朱鸿霞、胡厚民<br>
+342M ./浙江揭批查<br>
+91M ./十七年来经济战线两条路线斗争大事记<br>
+286M ./王洪文<br>
+7.1G .</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<p>total 426M<br>
+-rw-r–r-- 1 root root 20M Aug 26 15:42 (References used in Snippet of On the Inner-Party Bourgeoisie Shanghai 1976 )《谈谈党内资产阶级》辑佚参考文献.7z<br>
+drwxr-xr-x 19 root root 12K Aug 26 15:46 ./<br>
+drwxr-xr-x 5 root root 4.0K Aug 26 15:44 …/<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:41 1976年11月”中央宣传口“编的“四人帮”35种黑材料， ”全国宣传工作会议“/<br>
+-rw-r–r-- 1 root root 0 Aug 26 15:46 aaa.txt<br>
+-rw-r–r-- 1 root root 7.7M Aug 26 15:42 “‘四人帮’在甘肃的代理人冼恒汉罪行材料” “中共甘肃省委揭批‘四人帮’运动办公室”印 1977年11月.7z<br>
+-rw-r–r-- 1 root root 5.3M Aug 26 15:42 “全国宣传会筹备组”的“四人帮”哲学、政治经济学、科学社会主义、文艺材料_RC.pdf<br>
+-rw-r–r-- 1 root root 1006K Aug 26 15:42 “教育部大批判组”的“四人帮”教育材料_RC.pdf<br>
+-rw-r–r-- 1 root root 2.9M Aug 26 15:42 “朝阳地区揭发批判‘四人帮’及其死党党羽亲信(王吉道路、王智升、徐明)罪行大会发言稿 “”中共朝阳地位揭批‘四人帮’办公室” 1977年11月21日.7z<br>
+-rw-r–r-- 1 root root 2.5M Aug 26 15:42 “科学院哲学政治经济学部经济研究所批判组”1977年3月黑材料“’四人帮’对马克思主义政治经济学的‘篡改’” t.7z<br>
+-rw-r–r-- 1 root root 5.4M Aug 26 15:42 ”生活方式“黑材料 “四人帮”反党罪行材料选编（三）.pdf<br>
+-rw-r–r-- 1 root root 8.3M Aug 26 15:42 《关于加快工业发展的若干问题》选批.pdf<br>
+-rw-r–r-- 1 root root 13M Aug 26 15:42 《论总纲》选批.pdf<br>
+-rw-r–r-- 1 root root 42K Aug 26 15:43 一九七一年全国教育工作会议纪要 中发〔1971〕44号文件.docx<br>
+-rw-r–r-- 1 root root 422K Aug 26 15:43 一九七一年全国教育工作会议纪要 中发〔1971〕44号文件.pdf<br>
+-rw-r–r-- 1 root root 320K Aug 26 15:43 一九七五年清华大学关于教育革命大辩论的情况报告 中发〔1975〕26号文件.pdf<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:41 上海/<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:41 上海工人革命造反总司令部斗争纪要 一月风暴丛书 《工人造反报》编辑部、《一月风暴》编辑部 工总司出版系统总联络站出版 1967年/<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:41 上海工人革命造反派代表会议文件汇编 一月风暴丛书 上海工人革命造反总司令部 《工人造反报》编辑部、《一月风暴》编辑部 1967年12月/<br>
+drwxr-xr-x 5 root root 4.0K Aug 26 15:42 上海文化大革命史话 “上海文革史料整理编纂小组” 1992年8月/<br>
+drwxr-xr-x 9 root root 4.0K Aug 26 15:41 上海民兵斗争史资料16-22 “‘四人帮’经营第二武装资料专辑” “上海警备区民兵斗争史资料组” 1981年6月/<br>
+-rw-r–r-- 1 root root 23M Aug 26 15:43 为加强无产阶级专政而斗争（上海市革命委员会1967年6月2日决议）学习文件1.7z<br>
+-rw-r–r-- 1 root root 25M Aug 26 15:43 于会泳、浩亮、刘庆棠等1976年2至3月在重点题材创作会议上的讲话.7z.001<br>
+-rw-r–r-- 1 root root 653K Aug 26 15:43 于会泳、浩亮、刘庆棠等1976年2至3月在重点题材创作会议上的讲话.7z.002<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 云南揭批查/<br>
+-rw-r–r-- 1 root root 9.9M Aug 26 15:43 修正主义文艺路线代表性论点批判 2.pdf<br>
+-rw-r–r-- 1 root root 9.3M Aug 26 15:43 修正主义文艺路线代表性论点批判.pdf<br>
+-rw-r–r-- 1 root root 2.9M Aug 26 15:42 全黄总黑材料 “四人帮破坏工人运动罪行资料摘编””中华全国总工会机关批判组“197803.pdf<br>
+-rw-r–r-- 1 root root 19M Aug 26 15:42 关于工人队伍基本状况的调查 上海市委写作组 1973年8月.7z<br>
+-rw-r–r-- 1 root root 21M Aug 26 15:42 冯金传达毛远新同志1974年2月16日在生工农兵干部学习班上的讲话.7z<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:41 北京大学学报/<br>
+-rw-r–r-- 1 root root 3.9M Aug 26 15:42 北京第二次理论问题讨论会的四个发言材料(关于资产阶级法权) 中共北京市委宣传组 1975年11月.7z<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 十七年来经济战线两条路线斗争大事记/<br>
+-rw-r–r-- 1 root root 9.0M Aug 26 15:43 周景芳同志1967年6月19日关于“学习《关于正确处理人民内部矛盾的问题》 认真开展整风运动”的报告摘抄 通用所革命工人造反总部宣传组.pdf<br>
+-rw-r–r-- 1 root root 1.4M Aug 26 15:43 在斗争中提高对走资派的识别能力 《武汉大学学报：人文科学版》1976年 第4期.pdf<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 夏邦银、朱鸿霞、胡厚民/<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 姚文元/<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 宗明兰/<br>
+-rw-r–r-- 1 root root 1.4M Aug 26 15:42 对苏联变修历史教训的一些看法 苏联变修历史教训讨论会 上海《国际问题资料》编辑组 RF.7z<br>
+-rw-r–r-- 1 root root 439K Aug 26 15:42 工人课本.pdf<br>
+-rw-r–r-- 1 root root 9.4M Aug 26 15:42 康生李富春江青姚文元李天佑曹轶欧1967年9月5日第三次接见安徽代表时的讲话.7z<br>
+drwxr-xr-x 2 root root 12K Aug 26 15:42 张春桥/<br>
+-rw-r–r-- 1 root root 1.2M Aug 26 15:43 政治局1971年7月26日讨论《全国教育工作会议纪要》的指示 刘西尧7月27日传达(全4页不全，待补) .7z<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 无产阶级文化大革命/<br>
+-rw-r–r-- 1 root root 5.3M Aug 26 15:42 李富春1967年6月26日在一九六七年全国生产供应会议上的讲话.pdf<br>
+-rw-r–r-- 1 root root 7.2M Aug 26 15:42 李富春× 周荣鑫×1966年10月9日对北京地质学院学生的讲话.7z<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 杨春甫/<br>
+-rw-r–r-- 1 root root 20M Aug 26 15:42 江雨声1976年11月在上海电影制片厂揭批查大会上的发言.7z<br>
+-rw-r–r-- 1 root root 25M Aug 26 15:42 沈阳市团干部理论讨论会纪要《资产阶级在党内 共青团怎么办》共青团沈阳市委员会办公室印 1976年8月.7z<br>
+-rw-r–r-- 1 root root 20M Aug 26 15:42 河南 唐岐山同志1976年若干讲话.7z<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 浙江揭批查/<br>
+-rw-r–r-- 1 root root 14M Aug 26 15:43 温玉成在北京军队支左干部会议上的讲话 卜明就江苏“三查”运动的讲话 1968年.7z<br>
+-rw-r–r-- 1 root root 7.1M Aug 26 15:43 王张江姚”四人帮反党集团”“破坏教育革命“纪事 ”北京师范大学教育大批判组“1977年4月.7z<br>
+drwxr-xr-x 2 root root 4.0K Aug 26 15:42 王洪文/<br>
+-rw-r–r-- 1 root root 12M Aug 26 15:43 痛击右倾翻案风 狠批唯生产力论1.pdf<br>
+-rw-r–r-- 1 root root 19M Aug 26 15:43 痛击右倾翻案风 狠批唯生产力论2.pdf<br>
+-rw-r–r-- 1 root root 14M Aug 26 15:42 福建 郑重 陈佳忠同志1976年若干讲话t.7z<br>
+-rw-r–r-- 1 root root 13M Aug 26 15:42 福建陈佳忠和“四人帮”在1976年2月中央打招呼会议前后 “福建省委办公厅”1977年2月 .7z<br>
+-rw-r–r-- 1 root root 61K Aug 26 15:42 第十五次全国公安会议纪要 中发〔1971〕20号文件.doc<br>
+-rw-r–r-- 1 root root 445K Aug 26 15:42 第十五次全国公安会议纪要 中发〔1971〕20号文件.pdf<br>
+-rw-r–r-- 1 root root 14M Aug 26 15:42 认真学习毛主席重要指示 搞清楚资产阶级就在共产党内（讲话材料供理论辅导员参考）《武汉大学学报：人文科学版》1976年 第4期.pdf<br>
+-rw-r–r-- 1 root root 6.9M Aug 26 15:43 谈谈资产阶级法权 by 上钢五厂工人理论小组，复旦大学红宣编写 .pdf<br>
+-rw-r–r-- 1 root root 6.9M Aug 26 15:42 辽宁“揭批查”：“中共辽宁省委”关于辽宁省揭批“四人帮”及其“死党”毛远新“斗争”情况的报告（选） 【供参考】“中共辽宁省委党史研究室”. “拨乱反正”在辽宁P219-233.pdf<br>
+-rw-r–r-- 1 root root 8.1M Aug 26 15:42 辽宁理论问题讨论会 关于阶级关系问题的讨论情况汇集（1976年2-3月）辽宁省委宣传组.pdf<br>
+-rw-r–r-- 1 root root 8.3M Aug 26 15:42 辽宁省1976年2-3月理论讨论会材料（图片） 关于社会主义革命时期的阶级关系问题——关于阶级关系问题的讨论情况汇集（党内资产阶级问题）.jpg<br>
+-rw-r–r-- 1 root root 490K Aug 26 15:42 辽宁省委宣传组理论问题讨论会 1976年2-3月.pdf<br>
+-rw-r–r-- 1 root root 150K Aug 26 15:42 陈以梅 在济南市二所对济南工人谈话19740322_RC.pdf<br>
+-rw-r–r-- 1 root root 10M Aug 26 15:42 陈以梅同志像 在批林批孔会上.zip<br>
+-rw-r–r-- 1 root root 284K Aug 26 15:42 陈以梅在山东省工农兵代表批林批孔汇报大会上的讲话19740227_RC.pdf<br>
+-rw-r–r-- 1 root root 6.0M Aug 26 15:42 陈以梅在批林批孔会上001.jpg<br>
+-rw-r–r-- 1 root root 11M Aug 26 15:42 陈以梅在批林批孔会上002.jpg<br>
+-rw-r–r-- 1 root root 2.9K Aug 26 15:43 预计将上传的张春桥、江青、姚文元、王洪文等有关讲话.md<br>
+-rw-r–r-- 1 root root 3.8K Aug 26 15:43 预计将上传的有关湖北的材料（胡厚民同志等）目录.md<br>
+-rw-r–r-- 1 root root 9.0K Aug 26 15:43 预计将上传的毛远新的讲话文章（附张铁生、宗明兰的部分文章讲话）.md</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<aside class="quote no-group" data-username="xjds0" data-post="107" data-topic="1255">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/x/e274bd/40.png" class="avatar"> xjds0:</div>
+<blockquote>
+<p><code>1.3G ./上海民兵斗争史资料16-22 </code></p>
+</blockquote>
+</aside>
+<p>这个已经整理了</p>
+<p>参见</p>
+<p><code>https://github.com/ProletRevDicta/Prolet/issues/1829</code></p>
+<p>又见</p>
+<pre><code class="lang-auto">https://gitlab.com/users/revorevo1/projects
+https://gitlab.com/revorevo
+</code></pre>
+<p>上传完毕（除了斗争纪要和民兵斗争史资料）</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/cFZ3zDiQ#9_RfahvF5pCcSA65qsYhgQ">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/2/2affe1a9652b8998c6eb37a72c461a8f78744c0e.png" class="site-icon" width="" height="">
+
+      <a href="https://mega.nz/folder/cFZ3zDiQ#9_RfahvF5pCcSA65qsYhgQ" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://mega.nz/folder/cFZ3zDiQ#9_RfahvF5pCcSA65qsYhgQ" target="_blank" rel="noopener nofollow ugc">5.52 GB folder on MEGA</a></h3>
+
+  <p>374 files and 18 subfolders</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+ ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1255?page=6#post_107</link>
+        <pubDate>Fri, 26 Aug 2022 07:59:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5552</guid>
+      </item>
+      <item>
+        <title>RPG-7</title>
+        <dc:creator><![CDATA[@adt adt]]></dc:creator>
+        <description><![CDATA[ <p>阿德南·古勒 “隐士”＋炸弹专家<br>
+<a href="http://www.sina.com.cn" rel="noopener nofollow ugc">http://www.sina.com.cn</a> 2004年10月23日10:53 广州日报大洋网</p>
+<p>本报讯据中新社消息，多年来，哈马斯军事领导人阿德南·古勒靠着严格的保密，再加上不错的运气，屡次成功地躲过了以色列的追捕。22日，这位传奇人物被炸身亡，其独特的身世再次引起世人关注。</p>
+<p>现年46岁的阿德南·古勒，1988年即加入刚刚成立的哈马斯组织，协助该组织建立军事“卡桑旅”。1996年，在叶亚·阿亚什被以色列暗杀后，他即成为该组织的首席炸弹制造专家，人称“炸弹工程师”。</p>
+<p>阿德南·古勒一直负责研发“卡桑”反坦克及地对空火箭，因此又被称为“卡桑火箭之父”。最近几年，巴勒斯坦武装组织在以色列南部地区发射过几十枚“卡桑”火箭，上个月刚刚有两名以色列小学生被该型火箭炸死，招致以色列的大规模报复。</p>
+<p>两个儿子被暗杀</p>
+<p>阿德南·古勒居住在加沙以南的孟卡尔地区，一直过着隐居生活，从不公开露面，也不接受媒体采访。2003年9月，阿德南·古勒与哈马斯创始人亚辛及其他哈马斯高官在加沙的一座楼房内开会，以色列空军向该建筑投下一枚重达550磅的炸弹，但没有人在这次暗杀中丧生。</p>
+<p>哈马斯的活动极为保密，但人们对它的结构框架仍能有个大概的了解。其基本政策通常由其政治局制定，哈马斯政治局最高领导人是大马士革的哈立德·马沙尔，成员包括几名阿拉伯国家的哈马斯领袖、加沙的哈尼耶及穆罕默德·扎哈。哈马斯军事组织“卡桑旅”，主要负责策划及攻击以色列，其最高领导人是迪耶弗，很早即被以色列列入黑名单，多年来一直四处躲藏。</p>
+<p>阿德南·古勒的长子比拉尔，2001年在以色列的空袭中被炸身亡，当时他正驾驶着古勒的汽车。古勒的次子穆罕默德·古勒，2002年在以色列的搜城行动中也被打死。目前，他仅剩一子一女。（来源：广州日报）</p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1363#post_9</link>
+        <pubDate>Fri, 26 Aug 2022 05:59:26 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5550</guid>
+      </item>
+      <item>
         <title>【科普】三酸两碱，无机含氮化合物，含能材料，化工有机产品的科普（关于历史上的制备方法和当前的制备方法）</title>
         <dc:creator><![CDATA[@adt adt]]></dc:creator>
         <description><![CDATA[ <aside class="quote no-group" data-username="adt" data-post="7" data-topic="1366">
@@ -846,71 +1093,6 @@
         <link>https://mlmmlm.icu/t/topic/1366#post_1</link>
         <pubDate>Thu, 25 Aug 2022 03:39:09 +0000</pubDate>
         <guid isPermaLink="false">mlmmlm.icu-post-5508</guid>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[@adt adt]]></dc:creator>
-        <description><![CDATA[ <p>另外求书，70s到80s的高中课本，自学丛书。</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255?page=5#post_85</link>
-        <pubDate>Thu, 25 Aug 2022 03:07:49 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5507</guid>
-      </item>
-      <item>
-        <title>关于资料整理的计划</title>
-        <dc:creator><![CDATA[@adt adt]]></dc:creator>
-        <description><![CDATA[ <p>2022/8/25</p>
-<p>1.论坛的导航、站点地图。<br>
-2.技术资料的通俗化。让工农兵能够看懂。</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1255?page=5#post_84</link>
-        <pubDate>Thu, 25 Aug 2022 03:05:24 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5506</guid>
-      </item>
-      <item>
-        <title>RPG-7</title>
-        <dc:creator><![CDATA[@Xuan_JunHe Xuan_JunHe]]></dc:creator>
-        <description><![CDATA[ <p>中国航天航空研究资料集成（馬列之聲）：<br>
-<a href="https://mega.nz/folder/qWJgBILQ#zR3uutCjTLAB_ktBHPP7dg" class="onebox" target="_blank" rel="noopener nofollow ugc">https://mega.nz/folder/qWJgBILQ#zR3uutCjTLAB_ktBHPP7dg</a><br>
-<a href="https://mega.nz/folder/zKgh3aYT#nnQi829a03LydocAyeeSzA" class="onebox" target="_blank" rel="noopener nofollow ugc">https://mega.nz/folder/zKgh3aYT#nnQi829a03LydocAyeeSzA</a><br>
-<a href="https://mega.nz/folder/3XxnCAZD#llcxm-JUzE9z9GJtAqf8Lw" class="onebox" target="_blank" rel="noopener nofollow ugc">https://mega.nz/folder/3XxnCAZD#llcxm-JUzE9z9GJtAqf8Lw</a></p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1363#post_6</link>
-        <pubDate>Wed, 24 Aug 2022 13:53:05 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5504</guid>
-      </item>
-      <item>
-        <title>RPG-7</title>
-        <dc:creator><![CDATA[@azide azide]]></dc:creator>
-        <description><![CDATA[ <h2>
-<a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>复合改性双基推进剂</h2>
-<p></p><p>在双基推进剂中加入无机氧化剂（如高氯酸铵、硝酸铵）、金属燃烧剂（如铝粉、镁粉）和高能添加剂（如黑索今、奥克托今）等填料，配浆混合后浇铸于发动机壳体或药模中，再经过固化而成。这种推进剂的优点是密度大（大于1.8克/厘米<sup>3</sup>），能量高（比冲可达2600米/秒），浇铸工艺简单，腐蚀性小，力学性能好，适用于固体战略导弹。</p><p><span>固体火箭推进剂应满足以下要求：①能量高，即具有高比冲和高密度。②良好的内弹道特性，即燃速可调范围宽，燃速受压力、温度及气流速度等因素影响小，可在较低压力下正常燃烧，燃烧稳定性好。③良好的力学性能，火箭、导弹在飞行工况下可承受各种载荷的作用。④良好的物理稳定性和化学安定性，在各种使用环境下长期贮存性能稳定，使用安全，在生产、运输、贮存、维护处理时不发生燃烧爆炸。⑤原材料丰富，工艺性能好，成本低。为了适应各类导弹和航天事业飞速发展的要求，提高推进剂能量（比冲和密度）、化学动力特性（燃速可调节范围宽、迅速燃烧、稳定燃烧）和使用性能（力学性能和贮存性能）成为固体火箭推进剂的研究发展方向。</span><br></p><p></p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1363#post_5</link>
-        <pubDate>Wed, 24 Aug 2022 13:41:00 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5503</guid>
-      </item>
-      <item>
-        <title>RPG-7</title>
-        <dc:creator><![CDATA[@msc msc]]></dc:creator>
-        <description><![CDATA[ <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/zbiIZJ1qGZRSH80iSOEz6rCqL84.pdf">Combustion of Energetic Materials.pdf</a> (1.7 MB)</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1363#post_4</link>
-        <pubDate>Wed, 24 Aug 2022 13:06:47 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5502</guid>
-      </item>
-      <item>
-        <title>检索sci-hub的信息</title>
-        <dc:creator><![CDATA[@Xuan_JunHe Xuan_JunHe]]></dc:creator>
-        <description><![CDATA[ <p>下載PDF那裡由於與Sci-Hub的網絡連接不穩定可能出現錯誤停止代碼，需要加一個異常處理循環：<br>
-<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/1gT3w0gtNWPQElzVEKNFoDHzaeV.py">download_pdfs.py</a> (768 Bytes)</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1364#post_5</link>
-        <pubDate>Wed, 24 Aug 2022 12:13:46 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5501</guid>
-      </item>
-      <item>
-        <title>检索sci-hub的信息</title>
-        <dc:creator><![CDATA[@Xuan_JunHe Xuan_JunHe]]></dc:creator>
-        <description><![CDATA[ <p>大文件的來源（一個包含每篇文章的元數據的SQL表）：<br>
-<img src="https://mlmmlm.icu/uploads/default/original/2X/d/d4c1ef2ef40b2094966dd3f224836440ca8c5155.png" alt="Screenshot from 2022-08-24 08-09-21" data-base62-sha1="um8J12QhwRFkzwd9WnVzvdxjU9L" width="690" height="397"></p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1364#post_4</link>
-        <pubDate>Wed, 24 Aug 2022 12:09:37 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5500</guid>
       </item>
   </channel>
 </rss>
