@@ -1,6 +1,9 @@
 # url
 https://revorevo.gitlab.io/mlmmlm-icu-2022
 
+https://o.mlm01.icu 
+(will expire in one year)
+
 # wget
 ` wget --wait=0.3 -r -l 2 -p -E -k -np -e robots=off -i urls.txt`
 use `-l 2` instead of `-l 1` to backup uploads.
