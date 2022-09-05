@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>百毒已經取消了翻譯平臺和OCR平臺的每日免費流量活動，還剩部分OCR可供調用。</title>
+    <link>https://mlmmlm.icu/t/topic/1384</link>
+    <description>2022年8月1日起，通用翻译API标准版免费调用量调整为5万字符/月，高级版免费调用量调整为100万字符/月
+
+为响应《中华人民共和国网络安全法》及相关法律规定关于落实用户实名认证的要求，即日起，文字识别API服务根据实名认证情况匹配免费测试资源，您已完成实名认证，平台已为您保留接口的原有免费测试资源，不受影响。
+
+通用场景文字识别 | 通用文字识别（标准版） | 50,000次/天，2 QPS | 未实名认证：200次/月，1 QPS； 个人认证：1,000次/月，2 QPS； 企业认证：2,000次/月，2 QPS</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 02 Sep 2022 16:09:57 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1384.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>百毒已經取消了翻譯平臺和OCR平臺的每日免費流量活動，還剩部分OCR可供調用。</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>2022年8月1日起，通用翻译API标准版免费调用量调整为5万字符/月，高级版免费调用量调整为100万字符/月</p>
+<p>为响应《中华人民共和国网络安全法》及相关法律规定关于落实用户实名认证的要求，即日起，文字识别API服务根据实名认证情况匹配免费测试资源，您已完成实名认证，平台已为您保留接口的原有免费测试资源，不受影响。</p>
+<p>通用场景文字识别 | 通用文字识别（标准版） | 50,000次/天，2 QPS | 未实名认证：200次/月，1 QPS； 个人认证：1,000次/月，2 QPS； 企业认证：2,000次/月，2 QPS</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1384/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1384/1</link>
+        <pubDate>Fri, 02 Sep 2022 16:09:57 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1384-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1384.rss">百毒已經取消了翻譯平臺和OCR平臺的每日免費流量活動，還剩部分OCR可供調用。</source>
+      </item>
+  </channel>
+</rss>

@@ -5,10 +5,29 @@
     <link>https://mlmmlm.icu/c/9-category/9</link>
     <description>&#39;技术&#39; 类别中的话题 </description>
     <language>zh-CN</language>
-      <lastBuildDate>Wed, 31 Aug 2022 14:43:31 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 02 Sep 2022 16:09:57 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/c/9-category/9.rss" rel="self" type="application/rss+xml" />
         <item>
-          <title>對隔壁“左圈自由軟件教程”的評價，左圈魚龍混雜，不能團結RMS。</title>
+          <title>百毒已經取消了翻譯平臺和OCR平臺的每日免費流量活動，還剩部分OCR可供調用。</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>2022年8月1日起，通用翻译API标准版免费调用量调整为5万字符/月，高级版免费调用量调整为100万字符/月</p>
+<p>为响应《中华人民共和国网络安全法》及相关法律规定关于落实用户实名认证的要求，即日起，文字识别API服务根据实名认证情况匹配免费测试资源，您已完成实名认证，平台已为您保留接口的原有免费测试资源，不受影响。</p>
+<p>通用场景文字识别 | 通用文字识别（标准版） | 50,000次/天，2 QPS | 未实名认证：200次/月，1 QPS； 个人认证：1,000次/月，2 QPS； 企业认证：2,000次/月，2 QPS</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1384">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1384</link>
+          <pubDate>Fri, 02 Sep 2022 16:09:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1384</guid>
+          <source url="https://mlmmlm.icu/t/topic/1384.rss">百毒已經取消了翻譯平臺和OCR平臺的每日免費流量活動，還剩部分OCR可供調用。</source>
+        </item>
+        <item>
+          <title>對隔壁“泛左自由軟件教程”的評價，“泛左”魚龍混雜，不能團結RMS。</title>
           <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
           <category>技术</category>
           <description><![CDATA[
@@ -40,7 +59,31 @@
 </aside>
 
 <p>原來的論壇已經停機：</p>
-<p><a href="https://communism.freeflarum.com/d/78-zuo-pai-ru-he-zuo-dao-ni-ming-shang-wang-fei-xi-tong-xing" class="onebox" target="_blank" rel="noopener nofollow ugc">https://communism.freeflarum.com/d/78-zuo-pai-ru-he-zuo-dao-ni-ming-shang-wang-fei-xi-tong-xing</a></p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://communism.freeflarum.com/d/78-zuo-pai-ru-he-zuo-dao-ni-ming-shang-wang-fei-xi-tong-xing">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/c/c8cb340bcaf4f2265c089feb36d6d44872989efc.png" class="site-icon" width="" height="">
+
+      <a href="https://communism.freeflarum.com/d/78-zuo-pai-ru-he-zuo-dao-ni-ming-shang-wang-fei-xi-tong-xing" target="_blank" rel="noopener nofollow ugc" title="05:47AM - 26 May 2022">共产国际—坚持，捍卫和运用马列毛主义，主要是毛主义的群众性论坛 – 26 May 22</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/1/1c34ad19dfc60981f3a329d0fbb626510ef2e7a6.bmp" class="thumbnail" width="" height="">
+
+<h3><a href="https://communism.freeflarum.com/d/78-zuo-pai-ru-he-zuo-dao-ni-ming-shang-wang-fei-xi-tong-xing" target="_blank" rel="noopener nofollow ugc">左派如何做到匿名上网（非系统性）</a></h3>
+
+  <p>阅读此指南需要注意几点 警告：没有绝对的安全，匿名上网懂得越多，被抓的几率也越少，但也不能放松警惕。 linux毒瘤和流量杀手：snap 我写的文章如果包含着来自https://anonymousplanet-ng.org/guide.html的文章，都是经过我的修改和机翻加润色。 hackmd有目录这个没...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
 <p>一看到現在的自由派撿起PAPER的圖慧來打擊無產階級文化大革命我就怒髮衝冠，這些對《新聞》一無所知的人大肆兜售他們的“以硬盤套娃加密為綱”、“一層OTR還不夠，要在OTR裡再建立一個OTR連接”，並抵制全民皆兵，否認戰爭過程中人的重要性，更奇怪的是，Google Pixel 3的Linegae OS早已被遼寧軍工無線電破解過（<strong>我的Lineage OS就被遼寧省軍工無線電破解了</strong>），而如今卻被機會主義者（中文維基華修左圈的柯爾可就是一個掩耳盜鈴的例子，還有這個論壇的fdst對自由軟件運動的部分抵制。）用來打擊Sailfish OS這一解放手機GNU/Linux內核的工作。更是無視GNU官網對於M$Android的解放計劃。並且否認自由軟件驅動的必要性，鼓吹自帶NVIDIA的GNU/Linux和資產階級深度學習理論，同時丟棄了以PAPER為核心的GNU/Hurd的選擇計劃。在稱呼上僅限於Linux，丟棄了GNU的重要性，這到底是一個什麼樣的自由軟件教程呢？</p>
 <p>駭入了我<br>
 已經褪了色的相冊<br>
@@ -83,7 +126,7 @@
 美國軍事空間站<br>
 如今被我淚水淹沒<br>
 變成Sailfish愛河</p>
-            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><small>7 个帖子 - 2 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/1376">阅读完整话题</a></p>
           ]]></description>
           <link>https://mlmmlm.icu/t/topic/1376</link>
@@ -92,7 +135,7 @@
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1376</guid>
-          <source url="https://mlmmlm.icu/t/topic/1376.rss">對隔壁“左圈自由軟件教程”的評價，左圈魚龍混雜，不能團結RMS。</source>
+          <source url="https://mlmmlm.icu/t/topic/1376.rss">對隔壁“泛左自由軟件教程”的評價，“泛左”魚龍混雜，不能團結RMS。</source>
         </item>
         <item>
           <title>检索sci-hub的信息</title>
@@ -852,7 +895,7 @@ sudo pyth -m pip install --proxy=‘<a href="http://127.0.0.1:8889/" rel="noopen
   <div style="clear: both"></div>
 </aside>
 
-            <p><small>4 个帖子 - 1 位参与者</small></p>
+            <p><small>8 个帖子 - 2 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/1305">阅读完整话题</a></p>
           ]]></description>
           <link>https://mlmmlm.icu/t/topic/1305</link>
@@ -1409,60 +1452,6 @@ temp.pm</p>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1183</guid>
           <source url="https://mlmmlm.icu/t/topic/1183.rss">学习简易火炸药制作，服务中国无产阶级革命</source>
-        </item>
-        <item>
-          <title>這是法革共和曆嗎？</title>
-          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-          <category>技术</category>
-          <description><![CDATA[
-            <pre><code class="lang-auto">#法蘭西共和國元年始於1792年9月22日午夜。
-#一年分为12个月，每月30天，每月分为3周，每周10天，每年第360天后设置闰日五天为公众假日（闰年设置六天）。
-#共和历的日制采用十进时，即十个小时等于一天，或一天拥有十个小时。对时和分的划分则为百进制，每小时分为100分钟，每分钟为100秒。与二十四进制的日制和六十进制的时制和秒制相比，原先一天为1440分钟或86400秒，而共和历的一天有1000分钟或100000秒。
-#由于新的制度少了440个分钟单位或者多出了13600个秒单位，因此共和历的一分钟应等于原先的86.4秒（比原先长44%），或者一秒只等于原先的0.864秒（比原先短13.6%）。 
-import time
-ss=((1792/4-12)*366+(1792-1792/4+12)*365+31+29+30+30+31+30+31+31+30+23)*24*60*60
-while True:
-    st=((2000/4-12)*366+(2000-2000/4+12)*365)*24*60*60+time.time()
-    st=st-ss
-    st=st/0.864
-    fr=[ss/100/100/10,(ss/100/100)%10,(ss/100)%100,ss%100]
-    year,month=0,0
-    def days(a):
-        global year,month
-        run=int(a/(365*3+366))
-        unrun=run*3
-        year=run+unrun
-        day=unrun*365+run*366
-        r=a-day
-        for z in range(3):
-            if r&gt;365:r=r-365;year+=1
-        if r&gt;365:runb=True
-        if r&gt;366:r=r-366;year+=1
-        for z in range(11):
-            if r&gt;30:r=r-30;month=abs(z+1-6)
-            else:month=1;break
-        if r&gt;30:
-            month=12
-            if runb:
-                if r&gt;36:r=r-36
-            elif r&gt;35:r=r-35
-        return r if r&gt;=1 else 1
-    d=days(st/100/100/10)
-    now=[year,month,int(d),int((st/100/100)%10),int((st/100)%100),st%100]
-    #print(fr)
-    print(now)
-    time.sleep(1)
-</code></pre>
-            <p><small>1 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1141">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1141</link>
-          <pubDate>Sat, 23 Oct 2021 13:10:17 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1141</guid>
-          <source url="https://mlmmlm.icu/t/topic/1141.rss">這是法革共和曆嗎？</source>
         </item>
   </channel>
 </rss>

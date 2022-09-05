@@ -7,9 +7,201 @@
 
 https://en.wikipedia.org/wiki/2200-meter_band</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Aug 2022 08:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2022 10:29:38 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1305.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>AES在线加密/解密</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.devglan.com/online-tools/aes-encryption-decryption">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://www.devglan.com/online-tools/aes-encryption-decryption" target="_blank" rel="noopener nofollow ugc">devglan</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/f/f26dacb7104af73a42c0d8a579f4f337c29dab8c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.devglan.com/online-tools/aes-encryption-decryption" target="_blank" rel="noopener nofollow ugc">An Online Tool for AES Encryption and Decryption</a></h3>
+
+  <p>A free online tool for AES encryption and decryption. It is an aes calculator that performs aes encryption and decryption of image, text and .txt file in ECB and CBC mode with 128, 192,256 bit. The output can be base64 or Hex encoded.</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1305/8">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/8</link>
+        <pubDate>Sat, 03 Sep 2022 10:29:38 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-8</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <pre><code class="lang-auto">使用方法: enc [选项]
+
+一般 选项:
+ -help             显示此摘要
+ -list               列举 加密算法（ciphers）
+ -ciphers            Alias for -list
+ -e                  加密 （Encrypt）
+ -d                  解密 （Decrypt）
+ -p                  打印 iv/key
+ -P                  打印 iv/key 并退出
+ -engine val         使用引擎，可能为加密设备
+
+Input options:
+ -in infile          输入文件
+ -k val              密语（口令）
+ -kfile infile      从文件中读取密语（口令）
+
+Output options:
+ -out outfile        输出文件
+ -pass val           Passphrase source
+
+                           how to do it:
+
+                                            openssl aes-256-cbc -in some_file.enc -out some_file.unenc -d -pass pass:somepassword
+
+                                            Notice that the command line command syntax is always -pass followed by a space and then the type of passphrase you're providing, i.e. pass: for plain passphrase and then the actual passphrase after the colon with no space.
+
+                                            Additionally the documentation specifies you can provide other passphrase sources by doing the following:
+
+                                                env:somevar to get the password from an environment variable
+                                                file:somepathname to get the password from the first line of the file at location pathname
+                                                fd:number to get the password from the file descriptor number.
+                                                stdin to read from standard input
+
+ -v                  详细输出
+ -a                  Base64 编码/解码, 取决于加密的选项
+ -base64             Same as option -a
+ -A                  与 -[base64|a] 同时使用，使长的base64不换行，在一行内显示。
+
+加密选项:
+ -nopad              不填充
+ -salt               在密钥派生函数中加盐 (默认)
+ -nosalt             不在密钥派生函数中加盐
+ -debug              Print debug info
+ -bufsize val        缓冲区大小
+ -K val              以十六进制表示的原始密钥
+ -S val              以十六进制表示的盐
+ -iv val             以十六进制表示的initialization vector，初始化向量，
+ -md val             使用指定的摘要算法从密语（口令）创建密钥
+ -iter +int          强制使用PBKDF2 ，并指定迭代次数
+ -pbkdf2             使用基于口令的密钥推导函数2
+ -none               Don't encrypt
+ -*                  Any supported cipher
+
+随机状态选项:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -propquery val      Property query used when fetching algorithms
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/7">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/7</link>
+        <pubDate>Sat, 03 Sep 2022 09:48:44 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <pre><code class="lang-auto">openssl enc -h
+</code></pre>
+<hr>
+<pre><code class="lang-auto">Usage: enc [options]
+
+General options:
+ -help               Display this summary
+ -list               List ciphers
+ -ciphers            Alias for -list
+ -e                  Encrypt
+ -d                  Decrypt
+ -p                  Print the iv/key
+ -P                  Print the iv/key and exit
+ -engine val         Use engine, possibly a hardware device
+
+Input options:
+ -in infile          Input file
+ -k val              Passphrase
+ -kfile infile       Read passphrase from file
+
+Output options:
+ -out outfile        Output file
+ -pass val           Passphrase source
+ -v                  Verbose output
+ -a                  Base64 encode/decode, depending on encryption flag
+ -base64             Same as option -a
+ -A                  Used with -[base64|a] to specify base64 buffer as a single line
+
+Encryption options:
+ -nopad              Disable standard block padding
+ -salt               Use salt in the KDF (default)
+ -nosalt             Do not use salt in the KDF
+ -debug              Print debug info
+ -bufsize val        Buffer size
+ -K val              Raw key, in hex
+ -S val              Salt, in hex
+ -iv val             IV in hex
+ -md val             Use specified digest to create a key from the passphrase
+ -iter +int          Specify the iteration count and force use of PBKDF2
+ -pbkdf2             Use password-based key derivation function 2
+ -none               Don't encrypt
+ -*                  Any supported cipher
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -propquery val      Property query used when fetching algorithms
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/6">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/6</link>
+        <pubDate>Sat, 03 Sep 2022 09:43:24 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <pre><code class="lang-auto">echo -n "aaaabbbbccccdddd" | openssl enc -e -aes-256-cbc -a -salt
+enter aes-256-cbc encryption password:
+Verifying - enter aes-256-cbc encryption password:
+</code></pre>
+<p><strong>请注意，利用这种方法产生的输出的开头是固定的</strong></p>
+<p>OpenSSL allows for salted or unsalted key derivation. <strong>Unsalted key derivation is a security risk and is not recommended.</strong> If a salt is present, the first 8 bytes of the input are the ASCII string “Salted__” (<code>0x53 61 6C 74 65 64 5F 5F</code>) and the next 8 bytes are the ASCII-encoded salt.</p>
+<p>OpenSSL 允许加盐或不加盐的密钥派生。 <strong>未加盐的密钥派生存在安全风险，不推荐使用。</strong> 如果存在加盐，则输入的前 8 个字节为 ASCII 字符串“Salted__”（<code>0x53 61 6C 74 65 64 5F 5F</code>）和 接下来的 8 个字节是 ASCII 编码的盐。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/5">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/5</link>
+        <pubDate>Sat, 03 Sep 2022 09:41:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
       <item>
         <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
         <dc:creator><![CDATA[azide]]></dc:creator>
