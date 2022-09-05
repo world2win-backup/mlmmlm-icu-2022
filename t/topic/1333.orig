@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>用好MockingBird為革命自由軟件運動服務！風雷磅礴，一聲雞唱，萬怪煙消雲落！ - 技术 - 马列毛群众</title>
+<meta name="description" content="風雷磅礴，一聲雞唱，萬怪煙消雲落！
+
+使用效果：
+ 
+ 
+ 
+
+這些是自然朗讀文件：
+ 
+ 
+ 
+ 
+ 
+
+條件：
+無需NVIDIA顯卡私有驅動軟件和CUDA這一私有軟件。 
+Pure OS 10.0（包括GNU/Linux、Debian&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1333" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;用好MockingBird為革命自由軟件運動服務！風雷磅礴，一聲雞唱，萬怪煙消雲落！&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1333.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/2X/4/4ec030b12627e26483484af9eec1c5b4afa325fb.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/2X/4/4ec030b12627e26483484af9eec1c5b4afa325fb.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1333" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1333" />
+<meta property="og:title" content="用好MockingBird為革命自由軟件運動服務！風雷磅礴，一聲雞唱，萬怪煙消雲落！" />
+<meta name="twitter:title" content="用好MockingBird為革命自由軟件運動服務！風雷磅礴，一聲雞唱，萬怪煙消雲落！" />
+<meta property="og:description" content="風雷磅礴，一聲雞唱，萬怪煙消雲落！  使用效果：        這些是自然朗讀文件：            條件： 無需NVIDIA顯卡私有驅動軟件和CUDA這一私有軟件。  Pure OS 10.0（包括GNU/Linux、Debian、Ubuntu、Lubuntu、Arch Linux等等都可以使用。）  Python 3.9.6（其他的版本會因為無法安裝numpy 1.19.4而在編譯過程中出錯。）   使用教程：    程序地址：   sudo apt install git  之後  git clone https://github.com/babysor/MockingBird.git  即可。   在GNU/Linux下編譯Python 3.9.6 sudo apt install build-essential libreadline-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libffi-dev zlib1g-dev libncursesw5-dev libc6-dev libsqlite3-dev..." />
+<meta name="twitter:description" content="風雷磅礴，一聲雞唱，萬怪煙消雲落！  使用效果：        這些是自然朗讀文件：            條件： 無需NVIDIA顯卡私有驅動軟件和CUDA這一私有軟件。  Pure OS 10.0（包括GNU/Linux、Debian、Ubuntu、Lubuntu、Arch Linux等等都可以使用。）  Python 3.9.6（其他的版本會因為無法安裝numpy 1.19.4而在編譯過程中出錯。）   使用教程：    程序地址：   sudo apt install git  之後  git clone https://github.com/babysor/MockingBird.git  即可。   在GNU/Linux下編譯Python 3.9.6 sudo apt install build-essential libreadline-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libffi-dev zlib1g-dev libncursesw5-dev libc6-dev libsqlite3-dev..." />
+<meta property="article:published_time" content="2022-08-17T14:27:05+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1333">用好MockingBird為革命自由軟件運動服務！風雷磅礴，一聲雞唱，萬怪煙消雲落！</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1333">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/4/4ec030b12627e26483484af9eec1c5b4afa325fb.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-17T14:27:05Z' class='post-time'>
+2022 年8 月 17 日 14:27
+</time>
+<meta itemprop='dateModified' content='2022-08-17T17:22:55Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h1>
+<a name="h-1" class="anchor" href="#h-1"></a>風雷磅礴，一聲雞唱，萬怪煙消雲落！</h1>
+<h1>
+<a name="h-2" class="anchor" href="#h-2"></a>使用效果：</h1>
+<p><audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/8/80e249b3ddf7d864c80591ec531966b3e3d61cf6.wav">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/8/80e249b3ddf7d864c80591ec531966b3e3d61cf6.wav">/uploads/default/original/2X/8/80e249b3ddf7d864c80591ec531966b3e3d61cf6.wav</a>
+</source></audio><br>
+<audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/9/9f05104c353ef8993d7383cedc3b2d9dde6c83c9.wav">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/9/9f05104c353ef8993d7383cedc3b2d9dde6c83c9.wav">/uploads/default/original/2X/9/9f05104c353ef8993d7383cedc3b2d9dde6c83c9.wav</a>
+</source></audio><br>
+<audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/e/ea562dfeac1d6546b6c4371aa4fc0c752261fd75.wav">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/e/ea562dfeac1d6546b6c4371aa4fc0c752261fd75.wav">/uploads/default/original/2X/e/ea562dfeac1d6546b6c4371aa4fc0c752261fd75.wav</a>
+</source></audio></p>
+<h1>
+<a name="h-3" class="anchor" href="#h-3"></a>這些是自然朗讀文件：</h1>
+<p><audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/a/a92a5386ad4afd3cd55ead825221131b67552408.mp3">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/a/a92a5386ad4afd3cd55ead825221131b67552408.mp3">/uploads/default/original/2X/a/a92a5386ad4afd3cd55ead825221131b67552408.mp3</a>
+</source></audio><br>
+<audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/4/4ed4e9eec792bd4680526ad4e85621277330bef8.mp3">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/4/4ed4e9eec792bd4680526ad4e85621277330bef8.mp3">/uploads/default/original/2X/4/4ed4e9eec792bd4680526ad4e85621277330bef8.mp3</a>
+</source></audio><br>
+<audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/c/c3f0486144ed68583fc3065c30e284eff07b0a46.mp3">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/c/c3f0486144ed68583fc3065c30e284eff07b0a46.mp3">/uploads/default/original/2X/c/c3f0486144ed68583fc3065c30e284eff07b0a46.mp3</a>
+</source></audio><br>
+<audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/4/4c3a7768da3c18e0da9ee665d45ed3e39f628732.mp3">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/4/4c3a7768da3c18e0da9ee665d45ed3e39f628732.mp3">/uploads/default/original/2X/4/4c3a7768da3c18e0da9ee665d45ed3e39f628732.mp3</a>
+</source></audio><br>
+<audio preload="metadata" controls="">
+<source src="/uploads/default/original/2X/1/1440c8f6a2ccd28a115d7d6576b177dccbe381f4.mp3">
+<a href="https://mlmmlm.icu/uploads/default/original/2X/1/1440c8f6a2ccd28a115d7d6576b177dccbe381f4.mp3">/uploads/default/original/2X/1/1440c8f6a2ccd28a115d7d6576b177dccbe381f4.mp3</a>
+</source></audio></p>
+<h1>
+<a name="h-4" class="anchor" href="#h-4"></a>條件：</h1>
+<p>無需NVIDIA顯卡私有驅動軟件和CUDA這一私有軟件。<br>
+Pure OS 10.0（包括GNU/Linux、Debian、Ubuntu、Lubuntu、Arch Linux等等都可以使用。）<br>
+Python 3.9.6（其他的版本會因為無法安裝numpy 1.19.4而在編譯過程中出錯。）</p>
+<h1>
+<a name="h-5" class="anchor" href="#h-5"></a>使用教程：</h1>
+<aside class="onebox githubblob" data-onebox-src="https://github.com/babysor/MockingBird/blob/main/README-CN.md">
+<header class="source">
+<a href="https://github.com/babysor/MockingBird/blob/main/README-CN.md" target="_blank" rel="noopener nofollow ugc">github.com</a>
+</header>
+<article class="onebox-body">
+<h4><a href="https://github.com/babysor/MockingBird/blob/main/README-CN.md" target="_blank" rel="noopener nofollow ugc">babysor/MockingBird/blob/main/README-CN.md</a></h4>
+<pre><code class="lang-md">## 实时语音克隆 - 中文/普通话
+![mockingbird](https://user-images.githubusercontent.com/12797292/131216767-6eb251d6-14fc-4951-8324-2722f0cd4c63.jpg)
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
+
+### [English](README.md)  | 中文
+
+### [DEMO VIDEO](https://www.bilibili.com/video/BV17Q4y1B7mY/) | [Wiki教程](https://github.com/babysor/MockingBird/wiki/Quick-Start-(Newbie)) ｜ [训练教程](https://vaj2fgg8yn.feishu.cn/docs/doccn7kAbr3SJz0KM0SIDJ0Xnhd)
+
+## 特性
+🌍 **中文** 支持普通话并使用多种中文数据集进行测试：aidatatang_200zh, magicdata, aishell3, biaobei, MozillaCommonVoice, data_aishell 等
+
+🤩 **PyTorch** 适用于 pytorch，已在 1.9.0 版本（最新于 2021 年 8 月）中测试，GPU Tesla T4 和 GTX 2060
+
+🌍 **Windows + Linux** 可在 Windows 操作系统和 linux 操作系统中运行（苹果系统M1版也有社区成功运行案例）
+
+🤩 **Easy &amp; Awesome** 仅需下载或新训练合成器（synthesizer）就有良好效果，复用预训练的编码器/声码器，或实时的HiFi-GAN作为vocoder
+
+🌍 **Webserver Ready** 可伺服你的训练结果，供远程调用
+
+</code></pre>
+This file has been truncated. <a href="https://github.com/babysor/MockingBird/blob/main/README-CN.md" target="_blank" rel="noopener nofollow ugc">show original</a>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<h1>
+<a name="h-6" class="anchor" href="#h-6"></a>程序地址：</h1>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://github.com/babysor/MockingBird">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+<a href="https://github.com/babysor/MockingBird" target="_blank" rel="noopener nofollow ugc">GitHub</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/4/4ec030b12627e26483484af9eec1c5b4afa325fb.png" class="thumbnail" width="" height="">
+<h3><a href="https://github.com/babysor/MockingBird" target="_blank" rel="noopener nofollow ugc">GitHub - babysor/MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5...</a></h3>
+<p>🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time - GitHub - babysor/MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbit...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<p>
+sudo apt install git<br>
+之後<br>
+git clone <a href="https://github.com/babysor/MockingBird.git" rel="noopener nofollow ugc">https://github.com/babysor/MockingBird.git</a><br>
+即可。</p>
+<h1>
+<a name="gnulinuxpython-396-7" class="anchor" href="#gnulinuxpython-396-7"></a>在GNU/Linux下編譯Python 3.9.6</h1>
+<p>sudo apt install build-essential libreadline-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libffi-dev zlib1g-dev libncursesw5-dev libc6-dev libsqlite3-dev openssl sqlite3 bzip2 libbz2-dev libgdbm-compat-dev liblzma-dev uuid-dev -y<br>
+sudo apt install zlib* p7zip-full libx11-dev -y<br>
+下載好Python 3.9.6後cd到文件夾內輸入命令：<br>
+./configure --prefix=/usr/local/pyth --enable-optimizations<br>
+make<br>
+sudo make install<br>
+sudo ln -s /usr/local/pyth/bin/python3.9 /usr/bin/pyth<br>
+即可。</p>
+<h1>
+<a name="pip-8" class="anchor" href="#pip-8"></a>安裝pip包文件</h1>
+<p>cd到MockingBird文件夾下，輸入命令：<br>
+sudo pyth -m pip install --proxy=‘<a href="http://127.0.0.1:8889/" rel="noopener nofollow ugc">http://127.0.0.1:8889/</a>’ -r requirements.txt<br>
+最後前往使用教程裡的百度網盤：</p>
+<h1>
+<a name="gnulinuxbaidupcs-gogithub-9" class="anchor" href="#gnulinuxbaidupcs-gogithub-9"></a>在GNU/Linux請使用BaiduPCS-Go（GitHub）登錄並下載百度網盤文件。</h1>
+<blockquote>
+<p>当实在没有设备或者不想慢慢调试，可以使用社区贡献的模型(欢迎持续分享):</p>
+</blockquote>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>作者</th>
+<th>下载链接</th>
+<th>效果预览</th>
+<th>信息</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>作者</td>
+<td>
+<a href="https://pan.baidu.com/s/1iONvRxmkI-t1nHqxKytY3g" rel="noopener nofollow ugc">https://pan.baidu.com/s/1iONvRxmkI-t1nHqxKytY3g</a> <a href="https://pan.baidu.com/s/1iONvRxmkI-t1nHqxKytY3g" rel="noopener nofollow ugc">百度盘链接</a> 4j5d</td>
+<td></td>
+<td>75k steps 用3个开源数据集混合训练</td>
+</tr>
+<tr>
+<td>作者</td>
+<td>
+<a href="https://pan.baidu.com/s/1fMh9IlgKJlL2PIiRTYDUvw" rel="noopener nofollow ugc">https://pan.baidu.com/s/1fMh9IlgKJlL2PIiRTYDUvw</a> <a href="https://pan.baidu.com/s/1fMh9IlgKJlL2PIiRTYDUvw" rel="noopener nofollow ugc">百度盘链接</a> 提取码：om7f</td>
+<td></td>
+<td>25k steps 用3个开源数据集混合训练, 切换到tag v0.0.1使用</td>
+</tr>
+<tr>
+<td><span class="mention">@FawenYo</span></td>
+<td>
+<a href="https://drive.google.com/file/d/1H-YGOUHpmqKxJ9FRc6vAjPuqQki24UbC/view?usp=sharing" rel="noopener nofollow ugc">https://drive.google.com/file/d/1H-YGOUHpmqKxJ9FRc6vAjPuqQki24UbC/view?usp=sharing</a> <a href="https://pan.baidu.com/s/1vSYXO4wsLyjnF3Unl-Xoxg" rel="noopener nofollow ugc">百度盘链接</a> 提取码：1024</td>
+<td>
+<a href="https://github.com/babysor/MockingBird/wiki/audio/self_test.mp3" rel="noopener nofollow ugc">input</a> <a href="https://github.com/babysor/MockingBird/wiki/audio/export.wav" rel="noopener nofollow ugc">output</a>
+</td>
+<td>200k steps 台湾口音需切换到tag v0.0.1使用</td>
+</tr>
+<tr>
+<td><span class="mention">@miven</span></td>
+<td>
+<a href="https://pan.baidu.com/s/1PI-hM3sn5wbeChRryX-RCQ" rel="noopener nofollow ugc">https://pan.baidu.com/s/1PI-hM3sn5wbeChRryX-RCQ</a> 提取码：2021</td>
+<td><a href="https://www.bilibili.com/video/BV1uh411B7AD/" rel="noopener nofollow ugc">https://www.bilibili.com/video/BV1uh411B7AD/</a></td>
+<td>150k steps 注意：根据<a href="https://github.com/babysor/MockingBird/issues/37" rel="noopener nofollow ugc">issue</a>修复 并切换到tag v0.0.1使用</td>
+</tr>
+</tbody>
+</table>
+</div><p>將下載好的pt文件放入MockingBird/synthesizer/saved_models。</p>
+<p>接下來輸入命令：<br>
+<code>pyth demo_toolbox.py</code></p>
+<p>即可使用。</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/a/a9577e92fe38c640f27c575ec0a4f19d22213337.png" alt="Screenshot from 2022-08-17 10-24-28" data-base62-sha1="oa49cFPAnayNXD5hTMjXavvkOJp" width="689" height="354"></p>
+<p>最後錄製好一份你的音頻的mp3或者wav，然後點擊Browse（打開本地），選擇你朗讀好的文件（時長在7分鐘左右即可）。<br>
+接著輸入你想要朗讀的內容（右上角的輸入框），點擊Synthesize and vocode，在跑完Waveform generation後點擊左下角的Export，保存為“文件名.wav”，打開保存的文件，你就可以聽到克隆出來的你的朗讀聲音了。</p>
+</div>
+<meta itemprop='headline' content='用好MockingBird為革命自由軟件運動服務！風雷磅礴，一聲雞唱，萬怪煙消雲落！'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>

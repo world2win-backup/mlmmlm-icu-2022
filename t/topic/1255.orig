@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>关于资料整理的计划 - 一般讨论 - 马列毛群众</title>
+<meta name="description" content="1.拆分PRD同志的GitHub仓库，利用 git clone --filter特性。 
+2.整理已经OCR的资料 
+3.将mega上的资料迁移到github和gitlab 
+4.便于搜索的《文化大革命文库》 
+5.将《红旗》、马恩全集、列&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1255" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;关于资料整理的计划&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1255.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1255" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1255" />
+<meta property="og:title" content="关于资料整理的计划" />
+<meta name="twitter:title" content="关于资料整理的计划" />
+<meta property="og:description" content="1.拆分PRD同志的GitHub仓库，利用 git clone --filter特性。  2.整理已经OCR的资料  3.将mega上的资料迁移到github和gitlab  4.便于搜索的《文化大革命文库》  5.将《红旗》、马恩全集、列宁全集OCR一遍，但是不排版" />
+<meta name="twitter:description" content="1.拆分PRD同志的GitHub仓库，利用 git clone --filter特性。  2.整理已经OCR的资料  3.将mega上的资料迁移到github和gitlab  4.便于搜索的《文化大革命文库》  5.将《红旗》、马恩全集、列宁全集OCR一遍，但是不排版" />
+<meta name="twitter:label1" value="阅读时间" />
+<meta name="twitter:data1" value="17 mins 🕑" />
+<meta name="twitter:label2" value="赞" />
+<meta name="twitter:data2" value="24 ❤" />
+<meta property="article:published_time" content="2022-07-31T14:11:07+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+<link rel="next" href="/t/topic/1255?page=2">
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1255">关于资料整理的计划</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/6-category/6" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #0088CC'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>一般讨论</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:11:07Z' class='post-time'>
+2022 年7 月 31 日 14:11
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:11:07Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>1.拆分PRD同志的GitHub仓库，利用 <code>git clone --filter</code>特性。<br>
+2.整理已经OCR的资料<br>
+3.将mega上的资料迁移到github和gitlab<br>
+4.便于搜索的《文化大革命文库》<br>
+5.将《红旗》、马恩全集、列宁全集OCR一遍，但是不排版</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/106coup'><span itemprop='name'>106coup</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:14:01Z' class='post-time'>
+2022 年7 月 31 日 14:14
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:14:01Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>最好是广泛发动同志们一起进行，大家一起参与进来。</p>
+<p>你设想是以什么形式合作整理？</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/aaa'><span itemprop='name'>aaa</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:29:18Z' class='post-time'>
+2022 年7 月 31 日 14:29
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:29:18Z'>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://banned-historical-archives.github.io/">
+<header class="source">
+<a href="https://banned-historical-archives.github.io/" target="_blank" rel="noopener nofollow ugc">banned-historical-archives.github.io</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://banned-historical-archives.github.io/" target="_blank" rel="noopener nofollow ugc">和谐历史档案馆 Banned Historical Archives</a></h3>
+<p>和谐历史档案馆 Banned Historical Archives</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<p>
+我已经做了便于搜索的《文化大革命文库》</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/one_normal_one'><span itemprop='name'>one_normal_one</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:35:07Z' class='post-time'>
+2022 年7 月 31 日 14:35
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:35:07Z'>
+<span itemprop='position'>#4</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>目前是只收录了毛思万和文集第八卷吗？</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:36:55Z' class='post-time'>
+2022 年7 月 31 日 14:36
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:36:55Z'>
+<span itemprop='position'>#5</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>还有一个问题mlzs的电子书有800GB，现在放在mega上，但是mega如果一年不登录会被删掉，所以应该放在那里？</p>
+<p>谁熟悉libgen，应该可以传ftp</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/aaa'><span itemprop='name'>aaa</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:37:16Z' class='post-time'>
+2022 年7 月 31 日 14:37
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:37:16Z'>
+<span itemprop='position'>#6</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>有很多，包括文库第一版，首页有详细收录列表</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_7' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/one_normal_one'><span itemprop='name'>one_normal_one</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:37:49Z' class='post-time'>
+2022 年7 月 31 日 14:37
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:37:49Z'>
+<span itemprop='position'>#7</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>最好是筛选后转存github吧</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_8' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:39:20Z' class='post-time'>
+2022 年7 月 31 日 14:39
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:39:20Z'>
+<span itemprop='position'>#8</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>文件太大了，我没有技术做到，而且1976后的书可能会DMCA</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_9' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/one_normal_one'><span itemprop='name'>one_normal_one</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:40:59Z' class='post-time'>
+2022 年7 月 31 日 14:40
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:40:59Z'>
+<span itemprop='position'>#9</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>红旗76年1-10期我制作了文字版，可惜没空校对，后面自己也没继续录入了，可以先录入进去。王洪文的文革讲话我自制了一份，我收录到的大致是38份讲话，还在一直更新中。</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_10' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:42:14Z' class='post-time'>
+2022 年7 月 31 日 14:42
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:42:14Z'>
+<span itemprop='position'>#10</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>目前做到可以搜索就行了，如果文章重要再校对，不用手工录入，调用API即可。</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_11' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:45:40Z' class='post-time'>
+2022 年7 月 31 日 14:45
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:45:40Z'>
+<span itemprop='position'>#11</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a href="https://gitlab.com/revo--" class="onebox" target="_blank" rel="noopener nofollow ugc">gitlab.com/revo--</a><br>
+有部分书的文字版。</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_12' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/one_normal_one'><span itemprop='name'>one_normal_one</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T14:47:50Z' class='post-time'>
+2022 年7 月 31 日 14:47
+</time>
+<meta itemprop='dateModified' content='2022-07-31T14:47:50Z'>
+<span itemprop='position'>#12</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a class="attachment" href="/uploads/short-url/o3oim3WbNhl0SzmiziDdPYf6S3p.docx">红旗1976年第一期.docx</a> (134.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/l1xOY28boxQyiVu7uKKCNyHfL2E.docx">红旗1976年第二期.docx</a> (118.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/lIVF8Hv2ZgnJjUBtRnjgVqOUGyU.docx">红旗1976年第三期.docx</a> (124.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/4QTntiGqjaLTXoFnb8l9syHEvEf.docx">红旗1976年第四期.docx</a> (124.1 KB)<br>
+<a class="attachment" href="/uploads/short-url/tUvP1HTxUVAPj1VHArKhy4HcAjp.docx">红旗1976年第五期.docx</a> (115.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/rt8iUYNgtMlRj2K0sGZsqUFEt5Z.docx">红旗1976年第六期.docx</a> (115.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/5QAQo8NrfXo9mtALtBFOoe3XZaq.docx">红旗1976年第七期.docx</a> (109.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/xOAA8h1r16s79DzhvfGyVtEbWtg.docx">红旗1976年第八期.docx</a> (121.6 KB)<br>
+<a class="attachment" href="/uploads/short-url/mf5l2RLK3TleFYR7rVJ3oqQOuqH.docx">红旗1976年第九期.docx</a> (119.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/csnNTehwJutLimMQiHjxK7aZ8bS.docx">红旗1976年第十期.docx</a> (91.6 KB)</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_13' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T15:04:47Z' class='post-time'>
+2022 年7 月 31 日 15:04
+</time>
+<meta itemprop='dateModified' content='2022-07-31T15:04:47Z'>
+<span itemprop='position'>#13</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<blockquote>
+<p>GitHub上好像还有文化大革命文库的备份，但是缺点是不好按照时间、人物进行分类</p>
+</blockquote>
+<p>这个好解决，把下面这个目录parse一边就行了</p><aside class="onebox githubfolder" data-onebox-src="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+<a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">github.com</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">cultural-revolution-database/site/content/post at master ·...</a></h3>
+<p><a href="https://github.com/speechfree/cultural-revolution-database/tree/master/site/content/post" target="_blank" rel="noopener nofollow ugc">master/site/content/post</a></p>
+<p><span class="label1">中国文化大革命文库 The Chinese Cultural Revolution Database - cultural-revolution-database/site/content/post at master · speechfree/cultural-revolution-database</span></p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_14' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/106coup'><span itemprop='name'>106coup</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T15:06:04Z' class='post-time'>
+2022 年7 月 31 日 15:06
+</time>
+<meta itemprop='dateModified' content='2022-07-31T15:06:04Z'>
+<span itemprop='position'>#14</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a class="mention" href="/u/azide">@azide</a> 最好是组织一下看看有哪些需要搞的吧。你是想在这里讨论解决么</p>
+<p>马列之声的书可以不那么紧急，先把最紧急的搞完</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_15' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/106coup'><span itemprop='name'>106coup</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-02T07:14:51Z' class='post-time'>
+2022 年8 月 2 日 07:14
+</time>
+<meta itemprop='dateModified' content='2022-08-02T07:14:51Z'>
+<span itemprop='position'>#15</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote" data-post="1" data-topic="1271">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/1/77aa72/40.png" class="avatar">
+<a href="https://mlmmlm.icu/t/topic/1271">目前收录的文字资料</a> <a class="badge-wrapper  bullet" href="/c/7-category/7"><span class="badge-category-bg" style="background-color: #BF1E2E;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">文献 | 书籍</span></a>
+</div>
+<blockquote>
+<a name="h-1" class="anchor" href="#h-1"></a>收录内容：
+《中国文化大革命文库》中毛、四人、毛远新、康生、谢富治资料
+《毛泽东思想万岁》六八年汉版，第一到第五卷
+《红旗》一九七六年第一到第十期
+《鲁迅全集》
+各地造反派资料（见楼下）
+其他一些书籍（见楼下）
+</blockquote>
+</aside>
+<p>目前有的资料，Prolet 的 Github 库那边还有一些文字版资料没收录进来。</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_16' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/b/b0fc646f75f79d0c3d4450dcc749afc90e34c76b.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T03:31:06Z' class='post-time'>
+2022 年8 月 8 日 03:31
+</time>
+<meta itemprop='dateModified' content='2022-08-08T03:31:06Z'>
+<span itemprop='position'>#16</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>打算把mlzs的电子书传到libgen上面，赶紧了结了这件事。<br>
+<a href="https://web.archive.org/web/20220404155136/https://wiki.mhut.org/content:how_to_upload" rel="noopener nofollow ugc">content:how_to_upload [The Library Genesis Project Wiki]</a></p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://custodians.online/">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/1/1254d62a2434cb906c3276a9832c963a56315aca.png" class="site-icon" width="" height="">
+<a href="https://custodians.online/" target="_blank" rel="noopener nofollow ugc">http://custodians.online</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/b/b0fc646f75f79d0c3d4450dcc749afc90e34c76b.png" class="thumbnail" width="" height="">
+<h3><a href="https://custodians.online/" target="_blank" rel="noopener nofollow ugc">In Solidarity with Library Genesis and Sci-hub</a></h3>
+<p>Share this letter - read it in public - leave it in the printer. Share your writing - digitize a book - upload your files. Don't let our knowledge be crushed. Care for the libraries - care for the metadata - care for the backup. Water the flowers -...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_18' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-09T00:43:51Z' class='post-time'>
+2022 年8 月 9 日 00:43
+</time>
+<meta itemprop='dateModified' content='2022-08-09T00:43:51Z'>
+<span itemprop='position'>#18</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>已经有人写了自动化脚本。</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_19' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/106coup'><span itemprop='name'>106coup</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-09T04:21:45Z' class='post-time'>
+2022 年8 月 9 日 04:21
+</time>
+<meta itemprop='dateModified' content='2022-08-09T04:21:45Z'>
+<span itemprop='position'>#19</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>好吧，自动化是有可能的，我刚试了一下上传一本书只需要填写语言和标题</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_20' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/9/9da34cfe86a21208a9575201c07ee039816b01b7.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-10T05:36:39Z' class='post-time'>
+2022 年8 月 10 日 05:36
+</time>
+<meta itemprop='dateModified' content='2022-08-10T05:36:39Z'>
+<span itemprop='position'>#20</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a class="mention" href="/u/xuan_junhe">@Xuan_JunHe</a> 这个事情就交给你了，有人已经写好脚本了。</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://github.com/ftruzzi/libgen_uploader">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+<a href="https://github.com/ftruzzi/libgen_uploader" target="_blank" rel="noopener nofollow ugc">GitHub</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/9/9da34cfe86a21208a9575201c07ee039816b01b7.png" class="thumbnail" width="" height="">
+<h3><a href="https://github.com/ftruzzi/libgen_uploader" target="_blank" rel="noopener nofollow ugc">GitHub - ftruzzi/libgen_uploader: A Library Genesis ebook uploader.</a></h3>
+<p>A Library Genesis ebook uploader. Contribute to ftruzzi/libgen_uploader development by creating an account on GitHub.</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="4" />
+</div>
+</div>
+<div id='post_22' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1255">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-10T06:40:32Z' class='post-time'>
+2022 年8 月 10 日 06:40
+</time>
+<meta itemprop='dateModified' content='2022-08-10T06:40:32Z'>
+<span itemprop='position'>#22</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>File save failed: You have JavaScript disabled, the functionality of the form can be limited.</p>
+</div>
+<meta itemprop='headline' content='关于资料整理的计划'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+<span itemprop='name'><b><a rel="next" itemprop="url" href="/t/topic/1255?page=2">下一页 →</a></b></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>

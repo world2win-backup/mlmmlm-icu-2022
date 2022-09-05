@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>转载：常见的支持 ActivityPub 协议的社交媒体项目 - 技术 - 马列毛群众</title>
+<meta name="description" content="常见的支持 ActivityPub 协议的社交媒体项目
+
+本文转载于发布在自由的邦联制博客平台 writeefreely ，原文链接：https://paper.wf/technopower/chang-jian-de-zhi-chi-a&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1253" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;转载：常见的支持 ActivityPub 协议的社交媒体项目&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1253.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1253" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1253" />
+<meta property="og:title" content="转载：常见的支持 ActivityPub 协议的社交媒体项目" />
+<meta name="twitter:title" content="转载：常见的支持 ActivityPub 协议的社交媒体项目" />
+<meta property="og:description" content="常见的支持 ActivityPub 协议的社交媒体项目  本文转载于发布在自由的邦联制博客平台 writeefreely ，原文链接：https://paper.wf/technopower/chang-jian-de-zhi-chi-activitypub-de-she-jiao-mei-ti-xiang-mu/。   如今的社交媒体多是私有厂商垄断了所有服务器和所有渠道的集中制社交媒体，用户在这些社交媒体上发表的任何内容都可以被私有厂商随意抹除，用户的内容发布受到私有厂商的控制。  那么是否有能充分实现用户自由的社交媒体平台呢？有的，支持 ActivityPub 协议的各社交媒体平台由志愿者搭建的无数个实例组成，实例和实例之间允许互联，哪怕是不同项目的实例。用户也可以自己搭建相关实例。  以下是对常见的支持 ActivityPub 协议的社交媒体项目的简要介绍：  一、微博客类：   mastodon，最主流的基于 ActivityPub 的邦联制社交平台，其上实例（每个实例都可以和别的实例互联，甚至还可以和别的项目互联，下同）众多，各种语言都有，实例基本上都需要邮箱注册。文档和..." />
+<meta name="twitter:description" content="常见的支持 ActivityPub 协议的社交媒体项目  本文转载于发布在自由的邦联制博客平台 writeefreely ，原文链接：https://paper.wf/technopower/chang-jian-de-zhi-chi-activitypub-de-she-jiao-mei-ti-xiang-mu/。   如今的社交媒体多是私有厂商垄断了所有服务器和所有渠道的集中制社交媒体，用户在这些社交媒体上发表的任何内容都可以被私有厂商随意抹除，用户的内容发布受到私有厂商的控制。  那么是否有能充分实现用户自由的社交媒体平台呢？有的，支持 ActivityPub 协议的各社交媒体平台由志愿者搭建的无数个实例组成，实例和实例之间允许互联，哪怕是不同项目的实例。用户也可以自己搭建相关实例。  以下是对常见的支持 ActivityPub 协议的社交媒体项目的简要介绍：  一、微博客类：   mastodon，最主流的基于 ActivityPub 的邦联制社交平台，其上实例（每个实例都可以和别的实例互联，甚至还可以和别的项目互联，下同）众多，各种语言都有，实例基本上都需要邮箱注册。文档和..." />
+<meta name="twitter:label1" value="阅读时间" />
+<meta name="twitter:data1" value="5 mins 🕑" />
+<meta name="twitter:label2" value="赞" />
+<meta name="twitter:data2" value="2 ❤" />
+<meta property="article:published_time" content="2022-07-31T07:01:30+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+<link rel="next" href="/t/topic/1253?page=2">
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1253">转载：常见的支持 ActivityPub 协议的社交媒体项目</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-07-31T07:01:30Z' class='post-time'>
+2022 年7 月 31 日 07:01
+</time>
+<meta itemprop='dateModified' content='2022-07-31T07:01:30Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h1>
+<a name="activitypub-1" class="anchor" href="#activitypub-1"></a>常见的支持 ActivityPub 协议的社交媒体项目</h1>
+<blockquote>
+<p>本文转载于发布在自由的邦联制博客平台 writeefreely ，原文链接：<a href="https://paper.wf/technopower/chang-jian-de-zhi-chi-activitypub-de-she-jiao-mei-ti-xiang-mu/" rel="noopener nofollow ugc">https://paper.wf/technopower/chang-jian-de-zhi-chi-activitypub-de-she-jiao-mei-ti-xiang-mu/</a>。</p>
+</blockquote>
+<p>如今的社交媒体多是私有厂商垄断了所有服务器和所有渠道的集中制社交媒体，用户在这些社交媒体上发表的任何内容都可以被私有厂商随意抹除，用户的内容发布受到私有厂商的控制。</p>
+<p>那么是否有能充分实现用户自由的社交媒体平台呢？有的，支持 ActivityPub 协议的各社交媒体平台由志愿者搭建的无数个实例组成，实例和实例之间允许互联，哪怕是不同项目的实例。用户也可以自己搭建相关实例。</p>
+<p>以下是对常见的支持 ActivityPub 协议的社交媒体项目的简要介绍：</p>
+<p>一、微博客类：</p>
+<ol>
+<li>mastodon，最主流的基于 ActivityPub 的邦联制社交平台，其上实例（每个实例都可以和别的实例互联，甚至还可以和别的项目互联，下同）众多，各种语言都有，实例基本上都需要邮箱注册。文档和部分实例请参考 mastdon 项目的<a href="https://joinmastodon.org/" rel="noopener nofollow ugc">官网</a>
+</li>
+<li>pleroma，另一个社交类邦联实例，热度在社交类里仅次于 mastodon ，其上实例的界面风格往往比起 mastodon 来说更加柔和，且不一定需要邮箱注册。其<a href="https://pleroma.social/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>Misskey，这个项目上的实例多为东亚人使用，几乎很难见到英文实例，反而中文实例和日文实例很多。同样不一定需要邮箱注册。<a href="https://join.misskey.page/en" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>hubzilla，同样是邦联制社交平台，需要邮箱注册，资料不多。<a href="https://hubzilla.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>friendica，邦联制社交平台，资料不多。<a href="http://friendi.ca/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>diaspora*，据说是最早的邦联社交平台，在它之下才诞生了 hubzilla 和 friendica 。<a href="https://diasporafoundation.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>GNU socoial，邦联制社交平台，特色是支持通过 xmpp 客户端更新消息。<a href="https://gnusocial.network/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+</ol>
+<p>二、影音类</p>
+<ol>
+<li>peertube，邦联制视频分享平台，可与其他本项目实例或其他项目的实例如 mastodon 的实例共通，下同。<a href="https://joinpeertube.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>Funkwhale，邦联制音乐分享平台。<a href="https://funkwhale.audio/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>PixelFed，邦联制图片分享平台。<a href="https://pixelfed.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+</ol>
+<p>三、博客类</p>
+<ol>
+<li>wirtefreely，简洁邦联制博客平台，虽然不可以直接通过某一实例看见其他实例的内容，但是实例和实例之间的数据迁移很容易实现，社交类邦联制平台甚至可以直接订阅其实例。<a href="https://writefreely.org/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+<li>plume，功能更加完善的邦联制博客平台，和writefreely一样不可以直接通过某一实例访问其他实例，但实例间的数据迁移也很容易。<a href="https://joinplu.me/" rel="noopener nofollow ugc">项目官网</a>
+</li>
+</ol>
+<p>四、网站建立类</p>
+<p>wordpress，该项目可以用来建网站。<a href="https://wordpress.org/" rel="noopener nofollow ugc">项目官网</a></p>
+<p>详情请参考: <a href="https://the-federation.info/" rel="noopener nofollow ugc">https://the-federation.info/</a>或者<a href="https://fedidb.org/network?s=All" rel="noopener nofollow ugc">https://fedidb.org/network?s=All</a>这些邦联制社交媒体目录网站收录了各邦联制项目，也收集了它们的实例。需要找某项目的实例注册，可参考这些目录网站。</p>
+<p>最后，欢迎到我们的聊天室来讨论。聊天室的 JID 是 <a href="/cdn-cgi/l/email-protection#314543544508715c44521f41585c44491f5554"><span class="__cf_email__" data-cfemail="106462756429507d65733e60797d65683e7475">[email&#160;protected]</span></a> 口令是 Oup)OtofWecin0 ，欢迎希望系统学习自由软件和保密技术不当伸手党的同志加入。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-03T13:28:55Z' class='post-time'>
+2022 年8 月 3 日 13:28
+</time>
+<meta itemprop='dateModified' content='2022-08-03T13:28:55Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>分享几篇 ActivityPub 以及 mastodon 的使用指南。<br>
+<a href="https://www.bilibili.com/read/cv13598110" rel="noopener nofollow ugc"> ActivityPub</a><br>
+<a href="https://www.bilibili.com/read/cv16433250" rel="noopener nofollow ugc"> Mastodon 长毛象入门指南</a><br>
+<a href="https://www.bilibili.com/read/cv6923915" rel="noopener nofollow ugc">21 世纪的社交网络 ｜ Mastodon 完全使用指南 (用户篇)</a></p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/a/a5d9e191dadf5344185316cdd28e89a9b0339521.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-03T15:21:22Z' class='post-time'>
+2022 年8 月 3 日 15:21
+</time>
+<meta itemprop='dateModified' content='2022-08-03T15:21:22Z'>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/a/a5d9e191dadf5344185316cdd28e89a9b0339521.png" alt="image" data-base62-sha1="nFbAD1g0IuYcC426suxhDHICpSV" width="500" height="286"><br>
+手机也算计算机，但是大部分人使用的手机都是不能解锁bootloader的。<br>
+如果手机的计算潜能释放了那是不可想象的。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-03T15:33:47Z' class='post-time'>
+2022 年8 月 3 日 15:33
+</time>
+<meta itemprop='dateModified' content='2022-08-03T15:33:47Z'>
+<span itemprop='position'>#4</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>现在大部分wifi设备都不支持MU MIMO</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-03T16:43:08Z' class='post-time'>
+2022 年8 月 3 日 16:43
+</time>
+<meta itemprop='dateModified' content='2022-08-03T16:43:08Z'>
+<span itemprop='position'>#5</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>想了想还是用二手打印机和纸张方便，实在不行用油印</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-07T13:51:37Z' class='post-time'>
+2022 年8 月 7 日 13:51
+</time>
+<meta itemprop='dateModified' content='2022-08-07T13:51:37Z'>
+<span itemprop='position'>#6</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>打印机上也同样有软件，同样存在私有软件的问题，纸制品本来也不容易销毁，一被人发现就是“人赃并获”，打印本身也是成本，纸质品在宣传上并不一定比电子版的好。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_7' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T03:28:39Z' class='post-time'>
+2022 年8 月 8 日 03:28
+</time>
+<meta itemprop='dateModified' content='2022-08-08T03:28:39Z'>
+<span itemprop='position'>#7</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="cocuj331" data-post="6" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>纸质品在宣传上并不一定比电子版的好</p>
+</blockquote>
+</aside>
+<p>很难，大部分人民虽然用上计算机了，而且算力足够登月与制作原子弹，然而却是属于tyrants，安装一个应用都受到重重限制。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_8' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T03:29:34Z' class='post-time'>
+2022 年8 月 8 日 03:29
+</time>
+<meta itemprop='dateModified' content='2022-08-08T03:29:34Z'>
+<span itemprop='position'>#8</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a href="https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html</a></p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_9' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T07:45:10Z' class='post-time'>
+2022 年8 月 8 日 07:45
+</time>
+<meta itemprop='dateModified' content='2022-08-08T07:45:10Z'>
+<span itemprop='position'>#9</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>所以需要自由的操作系统，比如 GNU/Linux 。</p>
+<aside class="quote no-group" data-username="azide" data-post="7" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/6a8cbe/40.png" class="avatar"> azide:</div>
+<blockquote>
+<p>安装一个应用都受到重重限制</p>
+</blockquote>
+</aside>
+<p>如果限制来自于系统，那就换一个自由的操作系统；如果限制来自于应用本身，那就不使用这些私有应用，去使用用户能完全掌控的自由软件。劳动人民不能掌控的东西远不止大部分算力，大到国家政权，小到人身自由，人民在这个法西斯国家都不能掌控。因此在这个国家已有的政权、法律乃至制度、道德框架内，劳动人民都没法满足自己的需求，他们要推翻整个国家政权，建立起无产阶级专政的社会主义国家。</p>
+<p>这一场全面的斗争的任何一个方面都需要考虑全面，如果我们仍然希望通过纸质品来宣传革命思想，显然还是在利用已有的方案，没有充分利用第三次科技革命的成果。纸质品的劣势比起电子信息的劣势来说毫不逊色，至少在销毁方面，电子信息比纸质品更易销毁，基于现代信息技术的加密技术的可靠性更是有保密学理论和保密工作实践的双重验证。</p>
+<p>群众目前没有充分用上自由软件技术和保密技术，依然受着中帝的层层监控，这是严重的问题，但我们面对这种问题，应该做的是向群众普及自由软件技术和保密技术，而非利用既有的不可靠方案，比如纸质印刷品，要知道监控不知发生在线上，也发生在线下，向某人传递纸质印刷品的行为同样也能被摄像头拍到，如果摄像头再清晰一点，印刷的内容也能保留。而电子信息可以在传输和保存的过程中加密，印刷品不能。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="2" />
+</div>
+</div>
+<div id='post_10' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T08:05:24Z' class='post-time'>
+2022 年8 月 8 日 08:05
+</time>
+<meta itemprop='dateModified' content='2022-08-08T08:05:24Z'>
+<span itemprop='position'>#10</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>这是工具主义错误。<br>
+应当是我们去适合群众，不是群众去适合我们。<br>
+可能有人会说这是尾巴主义，然而当前的情况是99%的网路硬件都掌握在资产阶级手里，用软件去雕出花来也改变不了现状。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="2" />
+</div>
+</div>
+<div id='post_11' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/5/5eab407ea6417298c5a55d0d7dd62b8e7abd5633.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T08:08:56Z' class='post-time'>
+2022 年8 月 8 日 08:08
+</time>
+<meta itemprop='dateModified' content='2022-08-08T08:08:56Z'>
+<span itemprop='position'>#11</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/5/5eab407ea6417298c5a55d0d7dd62b8e7abd5633.png" alt="image" data-base62-sha1="dvtMQhIGD4VghcWyhlHgAslPL59" width="690" height="451"></p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_12' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T08:10:23Z' class='post-time'>
+2022 年8 月 8 日 08:10
+</time>
+<meta itemprop='dateModified' content='2022-08-08T08:59:42Z'>
+<span itemprop='position'>#12</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="mlmmlm_admin" data-post="10" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/mlmmlm_admin/40/6_2.png" class="avatar"> mlmmlm_admin:</div>
+<blockquote>
+<p>应当是我们去适合群众，不是群众去适合我们。</p>
+</blockquote>
+</aside>
+<p>我们的权威来自于社会历史规律，社会历史规律所指向的方法是还没有到来的未来。而当下的群众和我们都是生活在私有制下的具体的人，我们无论带有怎么样的进步性都不可避免带上旧社会的烙印。因此我们认为不是我们单方面适应群众，也不是让群众单方面适应我们，我们的目标是实现为革命做准备的全面保密化，而不只是利用群众，因此我们需要传播保密技术，系统地向群众传播保密技术，只是会考虑到群众接受程度逐步做这件事。</p>
+<aside class="quote no-group" data-username="mlmmlm_admin" data-post="10" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/mlmmlm_admin/40/6_2.png" class="avatar"> mlmmlm_admin:</div>
+<blockquote>
+<p>可能有人会说这是尾巴主义，然而当前的情况是99%的网路硬件都掌握在资产阶级手里，用软件去雕出花来也改变不了现状。</p>
+</blockquote>
+</aside>
+<p>首先“99%的网路硬件都掌握在资产阶级手里”不符合事实，国外已经有人改变了现状，比如让一个城市的无线路由器互相连接起来，构成一张独立于 isp 的广域网。这些路由器都运行着 openwrt 。用户自己组网， isp 就无法限制用户了。其次，这也是一种因为对计算机网络不了解而产生的幻觉，仿佛掌握了低层就掌握了一切，但事实恰恰相反：TCP/IP 的有连接协议是在传输层实现的。在传输层以上"雕花"，跟你网络层掌握在资产阶级手里有什么关系？只要他们看不出这是“非法”流量，照样拦不住我们。事实上 tor、i2p 也正是这么做的。并且把这些技术结合起来，还能做得更好。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="3" />
+</div>
+</div>
+<div id='post_13' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/1/1c34ad19dfc60981f3a329d0fbb626510ef2e7a6.bmp">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T08:11:36Z' class='post-time'>
+2022 年8 月 8 日 08:11
+</time>
+<meta itemprop='dateModified' content='2022-08-08T08:11:36Z'>
+<span itemprop='position'>#13</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>对于这些的回答请参看有关帖子 ：</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://communism.freeflarum.com/d/104-zi-you-ruan-jian-yu-bao-mi-ji-zhu-jiao-liu-xiao-zu-zhao-xin">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/c/c8cb340bcaf4f2265c089feb36d6d44872989efc.png" class="site-icon" width="" height="">
+<a href="https://communism.freeflarum.com/d/104-zi-you-ruan-jian-yu-bao-mi-ji-zhu-jiao-liu-xiao-zu-zhao-xin" target="_blank" rel="noopener" title="01:25PM - 16 July 2022">共产国际—坚持，捍卫和运用马列毛主义，主要是毛主义的群众性论坛 – 16 Jul 22</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/1/1c34ad19dfc60981f3a329d0fbb626510ef2e7a6.bmp" class="thumbnail" width="" height="">
+<h3><a href="https://communism.freeflarum.com/d/104-zi-you-ruan-jian-yu-bao-mi-ji-zhu-jiao-liu-xiao-zu-zhao-xin" target="_blank" rel="noopener">自由软件与保密技术交流小组招新</a></h3>
+<p>随着当局日益陷入无解的总危机，他们对广大无产阶级，对普通群众的监视与日俱增，对一切反对他们的力量的镇压也日益严酷：从2018年的八青年事件和佳士运动，到2020年、2022年的新冠封疫，有无数的先进知识分子，先进工人代表，还有无辜群众，因缺乏保密意识和保密手段被中帝无情打击，从此人间蒸发。 他们的悲剧令人痛心，...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<p>完整的回复已在相关帖子内放出。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_14' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/one_normal_one'><span itemprop='name'>one_normal_one</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T08:18:02Z' class='post-time'>
+2022 年8 月 8 日 08:18
+</time>
+<meta itemprop='dateModified' content='2022-08-08T08:18:02Z'>
+<span itemprop='position'>#14</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>无产阶级又不是苦行僧，没有理由只能用一些低实用性，高门槛的软件来交流。在正确的路线指导下，唯物辩证法的指导下肯定能创造发现适合广大无产阶级群众和革命派的自由软件，而不是要求群众去适应资产阶级创造的脱离群众的种种软件，推崇那些高门槛的软件本身就代表着脱离群众的路线。qq、知乎、bilibili等私有平台为什么能吸引很多人就是因为他们有便利性，交流用的软件也有element这样的相对优秀样本。难道资产阶级软件能做到的功能，无产阶级革命派就不能做到吗？过度追求保密性只会倒向密谋主义，过度崇拜技术就要放弃政治挂帅，<strong>思想上政治上路线的正确与否是决定一切的</strong>不要舍本逐末。要做带领，贴合群众的先进者，而不是脱离群众的独行侠。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="2" />
+</div>
+</div>
+<div id='post_15' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T08:58:22Z' class='post-time'>
+2022 年8 月 8 日 08:58
+</time>
+<meta itemprop='dateModified' content='2022-08-08T08:58:22Z'>
+<span itemprop='position'>#15</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="one_normal_one" data-post="14" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/o/e99b99/40.png" class="avatar"> one_normal_one:</div>
+<blockquote>
+<p>无产阶级又不是苦行僧，没有理由只能用一些低实用性，高门槛的软件来交流。</p>
+</blockquote>
+</aside>
+<p>首先，我们需要定义软件的“实用性”和“门槛”。软件的实用性并不完全取决于软件本身是否好用，也取决于软件的门槛。但造成软件使用门槛的很大一部分原因在于用户社群的多少，在这些方面，目前的私有平台的确要比自由平台的用户多得多。但是这并不代表私有平台要比自由平台好用，试想一下，让一个从没有接触过微信的人学习微信上各种花里胡哨的功能容易，还是学习 xmpp 上简洁明了的功能容易？私有平台为了将它们的利益最大化，运用了大量对于用户来说不便的功能，比如显示 ip 属地，比如实名认证，比如所谓登录保护。</p>
+<p>那为什么私有平台的用户规模要远超自由平台呢？我们以往都会忽略一个很重要的问题，宣传和推广，说得难听点，应该叫洗脑。如今垃圾电影（不仅思想垃圾，制作也垃圾）依旧能有很高的票房，很大程度上靠的就是宣发推广，骗观众进影院。私有平台也类似，微信当年取代短信背后，有腾讯宣传的微信不收短信费的原因，而如今能如此大范围的普及更是离不开它与中帝监视人民的监控码绑定的原因；滴滴打车能普及，靠的是滴滴等网约车平台“大撒币”，以低于出租车的费用，培养了用户的消费习惯（然后再涨价），美团等外卖平台也类似。相比之下，由爱好者构建的自由软件社区并没有大公司那样的财力去“大撒币”，去刻意对用户洗脑使用习惯，我们这些自诩马列毛主义先进分子的就更没有了。</p>
+<p>一个软件被人用了多少未必能完全反映它有多大的使用价值，还得看背后的其他原因。</p>
+<p>自由软件的真正门槛不来自于所谓“低实用性”，xmpp 的使用难度并不高，问题在于没有大范围的推广，也就无多少人知晓。</p>
+<aside class="quote no-group" data-username="one_normal_one" data-post="14" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/o/e99b99/40.png" class="avatar"> one_normal_one:</div>
+<blockquote>
+<p>在正确的路线指导下，唯物辩证法的指导下肯定能创造发现适合广大无产阶级群众和革命派的自由软件，而不是要求群众去适应资产阶级创造的脱离群众的种种软件，推崇那些高门槛的软件本身就代表着脱离群众的路线。</p>
+</blockquote>
+</aside>
+<p>正如我们前面所说的，资本家构建的私有软件平台是靠洗脑推广开来的，这就是资本家的路线，在这种模式下诞生的私有软件和平台是资本家用来攫取高额利润，奴役群众的工具，他们在推广时耗费的巨量资金，终究是要在压榨群众的过程中找补回来的。我们不接受你们所谓的推崇“高门槛”软件“脱离群众”的指控，正如我们分析的那样，自由软件的使用门槛是很大程度上并非使用价值的问题，而是传播范围的问题，能不能使用的问题。这背后难度不就是阶级斗争的反映吗？资本家要把无产阶级绑定到他们的平台上去，而无产阶级想自己构建平台势必会遇到困难。</p>
+<aside class="quote no-group" data-username="one_normal_one" data-post="14" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/o/e99b99/40.png" class="avatar"> one_normal_one:</div>
+<blockquote>
+<p>qq、知乎、bilibili等私有平台为什么能吸引很多人就是因为他们有便利性，交流用的软件也有element这样的相对优秀样本。</p>
+</blockquote>
+</aside>
+<p>qq、知乎、b站等私有平台的“便利性”，除了用户很多以外，它们的平台功能花里胡哨，用户反馈一塌糊涂，其上充斥着严峻的内容审查和言论审核，以至于大量用户（比如微博、豆瓣的用户）开始逃离私有社交平台，来到我们这次宣传的像 mastodon 这样的自由社交平台。我们如果自诩为马列毛主义的先进分子就不应该忽略这一变化。</p>
+<p>至于 element 以及背后的 matrix 协议，就是不愿意改变用户使用习惯的典型，他们的开发者顶着 webRTC 的安全漏洞也要把如此“便利”，如此“实用”的东西推广给用户，对此我们不敢认同半分。</p>
+<aside class="quote no-group" data-username="one_normal_one" data-post="14" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/o/e99b99/40.png" class="avatar"> one_normal_one:</div>
+<blockquote>
+<p>难道资产阶级软件能做到的功能，无产阶级革命派就不能做到吗？</p>
+</blockquote>
+</aside>
+<p>资产阶级有资产阶级的阶级利益，资产阶级的阶级利益就是尽可能从用户身上赚到更多钱，为此他们培养用户的坏习惯也无所谓，只要能赚钱就好。<a href="https://mlmmlm.icu/t/topic/1199/12">对于这种功能我们不仅不要去实现，还要敬而远之，有能力的时候还要消灭</a>。无产阶级也一样有自己的阶级利益，无产阶级革命派要开发什么软件功能必然是考虑到无产阶级用户的长远利益，让用户沉溺于私有社交平台不算实现无产阶级的长远利益，算是为了蝇头小利，牺牲了无产阶级的未来。</p>
+<aside class="quote no-group" data-username="one_normal_one" data-post="14" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/o/e99b99/40.png" class="avatar"> one_normal_one:</div>
+<blockquote>
+<p>过度追求保密性只会倒向密谋主义，过度崇拜技术就要放弃政治挂帅，<strong>思想上政治上路线的正确与否是决定一切的</strong>不要舍本逐末。要做带领，贴合群众的先进者，而不是脱离群众的独行侠。</p>
+</blockquote>
+</aside>
+<p>“过度”如何定义这个“度”？谁来定义这个“度”？我们所做的一切工作都是建立对中帝大规模监控技术的研究的基础上的，都是建立在对信息科学的充分研究的基础上的，更是建立在对马列毛主义基本原理的学习和运用的基础上的，如果说我们“舍本逐末”，请拿出实际的证据来，而不只是用一些“脱离群众”、“路线斗争”的大词来吓唬人，路线到底对不对用什么来证明？一个是实践，一个是科学理论，并且归根结底是长期的广泛的人类实践。总之请拿出证据来。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="3" />
+</div>
+</div>
+<div id='post_16' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T11:12:48Z' class='post-time'>
+2022 年8 月 8 日 11:12
+</time>
+<meta itemprop='dateModified' content='2022-08-08T11:12:48Z'>
+<span itemprop='position'>#16</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="cocuj331" data-post="12" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>国外已经有人改变了现状</p>
+</blockquote>
+</aside>
+<p>所以是在国外。</p>
+<aside class="quote no-group" data-username="cocuj331" data-post="12" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>但事实恰恰相反：TCP/IP 的有连接协议是在传输层实现的。在传输层以上"雕花"，跟你网络层掌握在资产阶级手里有什么关系？只要他们看不出这是“非法”流量，照样拦不住我们。</p>
+</blockquote>
+</aside>
+<p>大中华局域网的情况是tor的bootstrap节点被封锁，只能通过meek-azure连接上。i2p通过大量的僵尸节点来阻断网络。</p>
+<aside class="quote no-group" data-username="cocuj331" data-post="12" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>在传输层以上"雕花"，跟你网络层掌握在资产阶级手里有什么关系？</p>
+</blockquote>
+</aside>
+<p>很显然，在大中华局域网内个人申请不到固定ip，除非进行备案。在自家网络上开放80端口都有被喝茶的风险。怎么能说没关系。ip是依赖 边界网关协议实现的，PGB的权限在政府手里。</p>
+<aside class="quote no-group" data-username="cocuj331" data-post="12" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>这也是一种因为对计算机网络不了解而产生的幻觉</p>
+</blockquote>
+</aside>
+<p>你可能没有我了解。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_17' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T11:17:57Z' class='post-time'>
+2022 年8 月 8 日 11:17
+</time>
+<meta itemprop='dateModified' content='2022-08-08T11:17:57Z'>
+<span itemprop='position'>#17</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="cocuj331" data-post="15" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>正如我们前面所说的，资本家构建的私有软件平台是靠洗脑推广开来的，这就是资本家的路线，在这种模式下诞生的私有软件和平台是资本家用来攫取高额利润，奴役群众的工具，他们在推广时耗费的巨量资金，终究是要在压榨群众的过程中找补回来的。我们不接受你们所谓的推崇“高门槛”软件“脱离群众”的指控，正如我们分析的那样，自由软件的使用门槛是很大程度上并非使用价值的问题，而是传播范围的问题，能不能使用的问题。这背后难度不就是阶级斗争的反映吗？资本家要把无产阶级绑定到他们的平台上去，而无产阶级想自己构建平台势必会遇到困难。</p>
+</blockquote>
+</aside>
+<p>宣传是很重要的因素，并不是只有经济基础才重要，文化、政治同样是很重要的因素。但是完全抛开网络硬件这种生产资料不谈会导致唯心主义。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_18' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T11:20:04Z' class='post-time'>
+2022 年8 月 8 日 11:20
+</time>
+<meta itemprop='dateModified' content='2022-08-08T11:20:04Z'>
+<span itemprop='position'>#18</span>
+ </span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="one_normal_one" data-post="14" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/o/e99b99/40.png" class="avatar"> one_normal_one:</div>
+<blockquote>
+<p>而不是要求群众去适应资产阶级创造的脱离群众的种种软件，推崇那些高门槛的软件本身就代表着脱离群众的路线。qq、知乎、bilibili等私有平台为什么能吸引很多人就是因为他们有便利性</p>
+</blockquote>
+</aside>
+<p>自由软件的门槛不在自由软件本身，而在于资产阶级肯定不愿意看到自由软件推广，从而设置重重障碍。不是没有能力开发便利的自由软件，而是被禁止这么做。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_19' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T11:20:33Z' class='post-time'>
+2022 年8 月 8 日 11:20
+</time>
+<meta itemprop='dateModified' content='2022-08-08T11:20:33Z'>
+<span itemprop='position'>#19</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="cocuj331" data-post="15" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>“过度”如何定义这个“度”？谁来定义这个“度”？我们所做的一切工作都是建立对中帝大规模监控技术的研究的基础上的，都是建立在对信息科学的充分研究的基础上的，更是建立在对马列毛主义基本原理的学习和运用的基础上的，如果说我们“舍本逐末”，请拿出实际的证据来，而不只是用一些“脱离群众”、“路线斗争”的大词来吓唬人，路线到底对不对用什么来证明？一个是实践，一个是科学理论，并且归根结底是长期的广泛的人类实践。总之请拿出证据来。</p>
+</blockquote>
+</aside>
+<p>这是折中主义</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_20' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1253">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-08T11:21:26Z' class='post-time'>
+2022 年8 月 8 日 11:21
+</time>
+<meta itemprop='dateModified' content='2022-08-08T11:21:26Z'>
+<span itemprop='position'>#20</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="cocuj331" data-post="9" data-topic="1253">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/c/ccd318/40.png" class="avatar"> cocuj331:</div>
+<blockquote>
+<p>如果限制来自于系统，那就换一个自由的操作系统</p>
+</blockquote>
+</aside>
+<p>限制来源于硬件。</p>
+</div>
+<meta itemprop='headline' content='转载：常见的支持 ActivityPub 协议的社交媒体项目'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+<span itemprop='name'><b><a rel="next" itemprop="url" href="/t/topic/1253?page=2">下一页 →</a></b></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

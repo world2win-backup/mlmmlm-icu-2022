@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。 - 技术 - 马列毛群众</title>
+<meta name="description" content="首先，GNU/Hurd是不能通過USB U盤來進入Live的。
+https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1352" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1352.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/2X/a/ac1e141369869c99b3d7e047e802f92214ee3412.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/2X/a/ac1e141369869c99b3d7e047e802f92214ee3412.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1352" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1352" />
+<meta property="og:title" content="如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。" />
+<meta name="twitter:title" content="如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。" />
+<meta property="og:description" content="首先，GNU/Hurd是不能通過USB U盤來進入Live的。 https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html   USB 1.1/2.0 USB is not supported at this time.  However, USB-type keyboards and mice may (and have been reported to) work nevertheless, given that the hardware / BIOS is doing emulation to the supported legacy interfaces.  目前不支持 USB。  但是，鑑於硬件/BIOS 正在對受支持的傳統接口進行仿真，USB 類型的鍵盤和鼠標可能（並且已經被報告）仍然可以工作。  https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debia..." />
+<meta name="twitter:description" content="首先，GNU/Hurd是不能通過USB U盤來進入Live的。 https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html   USB 1.1/2.0 USB is not supported at this time.  However, USB-type keyboards and mice may (and have been reported to) work nevertheless, given that the hardware / BIOS is doing emulation to the supported legacy interfaces.  目前不支持 USB。  但是，鑑於硬件/BIOS 正在對受支持的傳統接口進行仿真，USB 類型的鍵盤和鼠標可能（並且已經被報告）仍然可以工作。  https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debia..." />
+<meta property="article:published_time" content="2022-08-21T08:27:28+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1352">如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1352">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/a/ac1e141369869c99b3d7e047e802f92214ee3412.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-21T08:27:28Z' class='post-time'>
+2022 年8 月 21 日 08:27
+</time>
+<meta itemprop='dateModified' content='2022-08-21T08:37:43Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h2>
+<a name="gnuhurdusb-ulive-1" class="anchor" href="#gnuhurdusb-ulive-1"></a>首先，GNU/Hurd是不能通過USB U盤來進入Live的。</h2>
+<p><a href="https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html</a></p>
+<h2>
+<a name="usb-1120-2" class="anchor" href="#usb-1120-2"></a>USB 1.1/2.0</h2>
+<p>USB is not supported at this time.</p>
+<p>However, USB-type keyboards and mice may (and have been reported to) work nevertheless, given that the hardware / BIOS is doing emulation to the supported legacy interfaces.</p>
+<p>目前不支持 USB。</p>
+<p>但是，鑑於硬件/BIOS 正在對受支持的傳統接口進行仿真，USB 類型的鍵盤和鼠標可能（並且已經被報告）仍然可以工作。</p>
+<p><a href="https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/</a></p>
+<h2>
+<a name="h-2-linux-usb-gparted-3" class="anchor" href="#h-2-linux-usb-gparted-3"></a>第 2 步 – 在 Linux 上查找您的 USB 設備名稱（編者註：這裡可以直接使用GParted可視化地確定設備名稱。）</h2>
+<p>插入您的 U 盤並輸入以下 df 命令以查看它是否自動安裝在 Debian 或任何其他 Linux 桌面系統上：</p>
+<p><code>df</code></p>
+<p>示例輸出（參見我的 USB 的 /media/vivek/data）：</p>
+<pre><code class="lang-auto">Filesystem            1K-blocks    Used Available Use% Mounted on
+udev                   16432268       0  16432268   0% /dev
+tmpfs                   3288884   26244   3262640   1% /run
+/dev/mapper/md0_crypt 491076512 9641092 456420380   3% /
+tmpfs                  16444408  105472  16338936   1% /dev/shm
+tmpfs                      5120       4      5116   1% /run/lock
+tmpfs                  16444408       0  16444408   0% /sys/fs/cgroup
+/dev/sdc1             122546800  124876 116153868   1% /boot
+tmpfs                   3288880      24   3288856   1% /run/user/119
+tmpfs                   3288880      72   3288808   1% /run/user/1000
+/dev/sdd1               1467360 1467360         0 100% /media/vivek/data
+</code></pre>
+<p>您也可以嘗試使用 lsblk 命令或 dmesg 命令來列出您的 USB 設備：</p>
+<pre><code class="lang-auto">lsblk
+dmesg
+</code></pre>
+<p>您需要卸載 /media/vivek/data：<br>
+<code>sudo umount /media/vivek/data</code></p>
+<p>或嘗試：<br>
+<code>sudo umount /dev/sdd1</code></p>
+<p>另一種選擇是運行 dmesg 命令來找出 USB 設備名稱：</p>
+<p><code>sudo dmesg</code></p>
+<p>示例輸出：</p>
+<pre><code class="lang-auto">[461339.310378] usb 2-1.7: new high-speed USB device number 12 using ehci-pci
+[461339.420453] usb 2-1.7: New USB device found, idVendor=0781, idProduct=558a
+[461339.420457] usb 2-1.7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[461339.420460] usb 2-1.7: Product: Ultra
+[461339.420461] usb 2-1.7: Manufacturer: SanDisk
+[461339.420463] usb 2-1.7: SerialNumber: FooBarNixCraftSerialNumber
+[461339.421010] usb-storage 2-1.7:1.0: USB Mass Storage device detected
+[461339.421457] scsi host6: usb-storage 2-1.7:1.0
+[461340.431909] scsi 6:0:0:0: Direct-Access     SanDisk  Ultra            1.00 PQ: 0 ANSI: 6
+[461340.432886] sd 6:0:0:0: Attached scsi generic sg4 type 0
+[461340.433448] sd 6:0:0:0: [sdd] 121307136 512-byte logical blocks: (62.1 GB/57.8 GiB)
+[461340.435434] sd 6:0:0:0: [sdd] Write Protect is off
+[461340.435438] sd 6:0:0:0: [sdd] Mode Sense: 43 00 00 00
+[461340.436405] sd 6:0:0:0: [sdd] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+[461340.449612]  sdd: sdd1 sdd2
+</code></pre>
+<p>很明顯 /dev/sdd 是我的 U 盤設備名稱。 您也可以使用 lsblk 命令。 例如：<br>
+<code>lsblk</code></p>
+<h2>
+<a name="h-4-linux-u-4" class="anchor" href="#h-4-linux-u-4"></a>第 4 步 – 在 Linux 上創建可啟動的 U 盤</h2>
+<p><strong>警告：</strong> 請注意 USB stick/pen/disk名稱。 錯誤的名稱總是會導致數據丟失。 確保鍵入正確的名稱。</p>
+<p>鍵入 [按照 dd 命令從 .ISO 文件創建可啟動 USB 映像](<a href="https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with" rel="noopener nofollow ugc">https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with</a> -dd命令/）：</p>
+<p><code>sudo dd if=artful-desktop-amd64.iso of=/dev/sdd bs=1M status=progress</code><br>
+另一個例子：</p>
+<p><code>sudo dd if=ubuntu-20.04.1-live-server-amd64.iso of=/dev/sda bs=1M status=progress</code><br>
+dd 命令會將進程數據寫入 U 盤（/dev/sdd 或 /dev/sda），並且屏幕上會出現一個進度條。</p>
+<h3>
+<a name="ubuntu-ubuntu-usb-5" class="anchor" href="#ubuntu-ubuntu-usb-5"></a>Ubuntu 從終端創建可啟動的 Ubuntu USB 閃存驅動器</h3>
+<p>在此示例中，我將為 ubuntu-18.04.3-live-server-amd64.iso 文件創建一個可啟動的閃存驅動器，如下所示：</p>
+<p><code>sudo dd if=/isos/ubuntu-18.04.3-live-server-amd64.iso of=/dev/sdb bs=1M status=progress</code><br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/a/ac1e141369869c99b3d7e047e802f92214ee3412.png" alt="Ubuntu iso bootable USB create using dd command on Linux" data-base62-sha1="oyCzbZTVl8WtwDev8a17TbG9hU6" width="599" height="154"></p>
+<h3>
+<a name="h-6" class="anchor" href="#h-6"></a>另一個例子</h3>
+<p><code>sudo dd if=/isos/ubuntu-19.04-live-server-amd64.iso of=/dev/sdb bs=1M status=progress</code><br>
+這是我看到的：</p>
+<p><code>748+0 records in 748+0 records out 784334848 bytes (784 MB, 748 MiB) copied, 119.174 s, 6.6 MB/s</code></p>
+<h3>
+<a name="dd-7" class="anchor" href="#dd-7"></a>了解 dd 命令選項</h3>
+<ul>
+<li>
+<kbd>dd</kbd> : 啟動 dd 命令寫入 DVD/CD iso 映像。</li>
+<li>
+<kbd>if=/iso/ubuntu.iso</kbd> : 輸入文件的路徑。</li>
+<li>
+<kbd>of=/dev/sdd</kbd> ：目標 USB 磁盤/棒的路徑。</li>
+<li>
+<kbd>bs=1M</kbd> ：一次讀取和寫入最多 BYTES 個字節。 在此示例中，一次 1M。</li>
+<li>
+<kbd>status=progress</kbd> : 將圖像寫入 U 盤時顯示進度條，例如 /dev/sdd。 有關詳細信息，請參閱“<a href="https://www.cyberciti.biz/faq/linux-unix-dd-command-show-progress-while-coping/" rel="noopener nofollow ugc">Linux dd 命令顯示帶有狀態的進度複製欄</a>”。</li>
+</ul>
+</div>
+<meta itemprop='headline' content='如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1352">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-21T10:43:46Z' class='post-time'>
+2022 年8 月 21 日 10:43
+</time>
+<meta itemprop='dateModified' content='2022-08-21T10:43:46Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="onebox stackexchange" data-onebox-src="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware">
+<header class="source">
+<a href="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware" target="_blank" rel="noopener nofollow ugc">serverfault.com</a>
+</header>
+<article class="onebox-body">
+<a href="https://serverfault.com/users/120769/lacrosse1991" target="_blank" rel="noopener nofollow ugc">
+<img alt="lacrosse1991" src="https://mlmmlm.icu/uploads/default/original/2X/9/9e8ab89be83a6918f3c1776ab2c34effc1d1b2f9.png" class="thumbnail onebox-avatar" width="" height="">
+</a>
+<h4>
+<a href="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware" target="_blank" rel="noopener nofollow ugc">Is it possible to reboot a Linux OS without rebooting the hardware?</a>
+</h4>
+<div class="tags">
+<strong>linux, debian, raid</strong>
+</div>
+<div class="date">
+asked by
+<a href="https://serverfault.com/users/120769/lacrosse1991" target="_blank" rel="noopener nofollow ugc">
+lacrosse1991
+</a>
+on <a href="https://serverfault.com/questions/678024/is-it-possible-to-reboot-a-linux-os-without-rebooting-the-hardware" target="_blank" rel="noopener nofollow ugc">11:35PM - 24 Mar 15 UTC</a>
+</div>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>

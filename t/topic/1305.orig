@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m - 技术 - 马列毛群众</title>
+<meta name="description" content="">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1305" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1305.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/2X/7/70ebf68271ee2f4b97cf1653f7ceddcf6fd0b58f.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/2X/7/70ebf68271ee2f4b97cf1653f7ceddcf6fd0b58f.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1305" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1305" />
+<meta property="og:title" content="（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m" />
+<meta name="twitter:title" content="（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m" />
+<meta property="article:published_time" content="2022-08-10T02:49:59+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1305">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/7/70ebf68271ee2f4b97cf1653f7ceddcf6fd0b58f.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-10T02:49:59Z' class='post-time'>
+2022 年8 月 10 日 02:49
+</time>
+<meta itemprop='dateModified' content='2022-08-10T02:49:59Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://electronics-diy.com/electronic_schematic.php?id=1065">
+<header class="source">
+<img src="https://electronics-diy.com/electronic_schematic.php/favicon.ico" class="site-icon" width="" height="">
+<a href="https://electronics-diy.com/electronic_schematic.php?id=1065" target="_blank" rel="noopener nofollow ugc">electronics-diy.com</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://electronics-diy.com/electronic_schematic.php?id=1065" target="_blank" rel="noopener nofollow ugc">100W Transmitter Amplifier for 2200m</a></h3>
+<p>This particular transmitter was later shipped up to VY1JA in the Yukon where, thanks to Jay's excellent antenna system, it was heard in Europe as well as in New Zealand during one of the Trans-Pacific Tests! Running 24 volts on the final will produce...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<aside class="onebox wikipedia" data-onebox-src="https://en.wikipedia.org/wiki/2200-meter_band">
+<header class="source">
+<a href="https://en.wikipedia.org/wiki/2200-meter_band" target="_blank" rel="noopener nofollow ugc">en.wikipedia.org</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/7/70ebf68271ee2f4b97cf1653f7ceddcf6fd0b58f.png" class="thumbnail" width="" height="">
+<h3><a href="https://en.wikipedia.org/wiki/2200-meter_band" target="_blank" rel="noopener nofollow ugc">2200-meter band</a></h3>
+<p>The 2200-meter or 136 kHz band is the lowest frequency band in which amateur radio operators are licensed to transmit. It was formally allocated to amateurs at the 2007 World Radiocommunication Conference (WRC-07). The band is available on a secondary basis in all ITU regions with the limitation that amateur stations have maximum radiated power of 1 watt effective isotropic radiated power.
+The 2200-meter band is within the low frequency (LF) band, just below the 153–279 kHz longwave broadcast ba...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+<div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/17/13" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/17/13'>
+<span itemprop='name'>利用技术手段武装自己</span>
+</a>
+<meta itemprop='position' content='3'>
+</div>
+</div>
+</div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/f/fbd3be5698076d694ade5b76ea8b3484d745cd4c.jpeg">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-10T02:51:34Z' class='post-time'>
+2022 年8 月 10 日 02:51
+</time>
+<meta itemprop='dateModified' content='2022-08-10T02:51:34Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>Pure-Python Reed Solomon encoder/decoder<br>
+纯 Python 实现的 Reed Solomon 编码器/解码器</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://pypi.org/project/reedsolo/">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/b/b21571882e9fe245d5dfca39ca88a2c73b892af0.png" class="site-icon" width="" height="">
+<a href="https://pypi.org/project/reedsolo/" target="_blank" rel="noopener nofollow ugc">PyPI</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/f/fbd3be5698076d694ade5b76ea8b3484d745cd4c.jpeg" class="thumbnail" width="" height="">
+<h3><a href="https://pypi.org/project/reedsolo/" target="_blank" rel="noopener nofollow ugc">reedsolo</a></h3>
+<p>Pure-Python Reed Solomon encoder/decoder</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<aside class="onebox wikipedia" data-onebox-src="https://zh.wikipedia.org/wiki/%E9%87%8C%E5%BE%B7-%E6%89%80%E7%BD%97%E9%97%A8%E7%A0%81">
+<header class="source">
+<a href="https://zh.wikipedia.org/wiki/%E9%87%8C%E5%BE%B7-%E6%89%80%E7%BD%97%E9%97%A8%E7%A0%81" target="_blank" rel="noopener nofollow ugc">zh.wikipedia.org</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://zh.wikipedia.org/wiki/%E9%87%8C%E5%BE%B7-%E6%89%80%E7%BD%97%E9%97%A8%E7%A0%81" target="_blank" rel="noopener nofollow ugc">里德-所罗门码</a></h3>
+<p>里德-所罗门码（Reed-solomon codes，簡稱里所码或 RS codes）是一种前向錯誤更正的信道编码，对由校正过采样数据所产生的有效多项式。编码过程首先在多个点上对这些多项式求冗余，然后将其传输或者存储。对多项式的这种超出必要值的采样使得多项式超定（过限定）。当接收器正确地收到足够的点后，它就可以恢复原来的多项式，即使接收到的多项式上有很多点被噪声干扰失真。
+里德-所罗门码被广泛地应用于各种商业用途，最显著的是在 CD、DVD、蓝光光盘和QR code上的使用；在数据传输中，它也被用于 DSL 和 WiMAX；广播系统中 DVB 和 ATSC 也闪现着它的身影；在计算机科学里，它是 RAID 6 标准的重要成员。
+里德-所罗门码是定长码。这意味着一个固定长度输入的数据将被处理成一个固定长度的输出数据。在最常用的（255,223）里所码中，223个里德-所罗门输入符号（每个符号有8个位元）被编码成255个输出符号。
+里德-所罗门码，如同卷积码一样，是一种透明码。这代表如果信道符号在队列的某些地方被反转，解码器一样可以工作。解码结果将是原始数据的补充。但是，里所码在缩短后...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/d/d05a0ee26e7dc05d76398136636ad3cd1aa84640.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-15T08:14:01Z' class='post-time'>
+2022 年8 月 15 日 08:14
+</time>
+<meta itemprop='dateModified' content='2022-08-15T08:14:01Z'>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>这里有另外一个实现</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://github.com/jaesparza/radio-beacon">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/b/bad3e5f9ad67c1ddf145107ce7032ac1d7b22563.svg" class="site-icon" width="" height="">
+<a href="https://github.com/jaesparza/radio-beacon" target="_blank" rel="noopener nofollow ugc">GitHub</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/d/d05a0ee26e7dc05d76398136636ad3cd1aa84640.png" class="thumbnail" width="" height="">
+<h3><a href="https://github.com/jaesparza/radio-beacon" target="_blank" rel="noopener nofollow ugc">GitHub - jaesparza/radio-beacon: A multimode radio beacon for QRSS (FSK-CW,...</a></h3>
+<p>A multimode radio beacon for QRSS (FSK-CW, CW) and WSPR. Implemented using AD9850 and STM32duino. Repository hosting schematics, software and other implementation notes. - GitHub - jaesparza/radio-...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-15T08:14:48Z' class='post-time'>
+2022 年8 月 15 日 08:14
+</time>
+<meta itemprop='dateModified' content='2022-08-15T08:14:48Z'>
+<span itemprop='position'>#4</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>利用openssl加密字符串</p>
+<h4>
+<a name="encrypt-a-string-using-openssl-command-linehttpsstackoverflowcomquestions10106771encrypt-a-string-using-openssl-command-line-1" class="anchor" href="#encrypt-a-string-using-openssl-command-linehttpsstackoverflowcomquestions10106771encrypt-a-string-using-openssl-command-line-1"></a><a href="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line" rel="noopener nofollow ugc">Encrypt a string using openssl command line</a>
+</h4>
+<p><strong>linux, openssl</strong></p>
+<p>asked by <a href="https://stackoverflow.com/users/1144720/arun-nath" rel="noopener nofollow ugc"> arun nath </a> on <a href="https://stackoverflow.com/questions/10106771/encrypt-a-string-using-openssl-command-line" rel="noopener nofollow ugc">01:21PM - 11 Apr 12 UTC</a></p>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-03T09:41:34Z' class='post-time'>
+2022 年9 月 3 日 09:41
+</time>
+<meta itemprop='dateModified' content='2022-09-03T09:41:34Z'>
+<span itemprop='position'>#5</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<pre><code class="lang-auto">echo -n "aaaabbbbccccdddd" | openssl enc -e -aes-256-cbc -a -salt
+enter aes-256-cbc encryption password:
+Verifying - enter aes-256-cbc encryption password:
+</code></pre>
+<p><strong>请注意，利用这种方法产生的输出的开头是固定的</strong></p>
+<p>OpenSSL allows for salted or unsalted key derivation. <strong>Unsalted key derivation is a security risk and is not recommended.</strong> If a salt is present, the first 8 bytes of the input are the ASCII string “Salted__” (<code>0x53 61 6C 74 65 64 5F 5F</code>) and the next 8 bytes are the ASCII-encoded salt.</p>
+<p>OpenSSL 允许加盐或不加盐的密钥派生。 <strong>未加盐的密钥派生存在安全风险，不推荐使用。</strong> 如果存在加盐，则输入的前 8 个字节为 ASCII 字符串“Salted__”（<code>0x53 61 6C 74 65 64 5F 5F</code>）和 接下来的 8 个字节是 ASCII 编码的盐。</p>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-03T09:43:24Z' class='post-time'>
+2022 年9 月 3 日 09:43
+</time>
+<meta itemprop='dateModified' content='2022-09-03T09:43:24Z'>
+<span itemprop='position'>#6</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<pre><code class="lang-auto">openssl enc -h
+</code></pre>
+<hr>
+<pre><code class="lang-auto">Usage: enc [options]
+
+General options:
+ -help               Display this summary
+ -list               List ciphers
+ -ciphers            Alias for -list
+ -e                  Encrypt
+ -d                  Decrypt
+ -p                  Print the iv/key
+ -P                  Print the iv/key and exit
+ -engine val         Use engine, possibly a hardware device
+
+Input options:
+ -in infile          Input file
+ -k val              Passphrase
+ -kfile infile       Read passphrase from file
+
+Output options:
+ -out outfile        Output file
+ -pass val           Passphrase source
+ -v                  Verbose output
+ -a                  Base64 encode/decode, depending on encryption flag
+ -base64             Same as option -a
+ -A                  Used with -[base64|a] to specify base64 buffer as a single line
+
+Encryption options:
+ -nopad              Disable standard block padding
+ -salt               Use salt in the KDF (default)
+ -nosalt             Do not use salt in the KDF
+ -debug              Print debug info
+ -bufsize val        Buffer size
+ -K val              Raw key, in hex
+ -S val              Salt, in hex
+ -iv val             IV in hex
+ -md val             Use specified digest to create a key from the passphrase
+ -iter +int          Specify the iteration count and force use of PBKDF2
+ -pbkdf2             Use password-based key derivation function 2
+ -none               Don't encrypt
+ -*                  Any supported cipher
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -propquery val      Property query used when fetching algorithms
+</code></pre>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_7' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-03T09:48:44Z' class='post-time'>
+2022 年9 月 3 日 09:48
+</time>
+<meta itemprop='dateModified' content='2022-09-03T10:28:08Z'>
+<span itemprop='position'>#7</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<pre><code class="lang-auto">使用方法: enc [选项]
+
+一般 选项:
+ -help             显示此摘要
+ -list               列举 加密算法（ciphers）
+ -ciphers            Alias for -list
+ -e                  加密 （Encrypt）
+ -d                  解密 （Decrypt）
+ -p                  打印 iv/key
+ -P                  打印 iv/key 并退出
+ -engine val         使用引擎，可能为加密设备
+
+Input options:
+ -in infile          输入文件
+ -k val              密语（口令）
+ -kfile infile      从文件中读取密语（口令）
+
+Output options:
+ -out outfile        输出文件
+ -pass val           Passphrase source
+
+                           how to do it:
+
+                                            openssl aes-256-cbc -in some_file.enc -out some_file.unenc -d -pass pass:somepassword
+
+                                            Notice that the command line command syntax is always -pass followed by a space and then the type of passphrase you're providing, i.e. pass: for plain passphrase and then the actual passphrase after the colon with no space.
+
+                                            Additionally the documentation specifies you can provide other passphrase sources by doing the following:
+
+                                                env:somevar to get the password from an environment variable
+                                                file:somepathname to get the password from the first line of the file at location pathname
+                                                fd:number to get the password from the file descriptor number.
+                                                stdin to read from standard input
+
+ -v                  详细输出
+ -a                  Base64 编码/解码, 取决于加密的选项
+ -base64             Same as option -a
+ -A                  与 -[base64|a] 同时使用，使长的base64不换行，在一行内显示。
+
+加密选项:
+ -nopad              不填充
+ -salt               在密钥派生函数中加盐 (默认)
+ -nosalt             不在密钥派生函数中加盐
+ -debug              Print debug info
+ -bufsize val        缓冲区大小
+ -K val              以十六进制表示的原始密钥
+ -S val              以十六进制表示的盐
+ -iv val             以十六进制表示的initialization vector，初始化向量，
+ -md val             使用指定的摘要算法从密语（口令）创建密钥
+ -iter +int          强制使用PBKDF2 ，并指定迭代次数
+ -pbkdf2             使用基于口令的密钥推导函数2
+ -none               Don't encrypt
+ -*                  Any supported cipher
+
+随机状态选项:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -propquery val      Property query used when fetching algorithms
+</code></pre>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_8' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1305">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/f/f26dacb7104af73a42c0d8a579f4f337c29dab8c.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-03T10:29:38Z' class='post-time'>
+2022 年9 月 3 日 10:29
+</time>
+<meta itemprop='dateModified' content='2022-09-03T10:29:38Z'>
+<span itemprop='position'>#8</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>AES在线加密/解密</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.devglan.com/online-tools/aes-encryption-decryption">
+<header class="source">
+<span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+<a href="https://www.devglan.com/online-tools/aes-encryption-decryption" target="_blank" rel="noopener nofollow ugc">devglan</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/f/f26dacb7104af73a42c0d8a579f4f337c29dab8c.png" class="thumbnail" width="" height="">
+<h3><a href="https://www.devglan.com/online-tools/aes-encryption-decryption" target="_blank" rel="noopener nofollow ugc">An Online Tool for AES Encryption and Decryption</a></h3>
+<p>A free online tool for AES encryption and decryption. It is an aes calculator that performs aes encryption and decryption of image, text and .txt file in ECB and CBC mode with 128, 192,256 bit. The output can be base64 or Hex encoded.</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>

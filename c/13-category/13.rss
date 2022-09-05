@@ -5,8 +5,32 @@
     <link>https://mlmmlm.icu/c/13-category/13</link>
     <description>&#39;公告&#39; 类别中的话题 </description>
     <language>zh-CN</language>
-      <lastBuildDate>Mon, 01 Aug 2022 01:55:24 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 05 Sep 2022 10:31:17 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/c/13-category/13.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>告全站用户书</title>
+          <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+          <category>公告</category>
+          <description><![CDATA[
+            <p>论坛成立两年以来一直未对讨论的内容做过具体的限制。<br>
+网络上的斗争也适用于游击战的规律。</p>
+<p>现作如下规定：</p>
+<ol>
+<li>如果内容过于露骨，管理员有权删除；</li>
+<li>本站的内容如无特别声明以BY-SA 4.0形式分发；</li>
+<li>学习鲁迅的文章风格，在残酷的审查条件下描绘无产阶级的生活、阐述无产阶级的思想。</li>
+</ol>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1390">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1390</link>
+          <pubDate>Mon, 05 Sep 2022 10:31:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1390</guid>
+          <source url="https://mlmmlm.icu/t/topic/1390.rss">告全站用户书</source>
+        </item>
         <item>
           <title>关于论坛应该讨论什么的问题，以及对某些问题的态度</title>
           <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
@@ -23,7 +47,7 @@
 <p>我们欢迎讨论整理有关马列毛主义的文本。目前欠缺的是关于拉丁美洲毛主义政党文本的整理。</p>
 <p>我们欢迎讨论生产斗争的知识。欢迎有<strong>无线电</strong>、计算机和计算机网络、秘密斗争技术的同志发言讨论。欢迎懂得军事以及军事所需物品的生产相关知识的同志发言讨论。还有如果有同志对于各国的工业和交通运输业以及各产业的情况有所了解的也欢迎讨论。</p>
 <p>对于城市来说，水电粮、油料、通信、运输是重要的，欢迎知道有关知识的通知讨论。特别是懂得电力和光缆的建设的同志。</p>
-            <p><small>12 个帖子 - 4 位参与者</small></p>
+            <p><small>13 个帖子 - 4 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/1260">阅读完整话题</a></p>
           ]]></description>
           <link>https://mlmmlm.icu/t/topic/1260</link>
@@ -275,18 +299,13 @@ wget --wait=1 --recursive --page-requisites --user-agent "Googlebot" https://mlm
             <h3>
 <a name="protonmailqq163-1" class="anchor" href="https://mlmmlm.icu#protonmailqq163-1"></a>本论坛可以用邮箱注册，建议用protonmail注册，禁止用实名制邮箱注册，禁止用qq邮箱，163邮箱注册。<em>不要用以前使用过的用户名</em>。</h3>
 <h3>
-<a name="heading-2" class="anchor" href="https://mlmmlm.icu#heading-2"></a>当心上传文件包含元信息！</h3>
+<a name="h-2" class="anchor" href="https://mlmmlm.icu#h-2"></a>当心上传文件包含元信息！如果使用截图，当心隐水印！</h3>
 <h3>
-<a name="protonmailxmppd-h-3" class="anchor" href="https://mlmmlm.icu#protonmailxmppd-h-3"></a>论坛的私信不安全，一旦管理员账号被控制，私信将会暴露，请移步protonmail或xmpp。利用D-H密钥交换确保前向安全。</h3>
-<h3>
-<a name="spam10-4" class="anchor" href="https://mlmmlm.icu#spam10-4"></a>注册时请留意垃圾邮件(spam)，注册邮件大约10分钟后送到，请耐心等待。</h3>
-<p>(如果用gmail注册的话可能被归类到promotion里面)</p>
+<a name="protonmailxmppd-h-3" class="anchor" href="https://mlmmlm.icu#protonmailxmppd-h-3"></a>论坛的私信不安全（论坛的私信本质上是具有特殊权限的帖子），一旦管理员账号被控制，私信将会暴露，请移步protonmail或xmpp。利用D-H密钥交换确保前向安全。</h3>
 <p>3.<strong>隐私问题</strong>是最重要的问题，不要提到自己与他人的隐私。不要提到他人在互联网上的活动记录。</p>
 <p>3.5 可能暴露身份的就是论坛成员的言论还有你的邮箱，IP地址已经做过处理。</p>
 <p>4.就事论事，不要人身攻击。</p>
 <p>5.论坛管理员有义务对论坛进行定期备份并且保障成员的数据安全。</p>
-<h3>
-<a name="heading-5" class="anchor" href="https://mlmmlm.icu#heading-5"></a>如果有人问及是如何知道本站的，就说是在搜索引擎找到的。</h3>
             <p><small>31 个帖子 - 1 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/11">阅读完整话题</a></p>
           ]]></description>
