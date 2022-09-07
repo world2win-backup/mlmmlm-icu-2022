@@ -103,7 +103,7 @@
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/562/8" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
-<meta itemprop='url' content='https://mlmmlm.icu/t/topic/562/8'>
+ <meta itemprop='url' content='https://mlmmlm.icu/t/topic/562/8'>
 <span itemprop='name'>可否使用 redmine 之类的软件进行作业？</span>
 </a>
 <meta itemprop='position' content='1'>
@@ -274,7 +274,7 @@
 2020 年8 月 30 日 06:51
 </time>
 <meta itemprop='dateModified' content='2021-10-17T08:57:41Z'>
-<span itemprop='position'>#5</span>
+ <span itemprop='position'>#5</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
@@ -695,7 +695,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
@@ -786,7 +786,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
@@ -1064,7 +1064,7 @@
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
-<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+ <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>

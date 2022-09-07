@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>利用技术手段武装自己 - #12，来自 azide - 技术 - 马列毛群众</title>
+<meta name="description" content="我们不会采用晦涩的术语，仅从实践角度来叙述具体怎么做。 
+1.不想让别人知道你们谈论了什么： 
+使用gpg 
+2.不想让被人知道你们有过交谈： 
+使用tor 
+3.加密硬盘 
+LUKS 
+4.安全删除(重要) 
+secure-delete 
+&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/17" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;利用技术手段武装自己&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/17.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/17/12" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/17/12" />
+<meta property="og:title" content="利用技术手段武装自己" />
+<meta name="twitter:title" content="利用技术手段武装自己" />
+<meta property="article:published_time" content="2022-08-21T03:22:43+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/17">利用技术手段武装自己</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2020-08-28T08:54:05Z' class='post-time'>
+2020 年8 月 28 日 08:54
+</time>
+<meta itemprop='dateModified' content='2021-02-01T09:41:30Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>我们不会采用晦涩的术语，仅从实践角度来叙述具体怎么做。</p>
+<p>1.不想让别人知道你们谈论了什么：<br>
+使用gpg</p>
+<p>2.不想让被人知道你们有过交谈：<br>
+使用tor</p>
+<p>3.加密硬盘<br>
+LUKS</p>
+<p>4.安全删除(<strong>重要</strong>)<br>
+secure-delete</p>
+<p>5.隐写术<br>
+steghide</p>
+<p>6.使用内存盘(ram disk)</p>
+<p>7.安全的工作环境。<br>
+当执法机构试图破门时能够提前预知并且毁灭证据。</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/anon59196882'><span itemprop='name'>anon59196882</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2020-09-23T11:46:20Z' class='post-time'>
+2020 年9 月 23 日 11:46
+</time>
+<meta itemprop='dateModified' content='2020-09-23T11:46:20Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>这两个是什么东西</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="2" />
+</div>
+</div>
+<div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2020-09-23T14:02:33Z' class='post-time'>
+2020 年9 月 23 日 14:02
+</time>
+<meta itemprop='dateModified' content='2020-09-23T14:02:33Z'>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>就是两个软件，之后会讲。</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2020-09-23T14:09:26Z' class='post-time'>
+2020 年9 月 23 日 14:09
+</time>
+<meta itemprop='dateModified' content='2020-09-23T14:09:26Z'>
+<span itemprop='position'>#4</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>你们对这些软件了解多少?</p>
+<div class="poll" data-poll-status="open" data-poll-results="on_vote" data-poll-charttype="bar" data-poll-type="regular" data-poll-name="poll">
+<div>
+<div class="poll-container">
+<ul>
+<li data-poll-option-id="82d74621b3fb50c88bdcb5a34ddd1e5e">了解，能够熟练使用并且明白原理</li>
+<li data-poll-option-id="eb9b8ca11fc8565c613b8039abbe3466">了解，能够熟练使用</li>
+<li data-poll-option-id="bdaa7eb483e1d7dc43595cc5908306a6">一般了解</li>
+<li data-poll-option-id="66f9b4cbe49d43ebb31dd064f20a1953">不了解</li>
+<li data-poll-option-id="4d9fe40f68512b8d0872eccbf5b63fa9">完全没听过</li>
+</ul>
+</div>
+<div class="poll-info">
+<p>
+<span class="info-number">0</span>
+<span class="info-label">投票者</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/1X/ad6b7bfa939b7bb4732ca460b327413f856877c5.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2020-10-02T11:30:59Z' class='post-time'>
+2020 年10 月 2 日 11:30
+</time>
+<meta itemprop='dateModified' content='2020-10-02T11:30:59Z'>
+<span itemprop='position'>#5</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><img src="https://mlmmlm.icu/uploads/default/original/1X/ad6b7bfa939b7bb4732ca460b327413f856877c5.png" alt="image" data-base62-sha1="oK8SXp7OiLke6OulrgTMBGO7DtX" width="448" height="274"></p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2020-10-02T11:32:09Z' class='post-time'>
+2020 年10 月 2 日 11:32
+</time>
+<meta itemprop='dateModified' content='2020-10-02T11:32:09Z'>
+<span itemprop='position'>#6</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>现代的刑讯逼供能让你想起已经忘记的密码。</p>
+<p>但是不能否认密码学的重要性。</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_7' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-01T09:46:06Z' class='post-time'>
+2021 年2 月 1 日 09:46
+</time>
+<meta itemprop='dateModified' content='2021-02-01T09:46:06Z'>
+<span itemprop='position'>#7</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>这些百度都找得到的。</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_8' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-01T10:06:58Z' class='post-time'>
+2021 年2 月 1 日 10:06
+</time>
+<meta itemprop='dateModified' content='2021-02-01T10:06:58Z'>
+<span itemprop='position'>#8</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>使用LUKS的原因是：<br>
+1.一旦密钥被擦除，数据将无法恢复。<br>
+2.当LUSK head 被擦除，剩下的数据就看起来像随机数据。</p>
+<p>所以我推荐，不要去记忆密码，使用密钥文件。<br>
+当遇到危险时，删除密钥文件和LUSK head。</p>
+<h3>使用密钥文件</h3>
+<p><a href="https://linuxconfig.org/how-to-use-a-file-as-a-luks-device-key" class="onebox" target="_blank" rel="noopener">https://linuxconfig.org/how-to-use-a-file-as-a-luks-device-key</a></p>
+<h3>Wipe LUKS header</h3>
+<p><a href="https://wiki.archlinux.org/index.php/Dm-crypt/Drive_preparation#Wipe_LUKS_header" class="onebox" target="_blank" rel="noopener">https://wiki.archlinux.org/index.php/Dm-crypt/Drive_preparation#Wipe_LUKS_header</a></p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+<div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/346/24" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/346/24'>
+<span itemprop='name'>我们沉迷于线上工作了吗？以及当前的任务。</span>
+</a>
+<meta itemprop='position' content='3'>
+</div>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/19" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/19'>
+<span itemprop='name'>可以利用的网站 | 必看的和推荐的书籍、文章</span>
+</a>
+<meta itemprop='position' content='4'>
+</div>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/1009/5" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/1009/5'>
+<span itemprop='name'>想问一下密保方式都有什么</span>
+</a>
+<meta itemprop='position' content='5'>
+</div>
+</div>
+</div>
+<div id='post_9' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-04-27T14:46:20Z' class='post-time'>
+2021 年4 月 27 日 14:46
+</time>
+<meta itemprop='dateModified' content='2021-04-27T14:46:20Z'>
+<span itemprop='position'>#9</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote no-group" data-username="mlmmlm_admin" data-post="1" data-topic="17">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/mlmmlm_admin/40/6_2.png" class="avatar"> mlmmlm_admin:</div>
+<blockquote>
+<p>1.不想让别人知道你们谈论了什么：<br>
+使用gpg</p>
+</blockquote>
+</aside>
+<p>需要考虑私钥泄露的可能性。<br>
+建议采用前向安全技术。</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_10' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+ <meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-13T08:09:51Z' class='post-time'>
+2022 年8 月 13 日 08:09
+</time>
+<meta itemprop='dateModified' content='2022-08-13T08:09:51Z'>
+<span itemprop='position'>#10</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a class="attachment" href="/uploads/short-url/hMmrFY57EiODqkrjHC1wWu9unhI.pdf">现代密码学：第03讲 外国古代密码艺术.pdf</a> (1.3 MB)<br>
+<a class="attachment" href="/uploads/short-url/qzAGsCv0FJBNekisl9sClO80GV3.pdf">现代密码学：第04讲 密码学发展简史.pdf</a> (484.9 KB)<br>
+<a class="attachment" href="/uploads/short-url/4NkeE5BydFTahn7ri8IkEDUC7yQ.pdf">现代密码学：第05讲 密码分析学.pdf</a> (520.6 KB)<br>
+<a class="attachment" href="/uploads/short-url/p08qJLZgDnIOyIiS0U9eNnpAjex.pdf">现代密码学：第01讲 密码学的基本概念.pdf</a> (648.4 KB)<br>
+<a class="attachment" href="/uploads/short-url/dK5w0Jluv77hnt9Y6Hbb1OabMuc.pdf">现代密码学：第02讲 中国古代密码艺术.pdf</a> (527.3 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/zPjjOFrodT4dbIH3B9myOWbT4qC.pdf">现代密码学：第10讲 线性反馈移位寄存器.pdf</a> (441.6 KB)<br>
+<a class="attachment" href="/uploads/short-url/5oeK7wLhOADo0i8FJ0x7kFUUojA.pdf">现代密码学：第06讲 古典密码算法.pdf</a> (731.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/oyS3DzhMeFQ4ZnCyVKNRDHurOUL.pdf">现代密码学：第07讲 流密码的基本概念.pdf</a> (603.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/ceq162H2tfuxAxkwDoYVSpaMgoi.pdf">现代密码学：第08讲 有限状态自动机.pdf</a> (492.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/nLCAkp02EUXzlPgbLHogvr3HjLT.pdf">现代密码学：第09讲 二元序列的伪随机性.pdf</a> (398.1 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/8d9xI0gJ433eQuy3pddtXZ6FTeE.pdf">现代密码学：第13讲 m-序列的安全性.pdf</a> (364.6 KB)<br>
+<a class="attachment" href="/uploads/short-url/5VC6uFkH0nE7ScemqNUI5ChTrc9.pdf">现代密码学：第14讲 非线性序列1.pdf</a> (522.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/9SAxnrMxgCHBAlM1Tw7RuvIOZkN.pdf">现代密码学：第15讲 非线性序列2.pdf</a> (382.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/ewv7AsamX6AmF0BqlTnVkUmdi2T.pdf">现代密码学：第11讲 m-序列.pdf</a> (378.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/uUalUauLwNsYiOYbEvGfhbvsz1U.pdf">现代密码学：第12讲 m-序列的伪随机性.pdf</a> (514.7 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/9BqTRe7Wn9pSITkyz1vGLd0kutr.pdf">现代密码学：第19讲 Feistel密码结构.pdf</a> (306.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/ar4BwufCMxki5uqzamAJlBpj2wb.pdf">现代密码学：第20讲 DES算法简介.pdf</a> (554.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/lJZQfphF2xMCL2zUlsRLmQ2BZXl.pdf">现代密码学：第16讲 A5流密码算法.pdf</a> (393.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/iiNsLPNna7JFgiJ4ZUbrnhYgu4f.pdf">现代密码学：第17讲 分组密码的基本概念.pdf</a> (418.8 KB)<br>
+<a class="attachment" href="/uploads/short-url/x5QpKAFwCxhvqFxDbD48PjfCoo0.pdf">现代密码学：第18讲 SP网络.pdf</a> (599.0 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/m5V8gREjcjPalT7z118JBhJDuY2.pdf">现代密码学：第23讲 3DES.pdf</a> (298.1 KB)<br>
+<a class="attachment" href="/uploads/short-url/4KN5Oq9zfM4yl8dmDU80k6sJLjn.pdf">现代密码学：第24讲 分组密码的工作模式1.pdf</a> (359.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/2aIVL7R9Z2ELEGXFa8EQH2eHGGL.pdf">现代密码学：第25讲 分组密码的工作模式2.pdf</a> (333.8 KB)<br>
+<a class="attachment" href="/uploads/short-url/gnBpacDmzIIIKeSb9IfFzz1huzn.pdf">现代密码学：第21讲 DES的轮函数及密钥编排.pdf</a> (413.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/uxHOhtIhjfKGhetgewgRmJkISTO.pdf">现代密码学：第22讲 DES的安全性.pdf</a> (366.3 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/8OMY7Kdufkj2dPtVAYoGQNq2mgR.pdf">现代密码学：第30讲 SM4算法.pdf</a> (454.2 KB)<br>
+<a class="attachment" href="/uploads/short-url/22yxDOBod2IcGpYpkuE2ugBM5Ip.pdf">现代密码学：第26讲 有限域基础.pdf</a> (379.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/7euntjmXwMHwNxRIqjh9J80IVMN.pdf">现代密码学：第27讲 AES算法简介.pdf</a> (381.2 KB)<br>
+<a class="attachment" href="/uploads/short-url/dGuAD529V8717tygShFdTeHwThA.pdf">现代密码学：第28讲 AES的轮函数.pdf</a> (635.8 KB)<br>
+<a class="attachment" href="/uploads/short-url/8fPVGQ9XRzO4aO0fp1Gy9Uht41b.pdf">现代密码学：第29讲 AES的密钥编排及伪代码.pdf</a> (413.7 KB)</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_11' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-13T08:11:40Z' class='post-time'>
+2022 年8 月 13 日 08:11
+</time>
+<meta itemprop='dateModified' content='2022-08-13T08:11:40Z'>
+<span itemprop='position'>#11</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a class="attachment" href="/uploads/short-url/v60KYPrqp8lnwcRRw9Uh4QRvvO5.pdf">现代密码学：第32讲 完全剩余系.pdf</a> (277.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/pOgXgyIi6zGRR6MrBuI9afbsTBc.pdf">现代密码学：第33讲 简化剩余系.pdf</a> (266.2 KB)<br>
+<a class="attachment" href="/uploads/short-url/ady0bU6ss6jrfJWeEdwMQGS2fF9.pdf">现代密码学：第34讲 欧拉定理.pdf</a> (371.8 KB)<br>
+<a class="attachment" href="/uploads/short-url/2stTEvGa0E5v3zVGWx1wgZ776lN.pdf">现代密码学：第35讲 RSA加密算法.pdf</a> (426.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/rwtL3znOmnX4pX6lA1MmBUVupGH.pdf">现代密码学：第31讲 公钥密码基本概念.pdf</a> (432.9 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/ufsI2xkQROeBNiKbNNLtE2Mc6hA.pdf">现代密码学：第39讲 椭圆曲线的基本概念(下).pdf</a> (373.8 KB)<br>
+<a class="attachment" href="/uploads/short-url/hTe4c1IDw0G5lAV4OXk4RR5hWRT.pdf">现代密码学：第36讲 群的概念.pdf</a> (271.7 KB)<br>
+<a class="attachment" href="/uploads/short-url/zBSKOJEP8P4vAlMCWEmNmtnolCS.pdf">现代密码学：第37讲 循环群.pdf</a> (169.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/cZU7trlTThopKl2pBh9GMDSaXp1.pdf">现代密码学：第38讲 ElGamal加密.pdf</a> (283.1 KB)<br>
+<a class="attachment" href="/uploads/short-url/4L3OLyjGXMTIxTNsYlfKMIBX3lW.pdf">现代密码学：第39讲 椭圆曲线的基本概念(上).pdf</a> (352.4 KB)<br>
+<a class="attachment" href="/uploads/short-url/dr40XKX5iWEgbMrmAK7ZxBbdRpD.pdf">现代密码学：第40讲 椭圆曲线密码学.pdf</a> (237.6 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/bnaDTmJGLosbKEoxpY74XppFd4h.pdf">现代密码学：第43讲 SHA-1算法.pdf</a> (541.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/ieDECcPdv5AB8wW3TWg8S8fNK7Z.pdf">现代密码学：第44讲 数字签名的基本概念.pdf</a> (101.4 KB)<br>
+<a class="attachment" href="/uploads/short-url/ngIFzDXvJeeyPKMpx2DbDaU3yAC.pdf">现代密码学：第45讲 RSA签名算法.pdf</a> (72.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/8eehKGqA5NIIDXw8gqBibtB5I1G.pdf">现代密码学：第41讲 Hash概念和基本要求.pdf</a> (369.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/fvxbkvOMSrWSOURllsW6SdU9Hw6.pdf">现代密码学：第42讲 生日攻击.pdf</a> (155.0 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/z8TpdbPsguf1to8yqXf15EtQYAq.pdf">现代密码学：第48讲 ElGamal类签名算法.pdf</a> (100.8 KB)<br>
+<a class="attachment" href="/uploads/short-url/av4Xsl0WXo2J72yEM0jQTSrZJxN.pdf">现代密码学：第49讲 特殊性质的签名算法.pdf</a> (164.2 KB)<br>
+<a class="attachment" href="/uploads/short-url/hZr8PBoVNROQq0U1dkVoINjrpne.pdf">现代密码学：第50讲 Diffie-Hellman密钥交换.pdf</a> (708.3 KB)<br>
+<a class="attachment" href="/uploads/short-url/d6ObqnfJlEQbTDMmdq95vhATIEJ.pdf">现代密码学：第46讲 ElGamal签名算法.pdf</a> (73.4 KB)<br>
+<a class="attachment" href="/uploads/short-url/sbVCWF79cAIIMqYyvSRj95Gq7Zq.pdf">现代密码学：第47讲 DSS签名算法.pdf</a> (68.7 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/yleh4VKthp3XcFRqOWp1BIo8Y5H.pdf">现代密码学：第53讲 属性基加密.pdf</a> (581.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/cbajM7RVb8dujJkoJiovTsQvVT9.pdf">现代密码学：第54讲 全同态加密.pdf</a> (527.7 KB)<br>
+<a class="attachment" href="/uploads/short-url/avqeSbz8p5FXHYBMwvSEajaIa4i.pdf">现代密码学：第55讲 后量子密码学.pdf</a> (248.5 KB)<br>
+<a class="attachment" href="/uploads/short-url/ebgQXnDRZHZ7mu7YYAq3bcgum4i.pdf">现代密码学：第51讲 Shamir秘密共享.pdf</a> (972.0 KB)<br>
+<a class="attachment" href="/uploads/short-url/rAx2P8UYhoZGZsQTkiPYKevuFPV.pdf">现代密码学：第52讲 Boneh-Franklin身份基加密算法.pdf</a> (540.8 KB)</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_12' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-08-21T03:22:43Z' class='post-time'>
+2022 年8 月 21 日 03:22
+</time>
+<meta itemprop='dateModified' content='2022-08-21T03:22:43Z'>
+<span itemprop='position'>#12</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<aside class="quote" data-post="1" data-topic="1351">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/6a8cbe/40.png" class="avatar">
+<a href="https://mlmmlm.icu/t/topic/1351">v2ray透明代理</a> <a class="badge-wrapper  bullet" href="/c/9-category/9"><span class="badge-category-bg" style="background-color: #9EB83B;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">技术</span></a>
+</div>
+<blockquote>
+关于iptables（man page的中文翻译）
+<a href="https://web.archive.org/web/20220821031958/https://manpages.debian.org/wheezy/manpages-zh/iptables.8.zh_CN.html" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20220821031958/https://manpages.debian.org/wheezy/manpages-zh/iptables.8.zh_CN.html</a>
+</blockquote>
+</aside>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_13' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/17">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-03T10:31:21Z' class='post-time'>
+2022 年9 月 3 日 10:31
+</time>
+<meta itemprop='dateModified' content='2022-09-03T10:31:21Z'>
+<span itemprop='position'>#13</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>关于如何使用openssl进行对称加密。</p><aside class="quote quote-modified" data-post="1" data-topic="1305">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/6a8cbe/40.png" class="avatar">
+<a href="https://mlmmlm.icu/t/topic/1305">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</a> <a class="badge-wrapper  bullet" href="/c/9-category/9"><span class="badge-category-bg" style="background-color: #9EB83B;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">技术</span></a>
+</div>
+<blockquote>
+</blockquote>
+</aside>
+<p>建议多买SD卡来保存敏感数据。</p>
+</div>
+<meta itemprop='headline' content='利用技术手段武装自己'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>

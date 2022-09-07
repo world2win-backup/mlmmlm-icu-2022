@@ -697,7 +697,7 @@ gpcr被结束的时候工业化是基本完成了，gpcr失败绝对不是生产
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
- <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>

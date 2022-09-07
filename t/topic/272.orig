@@ -136,7 +136,7 @@
 </div>
 <div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
- <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
@@ -186,7 +186,7 @@
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
- </div>
+</div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/waosp'><span itemprop='name'>waosp</span></a>
@@ -325,7 +325,7 @@ PAPER在提及扎姆的時候並沒有提及它的名字。<br>
 <div class='post' itemprop='articleBody'>
 <p>您整天在网上四处晃荡，不嫌累啊<img src="https://mlmmlm.icu/images/emoji/twitter/yawning_face.png?v=9" title=":yawning_face:" class="emoji" alt=":yawning_face:">。</p>
 </div>
- <meta itemprop='headline' content='【已删除】'>
+<meta itemprop='headline' content='【已删除】'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="1" />

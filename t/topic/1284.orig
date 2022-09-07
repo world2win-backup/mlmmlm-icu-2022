@@ -115,6 +115,15 @@ https://www.youtube.com/watch?v=9PoG__7T&amp;hellip;">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
+<div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/742/11" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/742/11'>
+<span itemprop='name'>抛弃人民战争就是抛弃无产阶级革命（上）</span>
+</a>
+<meta itemprop='position' content='2'>
+</div>
+</div>
 </div>
 <div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
@@ -147,7 +156,7 @@ https://www.youtube.com/watch?v=9PoG__7T&amp;hellip;">
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="0" />
+ <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 </div>
@@ -166,7 +175,7 @@ https://www.youtube.com/watch?v=9PoG__7T&amp;hellip;">
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
- <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>

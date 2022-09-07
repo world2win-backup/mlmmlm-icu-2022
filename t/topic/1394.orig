@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂 - 技术 - 马列毛群众</title>
+<meta name="description" content="起初是聽聽看看我就是參與了實驗的，後來他拒絕使用自由軟件，集體學習散了，再加上無產階級對吳某的追討，他也就從自由軟件裡消失了。 
+一般來說，國安局把他人當作傀儡（奴役）來參與XMPP對群眾運動進行大量破壞是很常見的，因而馬列之聲解體後組織空&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1394" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1394.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1394" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1394" />
+<meta property="og:title" content="OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂" />
+<meta name="twitter:title" content="OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂" />
+<meta property="og:description" content="起初是聽聽看看我就是參與了實驗的，後來他拒絕使用自由軟件，集體學習散了，再加上無產階級對吳某的追討，他也就從自由軟件裡消失了。  一般來說，國安局把他人當作傀儡（奴役）來參與XMPP對群眾運動進行大量破壞是很常見的，因而馬列之聲解體後組織空缺的一個關鍵原因就是傀儡人的大量存在和l_g_d不以馬列毛主義為指導進行自由軟件運動造成的；而充滿了傀儡人的XMPP協議對於無產階級革命者來說，是他們不願意用的；而對群眾來說，則是他們用不懂的。因而造成這樣一種神學漫畫——即所有XMPP協議的用戶大都是傀儡人，進一步就會得出都是機器人的錯誤結論，這對於中國馬列毛主義者的打擊是空前激烈的；是低烈度戰爭的一部分。  國安局把他人當作傀儡妄圖瓦解自由軟件運動的標誌就是2021年9月15日中文維基封禁7個大陸管理員和解除12個大陸管理員職務的事件，這些傀儡人或多或少地收了國安局的好處，為法西斯主義而戰；因而自由軟件運動對傀儡人是抵觸的。  勿忘傀儡人！勿忘XMPP破壞狂sina@404.city！（他和王星尊差不多）千萬不要忘記階級鬥爭！  中文維基封禁的大陸用戶大多是國安局傀儡人；而小資產階級自由軟件運動的..." />
+<meta name="twitter:description" content="起初是聽聽看看我就是參與了實驗的，後來他拒絕使用自由軟件，集體學習散了，再加上無產階級對吳某的追討，他也就從自由軟件裡消失了。  一般來說，國安局把他人當作傀儡（奴役）來參與XMPP對群眾運動進行大量破壞是很常見的，因而馬列之聲解體後組織空缺的一個關鍵原因就是傀儡人的大量存在和l_g_d不以馬列毛主義為指導進行自由軟件運動造成的；而充滿了傀儡人的XMPP協議對於無產階級革命者來說，是他們不願意用的；而對群眾來說，則是他們用不懂的。因而造成這樣一種神學漫畫——即所有XMPP協議的用戶大都是傀儡人，進一步就會得出都是機器人的錯誤結論，這對於中國馬列毛主義者的打擊是空前激烈的；是低烈度戰爭的一部分。  國安局把他人當作傀儡妄圖瓦解自由軟件運動的標誌就是2021年9月15日中文維基封禁7個大陸管理員和解除12個大陸管理員職務的事件，這些傀儡人或多或少地收了國安局的好處，為法西斯主義而戰；因而自由軟件運動對傀儡人是抵觸的。  勿忘傀儡人！勿忘XMPP破壞狂sina@404.city！（他和王星尊差不多）千萬不要忘記階級鬥爭！  中文維基封禁的大陸用戶大多是國安局傀儡人；而小資產階級自由軟件運動的..." />
+<meta property="article:published_time" content="2022-09-07T03:58:11+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1394">OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1394">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-07T03:58:11Z' class='post-time'>
+2022 年9 月 7 日 03:58
+</time>
+<meta itemprop='dateModified' content='2022-09-07T05:06:35Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>起初是聽聽看看我就是參與了實驗的，後來他拒絕使用自由軟件，集體學習散了，再加上無產階級對吳某的追討，他也就從自由軟件裡消失了。</p>
+<p>一般來說，國安局把他人當作傀儡（奴役）來參與XMPP對群眾運動進行大量破壞是很常見的，因而馬列之聲解體後組織空缺的一個關鍵原因就是傀儡人的大量存在和l_g_d不以馬列毛主義為指導進行自由軟件運動造成的；而充滿了傀儡人的XMPP協議對於無產階級革命者來說，是他們不願意用的；而對群眾來說，則是他們用不懂的。因而造成這樣一種神學漫畫——即所有XMPP協議的用戶大都是傀儡人，進一步就會得出都是機器人的錯誤結論，這對於中國馬列毛主義者的打擊是空前激烈的；是低烈度戰爭的一部分。</p>
+<p>國安局把他人當作傀儡妄圖瓦解自由軟件運動的標誌就是2021年9月15日中文維基封禁7個大陸管理員和解除12個大陸管理員職務的事件，這些傀儡人或多或少地收了國安局的好處，為法西斯主義而戰；因而自由軟件運動對傀儡人是抵觸的。</p>
+<p><strong>勿忘傀儡人！勿忘XMPP破壞狂<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="77041e19163743474359141e030e">[email&#160;protected]</a>！（他和王星尊差不多）千萬不要忘記階級鬥爭！</strong></p>
+<p>中文維基封禁的大陸用戶大多是國安局傀儡人；而小資產階級自由軟件運動的百科全書也是無產階級不願意使用的。</p>
+<p>請使用2021年1月的Profanity版本進行覆蓋測試：</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/rGYlAZID#u5Ki-cSej3UpFbIpc6x2aA">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/d/d034010903f41636bd3e9cd6589a68bca64d7d43.png" class="site-icon" width="" height="">
+<a href="https://mega.nz/folder/rGYlAZID#u5Ki-cSej3UpFbIpc6x2aA" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
+<h3><a href="https://mega.nz/folder/rGYlAZID#u5Ki-cSej3UpFbIpc6x2aA" target="_blank" rel="noopener nofollow ugc">6.66 MB folder on MEGA</a></h3>
+<p>20 files and 7 subfolders</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<p>
+目前僅針對Profanity進行了修改。<br>
+效果是在建立OTR連接後發送一條歡迎消息。</p>
+<p>僅僅是應答機器人的話，並不需要修改那麼多文件，cmd方面fsend是新加的命令，因為我嘗試在C語言OTR協議中引入Python文件傳輸代碼，後來因為服務器響應太慢而放棄了。</p>
+<h2>
+<a name="xmpp-otrprofanitycons_showfunction-typexxxxmpp-otrprofanity-1" class="anchor" href="#xmpp-otrprofanitycons_showfunction-typexxxxmpp-otrprofanity-1"></a>為了理解XMPP OTR怎樣在Profanity裡工作，就需要為每個函數的調用都做好記號（即：cons_show(“Function type:XXX.”);），這樣就可以研究XMPP OTR在Profanity裡的工作流程了。</h2>
+<pre><code class="lang-auto">#ifdef HAVE_LIBOTR
+void
+chatwin_otr_secured(ProfChatWin *chatwin, gboolean trusted)
+{
+    assert(chatwin != NULL);
+
+    chatwin-&gt;is_otr = TRUE;
+    chatwin-&gt;otr_is_trusted = trusted;
+
+    ProfWin *window = (ProfWin*) chatwin;
+    if (trusted) {
+        win_println(window, THEME_OTR_STARTED_TRUSTED, '!', "OTR session started (trusted).");
+    } else {
+        win_println(window, THEME_OTR_STARTED_UNTRUSTED, '!', "OTR session started (untrusted).");
+    }
+
+    if (wins_is_current(window)) {
+         title_bar_switch();
+    } else {
+        int num = wins_get_num(window);
+        status_bar_new(num, WIN_CHAT, chatwin-&gt;barejid);
+
+        int ui_index = num;
+        if (ui_index == 10) {
+            ui_index = 0;
+        }
+        cons_show("%s started an OTR session (%d).", chatwin-&gt;barejid, ui_index);
+        cons_alert();
+	otr_on_message_send(chatwin,"欢迎连接XMPP OTR MLM图书馆，输入/help查询可使用的命令。",true);
+	//char *id = message_send_chat_otr(chatwin-&gt;barejid,"欢迎连接XMPP OTR MLM图书馆，输入/help查询可使用的命令。", FALSE);free(id);//这个发送的是未加密的消息！
+    }
+}
+</code></pre>
+<pre><code class="lang-auto">char*
+otr_on_message_recv(const char *const barejid, const char *const resource, const char *const message, gboolean *decrypted)
+{
+    //cons_show("OTR消息接收");
+    //cons_show(barejid);
+    //cons_show(resource);
+    //if(decrypted){cons_show("decrypted");}else{cons_show("not decrypted");}
+    prof_otrpolicy_t policy = otr_get_policy(barejid);
+    char *whitespace_base = strstr(message, OTRL_MESSAGE_TAG_BASE);
+
+    //check for OTR whitespace (opportunistic or always)
+    if (policy == PROF_OTRPOLICY_OPPORTUNISTIC || policy == PROF_OTRPOLICY_ALWAYS) {
+        if (whitespace_base) {
+            if (strstr(message, OTRL_MESSAGE_TAG_V2) || strstr(message, OTRL_MESSAGE_TAG_V1)) {
+                // Remove whitespace pattern for proper display in UI
+                // Handle both BASE+TAGV1/2(16+8) and BASE+TAGV1+TAGV2(16+8+8)
+                int tag_length = 24;
+                if (strstr(message, OTRL_MESSAGE_TAG_V2) &amp;&amp; strstr(message, OTRL_MESSAGE_TAG_V1)) {
+                    tag_length = 32;
+                }
+                memmove(whitespace_base, whitespace_base+tag_length, tag_length);
+                char *otr_query_message = otr_start_query();
+                cons_show("OTR Whitespace pattern detected. Attempting to start OTR session...");
+                char *id = message_send_chat_otr(barejid, otr_query_message, FALSE);
+                free(id);
+            }
+        }
+    }
+
+    char *newmessage = otr_decrypt_message(barejid, message, decrypted);
+    if (!newmessage) { // internal OTR message
+        return NULL;
+    }
+
+    if (policy == PROF_OTRPOLICY_ALWAYS &amp;&amp; *decrypted == FALSE &amp;&amp; !whitespace_base) {
+        char *otr_query_message = otr_start_query();
+        cons_show("Attempting to start OTR session...");
+        char *id = message_send_chat_otr(barejid, otr_query_message, FALSE);
+        free(id);
+    }
+    cons_show("解密了消息：");
+    cons_show(newmessage);
+    return newmessage;
+}
+
+gboolean
+otr_on_message_send(ProfChatWin *chatwin, const char *const message, gboolean request_receipt)
+{
+    cons_show("Function type:16.");
+    char *id = NULL;
+    prof_otrpolicy_t policy = otr_get_policy(chatwin-&gt;barejid);
+
+    // Send encrypted message
+    if (otr_is_secure(chatwin-&gt;barejid)) {
+        char *encrypted = otr_encrypt_message(chatwin-&gt;barejid, message);
+        if (encrypted) {
+            id = message_send_chat_otr(chatwin-&gt;barejid, encrypted, request_receipt);
+            chat_log_otr_msg_out(chatwin-&gt;barejid, message);
+            chatwin_outgoing_msg(chatwin, message, id, PROF_MSG_ENC_OTR, request_receipt);
+            otr_free_message(encrypted);
+            free(id);
+            return TRUE;
+        } else {
+            win_println((ProfWin*)chatwin, THEME_ERROR, '-', "%s", "Failed to encrypt and send message.");
+            return TRUE;
+        }
+    }
+
+    // show error if not secure and policy always
+    if (policy == PROF_OTRPOLICY_ALWAYS) {
+        win_println((ProfWin*)chatwin, THEME_ERROR, '-', "%s", "Failed to send message. OTR policy set to: always");
+        return TRUE;
+    }
+
+    // tag and send for policy opportunistic
+    if (policy == PROF_OTRPOLICY_OPPORTUNISTIC) {
+        char *otr_tagged_msg = otr_tag_message(message);
+        id = message_send_chat_otr(chatwin-&gt;barejid, otr_tagged_msg, request_receipt);
+        chatwin_outgoing_msg(chatwin, message, id, PROF_MSG_ENC_PLAIN, request_receipt);
+        chat_log_msg_out(chatwin-&gt;barejid, message);
+        free(otr_tagged_msg);
+        free(id);
+        return TRUE;
+    }
+
+    return FALSE;
+}
+</code></pre>
+<p>一說傀儡我就～哦哦哦～</p>
+<p>1.反動的社會主義<br>
+（甲）封建的社會主義<br>
+法國和英國的貴族，按照他們的歷史地位所負的使命，就是寫一些抨擊現代資產階級社會的作品。 在法國的1830年七月革命和英國的改革運動中，他們再一次被可恨的暴發戶打敗了。 從此就再談不上嚴重的政治鬥爭了。 他們還能進行的只是文字鬥爭。 但是，即使在文字方面也不可能重彈復辟時期的老調了。 為了激起同情，貴族們不得不裝模做樣，似乎他們已經不關心自身的利益，只是為了被剝削的工人階級的利益才去寫對資產階級的控訴書。 他們用來洩憤的手段是：唱唱詛咒他們的新統治者的歌，並向他嘰嘰咕咕地說一些或多或少兇險的預言。<br>
+這樣就產生了封建的社會主義，半是挽歌，半是謗文； 半是過去的回音，半是未來的恫嚇； 它有時也能用辛辣、俏皮而尖刻的評論刺中資產階級的心，但是它由於完全不能理解現代歷史的進程而總是令人感到可笑。<br>
+為了拉攏人民，貴族們把無產階級的乞食袋當做旗幟來揮舞。 但是，每當人民跟著他們走的時候，都發現他們的臀部帶有舊的封建紋章，於是就哈哈大笑，一哄而散。<br>
+一部分法國正統派和“青年英國”，都演過這出戲。<br>
+封建主說，他們的剝削管道和資產階級的剝削不同，那他們只是忘記了，他們是在完全不同的、現時已經過時的情况和條件下進行剝削的。 他們說，在他們的統治下並沒有出現過現代的無產階級，那他們只是忘記了，現代的資產階級正是他們的社會制度的必然產物。<br>
+不過，他們毫不掩飾自己的責備的反動性質，他們控告資產階級的主要罪狀正是在於：在資產階級的統治下有一個將把整個舊社會制度炸毀的階級發展起來。<br>
+他們責備資產階級，與其說是因為它產生了無產階級，不如說是因為它產生了革命的無產階級。<br>
+囙此，在政治實踐中，他們參與對工人階級採取的一切暴力措施，在日常生活中，他們違背自己的那一套冠冕堂皇的言詞，屈尊拾取金蘋果，不顧信義、仁愛和名譽去做羊毛、紅菜頭和燒酒的買賣。<br>
+正如僧侶總是同封建主攜手同行一樣，僧侶的社會主義也總是同封建的社會主義攜手同行的。<br>
+要給基督教禁欲主義塗上一層社會主義的色彩，是再容易不過了。 基督教不是也激烈反對私有制，反對婚姻，反對國家嗎？ 它不是提倡用行善和求乞、獨身和禁欲、修道和禮拜來代替這一切嗎？ 基督教的社會主義，只不過是僧侶用來使貴族的怨憤神聖化的聖水罷了。<br>
+（乙）小資產階級的社會主義<br>
+（內容見參考資料9）<br>
+（丙）德國的或“真正的”社會主義<br>
+（內容見參考資料9）</p>
+</div>
+<meta itemprop='headline' content='OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

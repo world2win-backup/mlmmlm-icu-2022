@@ -484,7 +484,7 @@ forward-socks5 / localhost:9050 .
 </code></pre>
 <p>这样就完成了。</p>
 </div>
- <meta itemprop='headline' content='公告|新用户必读'>
+<meta itemprop='headline' content='公告|新用户必读'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
@@ -526,7 +526,7 @@ forward-socks5 / localhost:9050 .
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
-<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+ <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>

@@ -5,8 +5,231 @@
     <link>https://mlmmlm.icu/latest</link>
     <description>最新话题</description>
     <language>zh-CN</language>
-      <lastBuildDate>Mon, 05 Sep 2022 10:31:17 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 07 Sep 2022 16:48:05 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/latest.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>国际新闻简报</title>
+          <dc:creator><![CDATA[mlmrg]]></dc:creator>
+          <category>新闻</category>
+          <description><![CDATA[
+            <p>由于原发表平台共产国际论坛出了一些问题，因此先在这里发表国际新闻简报，直到共产国际论坛恢复正常。</p>
+            <p><small>3 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1396">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1396</link>
+          <pubDate>Wed, 07 Sep 2022 16:48:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1396</guid>
+          <source url="https://mlmmlm.icu/t/topic/1396.rss">国际新闻简报</source>
+        </item>
+        <item>
+          <title>OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>起初是聽聽看看我就是參與了實驗的，後來他拒絕使用自由軟件，集體學習散了，再加上無產階級對吳某的追討，他也就從自由軟件裡消失了。</p>
+<p>一般來說，國安局把他人當作傀儡（奴役）來參與XMPP對群眾運動進行大量破壞是很常見的，因而馬列之聲解體後組織空缺的一個關鍵原因就是傀儡人的大量存在和l_g_d不以馬列毛主義為指導進行自由軟件運動造成的；而充滿了傀儡人的XMPP協議對於無產階級革命者來說，是他們不願意用的；而對群眾來說，則是他們用不懂的。因而造成這樣一種神學漫畫——即所有XMPP協議的用戶大都是傀儡人，進一步就會得出都是機器人的錯誤結論，這對於中國馬列毛主義者的打擊是空前激烈的；是低烈度戰爭的一部分。</p>
+<p>國安局把他人當作傀儡妄圖瓦解自由軟件運動的標誌就是2021年9月15日中文維基封禁7個大陸管理員和解除12個大陸管理員職務的事件，這些傀儡人或多或少地收了國安局的好處，為法西斯主義而戰；因而自由軟件運動對傀儡人是抵觸的。</p>
+<p><strong>勿忘傀儡人！勿忘XMPP破壞狂sina@404.city！（他和王星尊差不多）千萬不要忘記階級鬥爭！</strong></p>
+<p>中文維基封禁的大陸用戶大多是國安局傀儡人；而小資產階級自由軟件運動的百科全書也是無產階級不願意使用的。</p>
+<p>請使用2021年1月的Profanity版本進行覆蓋測試：</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/rGYlAZID#u5Ki-cSej3UpFbIpc6x2aA">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/d/d034010903f41636bd3e9cd6589a68bca64d7d43.png" class="site-icon" width="" height="">
+
+      <a href="https://mega.nz/folder/rGYlAZID#u5Ki-cSej3UpFbIpc6x2aA" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://mega.nz/folder/rGYlAZID#u5Ki-cSej3UpFbIpc6x2aA" target="_blank" rel="noopener nofollow ugc">6.66 MB folder on MEGA</a></h3>
+
+  <p>20 files and 7 subfolders</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+目前僅針對Profanity進行了修改。<br>
+效果是在建立OTR連接後發送一條歡迎消息。</p>
+<p>僅僅是應答機器人的話，並不需要修改那麼多文件，cmd方面fsend是新加的命令，因為我嘗試在C語言OTR協議中引入Python文件傳輸代碼，後來因為服務器響應太慢而放棄了。</p>
+<h2>
+<a name="xmpp-otrprofanitycons_showfunction-typexxxxmpp-otrprofanity-1" class="anchor" href="https://mlmmlm.icu#xmpp-otrprofanitycons_showfunction-typexxxxmpp-otrprofanity-1"></a>為了理解XMPP OTR怎樣在Profanity裡工作，就需要為每個函數的調用都做好記號（即：cons_show(“Function type:XXX.”);），這樣就可以研究XMPP OTR在Profanity裡的工作流程了。</h2>
+<pre><code class="lang-auto">#ifdef HAVE_LIBOTR
+void
+chatwin_otr_secured(ProfChatWin *chatwin, gboolean trusted)
+{
+    assert(chatwin != NULL);
+
+    chatwin-&gt;is_otr = TRUE;
+    chatwin-&gt;otr_is_trusted = trusted;
+
+    ProfWin *window = (ProfWin*) chatwin;
+    if (trusted) {
+        win_println(window, THEME_OTR_STARTED_TRUSTED, '!', "OTR session started (trusted).");
+    } else {
+        win_println(window, THEME_OTR_STARTED_UNTRUSTED, '!', "OTR session started (untrusted).");
+    }
+
+    if (wins_is_current(window)) {
+         title_bar_switch();
+    } else {
+        int num = wins_get_num(window);
+        status_bar_new(num, WIN_CHAT, chatwin-&gt;barejid);
+
+        int ui_index = num;
+        if (ui_index == 10) {
+            ui_index = 0;
+        }
+        cons_show("%s started an OTR session (%d).", chatwin-&gt;barejid, ui_index);
+        cons_alert();
+	otr_on_message_send(chatwin,"欢迎连接XMPP OTR MLM图书馆，输入/help查询可使用的命令。",true);
+	//char *id = message_send_chat_otr(chatwin-&gt;barejid,"欢迎连接XMPP OTR MLM图书馆，输入/help查询可使用的命令。", FALSE);free(id);//这个发送的是未加密的消息！
+    }
+}
+</code></pre>
+<pre><code class="lang-auto">char*
+otr_on_message_recv(const char *const barejid, const char *const resource, const char *const message, gboolean *decrypted)
+{
+    //cons_show("OTR消息接收");
+    //cons_show(barejid);
+    //cons_show(resource);
+    //if(decrypted){cons_show("decrypted");}else{cons_show("not decrypted");}
+    prof_otrpolicy_t policy = otr_get_policy(barejid);
+    char *whitespace_base = strstr(message, OTRL_MESSAGE_TAG_BASE);
+
+    //check for OTR whitespace (opportunistic or always)
+    if (policy == PROF_OTRPOLICY_OPPORTUNISTIC || policy == PROF_OTRPOLICY_ALWAYS) {
+        if (whitespace_base) {
+            if (strstr(message, OTRL_MESSAGE_TAG_V2) || strstr(message, OTRL_MESSAGE_TAG_V1)) {
+                // Remove whitespace pattern for proper display in UI
+                // Handle both BASE+TAGV1/2(16+8) and BASE+TAGV1+TAGV2(16+8+8)
+                int tag_length = 24;
+                if (strstr(message, OTRL_MESSAGE_TAG_V2) &amp;&amp; strstr(message, OTRL_MESSAGE_TAG_V1)) {
+                    tag_length = 32;
+                }
+                memmove(whitespace_base, whitespace_base+tag_length, tag_length);
+                char *otr_query_message = otr_start_query();
+                cons_show("OTR Whitespace pattern detected. Attempting to start OTR session...");
+                char *id = message_send_chat_otr(barejid, otr_query_message, FALSE);
+                free(id);
+            }
+        }
+    }
+
+    char *newmessage = otr_decrypt_message(barejid, message, decrypted);
+    if (!newmessage) { // internal OTR message
+        return NULL;
+    }
+
+    if (policy == PROF_OTRPOLICY_ALWAYS &amp;&amp; *decrypted == FALSE &amp;&amp; !whitespace_base) {
+        char *otr_query_message = otr_start_query();
+        cons_show("Attempting to start OTR session...");
+        char *id = message_send_chat_otr(barejid, otr_query_message, FALSE);
+        free(id);
+    }
+    cons_show("解密了消息：");
+    cons_show(newmessage);
+    return newmessage;
+}
+
+gboolean
+otr_on_message_send(ProfChatWin *chatwin, const char *const message, gboolean request_receipt)
+{
+    cons_show("Function type:16.");
+    char *id = NULL;
+    prof_otrpolicy_t policy = otr_get_policy(chatwin-&gt;barejid);
+
+    // Send encrypted message
+    if (otr_is_secure(chatwin-&gt;barejid)) {
+        char *encrypted = otr_encrypt_message(chatwin-&gt;barejid, message);
+        if (encrypted) {
+            id = message_send_chat_otr(chatwin-&gt;barejid, encrypted, request_receipt);
+            chat_log_otr_msg_out(chatwin-&gt;barejid, message);
+            chatwin_outgoing_msg(chatwin, message, id, PROF_MSG_ENC_OTR, request_receipt);
+            otr_free_message(encrypted);
+            free(id);
+            return TRUE;
+        } else {
+            win_println((ProfWin*)chatwin, THEME_ERROR, '-', "%s", "Failed to encrypt and send message.");
+            return TRUE;
+        }
+    }
+
+    // show error if not secure and policy always
+    if (policy == PROF_OTRPOLICY_ALWAYS) {
+        win_println((ProfWin*)chatwin, THEME_ERROR, '-', "%s", "Failed to send message. OTR policy set to: always");
+        return TRUE;
+    }
+
+    // tag and send for policy opportunistic
+    if (policy == PROF_OTRPOLICY_OPPORTUNISTIC) {
+        char *otr_tagged_msg = otr_tag_message(message);
+        id = message_send_chat_otr(chatwin-&gt;barejid, otr_tagged_msg, request_receipt);
+        chatwin_outgoing_msg(chatwin, message, id, PROF_MSG_ENC_PLAIN, request_receipt);
+        chat_log_msg_out(chatwin-&gt;barejid, message);
+        free(otr_tagged_msg);
+        free(id);
+        return TRUE;
+    }
+
+    return FALSE;
+}
+</code></pre>
+<p>一說傀儡我就～哦哦哦～</p>
+<p>1.反動的社會主義<br>
+（甲）封建的社會主義<br>
+法國和英國的貴族，按照他們的歷史地位所負的使命，就是寫一些抨擊現代資產階級社會的作品。 在法國的1830年七月革命和英國的改革運動中，他們再一次被可恨的暴發戶打敗了。 從此就再談不上嚴重的政治鬥爭了。 他們還能進行的只是文字鬥爭。 但是，即使在文字方面也不可能重彈復辟時期的老調了。 為了激起同情，貴族們不得不裝模做樣，似乎他們已經不關心自身的利益，只是為了被剝削的工人階級的利益才去寫對資產階級的控訴書。 他們用來洩憤的手段是：唱唱詛咒他們的新統治者的歌，並向他嘰嘰咕咕地說一些或多或少兇險的預言。<br>
+這樣就產生了封建的社會主義，半是挽歌，半是謗文； 半是過去的回音，半是未來的恫嚇； 它有時也能用辛辣、俏皮而尖刻的評論刺中資產階級的心，但是它由於完全不能理解現代歷史的進程而總是令人感到可笑。<br>
+為了拉攏人民，貴族們把無產階級的乞食袋當做旗幟來揮舞。 但是，每當人民跟著他們走的時候，都發現他們的臀部帶有舊的封建紋章，於是就哈哈大笑，一哄而散。<br>
+一部分法國正統派和“青年英國”，都演過這出戲。<br>
+封建主說，他們的剝削管道和資產階級的剝削不同，那他們只是忘記了，他們是在完全不同的、現時已經過時的情况和條件下進行剝削的。 他們說，在他們的統治下並沒有出現過現代的無產階級，那他們只是忘記了，現代的資產階級正是他們的社會制度的必然產物。<br>
+不過，他們毫不掩飾自己的責備的反動性質，他們控告資產階級的主要罪狀正是在於：在資產階級的統治下有一個將把整個舊社會制度炸毀的階級發展起來。<br>
+他們責備資產階級，與其說是因為它產生了無產階級，不如說是因為它產生了革命的無產階級。<br>
+囙此，在政治實踐中，他們參與對工人階級採取的一切暴力措施，在日常生活中，他們違背自己的那一套冠冕堂皇的言詞，屈尊拾取金蘋果，不顧信義、仁愛和名譽去做羊毛、紅菜頭和燒酒的買賣。<br>
+正如僧侶總是同封建主攜手同行一樣，僧侶的社會主義也總是同封建的社會主義攜手同行的。<br>
+要給基督教禁欲主義塗上一層社會主義的色彩，是再容易不過了。 基督教不是也激烈反對私有制，反對婚姻，反對國家嗎？ 它不是提倡用行善和求乞、獨身和禁欲、修道和禮拜來代替這一切嗎？ 基督教的社會主義，只不過是僧侶用來使貴族的怨憤神聖化的聖水罷了。<br>
+（乙）小資產階級的社會主義<br>
+（內容見參考資料9）<br>
+（丙）德國的或“真正的”社會主義<br>
+（內容見參考資料9）</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1394">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1394</link>
+          <pubDate>Wed, 07 Sep 2022 03:58:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1394</guid>
+          <source url="https://mlmmlm.icu/t/topic/1394.rss">OTR XMPP聊天機器人——警惕XMPP-Matrix傀儡人！😂</source>
+        </item>
+        <item>
+          <title>话说F4在WG有没有犯错误？</title>
+          <dc:creator><![CDATA[Fire]]></dc:creator>
+          <category>闲谈 | 灌水</category>
+          <description><![CDATA[
+            <p>教员是不是批了他们犯了宗派主义、经验主义等等的错误？</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1391">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1391</link>
+          <pubDate>Mon, 05 Sep 2022 15:01:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1391</guid>
+          <source url="https://mlmmlm.icu/t/topic/1391.rss">话说F4在WG有没有犯错误？</source>
+        </item>
         <item>
           <title>告全站用户书</title>
           <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
@@ -20,7 +243,7 @@
 <li>本站的内容如无特别声明以BY-SA 4.0形式分发；</li>
 <li>学习鲁迅的文章风格，在残酷的审查条件下描绘无产阶级的生活、阐述无产阶级的思想。</li>
 </ol>
-            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><small>5 个帖子 - 3 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/1390">阅读完整话题</a></p>
           ]]></description>
           <link>https://mlmmlm.icu/t/topic/1390</link>
@@ -491,7 +714,7 @@
           <description><![CDATA[
             <p><img src="https://mlmmlm.icu/uploads/default/original/2X/b/bc53f660d16f63359425ca4d75c2c776febddd8e.jpeg" alt="屏幕截图 2022-08-31 165738" data-base62-sha1="qS1EuthS7BIH49czWRaXAKcWxdQ" width="660" height="403"></p>
 <p>真没有“否定之否定”这个规律吗？</p>
-            <p><small>18 个帖子 - 5 位参与者</small></p>
+            <p><small>22 个帖子 - 5 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/1375">阅读完整话题</a></p>
           ]]></description>
           <link>https://mlmmlm.icu/t/topic/1375</link>
@@ -2050,169 +2273,6 @@ La Cause du Peuple（法國）關停了。</p>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1356</guid>
           <source url="https://mlmmlm.icu/t/topic/1356.rss">隔壁网站对遇罗克《出身论》一文的讨论，值得参考和分析</source>
-        </item>
-        <item>
-          <title>《燎原月刊》8月（不是mebk，這次是Telegram）</title>
-          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-          <category>文献 | 书籍</category>
-          <description><![CDATA[
-            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/utr1wPtIQ0amelZKSEVJI873km2.pdf">燎原月刊第1期.pdf</a> (7.8 MB)</p>
-            <p><small>5 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1355">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1355</link>
-          <pubDate>Mon, 22 Aug 2022 06:09:40 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1355</guid>
-          <source url="https://mlmmlm.icu/t/topic/1355.rss">《燎原月刊》8月（不是mebk，這次是Telegram）</source>
-        </item>
-        <item>
-          <title>如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</title>
-          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-          <category>技术</category>
-          <description><![CDATA[
-            <h2>
-<a name="gnuhurdusb-ulive-1" class="anchor" href="https://mlmmlm.icu#gnuhurdusb-ulive-1"></a>首先，GNU/Hurd是不能通過USB U盤來進入Live的。</h2>
-<p><a href="https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.gnu.org/software/hurd/microkernel/mach/gnumach/hardware_compatibility_list.html</a></p>
-<h2>
-<a name="usb-1120-2" class="anchor" href="https://mlmmlm.icu#usb-1120-2"></a>USB 1.1/2.0</h2>
-<p>USB is not supported at this time.</p>
-<p>However, USB-type keyboards and mice may (and have been reported to) work nevertheless, given that the hardware / BIOS is doing emulation to the supported legacy interfaces.</p>
-<p>目前不支持 USB。</p>
-<p>但是，鑑於硬件/BIOS 正在對受支持的傳統接口進行仿真，USB 類型的鍵盤和鼠標可能（並且已經被報告）仍然可以工作。</p>
-<p><a href="https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/</a></p>
-<h2>
-<a name="h-2-linux-usb-gparted-3" class="anchor" href="https://mlmmlm.icu#h-2-linux-usb-gparted-3"></a>第 2 步 – 在 Linux 上查找您的 USB 設備名稱（編者註：這裡可以直接使用GParted可視化地確定設備名稱。）</h2>
-<p>插入您的 U 盤並輸入以下 df 命令以查看它是否自動安裝在 Debian 或任何其他 Linux 桌面系統上：</p>
-<p><code>df</code></p>
-<p>示例輸出（參見我的 USB 的 /media/vivek/data）：</p>
-<pre><code class="lang-auto">Filesystem            1K-blocks    Used Available Use% Mounted on
-udev                   16432268       0  16432268   0% /dev
-tmpfs                   3288884   26244   3262640   1% /run
-/dev/mapper/md0_crypt 491076512 9641092 456420380   3% /
-tmpfs                  16444408  105472  16338936   1% /dev/shm
-tmpfs                      5120       4      5116   1% /run/lock
-tmpfs                  16444408       0  16444408   0% /sys/fs/cgroup
-/dev/sdc1             122546800  124876 116153868   1% /boot
-tmpfs                   3288880      24   3288856   1% /run/user/119
-tmpfs                   3288880      72   3288808   1% /run/user/1000
-/dev/sdd1               1467360 1467360         0 100% /media/vivek/data
-</code></pre>
-<p>您也可以嘗試使用 lsblk 命令或 dmesg 命令來列出您的 USB 設備：</p>
-<pre><code class="lang-auto">lsblk
-dmesg
-</code></pre>
-<p>您需要卸載 /media/vivek/data：<br>
-<code>sudo umount /media/vivek/data</code></p>
-<p>或嘗試：<br>
-<code>sudo umount /dev/sdd1</code></p>
-<p>另一種選擇是運行 dmesg 命令來找出 USB 設備名稱：</p>
-<p><code>sudo dmesg</code></p>
-<p>示例輸出：</p>
-<pre><code class="lang-auto">[461339.310378] usb 2-1.7: new high-speed USB device number 12 using ehci-pci
-[461339.420453] usb 2-1.7: New USB device found, idVendor=0781, idProduct=558a
-[461339.420457] usb 2-1.7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
-[461339.420460] usb 2-1.7: Product: Ultra
-[461339.420461] usb 2-1.7: Manufacturer: SanDisk
-[461339.420463] usb 2-1.7: SerialNumber: FooBarNixCraftSerialNumber
-[461339.421010] usb-storage 2-1.7:1.0: USB Mass Storage device detected
-[461339.421457] scsi host6: usb-storage 2-1.7:1.0
-[461340.431909] scsi 6:0:0:0: Direct-Access     SanDisk  Ultra            1.00 PQ: 0 ANSI: 6
-[461340.432886] sd 6:0:0:0: Attached scsi generic sg4 type 0
-[461340.433448] sd 6:0:0:0: [sdd] 121307136 512-byte logical blocks: (62.1 GB/57.8 GiB)
-[461340.435434] sd 6:0:0:0: [sdd] Write Protect is off
-[461340.435438] sd 6:0:0:0: [sdd] Mode Sense: 43 00 00 00
-[461340.436405] sd 6:0:0:0: [sdd] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
-[461340.449612]  sdd: sdd1 sdd2
-</code></pre>
-<p>很明顯 /dev/sdd 是我的 U 盤設備名稱。 您也可以使用 lsblk 命令。 例如：<br>
-<code>lsblk</code></p>
-<h2>
-<a name="h-4-linux-u-4" class="anchor" href="https://mlmmlm.icu#h-4-linux-u-4"></a>第 4 步 – 在 Linux 上創建可啟動的 U 盤</h2>
-<p><strong>警告：</strong> 請注意 USB stick/pen/disk名稱。 錯誤的名稱總是會導致數據丟失。 確保鍵入正確的名稱。</p>
-<p>鍵入 [按照 dd 命令從 .ISO 文件創建可啟動 USB 映像](<a href="https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with" rel="noopener nofollow ugc">https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with</a> -dd命令/）：</p>
-<p><code>sudo dd if=artful-desktop-amd64.iso of=/dev/sdd bs=1M status=progress</code><br>
-另一個例子：</p>
-<p><code>sudo dd if=ubuntu-20.04.1-live-server-amd64.iso of=/dev/sda bs=1M status=progress</code><br>
-dd 命令會將進程數據寫入 U 盤（/dev/sdd 或 /dev/sda），並且屏幕上會出現一個進度條。</p>
-<h3>
-<a name="ubuntu-ubuntu-usb-5" class="anchor" href="https://mlmmlm.icu#ubuntu-ubuntu-usb-5"></a>Ubuntu 從終端創建可啟動的 Ubuntu USB 閃存驅動器</h3>
-<p>在此示例中，我將為 ubuntu-18.04.3-live-server-amd64.iso 文件創建一個可啟動的閃存驅動器，如下所示：</p>
-<p><code>sudo dd if=/isos/ubuntu-18.04.3-live-server-amd64.iso of=/dev/sdb bs=1M status=progress</code><br>
-<img src="https://mlmmlm.icu/uploads/default/original/2X/a/ac1e141369869c99b3d7e047e802f92214ee3412.png" alt="Ubuntu iso bootable USB create using dd command on Linux" data-base62-sha1="oyCzbZTVl8WtwDev8a17TbG9hU6" width="599" height="154"></p>
-<h3>
-<a name="h-6" class="anchor" href="https://mlmmlm.icu#h-6"></a>另一個例子</h3>
-<p><code>sudo dd if=/isos/ubuntu-19.04-live-server-amd64.iso of=/dev/sdb bs=1M status=progress</code><br>
-這是我看到的：</p>
-<p><code>748+0 records in 748+0 records out 784334848 bytes (784 MB, 748 MiB) copied, 119.174 s, 6.6 MB/s</code></p>
-<h3>
-<a name="dd-7" class="anchor" href="https://mlmmlm.icu#dd-7"></a>了解 dd 命令選項</h3>
-<ul>
-<li>
-<kbd>dd</kbd> : 啟動 dd 命令寫入 DVD/CD iso 映像。</li>
-<li>
-<kbd>if=/iso/ubuntu.iso</kbd> : 輸入文件的路徑。</li>
-<li>
-<kbd>of=/dev/sdd</kbd> ：目標 USB 磁盤/棒的路徑。</li>
-<li>
-<kbd>bs=1M</kbd> ：一次讀取和寫入最多 BYTES 個字節。 在此示例中，一次 1M。</li>
-<li>
-<kbd>status=progress</kbd> : 將圖像寫入 U 盤時顯示進度條，例如 /dev/sdd。 有關詳細信息，請參閱“<a href="https://www.cyberciti.biz/faq/linux-unix-dd-command-show-progress-while-coping/" rel="noopener nofollow ugc">Linux dd 命令顯示帶有狀態的進度複製欄</a>”。</li>
-</ul>
-            <p><small>2 个帖子 - 2 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1352">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1352</link>
-          <pubDate>Sun, 21 Aug 2022 08:27:28 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1352</guid>
-          <source url="https://mlmmlm.icu/t/topic/1352.rss">如何安裝各色在gnu.org上的操作系統？在GNU/Linux內部，用好dd安裝GNU/Linux。——以及不能用USB安裝GNU/Hurd。</source>
-        </item>
-        <item>
-          <title>v2ray透明代理</title>
-          <dc:creator><![CDATA[azide]]></dc:creator>
-          <category>技术</category>
-          <description><![CDATA[
-            <aside class="onebox allowlistedgeneric" data-onebox-src="https://web.archive.org/web/20220803040040/https://guide.v2fly.org/app/transparent_proxy.html">
-  <header class="source">
-
-      <a href="https://web.archive.org/web/20220803040040/https://guide.v2fly.org/app/transparent_proxy.html" target="_blank" rel="noopener nofollow ugc">web.archive.org</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://web.archive.org/web/20220803040040/https://guide.v2fly.org/app/transparent_proxy.html" target="_blank" rel="noopener nofollow ugc">透明代理 | 新 V2Ray 白话文指南</a></h3>
-
-  <p>V2Fly 社区维护的新手向教程。</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<p>关于iptables（man page的中文翻译）<br>
-<a href="https://web.archive.org/web/20220821031958/https://manpages.debian.org/wheezy/manpages-zh/iptables.8.zh_CN.html" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20220821031958/https://manpages.debian.org/wheezy/manpages-zh/iptables.8.zh_CN.html</a></p>
-            <p><small>7 个帖子 - 2 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1351">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1351</link>
-          <pubDate>Sun, 21 Aug 2022 03:21:11 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1351</guid>
-          <source url="https://mlmmlm.icu/t/topic/1351.rss">v2ray透明代理</source>
         </item>
   </channel>
 </rss>
