@@ -5,8 +5,34 @@
     <link>https://mlmmlm.icu/c/9-category/9</link>
     <description>&#39;技术&#39; 类别中的话题 </description>
     <language>zh-CN</language>
-      <lastBuildDate>Wed, 07 Sep 2022 22:41:56 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 08 Sep 2022 09:04:08 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/c/9-category/9.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>网络犯罪侦察</title>
+          <dc:creator><![CDATA[xjds0]]></dc:creator>
+          <category>技术</category>
+          <description><![CDATA[
+            <p>网络犯罪侦查集法律、谋略和实践于一体，具有相当的知识广度和深度。本书按照网络犯罪侦查的学 习和实践规律，按照法律、谋略和技术并重的编写思路.将网络犯罪侦查的实践与理论完美结合。</p>
+<p>“从实战出发”是本书的编写基础，“学以致用”是本书的根本目标。本书的主要内容包括网络犯罪和 网络犯罪侦查的历史和理论*网络犯罪的法律规制.网络犯罪侦查的程序、谋略、技术和取证，提出各类网 络犯罪案件的侦查思路和方法。全方位地展现了网络犯罪侦查的知识体系。</p>
+<p>本书作者均为国内具有丰富实战经验的专家和公安院校具有深厚理论知识的老师。本书内容涵盖了 目前最新的网络安全法律法规、先进的网络犯罪侦查技术和经典案例，力求传递给读者最新和最实用的技 术和方法。</p>
+<p>本书融合了网络犯罪侦查理论和实践的最新成果.是一本理论扎实、操作性强的教材。本书适合作为 高等院校信息安全、网络犯罪侦查、网络安全、侦查学等专业的研究生、本科生、双学位学生的授课教材和 参考书；也可以作为公安机关、检察机关、海关缉私等侦查部门的培训教材和参考书。</p>
+<p>图书在版编目 <strong>（CIP）</strong> 数据</p>
+<p>网络犯罪侦查/刘浩阳编著.一北京：清华大学出版社，2016</p>
+<p>（公安院校招录培养体制改革试点专业系列教材）</p>
+<p>ISBN 978-7-302-44971-3</p>
+<p>T.①网… D.①刘… DI.①互联网络一计算机犯罪一刑事侦查一高等学校一教材IV.①D918</p>
+<p>中国版本图书馆CIP数据核字（2016）第214157号</p>
+            <p><small>2 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1400">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1400</link>
+          <pubDate>Thu, 08 Sep 2022 09:04:08 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1400</guid>
+          <source url="https://mlmmlm.icu/t/topic/1400.rss">网络犯罪侦察</source>
+        </item>
         <item>
           <title>OpenUtau簡易使用教程（不建議使用）</title>
           <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
@@ -1616,52 +1642,6 @@ temp.pm</p>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1220</guid>
           <source url="https://mlmmlm.icu/t/topic/1220.rss">简要介绍几种常见的监控码</source>
-        </item>
-        <item>
-          <title>简要推测新浪微博“整治”“错别字”的技术实现</title>
-          <dc:creator><![CDATA[cocuj331]]></dc:creator>
-          <category>技术</category>
-          <description><![CDATA[
-            <h1>
-<a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>简要推测新浪微博“整治”“错别字”的技术实现</h1>
-<p>7月13日，新浪微博官方称[1]：</p>
-<blockquote>
-<p>为营造清朗的网络空间，维护文明健康的社区生态秩序，站方将对站内利用谐音字、变体字等“错别字”发布、传播不良信息的违规行为开展集中整治。主要内容如下：</p>
-<ol>
-<li>加大对利用“错别字”借机传播不良信息等违规行为的排查清理力度；</li>
-<li>健全平台用语管理机制，完善关键词识别模型；</li>
-<li>通过建立正向激励机制、加强站内宣介等方式，引导站内用户规范使用汉字。</li>
-</ol>
-<p>站方呼吁广大网友在参与社区讨论时，文明表达观点，规范使用汉字。如发现相关违规内容，欢迎通过前台举报投诉入口和@微博管理员 的方式进行举报，我们将及时予以处置。<span class="hashtag">#微博社区公告</span>#</p>
-</blockquote>
-<p>毫无疑问，这是新浪微博官方呼应网新办新规[2]的表现，也是国内私有社交媒体舆论收紧的又一标志性事件。关于国内网络舆论收紧造成的影响，背后反映的社会问题等等已有无数的文章论述过，本文仅试图讨论新浪微博将采用怎样的技术手段来“整治”“错别字”。</p>
-<p>事先声明，我们探讨技术实现的目的不是鼓励大家继续停留在私有的社交媒体，而是试图了解敌人的手段，达到“知彼知己”的效果。大家还是应该自觉使用自由的社交媒体（如 mastodon、writefreely）和自由的即时通讯系统（如 xmpp、Matrix），不仅对信息安全有利，更能推动自由软件运动的发展。</p>
-<p>先来看看新浪微博官方对“错别字”的定义：谐音字、变体字等。这个定义基本上涵盖了目前充斥着社交媒体的谐音以及拼音缩写，还有这些年已经不太流行的“火星文”等。这些汉字的变型体，被群众广泛用来在私有平台上规避审查。随着舆论管制的收紧，对这些汉字变型体的打压也就变得严厉了。</p>
-<p>为了审查这些变型体，就应该先将它们从正常的词汇中区别出来。很显然，像是 yyds（永远的神）、aswl（啊我死了） 这样的字母词在汉语中已经作为正式表达的十分有限，如 VCD、WTO 等。火星文要用到大量生僻字。谐音词也有不少都是新造的词，比如“晶哥”是“警哥”的谐音。这些词汇与正常的汉语词汇区别很大，它们的特征十分明显。</p>
-<p>为此，有一种思路是：可以根据权威词典，比如《现代汉语词典》《新华字典》划定的汉语核心词、常用词以及常用字建立词库、字库白名单，白名单以外的字、词禁止出现，一旦被检测到便自动屏蔽。</p>
-<p>另外一种思路是，让“人工智能”检测用户发布的文字中每句出现的字母、生僻字、emoji ，并自动对检测的文句分词（即将一句话中出现的字自动断成一个个词，比如“今天天气很热”，就能被分为“今天/天气/很/热”）。将其中的异常结果，比如出现过多字母、生僻字、emoji 或者有难以分词之处的内容，提交人工审核，来决定是否屏蔽。</p>
-<p>总而言之，新浪微博“整治”“错别字”的技术门槛不高，群众使用“错别字”实现隐写的门槛也同样不高。如果新浪微博以及其他私有平台确实长期将“错别字”纳入审核范围，此类简陋的隐写方法将很快被群众放弃。</p>
-<p>如果非要使用私有平台隐写，可以采取怎么样的技术手段呢？</p>
-<p>首先是语言学的手段。</p>
-<p>古代文人会用诗文含沙射影地批评朝政，他们会将对时事的看法含蓄地表达在对山水、景物的描摹中，比如毛氏父子校《三国演义》开篇的《临江仙》中“青山依旧在，几度夕阳红”指的主要是历史的变迁，朝代的更迭，而非自然景物的变化。哪怕是现在，在私有社交媒体上，有许多所谓的“文艺青年”也会引用经典文学、影视作品的词句表达他们的看法。这种含沙射影的方法只适用于知识分子，且读者也会根据自己的想法理解，最终的解读效果会有很大偏差。</p>
-<p>另一种语言学手段是“黑话”，即事先约定好“黑话”，在交流的时候使用外人听不懂的“黑话”。在经典影片《林海雪原》中出现的“天王盖地虎，宝塔镇河妖”就属于“黑话”。黑话也和含沙射影有相同的问题，即只适合小圈子，不适合大范围传播。当然，随着字母词的滥用，特别是粉圈对字母词的滥用，越来越多的字母词只能被小圈子内解读，形成了事实上的黑话。圈外人看着这些字母词会“傻傻分不清”，比如 JB 可以理解为“进步”，也可以理解为“举报”，还可以理解为“基本”等等。</p>
-<p>不断严苛的言论审核标准本来就在助推网络社区的小圈子化，未来不愿意离开私有社交媒体的人只会呆在各自的小圈子里，形成一个又一个的“信息茧房”。</p>
-<p>但是，语言学的手段永远不是我们首先考虑的。有没有基于信息技术的隐写方法呢？当然有。</p>
-<p>此前就有网民试图把文字内容截成图发布，这一手段随着 OCR 文字识别技术的发展和普及已不再那么有效，甚至对图片做镜像处理，模糊处理也并不好用。这是因为文字始终还是显示在图片中，就算机器识别不了，肉眼也能识别，互联网巨头多雇几个审核就能发现端倪。相对合理的办法是把文字“写进”图片（确切地说是写进图片的数据里），使得审核者的肉眼无法识别，他们所用的机器难以检测，只有了解的人有办法从图片中提取文字。</p>
-<p>这一方法具体该如何操作呢？欢迎到我们的聊天室来讨论。聊天室的 JID 是 <a href="mailto:tret9@muc.pimux.de">tret9@muc.pimux.de</a> 口令是 Oup)OtofWecin0 ，欢迎希望系统学习自由软件和保密技术不当伸手党的同志加入。</p>
-<p>最后，还是希望大家尽快抛弃私有社交媒体，使用自由的社交媒体。私有社交媒体终究是由互联网巨头，而非用户主导的，用户无论使用什么手段也终究是被动的。</p>
-<p>[1]原微博： <a href="https://weibo.com/1934183965/LC43v6SBi" rel="noopener nofollow ugc">https://weibo.com/1934183965/LC43v6SBi</a><br>
-[2]转引澎湃新闻 <a href="https://www.thepaper.cn/newsDetail_forward_18786756" rel="noopener nofollow ugc">https://www.thepaper.cn/newsDetail_forward_18786756</a></p>
-            <p><small>1 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1207">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1207</link>
-          <pubDate>Sun, 17 Jul 2022 09:45:15 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1207</guid>
-          <source url="https://mlmmlm.icu/t/topic/1207.rss">简要推测新浪微博“整治”“错别字”的技术实现</source>
         </item>
   </channel>
 </rss>

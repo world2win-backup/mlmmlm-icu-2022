@@ -133,7 +133,7 @@
 </time>
 <meta itemprop='dateModified' content='2021-04-18T07:29:55Z'>
 <span itemprop='position'>#2</span>
-</span>
+ </span>
 </div>
 <div class='post' itemprop='articleBody'>
 <aside class="quote no-group" data-username="Keler" data-post="1" data-topic="815">
@@ -534,7 +534,7 @@
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
- <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/izumiSagiri'><span itemprop='name'>izumiSagiri</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/815">
@@ -556,7 +556,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
-<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+ <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>

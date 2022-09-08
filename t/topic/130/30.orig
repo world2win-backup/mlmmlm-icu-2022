@@ -460,6 +460,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
+
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/130">
 <link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/1X/bef504d10b9c64ae9b0fc76ddb215380f10f0290.jpeg">
@@ -917,7 +918,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 </div>
 <meta itemprop='headline' content='必读的文章和书籍'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
@@ -1063,7 +1064,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
-<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+ <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>

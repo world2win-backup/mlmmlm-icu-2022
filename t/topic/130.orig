@@ -344,7 +344,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
- <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
@@ -706,7 +706,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <meta itemprop="userInteractionCount" content="2" />
 </div>
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
- <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/1222" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/1222'>
 <span itemprop='name'>马列毛主义书单学习资源</span>
@@ -798,7 +798,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
- <span class='post-likes'></span>
+<span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -1155,7 +1155,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
- <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/130">
@@ -1244,7 +1244,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
- </div>
+</div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
