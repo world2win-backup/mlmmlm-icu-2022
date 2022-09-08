@@ -5,8 +5,26 @@
     <link>https://mlmmlm.icu/c/7-category/7</link>
     <description>&#39;文献 | 书籍&#39; 类别中的话题 </description>
     <language>zh-CN</language>
-      <lastBuildDate>Sun, 04 Sep 2022 03:54:46 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 07 Sep 2022 19:37:40 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/c/7-category/7.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>求此语录出处</title>
+          <dc:creator><![CDATA[fffv]]></dc:creator>
+          <category>文献 | 书籍</category>
+          <description><![CDATA[
+            <p>【毛主席论反对修正主义】 【精准空降到 05:33】 <a href="https://www.bilibili.com/video/BV1mi4y1E7BJ?share_source=copy_web&amp;t=333" rel="noopener nofollow ugc">https://www.bilibili.com/video/BV1mi4y1E7BJ?share_source=copy_web&amp;t=333</a></p>
+<p>似乎是伪造的？</p>
+            <p><small>3 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1397">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1397</link>
+          <pubDate>Wed, 07 Sep 2022 19:37:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1397</guid>
+          <source url="https://mlmmlm.icu/t/topic/1397.rss">求此语录出处</source>
+        </item>
         <item>
           <title>《红旗》网刊版2022年8月第二期发布啦！</title>
           <dc:creator><![CDATA[gonzalofficial]]></dc:creator>
@@ -2253,24 +2271,6 @@
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1257</guid>
           <source url="https://mlmmlm.icu/t/topic/1257.rss">【反革命毒草】左圈论“二次元”问题文集</source>
-        </item>
-        <item>
-          <title>求《中国文化大革命文库》第三版</title>
-          <dc:creator><![CDATA[aaa]]></dc:creator>
-          <category>文献 | 书籍</category>
-          <description><![CDATA[
-            <p>个人版都需要300刀，太贵了<br>
-<a href="https://cup.cuhk.edu.hk/index.php?route=product/product&amp;product_id=3050" class="onebox" target="_blank" rel="noopener nofollow ugc">https://cup.cuhk.edu.hk/index.php?route=product/product&amp;product_id=3050</a></p>
-            <p><small>3 个帖子 - 2 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1254">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1254</link>
-          <pubDate>Sun, 31 Jul 2022 14:05:18 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1254</guid>
-          <source url="https://mlmmlm.icu/t/topic/1254.rss">求《中国文化大革命文库》第三版</source>
         </item>
   </channel>
 </rss>

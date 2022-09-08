@@ -219,7 +219,7 @@ persisted in opposing revisionism and guarding against revisionism, and continue
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
-<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+ <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -313,7 +313,7 @@ Shanghai</p>
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
-<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+ <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>

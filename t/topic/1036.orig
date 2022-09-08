@@ -99,7 +99,7 @@
 <div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
- <meta itemprop='name' content='马列毛群众'>
+<meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
@@ -128,7 +128,7 @@ vom和法共的一篇文章</p>
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
-</div>
+ </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="1" />
