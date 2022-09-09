@@ -19,3 +19,7 @@ https://mlmmlm.icu/latest?no_definitions=true&page=2
 `ipfs get QmZMAFngPr2XkWZ1bMpSKv6frAw2df7ZsPS5bdwDf8JYxy`
 
 for commit/980571c2d422389e5cc52780bc1d67fd778f47a7
+
+https://github.com/ipfs/notes/issues/424
+
+https://github.com/ipfs/kubo/issues/3908
