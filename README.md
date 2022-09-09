@@ -17,6 +17,8 @@ https://mlmmlm.icu/latest?no_definitions=true&page=2
 # ipfs
 
 `ipfs resolve -r QmZMAFngPr2XkWZ1bMpSKv6frAw2df7ZsPS5bdwDf8JYxy`
+
+
 `ipfs get QmZMAFngPr2XkWZ1bMpSKv6frAw2df7ZsPS5bdwDf8JYxy`
 
 
@@ -25,6 +27,10 @@ or
 https://ipfs-gateway.cloud/ipfs/QmZMAFngPr2XkWZ1bMpSKv6frAw2df7ZsPS5bdwDf8JYxy
 
 for commit/980571c2d422389e5cc52780bc1d67fd778f47a7
+
+## see also
+
+https://ipfs.github.io/public-gateway-checker/
 
 https://github.com/ipfs/notes/issues/424
 
