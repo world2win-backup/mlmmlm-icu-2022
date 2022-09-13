@@ -25,9 +25,23 @@ steghide
 7.安全的工作环境。
 当执法机构试图破门时能够提前预知并且毁灭证据。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Sep 2022 10:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 01:34:43 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/17.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>利用技术手段武装自己</title>
+        <dc:creator><![CDATA[xjds0]]></dc:creator>
+        <description><![CDATA[
+            <p>散列函数（比如sha256）既可以验证文件的完整性又可以作为随机数的来源。<br>
+非线性和不可逆性是密码学的基石。<br>
+如果你需要真随机数，可以随手拍一张照片，将其散列值作为随机数。关键是要安全删除这张照片。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/17/14">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/17/14</link>
+        <pubDate>Fri, 09 Sep 2022 01:34:43 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-17-14</guid>
+        <source url="https://mlmmlm.icu/t/topic/17.rss">利用技术手段武装自己</source>
+      </item>
       <item>
         <title>利用技术手段武装自己</title>
         <dc:creator><![CDATA[adt]]></dc:creator>

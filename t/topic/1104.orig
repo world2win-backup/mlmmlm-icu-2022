@@ -46,7 +46,7 @@
 <body class="crawler">
 <header>
 <a href="/">
-<h1>马列毛群众</h1>
+ <h1>马列毛群众</h1>
 </a>
 </header>
 <div id="main-outlet" class="wrap" role="main">
@@ -156,7 +156,7 @@
 <meta itemprop='dateModified' content='2021-10-21T13:36:30Z'>
 <span itemprop='position'>#3</span>
 </span>
- </div>
+</div>
 <div class='post' itemprop='articleBody'>
 <p>同志有无兴趣加入我们</p>
 </div>
@@ -209,7 +209,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="1" />
-</div>
+ </div>
 </div>
 <div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>

@@ -179,7 +179,6 @@
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/azide'><span itemprop='name'>azide</span></a>
-
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1257">
 <span class="crawler-post-infos">
@@ -435,7 +434,7 @@
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/one_normal_one'><span itemprop='name'>one_normal_one</span></a>
 </span>
- <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1257">
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1257">
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2022-08-01T11:41:58Z' class='post-time'>
 2022 年8 月 1 日 11:41
@@ -567,13 +566,13 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="1" />
-<span class='post-likes'>1 个赞</span>
+ <span class='post-likes'>1 个赞</span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
- </div>
+</div>
 <div id='post_27' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
@@ -849,7 +848,7 @@
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
- <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>

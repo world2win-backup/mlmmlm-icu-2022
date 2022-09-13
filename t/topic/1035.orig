@@ -95,7 +95,7 @@
 <meta itemprop='keywords' content=''>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
- <meta itemprop="userInteractionCount" content="2" />
+<meta itemprop="userInteractionCount" content="2" />
 <span class='post-likes'>2 个赞</span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -279,7 +279,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
- <meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 <div id='post_7' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>

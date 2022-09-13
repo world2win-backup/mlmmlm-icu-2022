@@ -344,7 +344,7 @@
 <div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
- <meta itemprop='name' content='马列毛群众'>
+<meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
@@ -507,7 +507,7 @@
 </a>
 <br>
 <a href="https://img.newspapers.com/img/thumbnail/260570001/400/400.jpg" target="_blank" rel="noopener nofollow ugc" class="onebox">
-<span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+ <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
 </a>
 <br>
 <a href="https://img.newspapers.com/img/thumbnail/260570086/400/400.jpg" target="_blank" rel="noopener nofollow ugc" class="onebox">
@@ -820,7 +820,7 @@ for i in range(10):
 <time itemprop='datePublished' datetime='2022-08-12T17:15:38Z' class='post-time'>
 2022 年8 月 12 日 17:15
 </time>
- <meta itemprop='dateModified' content='2022-08-13T00:36:25Z'>
+<meta itemprop='dateModified' content='2022-08-13T00:36:25Z'>
 <span itemprop='position'>#14</span>
 </span>
 </div>

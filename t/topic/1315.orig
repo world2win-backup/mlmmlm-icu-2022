@@ -131,6 +131,7 @@
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1315">
 <span class="crawler-post-infos">
@@ -151,7 +152,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
