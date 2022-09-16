@@ -5,8 +5,25 @@
     <link>https://mlmmlm.icu/c/11-category/11</link>
     <description>&#39;闲谈 | 灌水&#39; 类别中的话题 </description>
     <language>zh-CN</language>
-      <lastBuildDate>Sat, 10 Sep 2022 09:17:42 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 13 Sep 2022 10:28:56 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/c/11-category/11.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>prolet的github库分类整理是哪位同志进行的？</title>
+          <dc:creator><![CDATA[one_normal_one]]></dc:creator>
+          <category>闲谈 | 灌水</category>
+          <description><![CDATA[
+            <p>rt，请联络我一下，有事相商。</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1427">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1427</link>
+          <pubDate>Tue, 13 Sep 2022 10:28:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1427</guid>
+          <source url="https://mlmmlm.icu/t/topic/1427.rss">prolet的github库分类整理是哪位同志进行的？</source>
+        </item>
         <item>
           <title>兩組組內聲音完全一致，但互不認識的網絡政治名人（馬聲派與公社派）</title>
           <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
@@ -545,23 +562,6 @@ Han TTS（<a href="https://github.com/junzew/HanTTS" rel="noopener nofollow ugc"
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-447</guid>
           <source url="https://mlmmlm.icu/t/topic/447.rss">关于18年运动</source>
-        </item>
-        <item>
-          <title>【已删除】</title>
-          <dc:creator><![CDATA[anon26721197]]></dc:creator>
-          <category>闲谈 | 灌水</category>
-          <description><![CDATA[
-            <p>（已删除）</p>
-            <p><small>8 个帖子 - 7 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/272">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/272</link>
-          <pubDate>Sat, 30 Jan 2021 05:33:11 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-272</guid>
-          <source url="https://mlmmlm.icu/t/topic/272.rss">【已删除】</source>
         </item>
   </channel>
 </rss>

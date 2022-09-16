@@ -124,7 +124,7 @@
 <a href='/' itemprop="url">首页 </a>
 </span>
 </li>
- <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/categories' itemprop="url">类别 </a>
 </span>

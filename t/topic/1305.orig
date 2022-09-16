@@ -424,7 +424,7 @@ Provider options:
 </time>
 <meta itemprop='dateModified' content='2022-09-03T10:28:08Z'>
 <span itemprop='position'>#7</span>
-</span>
+ </span>
 </div>
 <div class='post' itemprop='articleBody'>
 <pre><code class="lang-auto">使用方法: enc [选项]
@@ -575,7 +575,7 @@ Provider options:
 <a href='/tos' itemprop="url">服务条款 </a>
 </span>
 </li>
-<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+ <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/privacy' itemprop="url">隐私政策 </a>
 </span>

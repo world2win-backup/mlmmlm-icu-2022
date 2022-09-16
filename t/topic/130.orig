@@ -344,7 +344,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
-<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+ <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
@@ -429,7 +429,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/130">
 <link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/1X/064d033c413f49536353740a4b0ed23f5d91c2cb.jpeg">
 <span class="crawler-post-infos">
- <time itemprop='datePublished' datetime='2020-10-23T18:13:50Z' class='post-time'>
+<time itemprop='datePublished' datetime='2020-10-23T18:13:50Z' class='post-time'>
 2020 年10 月 23 日 18:13
 </time>
 <meta itemprop='dateModified' content='2020-10-23T18:13:50Z'>
@@ -706,7 +706,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <meta itemprop="userInteractionCount" content="2" />
 </div>
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
-<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+ <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/1222" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/1222'>
 <span itemprop='name'>马列毛主义书单学习资源</span>
@@ -798,7 +798,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
-<span class='post-likes'></span>
+ <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -955,7 +955,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2020-11-05T16:07:21Z' class='post-time'>
 2020 年11 月 5 日 16:07
- </time>
+</time>
 <meta itemprop='dateModified' content='2020-11-05T16:07:21Z'>
 <span itemprop='position'>#13</span>
 </span>
