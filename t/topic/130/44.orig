@@ -651,7 +651,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 </div>
 <meta itemprop='headline' content='必读的文章和书籍'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>

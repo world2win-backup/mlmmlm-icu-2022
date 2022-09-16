@@ -7,9 +7,83 @@
 
 https://en.wikipedia.org/wiki/2200-meter_band</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Sep 2022 10:29:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2022 07:34:52 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1305.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[xjds0]]></dc:creator>
+        <description><![CDATA[
+            <p>这里可以找到很多电路图。</p>
+<p><a href="https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm</a></p>
+<p><a href="https://web.archive.org/web/20220704050330/https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20220704050330/https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm</a><br>
+<span alt="https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/PA_2m_10w-in_100W-out.gif" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/12">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/12</link>
+        <pubDate>Fri, 16 Sep 2022 07:28:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-12</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[xjds0]]></dc:creator>
+        <description><![CDATA[
+            <p>建议不要使用136kHz的频率，因为这个波长下，天线是十分低效的，不要被发射机的功率迷惑了。</p>
+<p><a href="https://web.archive.org/web/20211211004946/http://www.strobbe.eu/on7yd/136ant" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20211211004946/http://www.strobbe.eu/on7yd/136ant</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/11">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/11</link>
+        <pubDate>Fri, 16 Sep 2022 07:19:38 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-11</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/0566bc4f29665cc13ed3db2392612ef640c887f2.jpeg" alt="100W Transmitter Amplifier for 2200m" data-base62-sha1="LMuPI76v0IP0kCEWg9ickjC5GO" width="448" height="300"></p>
+<h1>
+<a name="h-100w-transmitter-amplifier-for-2200m-1" class="anchor" href="https://mlmmlm.icu#h-100w-transmitter-amplifier-for-2200m-1"></a>100W Transmitter Amplifier for 2200m</h1>
+<hr>
+<p>This particular transmitter was later shipped up to VY1JA in the Yukon where, thanks to Jay’s excellent antenna system, it was heard in Europe as well as in New Zealand during one of the Trans-Pacific Tests! Running 24 volts on the final will produce 100 watts into a 50 ohm load. The transmitter utilizes a 4060 binary counter IC chip as both the crystal oscillator and frequency divider. I used a 2200 kHz crystal along with the ‘divide-by’ sixteen output to produce a signal at 137.5 kHz. Other combinations of crystal frequencies and ‘divide-by’ combinations may also be used since the 4060 features divided outputs for f/32 (pin 5) and f/64 (pin 4), among others. You may have a 4MHz crystal or an 8MHz crystal in your junk box that will put you in the band using these output pins.</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/7/7c3da1950662c307246994400c5cc88597efc56f.gif" alt="100W Transmitter Amplifier for 2200m669x414" data-base62-sha1="hJ5fx2nhs66h5AYWB0UEePVuSjZ" width="" height=""></p>
+<p>I used a crystal oven from a very old taxi cab fm radio to mount the crystal but do not use the ‘oven’ feature. I discovered that the thermostat-controlled heating / cooling cycle produced more drift than simply leaving the oven off. I have however, lined both the inside and the outside of the oven with styrofoam in hopes of keeping the crystal’s temperature change to a minimum. Initial tests indicate that it is entirely adequate for QRSS30 speeds. I have not yet tested it at QRSS60, where even the slightest drift shows up very quickly.</p>
+<p>The transmitter is simple and inexpensive to construct. The IRF540 FET final runs very cool, although it should probably be heat sinked. I have also used IRF640s with little or no change noted. All coils and transformers are wound on ABS or PVC tubing.</p>
+<p>TRANSMITTER SCHEMATIC</p>
+<p>I used the “Manhattan Style” of construction on pc board.</p>
+<p>TRANSMITTER PCB</p>
+<p>Output Transformer (T1) - wound on 1.5" tubing ~ 5 inches in length. Wind the secondary first which consists of 80 turns of ~ <span class="hashtag">#20</span> enamel wire. Wind the primary centered on top of the secondary with 15 turns of ~ <span class="hashtag">#16</span> enamel, close spaced. Before winding the primary, wrap the center part of the secondary with PVC electrical tape or heavy plumber’s teflon tape.</p>
+<p>Output Filter (L1) - wound on 2" tubing ~ 5 inches in length. Wrap 80 turns of <span class="hashtag">#20</span>, close spaced with taps at 40 turns and every 5 turns until the end.</p>
+<p>The capacitor used at the drain of the FET should be of high quality such as polycarbonate or mica. Although the original design indicated a 1 uF capacitor at the top end of T1’s primary, I found that the 2.2uf gave a better waveform across the FET’s drain. Look for the typical class-e type waveform at the drain.</p>
+<p>CLASS-E WAVEFORM</p>
+<p>Operation - Mitch’s version of this amp appears to be operating at greater efficiency than the one I built. Running the final at 24VDC, the FET draws around 6.5-7 amps for an input of approximately 160W. With a measured output of 95W, the efficiency is around 60%. A properly designed class-e amplifier should realize much higher efficiencies so there is still plenty of room for improvement on this design. One of the things I would like to do is experiment with the output transformer in order to optimize its performance. Perhaps rewinding it on a ferrite core would help. The output transformer develops a lot of heat, indicating a substantial power waste. Perhaps that is where the missing 30% efficiency can be reclaimed.</p>
+<p>Operate the transmitter into a 50 ohm dummy load or your resonant (50 ohm) antenna system. You might want to ‘tune-up’ at a lower voltage and then increase the drain voltage when adjustments are completed. Start with the antenna tapped at the coaxial end of the filter coil. As you tap closer to the center, power output will increase, as will final amplifier drain current. You will reach a point where the output does not increase any further, even though drain current has increased. Tap at the point of best efficiency. The output waveform should be a clean sine-wave.</p>
+<p>OUTPUT WAVEFORM</p>
+<p>I have run this transmitter all night long on several occasions, at QRSS30, and it has performed very well for such an easy design. I use a K1EL QRSS keyer chip to generate the QRSS beacon keying or the ‘QRSS’ freeware by ON7YD (available on his website).</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/8/80f26596c08a425c8048551e50809f67692f53d8.gif" alt="100W Transmitter Amplifier for 2200m339x315" data-base62-sha1="ioIrQ5madgyZIhS0jj4Sn2huSGQ" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/e/e9785c75dcb02c3849d3fc1a152cb1ff2d6dfe71.jpeg" alt="100W Transmitter Amplifier for 2200m237x175" data-base62-sha1="xjn7DJoXREZOBYI8kWCsdfVTHzj" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/046158db455b303078110510d9e9ba5c311185dd.jpeg" alt="100W Transmitter Amplifier for 2200m213x175" data-base62-sha1="CKtsb7smnQnOsubwJEOXCwZ6nr" width="" height=""></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/10">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/10</link>
+        <pubDate>Fri, 16 Sep 2022 05:31:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-10</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>先總統 蔣公电报欣赏：<br>
+<a href="https://archive.ph/wip/CGJIG" class="onebox" target="_blank" rel="noopener nofollow ugc">https://archive.ph/wip/CGJIG</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1305/9">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305/9</link>
+        <pubDate>Fri, 16 Sep 2022 05:21:33 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1305-9</guid>
+        <source url="https://mlmmlm.icu/t/topic/1305.rss">（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</source>
+      </item>
       <item>
         <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
         <dc:creator><![CDATA[adt]]></dc:creator>

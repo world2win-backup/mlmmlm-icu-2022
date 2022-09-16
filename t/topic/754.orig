@@ -59,7 +59,7 @@
 </h1>
 <div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
- <a href="https://mlmmlm.icu/c/5-category/5" class="badge-wrapper bullet" itemprop="item">
+<a href="https://mlmmlm.icu/c/5-category/5" class="badge-wrapper bullet" itemprop="item">
 <span class='badge-category-bg' style='background-color: #0088CC'></span>
 <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>时评</span>
@@ -89,7 +89,7 @@
 <span itemprop='position'>#1</span>
 </span>
 </div>
-<div class='post' itemprop='articleBody'>
+ <div class='post' itemprop='articleBody'>
 <h1>新聞永久停刊声明</h1>
 <p>来自知情人士</p>
 <p>各位读者、订阅者同志：</p>

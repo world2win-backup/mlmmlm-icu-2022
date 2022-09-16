@@ -5,6 +5,515 @@
     <link>https://mlmmlm.icu</link>
     <description>最新帖子</description>
       <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[@xjds0 xjds0]]></dc:creator>
+        <description><![CDATA[ <p>这里可以找到很多电路图。</p>
+<p><a href="https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm" class="onebox" target="_blank" rel="noopener nofollow ugc">https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm</a></p>
+<p><a href="https://web.archive.org/web/20220704050330/https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20220704050330/https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/Homebrew_RF_Circuit_Design_Ideas.htm</a><br>
+<span alt="https://www.qsl.net/va3iul/Homebrew_RF_Circuit_Design_Ideas/PA_2m_10w-in_100W-out.gif" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span></p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305#post_12</link>
+        <pubDate>Fri, 16 Sep 2022 07:28:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5815</guid>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[@xjds0 xjds0]]></dc:creator>
+        <description><![CDATA[ <p>建议不要使用136kHz的频率，因为这个波长下，天线是十分低效的，不要被发射机的功率迷惑了。</p>
+<p><a href="https://web.archive.org/web/20211211004946/http://www.strobbe.eu/on7yd/136ant" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20211211004946/http://www.strobbe.eu/on7yd/136ant</a></p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305#post_11</link>
+        <pubDate>Fri, 16 Sep 2022 07:19:38 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5814</guid>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[@azide azide]]></dc:creator>
+        <description><![CDATA[ <p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/0566bc4f29665cc13ed3db2392612ef640c887f2.jpeg" alt="100W Transmitter Amplifier for 2200m" data-base62-sha1="LMuPI76v0IP0kCEWg9ickjC5GO" width="448" height="300"></p>
+<h1>
+<a name="h-100w-transmitter-amplifier-for-2200m-1" class="anchor" href="https://mlmmlm.icu#h-100w-transmitter-amplifier-for-2200m-1"></a>100W Transmitter Amplifier for 2200m</h1>
+<hr>
+<p>This particular transmitter was later shipped up to VY1JA in the Yukon where, thanks to Jay’s excellent antenna system, it was heard in Europe as well as in New Zealand during one of the Trans-Pacific Tests! Running 24 volts on the final will produce 100 watts into a 50 ohm load. The transmitter utilizes a 4060 binary counter IC chip as both the crystal oscillator and frequency divider. I used a 2200 kHz crystal along with the ‘divide-by’ sixteen output to produce a signal at 137.5 kHz. Other combinations of crystal frequencies and ‘divide-by’ combinations may also be used since the 4060 features divided outputs for f/32 (pin 5) and f/64 (pin 4), among others. You may have a 4MHz crystal or an 8MHz crystal in your junk box that will put you in the band using these output pins.</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/7/7c3da1950662c307246994400c5cc88597efc56f.gif" alt="100W Transmitter Amplifier for 2200m669x414" data-base62-sha1="hJ5fx2nhs66h5AYWB0UEePVuSjZ" width="" height=""></p>
+<p>I used a crystal oven from a very old taxi cab fm radio to mount the crystal but do not use the ‘oven’ feature. I discovered that the thermostat-controlled heating / cooling cycle produced more drift than simply leaving the oven off. I have however, lined both the inside and the outside of the oven with styrofoam in hopes of keeping the crystal’s temperature change to a minimum. Initial tests indicate that it is entirely adequate for QRSS30 speeds. I have not yet tested it at QRSS60, where even the slightest drift shows up very quickly.</p>
+<p>The transmitter is simple and inexpensive to construct. The IRF540 FET final runs very cool, although it should probably be heat sinked. I have also used IRF640s with little or no change noted. All coils and transformers are wound on ABS or PVC tubing.</p>
+<p>TRANSMITTER SCHEMATIC</p>
+<p>I used the “Manhattan Style” of construction on pc board.</p>
+<p>TRANSMITTER PCB</p>
+<p>Output Transformer (T1) - wound on 1.5" tubing ~ 5 inches in length. Wind the secondary first which consists of 80 turns of ~ <span class="hashtag">#20</span> enamel wire. Wind the primary centered on top of the secondary with 15 turns of ~ <span class="hashtag">#16</span> enamel, close spaced. Before winding the primary, wrap the center part of the secondary with PVC electrical tape or heavy plumber’s teflon tape.</p>
+<p>Output Filter (L1) - wound on 2" tubing ~ 5 inches in length. Wrap 80 turns of <span class="hashtag">#20</span>, close spaced with taps at 40 turns and every 5 turns until the end.</p>
+<p>The capacitor used at the drain of the FET should be of high quality such as polycarbonate or mica. Although the original design indicated a 1 uF capacitor at the top end of T1’s primary, I found that the 2.2uf gave a better waveform across the FET’s drain. Look for the typical class-e type waveform at the drain.</p>
+<p>CLASS-E WAVEFORM</p>
+<p>Operation - Mitch’s version of this amp appears to be operating at greater efficiency than the one I built. Running the final at 24VDC, the FET draws around 6.5-7 amps for an input of approximately 160W. With a measured output of 95W, the efficiency is around 60%. A properly designed class-e amplifier should realize much higher efficiencies so there is still plenty of room for improvement on this design. One of the things I would like to do is experiment with the output transformer in order to optimize its performance. Perhaps rewinding it on a ferrite core would help. The output transformer develops a lot of heat, indicating a substantial power waste. Perhaps that is where the missing 30% efficiency can be reclaimed.</p>
+<p>Operate the transmitter into a 50 ohm dummy load or your resonant (50 ohm) antenna system. You might want to ‘tune-up’ at a lower voltage and then increase the drain voltage when adjustments are completed. Start with the antenna tapped at the coaxial end of the filter coil. As you tap closer to the center, power output will increase, as will final amplifier drain current. You will reach a point where the output does not increase any further, even though drain current has increased. Tap at the point of best efficiency. The output waveform should be a clean sine-wave.</p>
+<p>OUTPUT WAVEFORM</p>
+<p>I have run this transmitter all night long on several occasions, at QRSS30, and it has performed very well for such an easy design. I use a K1EL QRSS keyer chip to generate the QRSS beacon keying or the ‘QRSS’ freeware by ON7YD (available on his website).</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/8/80f26596c08a425c8048551e50809f67692f53d8.gif" alt="100W Transmitter Amplifier for 2200m339x315" data-base62-sha1="ioIrQ5madgyZIhS0jj4Sn2huSGQ" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/e/e9785c75dcb02c3849d3fc1a152cb1ff2d6dfe71.jpeg" alt="100W Transmitter Amplifier for 2200m237x175" data-base62-sha1="xjn7DJoXREZOBYI8kWCsdfVTHzj" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/0/046158db455b303078110510d9e9ba5c311185dd.jpeg" alt="100W Transmitter Amplifier for 2200m213x175" data-base62-sha1="CKtsb7smnQnOsubwJEOXCwZ6nr" width="" height=""></p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305#post_10</link>
+        <pubDate>Fri, 16 Sep 2022 05:31:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5811</guid>
+      </item>
+      <item>
+        <title>（QRSS）（FSK-CW）2200m波长的100W发射放大器100W Transmitter Amplifier for 2200m</title>
+        <dc:creator><![CDATA[@azide azide]]></dc:creator>
+        <description><![CDATA[ <p>先總統 蔣公电报欣赏：<br>
+<a href="https://archive.ph/wip/CGJIG" class="onebox" target="_blank" rel="noopener nofollow ugc">https://archive.ph/wip/CGJIG</a></p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1305#post_9</link>
+        <pubDate>Fri, 16 Sep 2022 05:21:33 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5810</guid>
+      </item>
+      <item>
+        <title>国际新闻简报</title>
+        <dc:creator><![CDATA[@Xuan_JunHe Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[ <p>9月15日：學生動員起來反對攻擊教育</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18097-15-de-setembro-estudantes-se-mobilizam-contra-ataques-a-educacao">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18097-15-de-setembro-estudantes-se-mobilizam-contra-ataques-a-educacao" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/310;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/0/0725e57bcb998ab450c3591c00265b33bfc04312_2_690x310.jpeg" class="thumbnail" width="690" height="310" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/0/0725e57bcb998ab450c3591c00265b33bfc04312_2_690x310.jpeg, https://mlmmlm.icu/uploads/default/original/2X/0/0725e57bcb998ab450c3591c00265b33bfc04312.jpeg 1.5x, https://mlmmlm.icu/uploads/default/original/2X/0/0725e57bcb998ab450c3591c00265b33bfc04312.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/0/0725e57bcb998ab450c3591c00265b33bfc04312_2_10x10.png"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18097-15-de-setembro-estudantes-se-mobilizam-contra-ataques-a-educacao" target="_blank" rel="noopener nofollow ugc">15 de setembro: Estudantes se mobilizam contra ataques à educação</a></h3>
+
+  <p>Repercutimos a seguir a importante convocação de um dia unitário de mobilizações contra o criminoso corte de verbas que atinge a casa dos bilhões de reais...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+每週社論-讓群眾反對群眾</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18098-editorial-semanal-lancar-massas-contra-massas">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18098-editorial-semanal-lancar-massas-contra-massas" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/492;"><img src="https://anovademocracia.com.br/images/Editorial_Semanl_14SET_Ed_Especial_Banner_3.jpg" class="thumbnail" width="690" height="492"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18098-editorial-semanal-lancar-massas-contra-massas" target="_blank" rel="noopener nofollow ugc">Editorial semanal&nbsp;–&nbsp;Lançar massas contra massas</a></h3>
+
+  <p>O assassinato do camponês Benedito Cardoso dos Santos (42 anos), na madrugada do dia 08/09, por um colega de trabalho bolsonarista após uma discussão sobre...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+RJ:Big和brigade煽動街頭呼籲抵制選舉鬧劇</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18099-rj-grande-brigada-de-and-agita-as-ruas-chamando-a-boicotar-a-farsa-eleitoral">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18099-rj-grande-brigada-de-and-agita-as-ruas-chamando-a-boicotar-a-farsa-eleitoral" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/460;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/b/b2c42ce3f4bc91a7486025313b2f599f46da3d78_2_690x460.jpeg" class="thumbnail" width="690" height="460" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/b/b2c42ce3f4bc91a7486025313b2f599f46da3d78_2_690x460.jpeg, https://mlmmlm.icu/uploads/default/original/2X/b/b2c42ce3f4bc91a7486025313b2f599f46da3d78.jpeg 1.5x, https://mlmmlm.icu/uploads/default/original/2X/b/b2c42ce3f4bc91a7486025313b2f599f46da3d78.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/b/b2c42ce3f4bc91a7486025313b2f599f46da3d78_2_10x10.png"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18099-rj-grande-brigada-de-and-agita-as-ruas-chamando-a-boicotar-a-farsa-eleitoral" target="_blank" rel="noopener nofollow ugc">RJ: Grande brigada de AND agita as ruas chamando a boicotar a farsa eleitoral</a></h3>
+
+  <p>Grande brigada de venda do AND convoca o povo ao boicote eleitoral. Foto: Banco de Dados AND Uma grande brigada de venda do AND ocorreu no fim da tarde de...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+今天：Viviane Gouvêa推動推出滅絕：200年的種族滅絕狀態”</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18100-hoje-viviane-gouvea-promove-o-lancamento-do-exterminio-200-anos-de-um-estado-genocida">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18100-hoje-viviane-gouvea-promove-o-lancamento-do-exterminio-200-anos-de-um-estado-genocida" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:281/500;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/a/ab1d0ffaefc1dd771bc16b83bee259c42f2c04aa_2_281x500.jpeg" class="thumbnail" width="281" height="500" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/a/ab1d0ffaefc1dd771bc16b83bee259c42f2c04aa_2_281x500.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/a/ab1d0ffaefc1dd771bc16b83bee259c42f2c04aa_2_421x750.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/a/ab1d0ffaefc1dd771bc16b83bee259c42f2c04aa_2_562x1000.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/a/ab1d0ffaefc1dd771bc16b83bee259c42f2c04aa_2_10x10.png"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18100-hoje-viviane-gouvea-promove-o-lancamento-do-exterminio-200-anos-de-um-estado-genocida" target="_blank" rel="noopener nofollow ugc">HOJE: Viviane Gouvêa promove o lançamento do</a></h3>
+
+  <p>Hoje, 14 de setembro, ocorrerá o lançamento do Livro</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+哥倫比亞：機會主義者Petro推動鎮壓農民</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18101-colombia-oportunista-petro-promove-repressao-a-camponeses">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18101-colombia-oportunista-petro-promove-repressao-a-camponeses" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/d/dede1748b015bd84e3fd7f342fa7ea2f4c8dd669_2_690x388.jpeg" class="thumbnail" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/d/dede1748b015bd84e3fd7f342fa7ea2f4c8dd669_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/original/2X/d/dede1748b015bd84e3fd7f342fa7ea2f4c8dd669.jpeg 1.5x, https://mlmmlm.icu/uploads/default/original/2X/d/dede1748b015bd84e3fd7f342fa7ea2f4c8dd669.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/d/dede1748b015bd84e3fd7f342fa7ea2f4c8dd669_2_10x10.png"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18101-colombia-oportunista-petro-promove-repressao-a-camponeses" target="_blank" rel="noopener nofollow ugc">Colômbia: Oportunista Petro promove repressão a camponeses</a></h3>
+
+  <p>Gustavo Petro atua como serviçal do agronegócio e promove repressão à centenas de camponeses e indígenas. Foto: Colprensa/Mauricio Alvarado No final de ago...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+PCI（毛主義）慶祝18週年：“推進持久人民戰爭！”</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18105-pci-maoista-celebra-18-aniversario-e-lanca-mensagem-comemorativa">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18105-pci-maoista-celebra-18-aniversario-e-lanca-mensagem-comemorativa" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/448;"><img src="https://mlmmlm.icu/uploads/default/original/2X/4/4040edd2b2cb6794dbf2de70ee0c4703d4fd3d69.jpeg" class="thumbnail" width="690" height="448" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/4/4040edd2b2cb6794dbf2de70ee0c4703d4fd3d69_2_10x10.png"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18105-pci-maoista-celebra-18-aniversario-e-lanca-mensagem-comemorativa" target="_blank" rel="noopener nofollow ugc">PCI (Maoista) celebra 18º aniversário: 'Avançar a guerra popular!'</a></h3>
+
+  <p>Combatentes no distrito Dantewada, em Chhattisgarh. Foto: Tribhuvan Tiwari/Outlook O Comitê Central (CC) do Partido Comunista da Índia (Maoista) lançou, no...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+FRDDP:“沒有什麼，也沒有人能阻止貢薩羅主席”</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18085-frddp-nada-nem-ninguem-pode-deter-o-presidente-gonzalo">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18085-frddp-nada-nem-ninguem-pode-deter-o-presidente-gonzalo" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/c/cb23432881c6e21b07df672b09ed43fba9572344_2_690x388.jpeg" class="thumbnail" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/c/cb23432881c6e21b07df672b09ed43fba9572344_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/original/2X/c/cb23432881c6e21b07df672b09ed43fba9572344.jpeg 1.5x, https://mlmmlm.icu/uploads/default/original/2X/c/cb23432881c6e21b07df672b09ed43fba9572344.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/c/cb23432881c6e21b07df672b09ed43fba9572344_2_10x10.png"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18085-frddp-nada-nem-ninguem-pode-deter-o-presidente-gonzalo" target="_blank" rel="noopener nofollow ugc">FRDDP: 'Nada nem ninguém pode deter o Presidente Gonzalo'</a></h3>
+
+  <p>A redação de AND recebeu e republica documento e vídeo assinados pela Frente Revolucionária de Defesa dos Direitos do Povo (FRDDP - Brasil). Camponeses hom...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+RJ：警察暴力受害者的母親要求譴責殺害法布里西奧·多斯桑托斯的兇手；觀看視頻</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://anovademocracia.com.br/noticias/18106-rj-maes-de-vitimas-violencia-policial-exigem-condenacao-dos-assassinos-de-fabricio-dos-santos">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/b/b79e9e5003197d34af31dfec2402150ec5dd5d9e.jpeg" class="site-icon" width="21" height="21">
+
+      <a href="https://anovademocracia.com.br/noticias/18106-rj-maes-de-vitimas-violencia-policial-exigem-condenacao-dos-assassinos-de-fabricio-dos-santos" target="_blank" rel="noopener nofollow ugc">A Nova Democracia</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/387;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/f/f7320999154b7f9c111324839be3cb5437340f8c_2_690x387.jpeg" class="thumbnail" width="690" height="387" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/f/f7320999154b7f9c111324839be3cb5437340f8c_2_690x387.jpeg, https://mlmmlm.icu/uploads/default/original/2X/f/f7320999154b7f9c111324839be3cb5437340f8c.jpeg 1.5x, https://mlmmlm.icu/uploads/default/original/2X/f/f7320999154b7f9c111324839be3cb5437340f8c.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/f/f7320999154b7f9c111324839be3cb5437340f8c_2_10x10.png"></div>
+
+<h3><a href="https://anovademocracia.com.br/noticias/18106-rj-maes-de-vitimas-violencia-policial-exigem-condenacao-dos-assassinos-de-fabricio-dos-santos" target="_blank" rel="noopener nofollow ugc">RJ: Mães de vítimas de violência policial exigem condenação dos assassinos de...</a></h3>
+
+  <p>Mães se reúnem em frente ao TJ-RJ para exigir a condenação dos policiais assassinos de Fabrício dos Santos. Foto: Banco de Dados AND No dia 13/09, uma mani...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+烏克蘭：俄羅斯在烏克蘭發動機效率方面損失巨大</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://tjen-folket.no/index.php/2022/09/14/ukraina-store-russiske-tap-i-ukrainsk-motoffensiv/">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/8/8c6e551bb0a6a8827d5ac90df79cba29edda3e7a.png" class="site-icon" width="32" height="32">
+
+      <a href="https://tjen-folket.no/index.php/2022/09/14/ukraina-store-russiske-tap-i-ukrainsk-motoffensiv/" target="_blank" rel="noopener nofollow ugc" title="09:03PM - 14 September 2022">Tjen Folket Media – 14 Sep 22</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/449;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/8/81e796f946446738f5c754960271509990774d16_2_690x449.jpeg" class="thumbnail" width="690" height="449" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/8/81e796f946446738f5c754960271509990774d16_2_690x449.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/8/81e796f946446738f5c754960271509990774d16_2_1035x673.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/8/81e796f946446738f5c754960271509990774d16_2_1380x898.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/8/81e796f946446738f5c754960271509990774d16_2_10x10.png"></div>
+
+<h3><a href="https://tjen-folket.no/index.php/2022/09/14/ukraina-store-russiske-tap-i-ukrainsk-motoffensiv/" target="_blank" rel="noopener nofollow ugc">Ukraina: Store russiske tap i ukrainsk motoffensiv</a></h3>
+
+  <p>Den siste uken har ukrainske styrker gjennomført en offensiv mot den russiske imperialismen. Ifølge Institute for the Study of War har ukrainske styrker gjenerobret «nesten hele Kharkiv-regionen» n…</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+貢薩羅主席的永久榮譽！</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://tjen-folket.no/index.php/2022/09/14/evig-aere-til-formann-gonzalo-2/">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/8/8c6e551bb0a6a8827d5ac90df79cba29edda3e7a.png" class="site-icon" width="32" height="32">
+
+      <a href="https://tjen-folket.no/index.php/2022/09/14/evig-aere-til-formann-gonzalo-2/" target="_blank" rel="noopener nofollow ugc" title="09:14PM - 14 September 2022">Tjen Folket Media – 14 Sep 22</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/459;"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/3/399da1ddd4d7f8936ff252b4a0844ea0587cfdc1_2_690x459.jpeg" class="thumbnail" width="690" height="459" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/3/399da1ddd4d7f8936ff252b4a0844ea0587cfdc1_2_690x459.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/3/399da1ddd4d7f8936ff252b4a0844ea0587cfdc1_2_1035x688.jpeg 1.5x, https://mlmmlm.icu/uploads/default/original/2X/3/399da1ddd4d7f8936ff252b4a0844ea0587cfdc1.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/3/399da1ddd4d7f8936ff252b4a0844ea0587cfdc1_2_10x10.png"></div>
+
+<h3><a href="https://tjen-folket.no/index.php/2022/09/14/evig-aere-til-formann-gonzalo-2/" target="_blank" rel="noopener nofollow ugc">Evig ære til formann Gonzalo!</a></h3>
+
+  <p>Det er et år siden imperialismen, hovedsakelig yankee, i samarbeid med det revisjonistiske og kapitulasjonsistiske ROL- og den peruanske reaksjonen myrdet vår elskede formann Gonzalo, vår tids stør…</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<p>
+不來梅：印度持久人民戰爭和政治犯事件</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://www.demvolkedienen.org/index.php/de/t-brd/7099-bremen-veranstaltung-ueber-den-volkskrieg-und-die-politischen-gefangenen-in-indien">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/e/ebd20a014ef6f1c0bd43ab93b89e5922f187dc71.png" class="site-icon" width="16" height="16">
+
+      <a href="https://www.demvolkedienen.org/index.php/de/t-brd/7099-bremen-veranstaltung-ueber-den-volkskrieg-und-die-politischen-gefangenen-in-indien" target="_blank" rel="noopener nofollow ugc">demvolkedienen.org</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://www.demvolkedienen.org/index.php/de/t-brd/7099-bremen-veranstaltung-ueber-den-volkskrieg-und-die-politischen-gefangenen-in-indien" target="_blank" rel="noopener nofollow ugc">Bremen: Veranstaltung über den Volkskrieg und die politischen Gefangenen in...</a></h3>
+
+  <p>Internetplattform für die Entwicklung einer revolutionären Bewegung</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+ ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1396?page=2#post_24</link>
+        <pubDate>Fri, 16 Sep 2022 04:02:15 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5809</guid>
+      </item>
+      <item>
+        <title>论坛资料的索引，整理，编纂的计划。通信，生产，安全技术通俗化的计划。</title>
+        <dc:creator><![CDATA[@adt adt]]></dc:creator>
+        <description><![CDATA[ <p>推荐四本书，涵盖了计算机网络、密码学、计算机的原理。</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.asia/book/5407914/6c8fdf">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.asia/book/5407914/6c8fdf" target="_blank" rel="noopener nofollow ugc">b-ok.asia</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.asia/book/5407914/6c8fdf" target="_blank" rel="noopener nofollow ugc">网络是怎样连接的 | 户根勤 | download</a></h3>
+
+  <p>网络是怎样连接的 | 户根勤 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.asia/book/5237616/9033f8">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.asia/book/5237616/9033f8" target="_blank" rel="noopener nofollow ugc">b-ok.asia</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.asia/book/5237616/9033f8" target="_blank" rel="noopener nofollow ugc">图解密码技术 | 结城浩 | download</a></h3>
+
+  <p>图解密码技术 | 结城浩 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.asia/book/11139258/cb6934">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.asia/book/11139258/cb6934" target="_blank" rel="noopener nofollow ugc">b-ok.asia</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.asia/book/11139258/cb6934" target="_blank" rel="noopener nofollow ugc">图解TCP/IP（第5版）繁体 | 竹下隆史, 村山公保, 荒井透, 苅田幸雄 | download</a></h3>
+
+  <p>图解TCP/IP（第5版）繁体 | 竹下隆史, 村山公保, 荒井透, 苅田幸雄 | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.asia/book/5417557/8b0df8">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.asia/book/5417557/8b0df8" target="_blank" rel="noopener nofollow ugc">b-ok.asia</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.asia/book/5417557/8b0df8" target="_blank" rel="noopener nofollow ugc">编码: 隐匿在计算机软硬件背后的语言 | [美] Charles Petzold | download</a></h3>
+
+  <p>编码: 隐匿在计算机软硬件背后的语言 | [美] Charles Petzold | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+ ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1399#post_12</link>
+        <pubDate>Fri, 16 Sep 2022 04:00:31 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5808</guid>
+      </item>
+      <item>
+        <title>论坛资料的索引，整理，编纂的计划。通信，生产，安全技术通俗化的计划。</title>
+        <dc:creator><![CDATA[@adt adt]]></dc:creator>
+        <description><![CDATA[ <p>密码学</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://thiscute.world/posts/practical-cryptography-basics-1/">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/6/616ad498351a0d19ab3345eaa6e71fd10ede65de.png" class="site-icon" width="" height="">
+
+      <a href="https://thiscute.world/posts/practical-cryptography-basics-1/" target="_blank" rel="noopener nofollow ugc" title="05:15PM - 01 March 2022">thiscute.world – 1 Mar 22</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/3/3970ff522403664e7037d9b45e7ea2f61fe377a4.webp" class="thumbnail" width="" height="">
+
+<h3><a href="https://thiscute.world/posts/practical-cryptography-basics-1/" target="_blank" rel="noopener nofollow ugc">写给开发人员的实用密码学（一）—— 概览</a></h3>
+
+  <p>本文主要翻译自 Practical-Cryptography-for-Developers-Book 《写给开发人员的实用密码学》系列文章目录： 写给开发人员的实用密码学（一）—— 概览 写给开发人员的实用密码学（二）—— 哈希函数 写</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.asia/book/5668900/a8c881">
+  <header class="source">
+      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+
+      <a href="https://b-ok.asia/book/5668900/a8c881" target="_blank" rel="noopener nofollow ugc">b-ok.asia</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://b-ok.asia/book/5668900/a8c881" target="_blank" rel="noopener nofollow ugc">应用密码学：协议、算法与C源程序（原书第2版） | （美）Bruce Schneier | download</a></h3>
+
+  <p>应用密码学：协议、算法与C源程序（原书第2版） | （美）Bruce Schneier | download | Z-Library. Download books for free. Find books</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>隐写术</p>
+<p>安全的存储与删除</p>
+<p>网络匿名</p> ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1399#post_11</link>
+        <pubDate>Fri, 16 Sep 2022 03:47:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-5807</guid>
+      </item>
+      <item>
         <title>论坛资料的索引，整理，编纂的计划。通信，生产，安全技术通俗化的计划。</title>
         <dc:creator><![CDATA[@adt adt]]></dc:creator>
         <description><![CDATA[ <p>方针3：与其提供答案，不如提供方法（指检索资料的方法）</p>
@@ -637,30 +1146,6 @@ RJ：在警察謀殺年輕人後發生叛亂，居民反叛並將總理驅逐出
         <link>https://mlmmlm.icu/t/topic/1429#post_1</link>
         <pubDate>Tue, 13 Sep 2022 13:18:57 +0000</pubDate>
         <guid isPermaLink="false">mlmmlm.icu-post-5767</guid>
-      </item>
-      <item>
-        <title>prolet的github库分类整理是哪位同志进行的？</title>
-        <dc:creator><![CDATA[@one_normal_one one_normal_one]]></dc:creator>
-        <description><![CDATA[ <p>rt，请联络我一下，有事相商。</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1427#post_1</link>
-        <pubDate>Tue, 13 Sep 2022 10:28:56 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5760</guid>
-      </item>
-      <item>
-        <title>张角：略论无产阶级专政的政体问题</title>
-        <dc:creator><![CDATA[@one_normal_one one_normal_one]]></dc:creator>
-        <description><![CDATA[ <p>还是超阶级平等，还是无政府主义，还是枪指挥党，还是反对无产阶级专政，不想革命，不想战胜剥削阶级和保卫建设无产阶级革命，骗子。</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/832#post_9</link>
-        <pubDate>Tue, 13 Sep 2022 10:02:20 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5759</guid>
-      </item>
-      <item>
-        <title>张角：略论无产阶级专政的政体问题</title>
-        <dc:creator><![CDATA[@mmfrh]]></dc:creator>
-        <description><![CDATA[ <p>还是等级制，还是代议制，还是党拿枪，所以还是不想彻底，不想革命，不想我就是人民。骗子。</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/832#post_8</link>
-        <pubDate>Tue, 13 Sep 2022 09:06:02 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-5756</guid>
       </item>
   </channel>
 </rss>

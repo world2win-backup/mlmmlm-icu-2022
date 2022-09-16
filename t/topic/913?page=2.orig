@@ -58,7 +58,7 @@
 </h1>
 <div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
- <a href="https://mlmmlm.icu/c/13-category/13" class="badge-wrapper bullet" itemprop="item">
+<a href="https://mlmmlm.icu/c/13-category/13" class="badge-wrapper bullet" itemprop="item">
 <span class='badge-category-bg' style='background-color: #BF1E2E'></span>
 <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>公告</span>
@@ -172,7 +172,7 @@
 </div>
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<a href="https://mlmmlm.icu/t/topic/924/3" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+ <a href="https://mlmmlm.icu/t/topic/924/3" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/924/3'>
 <span itemprop='name'>本站的未来</span>
 </a>

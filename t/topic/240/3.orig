@@ -127,7 +127,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="0" />
+ <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 <div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -549,7 +549,7 @@ tg，马列毛主义讨论</p>
 <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
 </li>
- <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/tos' itemprop="url">服务条款 </a>
 </span>
