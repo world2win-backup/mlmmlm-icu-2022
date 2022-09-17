@@ -258,7 +258,7 @@
 <p><a class="mention" href="/u/zhajian">@zhajian</a> 已私信。</p>
 </div>
 <meta itemprop='headline' content='关于18年运动'>
- <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
@@ -405,5 +405,6 @@
 </nav>
 <p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
 </footer>
+
 </body>
 </html>

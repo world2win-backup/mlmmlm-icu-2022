@@ -147,7 +147,7 @@
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
-<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+ <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
@@ -221,7 +221,7 @@
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
-<p>显然很多Neurotypical对neurodiverse不够宽容。<br>
+ <p>显然很多Neurotypical对neurodiverse不够宽容。<br>
 我们撤销了某个版主的版主权限。</p>
 </div>
 <meta itemprop='headline' content='哪位同志有原版《新闻》的pdf?'>

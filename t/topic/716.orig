@@ -55,7 +55,7 @@
 <div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 <a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
- <span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
 <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>技术</span>
 </span>
@@ -80,7 +80,7 @@
 <time itemprop='datePublished' datetime='2021-03-24T14:11:29Z' class='post-time'>
 2021 年3 月 24 日 14:11
 </time>
-<meta itemprop='dateModified' content='2021-03-24T14:56:05Z'>
+ <meta itemprop='dateModified' content='2021-03-24T14:56:05Z'>
 <span itemprop='position'>#1</span>
 </span>
 </div>

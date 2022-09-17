@@ -60,7 +60,7 @@
 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 <a href="https://mlmmlm.icu/c/11-category/11" class="badge-wrapper bullet" itemprop="item">
 <span class='badge-category-bg' style='background-color: #ED207B'></span>
-<span class='badge-category clear-badge'>
+ <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>闲谈 | 灌水</span>
 </span>
 </a>
@@ -100,7 +100,7 @@
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
- </div>
+</div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
@@ -166,7 +166,7 @@
 <p><a href="https://mlmmlm.icu/t/topic/196">指引我们胜利的旗帜是马列毛主义——PAPER编辑组的一份公开声明</a></p>
 </div>
 <meta itemprop='headline' content='目前的我能做什么'>
- <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
@@ -727,7 +727,7 @@ gpcr被结束的时候工业化是基本完成了，gpcr失败绝对不是生产
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
-<span itemprop='name'>
+ <span itemprop='name'>
 <a href='/privacy' itemprop="url">隐私政策 </a>
 </span>
 </li>

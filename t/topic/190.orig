@@ -419,7 +419,7 @@
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
- <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/190">
@@ -605,7 +605,7 @@
 <time itemprop='datePublished' datetime='2021-01-25T18:59:33Z' class='post-time'>
 2021 年1 月 25 日 18:59
 </time>
-<meta itemprop='dateModified' content='2021-01-25T18:59:33Z'>
+ <meta itemprop='dateModified' content='2021-01-25T18:59:33Z'>
 <span itemprop='position'>#9</span>
 </span>
 </div>
@@ -642,7 +642,7 @@
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
- </span>
+</span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>

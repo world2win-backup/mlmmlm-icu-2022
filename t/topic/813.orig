@@ -99,7 +99,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
@@ -204,7 +204,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
- <meta itemprop="userInteractionCount" content="1" />
+<meta itemprop="userInteractionCount" content="1" />
 </div>
 </div>
 <div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -224,7 +224,7 @@
 2021 年4 月 18 日 10:38
 </time>
 <meta itemprop='dateModified' content='2021-04-18T10:38:20Z'>
-<span itemprop='position'>#5</span>
+ <span itemprop='position'>#5</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
@@ -473,7 +473,7 @@
 2021 年4 月 19 日 11:36
 </time>
 <meta itemprop='dateModified' content='2021-04-19T11:36:31Z'>
- <span itemprop='position'>#12</span>
+<span itemprop='position'>#12</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
@@ -661,7 +661,7 @@
 <a itemprop="url" href='https://mlmmlm.icu/u/Sis6P'><span itemprop='name'>Sis6P</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/813">
-<span class="crawler-post-infos">
+ <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2021-04-21T08:12:20Z' class='post-time'>
 2021 年4 月 21 日 08:12
 </time>

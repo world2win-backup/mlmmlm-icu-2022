@@ -327,7 +327,7 @@ Wipe LUKS hea…
 <p><a href="https://www.bannedthought.net/China/Magazines/index.htm" class="onebox" target="_blank">https://www.bannedthought.net/China/Magazines/index.htm</a></p>
 </div>
 <meta itemprop='headline' content='可以利用的网站 | 必看的和推荐的书籍、文章'>
- <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
@@ -402,7 +402,7 @@ Wipe LUKS hea…
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
-<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+ <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/727" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/727'>
 <span itemprop='name'>马列之声电子书整理</span>
