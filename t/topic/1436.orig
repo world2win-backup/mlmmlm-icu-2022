@@ -96,6 +96,50 @@
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/weiyunshen'><span itemprop='name'>weiyunshen</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1436">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-17T17:50:09Z' class='post-time'>
+2022 年9 月 17 日 17:50
+</time>
+<meta itemprop='dateModified' content='2022-09-17T17:50:09Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>首先，毛最好的打算是让王洪文上台，王确实有很多优点，胆大泼辣，年富力强。<br>
+但缺陷也很明显，没资历，没经验，给他成长的时间不多。但随着林彪坠机，军政系统清算，却又只能把那些在斗争中被打倒的旧官僚们再请回来，而这些人，对F4是很不服气的，称呼为眼镜儿们。不愿意和他们建立联系。<br>
+这些人，一靠资历，觉得老子天下第一。实际上和历史上那些农民起义的传统军头士大夫没什么不同。<br>
+二是山头林立，树大根深，互相勾连，主要是掌握军队。祸害很大。<br>
+这些人发动他们的嫡系搞一场政变，后果是不可想象的。毛不得不进行妥协。<br>
+后来为什么亲自出手，因为无论是刘邓还是林彪，都是打着他的旗祸害百姓，他不再信任他们，当然，他还要尽力为左派扫除障碍，增强他们的力量，好为以后打基础。<br>
+我的看法是，毛提拔华作为一个中间派协调左右，实现暂时性的集体领导，再使WG持续几年，壮大无产阶级的力量。毛希望的是左派深入发展，最后强大到独立夺权，击倒右派。<br>
+所以临走前废掉了叶奸阴的军委位置和石头猫的职位，把他赶下去。<br>
+而华却是一个表面憨厚的无能野心家，他连简单的狡兔死走狗烹的道理都不懂，以自作聪明的投名状来讨右派的欢心，最后必然走向被抛弃的命运。<br>
+当然，华不是钦定的接班人，那张你办事，我放心也就是拿着鸡毛当令箭。<br>
+毛希望的就是集体领导，最好由云鹤，春桥他们主导，这个班，最好不要腥风血雨中交，但可惜，事与愿违，右派办拉半打，就控制了骑墙派们，汪东兴，吴德吴忠，张耀祠们迅速出手，制造了政变…</p>
+</div>
+<meta itemprop='headline' content='话说CR后期教员为什么不再退居二线，确定接班人？'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
 </div>
 <footer class="container wrap">
 <nav class='crawler-nav'>
@@ -114,7 +158,7 @@
 <span itemprop='name'>
 <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
-</li>
+ </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/tos' itemprop="url">服务条款 </a>

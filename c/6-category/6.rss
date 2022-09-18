@@ -13,7 +13,7 @@
           <category>一般讨论</category>
           <description><![CDATA[
             <p>还是说当时的形势不适合这样做？</p>
-            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/1436">阅读完整话题</a></p>
           ]]></description>
           <link>https://mlmmlm.icu/t/topic/1436</link>
@@ -251,23 +251,6 @@ La Cause du Peuple（法國）關停了。</p>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1342</guid>
           <source url="https://mlmmlm.icu/t/topic/1342.rss">一些关于中国共产党抗日战争和地下斗争的文章，供参考</source>
-        </item>
-        <item>
-          <title>发现了一个网站《毛泽东诗词库》</title>
-          <dc:creator><![CDATA[azide]]></dc:creator>
-          <category>一般讨论</category>
-          <description><![CDATA[
-            <p><a href="https://mao.codeword.info/contents/A/A54/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://mao.codeword.info/contents/A/A54/</a></p>
-            <p><small>7 个帖子 - 3 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1341">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1341</link>
-          <pubDate>Fri, 19 Aug 2022 03:48:35 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1341</guid>
-          <source url="https://mlmmlm.icu/t/topic/1341.rss">发现了一个网站《毛泽东诗词库》</source>
         </item>
         <item>
           <title>《赤脚医生手册》对于抑郁症的看法</title>
@@ -649,6 +632,25 @@ La Cause du Peuple（法國）關停了。</p>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1144</guid>
           <source url="https://mlmmlm.icu/t/topic/1144.rss">请问各位有没有cr时期人民日报全集，顺便求一下朝霞杂志、学习与批判这两套书</source>
+        </item>
+        <item>
+          <title>论坛在web.archive.org上的备份</title>
+          <dc:creator><![CDATA[midnight]]></dc:creator>
+          <category>一般讨论</category>
+          <description><![CDATA[
+            <p>我们组织的五位同志熬夜把论坛上我们认为有价值的帖子备份到了 <a href="http://web.archive.org" rel="noopener nofollow ugc">web.archive.org</a>。<br>
+但目前有个问题，根据url论坛的帖子在1000以上。我们只备份了有分类的帖子，而这只占全部帖子的一小部分，有什么原因吗。</p>
+<p>只有四个同志的备份，剩下一个同志要备份的最多，要明天才有。这是备份索引<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/dR2aZeoiVzwyEHHwDY2QiSWXjpP.md">mlmmlmbackups.md</a> (19.4 KB)</p>
+            <p><small>11 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1108">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1108</link>
+          <pubDate>Thu, 21 Oct 2021 15:22:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1108</guid>
+          <source url="https://mlmmlm.icu/t/topic/1108.rss">论坛在web.archive.org上的备份</source>
         </item>
   </channel>
 </rss>
