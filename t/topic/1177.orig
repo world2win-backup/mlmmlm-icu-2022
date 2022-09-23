@@ -67,7 +67,7 @@
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
- <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -116,7 +116,7 @@
 <span itemprop='name'>
 <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
-</li>
+ </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/tos' itemprop="url">服务条款 </a>

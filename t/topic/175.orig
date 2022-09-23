@@ -44,6 +44,7 @@
 <h1>马列毛群众</h1>
 </a>
 </header>
+
 <div id="main-outlet" class="wrap" role="main">
 <div id="topic-title">
 <h1>
@@ -98,7 +99,7 @@
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
-</div>
+ </div>
 <div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">

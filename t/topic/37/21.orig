@@ -1012,7 +1012,7 @@ Why did Lenin speak of exercising dictatorship over the bourgeoisie? This questi
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
- </div>
+</div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
@@ -1088,6 +1088,5 @@ Why did Lenin speak of exercising dictatorship over the bourgeoisie? This questi
 </nav>
 <p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
 </footer>
-
 </body>
 </html>

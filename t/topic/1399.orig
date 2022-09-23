@@ -95,7 +95,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
- <meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 <div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -616,5 +616,4 @@
 <p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
 </footer>
 </body>
-
 </html>

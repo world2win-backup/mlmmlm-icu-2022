@@ -579,7 +579,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="2" />
- <span class='post-likes'>2 个赞</span>
+<span class='post-likes'>2 个赞</span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />

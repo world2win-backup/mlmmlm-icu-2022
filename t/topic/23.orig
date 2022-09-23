@@ -523,7 +523,7 @@ revisionist line 修正主义路线</p>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="0" />
+ <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 <div id='post_13' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -593,7 +593,7 @@ revisionist line 修正主义路线</p>
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
-<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+ <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>

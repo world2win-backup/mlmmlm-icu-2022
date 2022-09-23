@@ -253,7 +253,7 @@
 <span itemprop='position'>#4</span>
 </span>
 </div>
-<div class='post' itemprop='articleBody'>
+ <div class='post' itemprop='articleBody'>
 <p>如果谈恋爱是“革命”，那这篇文章完全忘掉了「政治挂帅」，倒向了资产阶级机会主义路线。</p>
 </div>
 <meta itemprop='headline' content='转发反驳脸书专页马列毛主义之声发布所谓《马列毛主义教你谈恋爱》的文章'>
@@ -376,7 +376,7 @@
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
-<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+ <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -529,7 +529,7 @@
 </div>
 <meta itemprop='headline' content='转发反驳脸书专页马列毛主义之声发布所谓《马列毛主义教你谈恋爱》的文章'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="1" />
 <span class='post-likes'>1 个赞</span>
 </div>
