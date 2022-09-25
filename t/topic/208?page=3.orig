@@ -108,7 +108,7 @@
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
- <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
@@ -165,7 +165,7 @@
 就我所知，后期批林批孔实际在批周。大谈儒法斗争也是。</p>
 </div>
 <meta itemprop='headline' content='【新人报到】如果想测试发言功能请集中到这里'>
- <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
@@ -202,7 +202,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
-<span class='post-likes'></span>
+ <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -230,7 +230,7 @@
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
- <blockquote>
+<blockquote>
 <p>一九七四年春，“四人帮”在批林批孔运动中，背着毛主席、党中央，另搞一套，三箭齐发，把矛头对准敬爱的周总理和中央其他领导同志。</p>
 </blockquote>
 <p>这是华主政时期的说法。</p>
@@ -285,7 +285,7 @@
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
- <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -623,7 +623,7 @@
 <meta itemprop='headline' content='【新人报到】如果想测试发言功能请集中到这里'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
- <meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -768,7 +768,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
-</div>
+ </div>
 </div>
 <div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
 <span itemprop='name'><a rel="prev" itemprop="url" href="/t/topic/208?page=2">← 上一页</a></span>

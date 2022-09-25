@@ -333,7 +333,7 @@ Wipe LUKS hea…
 <meta itemprop='headline' content='可以利用的网站 | 必看的和推荐的书籍、文章'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
- <meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -636,7 +636,7 @@ Wipe LUKS hea…
 <time itemprop='datePublished' datetime='2020-12-20T11:53:46Z' class='post-time'>
 2020 年12 月 20 日 11:53
 </time>
-<meta itemprop='dateModified' content='2020-12-20T11:53:46Z'>
+ <meta itemprop='dateModified' content='2020-12-20T11:53:46Z'>
 <span itemprop='position'>#22</span>
 </span>
 </div>

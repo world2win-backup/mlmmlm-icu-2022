@@ -5,8 +5,33 @@
     <link>https://mlmmlm.icu/c/10-category/10</link>
     <description>&#39;学习导引&#39; 类别中的话题 </description>
     <language>zh-CN</language>
-      <lastBuildDate>Thu, 25 Aug 2022 03:39:09 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 24 Sep 2022 03:52:56 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/c/10-category/10.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>本站自2022年恢复以来的大事记</title>
+          <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+          <category>学习导引</category>
+          <description><![CDATA[
+            <ol>
+<li>发现了短波电台放大器的电路图。用编码理论和密码学与其结合。</li>
+<li>将马列之声整理的电子书上传至网上。</li>
+<li>发现了抵抗运动中长期保存物并反对金属探测器的方法（用PVC管道深埋，用氮气置换空气）。</li>
+<li>整理了一些资料库使其便于检索。</li>
+<li>发现了3D打印部分零件的图纸。</li>
+<li>高氧化态的含氮化合物的制备方法。</li>
+<li>开启了技术资料的通俗化计划。</li>
+</ol>
+            <p><small>2 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1442">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1442</link>
+          <pubDate>Sat, 24 Sep 2022 03:52:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1442</guid>
+          <source url="https://mlmmlm.icu/t/topic/1442.rss">本站自2022年恢复以来的大事记</source>
+        </item>
         <item>
           <title>【科普】三酸两碱，无机含氮化合物，含能材料，化工有机产品的科普（关于历史上的制备方法和当前的制备方法）</title>
           <dc:creator><![CDATA[adt]]></dc:creator>
@@ -1661,23 +1686,6 @@ MEGA=6:<a href="https://mega.nz/folder/dbw2lDzL#FiEiWtLdXCPFVwAEyZvynA" rel="noo
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-382</guid>
           <source url="https://mlmmlm.icu/t/topic/382.rss">革命导师关于先锋队理论和灌输论的论述</source>
-        </item>
-        <item>
-          <title>毛主席是如何跟工农接触的？</title>
-          <dc:creator><![CDATA[adt]]></dc:creator>
-          <category>学习导引</category>
-          <description><![CDATA[
-            <p>要研究农村各阶级、各阶层关系。我花了十几年功夫，才搞清楚。茶馆、赌场，什么人都接近、调查。一九二五年我搞农民运动讲习所，作农村调查。我在家乡找贫苦农民调查，他们生活可惨，没有饭吃。有个农民，我找他打骨牌（天、地、人、和、梅十、长三、板凳），然后请他吃一顿饭。事先事后，吃饭中间，同他谈话，了解到农村阶级斗争那么激烈。他愿意同我谈，是因为，一把他当人看，二请他吃顿饭，三可以赢几个钱。我是老输，输一、二块现洋，他就很满足了。</p>
-            <p><small>2 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/379">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/379</link>
-          <pubDate>Tue, 09 Feb 2021 05:43:50 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-379</guid>
-          <source url="https://mlmmlm.icu/t/topic/379.rss">毛主席是如何跟工农接触的？</source>
         </item>
   </channel>
 </rss>

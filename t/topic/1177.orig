@@ -24,6 +24,7 @@
 <link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
 <link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
 <link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+
 <link rel="alternate nofollow" type="application/rss+xml" title="&#39;王洪文文革讲话集&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1177.rss" />
 <meta property="og:site_name" content="马列毛群众" />
 <meta property="og:type" content="website" />
@@ -116,7 +117,7 @@
 <span itemprop='name'>
 <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
- </li>
+</li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/tos' itemprop="url">服务条款 </a>

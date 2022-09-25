@@ -74,7 +74,7 @@
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
-</div>
+ </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/anon28011523'><span itemprop='name'>anon28011523</span></a>
@@ -135,7 +135,7 @@
 </div>
 </div>
 <div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
-<div class='crawler-post-meta'>
+ <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
@@ -217,7 +217,7 @@
 <meta itemprop='dateModified' content='2020-09-07T13:58:11Z'>
 <span itemprop='position'>#4</span>
 </span>
- </div>
+</div>
 <div class='post' itemprop='articleBody'>
 <h2>1</h2>
 <blockquote>
@@ -426,7 +426,7 @@
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/162/2" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
- <meta itemprop='url' content='https://mlmmlm.icu/t/topic/162/2'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/162/2'>
 <span itemprop='name'>论资产阶级法权</span>
 </a>
 <meta itemprop='position' content='1'>
