@@ -1182,7 +1182,7 @@ This file is binary. <a href="https://github.com/ProletRevDicta/Prolet/blob/mast
 <footer class="container wrap">
 <nav class='crawler-nav'>
 <ul>
-<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+ <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/' itemprop="url">首页 </a>
 </span>

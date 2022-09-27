@@ -89,7 +89,7 @@
 <span itemprop='position'>#1</span>
 </span>
 </div>
-<div class='post' itemprop='articleBody'>
+ <div class='post' itemprop='articleBody'>
 <h1>软件自由与路线问题</h1>
 <p>出处：《新闻》七月上</p>
 <p>编者按：这是一篇内部投稿。</p>
@@ -195,7 +195,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="1" />
+ <meta itemprop="userInteractionCount" content="1" />
 </div>
 </div>
 <div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -253,7 +253,7 @@
 <span itemprop='position'>#5</span>
 </span>
 </div>
-<div class='post' itemprop='articleBody'>
+ <div class='post' itemprop='articleBody'>
 <p>那么，阁下认为在当今中国这个线上线下的监控都十分泛滥的国度如何建党呢？如何在建党过程中做好保密工作呢？</p>
 </div>
 <meta itemprop='headline' content='软件自由与路线问题'>
@@ -292,7 +292,7 @@
 </div>
 <meta itemprop='headline' content='软件自由与路线问题'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="1" />
 <span class='post-likes'>1 个赞</span>
 </div>
@@ -375,7 +375,7 @@
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
-</div>
+ </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/None'><span itemprop='name'>None</span></a>

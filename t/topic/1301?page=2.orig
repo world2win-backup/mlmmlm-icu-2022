@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>一些无线电的基础知识 - 技术 - 马列毛群众</title>
+<meta name="description" content="https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-modulation/amplitude-modulatio&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1301?page=2" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;一些无线电的基础知识&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1301.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/2X/d/d7bb19312dab99e1956664aa7b3f5242e63070ec.jpeg" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/2X/d/d7bb19312dab99e1956664aa7b3f5242e63070ec.jpeg" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1301?page=2" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1301?page=2" />
+<meta property="og:title" content="一些无线电的基础知识" />
+<meta name="twitter:title" content="一些无线电的基础知识" />
+<meta property="og:description" content="国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知" />
+<meta name="twitter:description" content="国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知" />
+<meta name="twitter:label1" value="阅读时间" />
+<meta name="twitter:data1" value="2 mins 🕑" />
+<meta name="twitter:label2" value="赞" />
+<meta name="twitter:data2" value="2 ❤" />
+<meta property="article:published_time" content="2022-09-25T07:54:25+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+<link rel="prev" href="/t/topic/1301">
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1301">一些无线电的基础知识</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_21' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/7/72219a4344ed49ab0fe4026e2e2610c88fd49a98.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-25T07:54:25Z' class='post-time'>
+2022 年9 月 25 日 07:54
+</time>
+<meta itemprop='dateModified' content='2022-09-25T08:00:32Z'>
+<span itemprop='position'>#21</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h1>
+<a name="h-1" class="anchor" href="#h-1"></a>国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知</h1>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/7/72219a4344ed49ab0fe4026e2e2610c88fd49a98.png" alt="" data-base62-sha1="ghEql6GYWY7AeUpCy10JrisQcWY" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/5/527edca6fe2aab78b1ee1f3673b328d3f330afa9.png" alt="" data-base62-sha1="bLMX5j2VSmXWenWyc98O04XiN9n" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/1/1cb5d96ecd70c81b18cdf6a8659aed9c722b1d25.png" alt="" data-base62-sha1="45YYJAu1EGrSnNMiwBKihPVCMK1" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/6/6edb68b57932c8d813ad5dbd9ba4b7480328cb17.png" alt="" data-base62-sha1="fOGBpufjoiVIN2o3hfzErDKUcbZ" width="" height=""></p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/5/54ec7eb74e22bc0a6959ecfc881cb9bb50ff756f.png" alt="" data-base62-sha1="c7gNkC4e4mzHEZcNWikwoOeknxl" width="" height=""></p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_22' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/xjds0'><span itemprop='name'>xjds0</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-25T12:45:42Z' class='post-time'>
+2022 年9 月 25 日 12:45
+</time>
+<meta itemprop='dateModified' content='2022-09-25T12:45:42Z'>
+<span itemprop='position'>#22</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>推荐ARRL的业余无线电手册</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.asia/book/21217035/74d8f0">
+<header class="source">
+<span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
+<a href="https://b-ok.asia/book/21217035/74d8f0" target="_blank" rel="noopener nofollow ugc">b-ok.asia</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://b-ok.asia/book/21217035/74d8f0" target="_blank" rel="noopener nofollow ugc">业余无线电手册 | 火腿翻译组 | download</a></h3>
+<p>业余无线电手册 | 火腿翻译组 | download | Z-Library. Download books for free. Find books</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_23' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-27T00:50:58Z' class='post-time'>
+2022 年9 月 27 日 00:50
+</time>
+<meta itemprop='dateModified' content='2022-09-27T00:50:58Z'>
+<span itemprop='position'>#23</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h1>
+<a name="h-1" class="anchor" href="#h-1"></a>无线电收信原理</h1>
+<p>中国人民解放军通信兵司令部编<br>
+1973年10月<br>
+<a class="attachment" href="/uploads/short-url/dbJVZs7kIlLGRVskN5XsrFaTpK2.pdf">无线电收信原理 (中国人民解放军通信兵司令部编) (z-lib.org).pdf</a> (6.3 MB)</p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_24' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-27T01:10:44Z' class='post-time'>
+2022 年9 月 27 日 01:10
+</time>
+<meta itemprop='dateModified' content='2022-09-27T01:10:44Z'>
+<span itemprop='position'>#24</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>令参见《土地革命战争时期通信兵回忆录》 (中国人民解放军总参谋部通信部编研室)</p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_25' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/7/7c2852dcb136253ad42e36d1fbe3d2fae44a353d.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-27T01:23:21Z' class='post-time'>
+2022 年9 月 27 日 01:23
+</time>
+<meta itemprop='dateModified' content='2022-09-27T01:32:27Z'>
+<span itemprop='position'>#25</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/7/7c2852dcb136253ad42e36d1fbe3d2fae44a353d.png" alt="image" data-base62-sha1="hIlBaaXsXpANvkyEFedqwxHdRy5" width="346" height="500"><br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/7/70c08b879a07addf94b0a5c04f2b95274fc4b961.png" alt="image" data-base62-sha1="g5s09JisM0iqBsTeVjdCNWqdhRf" width="345" height="500"><br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/7/7478f1f7fa95a4c62affd332bc0f906328590261.png" alt="image" data-base62-sha1="gCmvE9LPPtC6ML1eoB3qq0KrsyJ" width="211" height="500"></p><aside class="onebox allowlistedgeneric" data-onebox-src="https://web.archive.org/web/20220927012638/https://www.bilibili.com/read/cv15059836">
+<header class="source">
+<a href="https://web.archive.org/web/20220927012638/https://www.bilibili.com/read/cv15059836" target="_blank" rel="noopener nofollow ugc">web.archive.org</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://web.archive.org/web/20220927012638/https://www.bilibili.com/read/cv15059836" target="_blank" rel="noopener nofollow ugc">大八一电台发射部手摇发电机</a></h3>
+<p>大八一发射部电源 高压：425～500V，110～145mA 低压：6.3V，约2A为了将来能到山顶上进行通信测试，最终还是没有选择固定的电源，而是用手摇发电机！1969年生产的手摇发电机发电机+电台+收信部电池总重100多斤 大八一电台经历了半个世纪的老电台将会在爱好者手中继续发挥价值，薪火相传。</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<p>Homelite Auxiliary Generator<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/3/3b7351d274b931217c2da6c66611946f5798c68f.jpeg" alt="image" data-base62-sha1="8tVeZQYx0faaaCEYLUt2FieVpRZ" width="500" height="500"></p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_26' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-09-27T01:40:08Z' class='post-time'>
+2022 年9 月 27 日 01:40
+</time>
+<meta itemprop='dateModified' content='2022-09-27T01:40:08Z'>
+<span itemprop='position'>#26</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>1941年，毛泽东为《通讯战士》的出版亲笔题词：“你们是科学的千里眼顺风耳”，凸显了无线电技术在抗战时期的特殊地位。毛泽东同志曾指出：“由于无线电的存在，纵使我们在农村环境中，但我们在政治上却不是孤立的，我们和全国全世界的政治活动的关系是很密切的，同时，纵使革命在各个农村是被分割的，而经过无线电，也就能形成集中的指导了。”</p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+<span itemprop='name'><a rel="prev" itemprop="url" href="/t/topic/1301">← 上一页</a></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>
