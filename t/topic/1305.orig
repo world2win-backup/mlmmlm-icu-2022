@@ -240,7 +240,7 @@ The 2200-meter band is within the low frequency (LF) band, just below the 153–
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
-</div>
+ </div>
 </div>
 <div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
@@ -298,7 +298,7 @@ The 2200-meter band is within the low frequency (LF) band, just below the 153–
 2022 年9 月 3 日 09:41
 </time>
 <meta itemprop='dateModified' content='2022-09-03T09:41:34Z'>
-<span itemprop='position'>#5</span>
+ <span itemprop='position'>#5</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
@@ -520,7 +520,7 @@ Provider options:
 2022 年9 月 3 日 10:29
 </time>
 <meta itemprop='dateModified' content='2022-09-03T10:29:38Z'>
-<span itemprop='position'>#8</span>
+ <span itemprop='position'>#8</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
@@ -1006,7 +1006,7 @@ MOS管的极间电容很小，一点点电荷积累就会产生高压！因此�
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
- <span class='post-likes'></span>
+<span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />

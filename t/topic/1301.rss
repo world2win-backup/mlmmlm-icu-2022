@@ -11,9 +11,77 @@ https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf
 
 https://www.youtube.com/watch?v=o9XCnZQkvQ0</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Sep 2022 01:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 01:31:20 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1301.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://web.archive.org/web/20211217090037/https://www.qsl.net/on6mu/schemas/transmitter_1Watt_10meterband_on6mu.htm" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20211217090037/https://www.qsl.net/on6mu/schemas/transmitter_1Watt_10meterband_on6mu.htm</a></p>
+<p><a href="https://web.archive.org/web/20211217090025/https://www.qsl.net/on6mu/schemas/RF_amplifier_28Mc_27Mc_5w_HFamp.htm" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20211217090025/https://www.qsl.net/on6mu/schemas/RF_amplifier_28Mc_27Mc_5w_HFamp.htm</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/29">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/29</link>
+        <pubDate>Thu, 29 Sep 2022 01:31:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-29</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <h1>
+<a name="always-use-a-dummy-load-for-testing-and-adjusting-the-transmitter-1" class="anchor" href="https://mlmmlm.icu#always-use-a-dummy-load-for-testing-and-adjusting-the-transmitter-1"></a>Always use a dummy load(假负载) for testing and adjusting the transmitter!!!</h1>
+<h2>
+<a name="h-2" class="anchor" href="https://mlmmlm.icu#h-2"></a>假负载射频</h2>
+<p>假负载射频（RF 假负载）用于模拟电路的工作条件，以便进行测试。</p>
+<h2>
+<a name="h-3" class="anchor" href="https://mlmmlm.icu#h-3"></a>假负载射频是如何工作的？</h2>
+<p>假负载射频的目的是吸收 RF 能量并转化为热量。理想的负载能在无限的频率范围内提供无限能量的匹配吸收，同时维持完美匹配。假负载最简单的测试方法是用欧姆表进行测量。</p>
+<h2>
+<a name="h-4" class="anchor" href="https://mlmmlm.icu#h-4"></a>假负载射频的用途</h2>
+<ul>
+<li>
+<h3>
+<a name="h-5" class="anchor" href="https://mlmmlm.icu#h-5"></a>无线电：</h3>
+</li>
+</ul>
+<p>在无线电中，该设备也被称为虚拟天线。它被用作天线的替代品，帮助测试无线电发射器。</p>
+<ul>
+<li>
+<h3>
+<a name="h-6" class="anchor" href="https://mlmmlm.icu#h-6"></a>音频：</h3>
+</li>
+</ul>
+<p>在测试放大器时，常常用假负载代替扬声器，这样就可以在不产生嘈杂噪声的情况下对放大器的极端功率水平进行测试。</p>
+<ul>
+<li>
+<h3>
+<a name="h-7" class="anchor" href="https://mlmmlm.icu#h-7"></a>电源：</h3>
+</li>
+</ul>
+<p>假负载可以用于备用发电机的在厂测试和在役测试，用于在断电时稳定电源系统。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/28">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/28</link>
+        <pubDate>Thu, 29 Sep 2022 01:20:44 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-28</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/hljbwteH8TxCOFeZH31PMsIqBPC.pdf">Module_6_2_PA_Classes.pdf</a> (5.2 MB)</p>
+<p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/vQdQDnzh9SF2hcYVovcEa2QP1uf.pdf">含有耦合电感的电路.pdf</a> (906.3 KB)</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/27">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/27</link>
+        <pubDate>Wed, 28 Sep 2022 08:41:32 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-27</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
       <item>
         <title>一些无线电的基础知识</title>
         <dc:creator><![CDATA[adt]]></dc:creator>
@@ -1070,166 +1138,6 @@ bash -c "$(curl -LfsS 'https://gitee.com/mo2/linux/raw/master/debian.sh')"
         <link>https://mlmmlm.icu/t/topic/1301/5</link>
         <pubDate>Sat, 13 Aug 2022 07:57:25 +0000</pubDate>
         <guid isPermaLink="false">mlmmlm.icu-post-1301-5</guid>
-        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
-      </item>
-      <item>
-        <title>一些无线电的基础知识</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
-        <description><![CDATA[
-            <p>关于天线的科普<br>
-BV1g54y1X7VF</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1301/4">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1301/4</link>
-        <pubDate>Sat, 13 Aug 2022 07:31:23 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1301-4</guid>
-        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
-      </item>
-      <item>
-        <title>一些无线电的基础知识</title>
-        <dc:creator><![CDATA[adt]]></dc:creator>
-        <description><![CDATA[
-            <aside class="onebox allowlistedgeneric" data-onebox-src="https://open.163.com/newview/movie/courseintro?newurl=XFVMGNB30">
-  <header class="source">
-      <img src="https://mlmmlm.icu/uploads/default/original/2X/7/7aadac85aa9437341e7d430948bb2ae05469654c.png" class="site-icon" width="" height="">
-
-      <a href="https://open.163.com/newview/movie/courseintro?newurl=XFVMGNB30" target="_blank" rel="noopener nofollow ugc">open.163.com</a>
-  </header>
-
-  <article class="onebox-body">
-    <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
-
-<h3><a href="https://open.163.com/newview/movie/courseintro?newurl=XFVMGNB30" target="_blank" rel="noopener nofollow ugc">天线原理</a></h3>
-
-  <p>本课程是电子信息类本科专业的必修课程，内容包括：天线的基本概念和基本理论；常用线天线及其阵列的基本工作原理；面天线基础，包括面元的辐射特性、喇叭天线、旋转抛物面天线以及卡塞格伦天线等常用面天线的结构、工作原理和基本分析方法；天线主要电参数的测量原理和方法等。要求学生通过学习本课程掌握常用天线的基本概念、基本工作原理和基本分析及测量方法，为今后的学习和工作打下基础。本课程采用的教材为马汉炎教授编著、哈尔滨工业大学出版社出版的《天线技术》，该教材的体例与国内许多本科教材一致，通用性很强，着重于基本概...</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-<p>
-课程介绍：本课程是电子信息类本科专业的必修课程，内容包括：天线的基本概念和基本理论；常用线天线及其阵列的基本工作原理；面天线基础，包括面元的辐射特性、喇叭天线、旋转抛物面天线以及卡塞格伦天线等常用面天线的结构、工作原理和基本分析方法；天线主要电参数的测量原理和方法等。要求学生通过学习本课程掌握常用天线的基本概念、基本工作原理和基本分析及测量方法，为今后的学习和工作打下基础。本课程采用的教材为马汉炎教授编著、哈尔滨工业大学出版社出版的《天线技术》，该教材的体例与国内许多本科教材一致，通用性很强，着重于基本概念的讲解，适合初学者学习。授课人提供与该教材相配套的辅导材料，包括对知识点的分析和大量的例题、习题及解答过程，便于学习者自学。</p>
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1tQ4y1y7aJ/">
-  <header class="source">
-
-      <a href="https://www.bilibili.com/video/BV1tQ4y1y7aJ/" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
-  </header>
-
-  <article class="onebox-body">
-    <img src="https://mlmmlm.icu/uploads/default/original/2X/2/2578563124b6b3fa4d1c4214acbb89da24fb623b.jpeg" class="thumbnail" width="" height="">
-
-<h3><a href="https://www.bilibili.com/video/BV1tQ4y1y7aJ/" target="_blank" rel="noopener nofollow ugc">什么是三极管？结构及工作原理_哔哩哔哩_bilibili</a></h3>
-
-  <p>什么是三极管？结构及工作原理, 视频播放量 28324、弹幕量 11、点赞数 392、投硬币枚数 111、收藏人数 709、转发人数 150, 视频作者 猎板PCB, 作者简介 1-12层PCB打样、中小批量，关注我们，www.pcbhunt.com，相关视频：三极管原理动画演示 Bipolar Junction Transistor -...</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1EW411u7th/">
-  <header class="source">
-
-      <a href="https://www.bilibili.com/video/BV1EW411u7th/" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
-  </header>
-
-  <article class="onebox-body">
-    <img src="https://mlmmlm.icu/uploads/default/original/2X/a/ae177e0fa101664e14146821b040824a259006ad.jpeg" class="thumbnail" width="" height="">
-
-<h3><a href="https://www.bilibili.com/video/BV1EW411u7th/" target="_blank" rel="noopener nofollow ugc">【计算机科学速成课】[40集全/精校] - Crash Course Computer Science_哔哩哔哩_bilibili</a></h3>
-
-  <p>【计算机科学速成课】[40集全/精校] - Crash Course Computer Science共计40条视频，包括：1. 计算机早期历史-Early Computing、2. 电子计算机-Electronic Computing、3. 布尔逻辑 和 逻辑门-Boolean Logic &amp; Logic Gates、4. 二进制-Representing Numbers and Letters with Binary_BiliBili、5. 算术逻辑单元-How Computers...</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1y34y1C7mp">
-  <header class="source">
-
-      <a href="https://www.bilibili.com/video/BV1y34y1C7mp" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
-  </header>
-
-  <article class="onebox-body">
-    <img src="https://mlmmlm.icu/uploads/default/original/2X/f/f2b38211ddb975b65485068347b36f290b8c4928.jpeg" class="thumbnail" width="" height="">
-
-<h3><a href="https://www.bilibili.com/video/BV1y34y1C7mp" target="_blank" rel="noopener nofollow ugc">《射频电路基础（高频电子线路）》 上半部合集  西安电子科技大学 邓军_哔哩哔哩_bilibili</a></h3>
-
-  <p>《射频电路基础（高频电子线路）》 上半部合集  西安电子科技大学...</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1Ks41157L6">
-  <header class="source">
-
-      <a href="https://www.bilibili.com/video/BV1Ks41157L6" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
-  </header>
-
-  <article class="onebox-body">
-    <img src="https://mlmmlm.icu/uploads/default/original/2X/c/c2666c3493fd7441f019c0a996bfeb2780abea6c.jpeg" class="thumbnail" width="" height="">
-
-<h3><a href="https://www.bilibili.com/video/BV1Ks41157L6" target="_blank" rel="noopener nofollow ugc">小米对讲机2瓦U段通联175km_哔哩哔哩_bilibili</a></h3>
-
-  <p>这里是BG6TPE，我的QTH在武汉庙山，28楼楼顶，海拔高度100m，通联175km外的大洪山中继，小米对讲机2瓦发射，使用钻石771天线。
-所以，小米对讲机这个玩具完全没问题的！高度&gt;好天气环境&gt;天线&gt;功率，我感觉1瓦或者0.5瓦也能通，可惜小米没法调功率。
-顺便录完视频后又第一次通联了荆州中继。, 视频播放量 27635、弹幕量 31、点赞数 122、投硬币枚数 6、收藏人数 87、转发人数 61, 视频作者 灰羽工坊, 作者简介...</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-          <p><a href="https://mlmmlm.icu/t/topic/1301/3">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1301/3</link>
-        <pubDate>Sat, 13 Aug 2022 06:52:53 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1301-3</guid>
-        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
-      </item>
-      <item>
-        <title>一些无线电的基础知识</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
-        <description><![CDATA[
-            <p>如果有什么问题可以直接在这个贴子里面问，虽然我也不太懂。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1301/2">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1301/2</link>
-        <pubDate>Wed, 10 Aug 2022 02:52:19 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1301-2</guid>
         <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
       </item>
   </channel>

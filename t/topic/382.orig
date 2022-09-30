@@ -270,7 +270,7 @@
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/562/24" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/562/24'>
-<span itemprop='name'>可否使用 redmine 之类的软件进行作业？</span>
+ <span itemprop='name'>可否使用 redmine 之类的软件进行作业？</span>
 </a>
 <meta itemprop='position' content='2'>
 </div>
@@ -287,6 +287,7 @@
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
 </span>
+
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/382">
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2021-02-12T12:05:58Z' class='post-time'>
@@ -468,7 +469,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
- <span class='post-likes'></span>
+<span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -731,7 +732,7 @@
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
-<span itemprop='name'>
+ <span itemprop='name'>
 <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
 </li>

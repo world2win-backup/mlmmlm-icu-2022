@@ -330,7 +330,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
-<span class='post-likes'></span>
+ <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -395,7 +395,7 @@
 <p>红旗76年1-10期我制作了文字版，可惜没空校对，后面自己也没继续录入了，可以先录入进去。王洪文的文革讲话我自制了一份，我收录到的大致是38份讲话，还在一直更新中。</p>
 </div>
 <meta itemprop='headline' content='关于资料整理的计划'>
-<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+ <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
@@ -517,7 +517,7 @@
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
-<div id='post_13' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+ <div id='post_13' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>

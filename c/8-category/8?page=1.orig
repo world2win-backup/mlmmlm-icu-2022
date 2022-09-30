@@ -26,7 +26,7 @@
 <link rel="prev" href="/c/8-category/8.json">
 <link rel="next" href="/c/8-category/8?page=2">
 <link rel="alternate" type="application/rss+xml" title="最新帖子" href="https://mlmmlm.icu/posts.rss" />
-<link rel="alternate" type="application/rss+xml" title="最新话题" href="https://mlmmlm.icu/latest.rss" />
+ <link rel="alternate" type="application/rss+xml" title="最新话题" href="https://mlmmlm.icu/latest.rss" />
 <link rel="alternate nofollow" type="application/rss+xml" title="&#39;新闻&#39; 类别中话题的 RSS Feed" href="https://mlmmlm.icu/c/8-category/8.rss" />
 <meta property="og:site_name" content="马列毛群众" />
 <meta property="og:type" content="website" />
@@ -65,9 +65,37 @@
 <tbody>
 <tr class="topic-list-item">
 <td class="main-link" itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<meta itemprop='name' content='截止到2月5日BiliBili上所有彈幕被關閉且被b站審覈允許推送至“毛澤東”的視頻'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/332'>
+<meta itemprop='position' content='1'>
+<span class="link-top-line">
+<a href='https://mlmmlm.icu/t/topic/332' class='title raw-link raw-topic-link'>截止到2月5日BiliBili上所有彈幕被關閉且被b站審覈允許推送至“毛澤東”的視頻</a>
+</span>
+<div class="link-bottom-line">
+<div class="discourse-tags">
+</div>
+</div>
+</td>
+<td class='posters'>
+<a href="https://mlmmlm.icu/u/anon73820959" class="latest single">
+<img width="25" height="25" src="/letter_avatar_proxy/v4/letter/a/85f322/25.png" class="avatar" title='anon73820959 - 原始发帖人、最新发帖人' aria-label='anon73820959 - 原始发帖人、最新发帖人'>
+</a>
+</td>
+<td class="replies">
+<span class='posts' title='帖子'>1</span>
+</td>
+<td class="views">
+<span class='views' title='浏览量'>280</span>
+</td>
+<td>
+2021 年2 月 6 日
+</td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <meta itemprop='name' content='Commemorating the 127th Anniversary of the Birth of Chairman Mao'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/201'>
-<meta itemprop='position' content='1'>
+<meta itemprop='position' content='2'>
 <span class="link-top-line">
 <a href='https://mlmmlm.icu/t/topic/201' class='title raw-link raw-topic-link'>Commemorating the 127th Anniversary of the Birth of Chairman Mao</a>
 </span>
@@ -85,7 +113,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>185</span>
+<span class='views' title='浏览量'>186</span>
 </td>
 <td>
 2020 年12 月 26 日
@@ -95,7 +123,7 @@
 <td class="main-link" itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <meta itemprop='name' content='今天是怀仁堂政变44周年'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/126'>
-<meta itemprop='position' content='2'>
+<meta itemprop='position' content='3'>
 <span class="link-top-line">
 <a href='https://mlmmlm.icu/t/topic/126' class='title raw-link raw-topic-link'>今天是怀仁堂政变44周年</a>
 </span>
@@ -113,7 +141,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>336</span>
+<span class='views' title='浏览量'>338</span>
 </td>
 <td>
 2020 年10 月 5 日
@@ -123,9 +151,9 @@
 <td class="main-link" itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <meta itemprop='name' content='【供参考】华国锋的另一面：积极支持引进外资'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/82'>
-<meta itemprop='position' content='3'>
+<meta itemprop='position' content='4'>
 <span class="link-top-line">
- <a href='https://mlmmlm.icu/t/topic/82' class='title raw-link raw-topic-link'>【供参考】华国锋的另一面：积极支持引进外资</a>
+<a href='https://mlmmlm.icu/t/topic/82' class='title raw-link raw-topic-link'>【供参考】华国锋的另一面：积极支持引进外资</a>
 </span>
 <div class="link-bottom-line">
 <div class="discourse-tags">
@@ -141,7 +169,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>230</span>
+<span class='views' title='浏览量'>231</span>
 </td>
 <td>
 2020 年9 月 15 日
@@ -173,7 +201,7 @@
 <a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
 </span>
 </li>
-<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+ <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/tos' itemprop="url">服务条款 </a>
 </span>

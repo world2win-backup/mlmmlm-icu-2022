@@ -8,9 +8,245 @@ https://web.archive.org/web/20210804084734/https://ad5gh.wordpress.com/mrf101-am
 和
 https://gitlab.com/ProletRevDictas/CodeIsFreeSpeech/-/tree/master/FCG-9/1_FGC-9_Instructions</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Sep 2022 01:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 10:04:47 +0000</lastBuildDate>
     <category>学习导引</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1450.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>技术资料翻译计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="azide" data-post="6" data-topic="1450">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/a/6a8cbe/40.png" class="avatar"> azide:</div>
+<blockquote>
+<p>T2的作用似乎是一个自耦变压器</p>
+</blockquote>
+</aside>
+<p>查到了T2的作用是作为180 degree module combiner的一部分。<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/1/1aec768fc00f5c2ad8f8b454ce7fc042cc0dfd81.png" alt="image" data-base62-sha1="3Qb27hFJVDF8n3ij3EaqCwsIoGl" width="466" height="500"><br>
+关于mixer， synthesizer和combiner的区别：</p><aside class="onebox stackexchange" data-onebox-src="https://dsp.stackexchange.com/questions/67965/combiner-vs-mixer-vs-coupler">
+  <header class="source">
+
+      <a href="https://dsp.stackexchange.com/questions/67965/combiner-vs-mixer-vs-coupler" target="_blank" rel="noopener nofollow ugc">dsp.stackexchange.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://dsp.stackexchange.com/users/50234/dip-fan" target="_blank" rel="noopener nofollow ugc">
+    <img alt="DIP_fan" src="https://mlmmlm.icu/uploads/default/original/2X/3/3d3b62172627bce5da8c3388238f29aa2d28b2ca.png" class="thumbnail onebox-avatar" width="" height="">
+  </a>
+
+<h4>
+  <a href="https://dsp.stackexchange.com/questions/67965/combiner-vs-mixer-vs-coupler" target="_blank" rel="noopener nofollow ugc">Combiner vs mixer vs coupler?</a>
+</h4>
+
+<div class="tags">
+  <strong>digital-communications, terminology, communication-standard</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://dsp.stackexchange.com/users/50234/dip-fan" target="_blank" rel="noopener nofollow ugc">
+    DIP_fan
+  </a>
+  on <a href="https://dsp.stackexchange.com/questions/67965/combiner-vs-mixer-vs-coupler" target="_blank" rel="noopener nofollow ugc">01:31PM - 31 May 20 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<aside class="onebox wikipedia" data-onebox-src="https://en.wikipedia.org/wiki/Frequency_synthesizer">
+  <header class="source">
+
+      <a href="https://en.wikipedia.org/wiki/Frequency_synthesizer" target="_blank" rel="noopener nofollow ugc">en.wikipedia.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/1/16656aa957de980c53b01f15cd498ac64eb48d2b.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://en.wikipedia.org/wiki/Frequency_synthesizer" target="_blank" rel="noopener nofollow ugc">Frequency synthesizer</a></h3>
+
+<p>A frequency synthesizer is an electronic circuit that generates a range of frequencies from a single reference frequency. Frequency synthesizers are used in many modern devices such as radio receivers, televisions, mobile telephones, radiotelephones, walkie-talkies, CB radios, cable television converter boxes, satellite receivers, and GPS systems. A frequency synthesizer may use the techniques of frequency multiplication, frequency division, direct digital synthesis, frequency mixing, and phase-l...</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+<aside class="onebox wikipedia" data-onebox-src="https://en.wikipedia.org/wiki/Frequency_mixer">
+  <header class="source">
+
+      <a href="https://en.wikipedia.org/wiki/Frequency_mixer" target="_blank" rel="noopener nofollow ugc">en.wikipedia.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/67f675d6f82b33741e29b970df387ec0fc575b40.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://en.wikipedia.org/wiki/Frequency_mixer" target="_blank" rel="noopener nofollow ugc">Frequency mixer</a></h3>
+
+<p>In electronics, a mixer, or frequency mixer, is an electrical circuit that creates new frequencies from two signals applied to it. In its most common application, two signals are applied to a mixer, and it produces new signals at the sum and difference of the original frequencies.  Other frequency components may also be produced in a practical frequency mixer.
+ Mixers are widely used to shift signals from one frequency range to another, a process known as heterodyning, for convenience in transmis...</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1450/7">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1450/7</link>
+        <pubDate>Thu, 29 Sep 2022 10:04:47 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1450-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/1450.rss">技术资料翻译计划</source>
+      </item>
+      <item>
+        <title>技术资料翻译计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group quote-modified" data-username="adt" data-post="1" data-topic="1450">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/adt/40/204_2.png" class="avatar"> adt:</div>
+<blockquote>
+<p><a href="https://web.archive.org/web/20210804084734/https://ad5gh.wordpress.com/mrf101-amplifier/" rel="noopener nofollow ugc">https://web.archive.org/web/20210804084734/https://ad5gh.wordpress.com/mrf101-amplifier/</a></p>
+</blockquote>
+</aside>
+<p>T2的作用似乎是一个自耦变压器。这是一个class AB放大器。<br>
+参见“ 点规定（dot convention）”</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1450/6">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1450/6</link>
+        <pubDate>Wed, 28 Sep 2022 09:02:40 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1450-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/1450.rss">技术资料翻译计划</source>
+      </item>
+      <item>
+        <title>技术资料翻译计划</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/6/62eb60beaaf6fb3312a5e732a6ccf06a8ebe20fb.png" alt="image" data-base62-sha1="e755oeo3N2GeDiTPQxYMEyBsXof" width="690" height="436"></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1450/5">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1450/5</link>
+        <pubDate>Tue, 27 Sep 2022 10:27:33 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1450-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/1450.rss">技术资料翻译计划</source>
+      </item>
+      <item>
+        <title>技术资料翻译计划</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>16mm Seamless Steel Pipe Hydraulic Alloy Precision Steel Tubes Explosion-proof Tube<br>
+外径16mm无缝钢管液压合金精密不锈钢管防爆管</p>
+<p>内径：8mm<br>
+材料：40Cr</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Equivalent (For reference)</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>China</td>
+<td></td>
+<td>USA</td>
+<td></td>
+<td>Germany</td>
+<td></td>
+<td>Japan</td>
+<td></td>
+<td>France</td>
+<td></td>
+<td>UK</td>
+<td></td>
+<td>ISO</td>
+<td></td>
+</tr>
+<tr>
+<td>Standard</td>
+<td>Grade</td>
+<td>Standard</td>
+<td>Grade</td>
+<td>Standard</td>
+<td>Grade (Steel number)</td>
+<td>Standard</td>
+<td>Grade</td>
+<td>Standard</td>
+<td>Grade</td>
+<td>Standard</td>
+<td>Grade</td>
+<td>Standard</td>
+<td>Grade</td>
+</tr>
+<tr>
+<td>GB/T 3077</td>
+<td>40Cr</td>
+<td>AISI or  ASTM A29/A29M</td>
+<td>5140</td>
+<td>DIN EN 10083-3</td>
+<td>41Cr4 (1.7035)</td>
+<td>JIS G4104</td>
+<td>SCr440</td>
+<td>NF EN 10083-3</td>
+<td>41Cr4 (1.7035)</td>
+<td>BS EN 10083-3</td>
+<td>41Cr4 (1.7035)</td>
+<td>ISO 683-1</td>
+<td>41Cr4</td>
+</tr>
+</tbody>
+</table>
+</div>
+          <p><a href="https://mlmmlm.icu/t/topic/1450/4">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1450/4</link>
+        <pubDate>Tue, 27 Sep 2022 10:13:22 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1450-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/1450.rss">技术资料翻译计划</source>
+      </item>
+      <item>
+        <title>技术资料翻译计划</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p><code>https://www.youtube.com/watch?v=xh2FjzVVIZY</code></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1450/3">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1450/3</link>
+        <pubDate>Tue, 27 Sep 2022 06:36:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1450-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/1450.rss">技术资料翻译计划</source>
+      </item>
       <item>
         <title>技术资料翻译计划</title>
         <dc:creator><![CDATA[adt]]></dc:creator>
