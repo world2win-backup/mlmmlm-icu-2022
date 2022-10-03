@@ -103,7 +103,7 @@
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/562/8" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
-<meta itemprop='url' content='https://mlmmlm.icu/t/topic/562/8'>
+ <meta itemprop='url' content='https://mlmmlm.icu/t/topic/562/8'>
 <span itemprop='name'>可否使用 redmine 之类的软件进行作业？</span>
 </a>
 <meta itemprop='position' content='1'>
@@ -114,6 +114,13 @@
 <span itemprop='name'>必读的文章和书籍</span>
 </a>
 <meta itemprop='position' content='2'>
+</div>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/19/27" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/19/27'>
+<span itemprop='name'>可以利用的网站 | 必看的和推荐的书籍、文章</span>
+</a>
+<meta itemprop='position' content='3'>
 </div>
 </div>
 </div>
@@ -695,7 +702,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
@@ -786,7 +793,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
@@ -1022,7 +1029,7 @@
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/equinox'><span itemprop='name'>equinox</span></a>
 </span>
-<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/37">
+ <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/37">
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2021-08-10T09:50:56Z' class='post-time'>
 2021 年8 月 10 日 09:50

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>几个计算机领域的计划</title>
+    <link>https://mlmmlm.icu/t/topic/1469</link>
+    <description>正如azide同志所说，自由软件运动“并不需要有那么一个聊天室去专门学习这个事”。所以，我们群组中一些讨论的成果也应当发动这里群众讨论一下，以实现或否决。虽然在信息技术方面我是个半吊子，但我还有几个计划要与同志们分享。
+
+分享一下聊天记录
+[matrix-export-2022-10-3 的 00-56-54.txt|attachment](upload://yHgWh4kZBYEtr7gpxlfNGiWYqTy.txt) (50.5 KB)
+
+## 1、在群众中普及i2p
+理由：i2p与tor相比完全实现了去中心化
+原话 
+2022/10/2 20:54:36 - administrator: &lt;@narratorz:matrix.org &quot;做好私自拉光缆的准备吧（迫真IEPL&quot;&gt; 深圳连接香港
+2022/10/2 20:55:05 - administrator: 云南连接缅甸
+2022/10/2 20:55:12 - narratorz: 真革命了香港肯定也要被切
+2022/10/2 20:55:19 - narratorz: 云南到缅甸还有点戏
+2022/10/2 20:55:39 - Lanky Lonky: 😄
+2022/10/2 20:55:55 - Lanky Lonky: 🤑
+2022/10/2 20:55:58 - administrator: 什么越南/俄罗斯/蒙古国/金门  也看看
+2022/10/2 20:58:53 - administrator: 上海（各个沿海）无线电连接台湾日本
+2022/10/2 20:59:05 - administrator: 😂
+2022/10/2 20:59:16 - narratorz: 直接架10ghz微波线路（
+2022/10/2 20:59:29 - Lanky Lonky: &lt;@narratorz:matrix.org &quot;直接架10ghz微波线路（&quot;&gt; 🤗
+2022/10/2 20:59:32 - narratorz: 想想都刺激（bushi
+2022/10/2 21:00:50 - administrator: 或者更加 低成本的，就是国内大局域网  建立 去中心化 P2P 或者 i2p/blockchain  等等分布式网络架构
+2022/10/2 21:01:26 - administrator: 比如 IPFS 和 BitTorrent 分享文件
+2022/10/2 21:02:12 - administrator: 顺便用这种架构建立聊天方法
+2022/10/2 21:03:02 - narratorz: &lt;@administrator:matrix.im &quot;或者更加 低成本的，就是国内大局域网  建立 去中心化 P2P ...&quot;&gt; 德国有wifi接力公共wifi计划
+2022/10/2 21:03:05 - narratorz: 可以学习
+2022/10/2 21:03:13 - narratorz: 家庭路由刷固件就行
+2022/10/2 21:03:26 - administrator: （或者更那个的，比如连大内网都没了，那就蓝牙/Wi-Fi 做网状拓扑架构的网络
+2022/10/2 21:03:57 - narratorz: matrix是联邦式聊天软件的最佳答案
+2022/10/2 21:04:09 - administrator: &lt;@narratorz:matrix.org &quot;德国有wifi接力公共wifi计划&quot;&gt; 这种是提供 internet 接入？还是自己组网的 mesh network？
+2022/10/2 21:04:15 - narratorz: 我觉得多托管些墙内服务器就行
+2022/10/2 21:04:17 - narratorz: &lt;@administrator:matrix.im &quot;这种是提供 internet 接入？还是自己组网的 mesh n...&quot;&gt; 1
+2022/10/2 21:06:08 - narratorz: i2p肯定得普及下，毕竟就是断网了也能组成墙内的网中网
+
+2022/10/2 21:45:27 - Gonzal0_official: &lt;@narratorz:matrix.org &quot;i2p肯定得普及下，毕竟就是断网了也能组成墙内的网中网&quot;&gt; 我认为可以在马列毛群众开一个i2pd本地化项目
+2022/10/2 21:45:42 - narratorz: i2pd已经有中文本地化了
+2022/10/2 21:45:47 - narratorz: 我是说web控制台
+2022/10/2 21:46:56 - Gonzal0_official: 那不是还要投入人力宣传、普及嘛
+2022/10/2 21:47:12 - narratorz: 官网有中文会好很多（恼
+2022/10/2 21:48:02 - Gonzal0_official: 搞一个github网页
+2022/10/2 21:48:32 - narratorz: ✅，现在就去fork罢（
+
+## 2、攻击GFW
+原话：2022/10/2 22:20:35 - administrator: &lt;@narratorz:matrix.org &quot;反射ddos，然后被百倍反弹（bushi&quot;&gt; 要是能找到那种自触发的packet的话，伪造一个源IP能再次经过gfw的，一个包又能再产生一个包，然后让它们自己攻击自己，死循环直接自己搞死自己😅🤣
+2022/10/2 22:22:21 - narratorz: 😇
+2022/10/2 22:24:35 - administrator: &lt;@administrator:matrix.im &quot;要是能找到那种自触发的packet的话，伪造一个源IP能再次经过...&quot;&gt; 而且是指数J型 增长，一个 DNS 有 2~3 个回复，这 两三个又产生N个（当然不太好找到那种让gfw回应一个能再触发自己  的这种数据包
+2022/10/2 22:35:30 - Gonzal0_official: &lt;@administrator:matrix.im &quot;而且是指数J型 增长，一个 DNS 有 2~3 个回复，这 两三...&quot;&gt; 这时候就要求助于群众了。群众的力量是伟大的。我也建议在马列毛群众上设一个关于此的专项计划
+2022/10/2 22:35:59 - narratorz: 全民ddos gfw是吧</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 03 Oct 2022 10:01:12 +0000</lastBuildDate>
+    <category>一般讨论</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1469.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>几个计算机领域的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>至於接力公共WIFI計劃，WIFI可以輕易地被TPYboard V202植入病毒（似乎原文地址成為全網公敵後被封殺了，但是方法還是可行的）—— <a href="https://www.pianshen.com/article/81931689178/" rel="noopener nofollow ugc">https://www.pianshen.com/article/81931689178/</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1469/6">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1469/6</link>
+        <pubDate>Mon, 03 Oct 2022 10:01:12 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1469-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/1469.rss">几个计算机领域的计划</source>
+      </item>
+      <item>
+        <title>几个计算机领域的计划</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>關於GFW，很多國家都有自己的局域網，比如韓國就不能上得了“朝鮮的出版物”這一網站，GFW是國家機器性質的，攻擊GFW造成的國際影響不會很大，上不去網的國家照樣上不去網。GFW相當於對外貿易壟斷制。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1469/5">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1469/5</link>
+        <pubDate>Mon, 03 Oct 2022 09:55:43 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1469-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/1469.rss">几个计算机领域的计划</source>
+      </item>
+      <item>
+        <title>几个计算机领域的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>事情没有那么复杂，我设想是如果是针对不特定人的通信用wifi热点或者邮寄就行了。<br>
+如果是针对特定人的，用电台。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1469/4">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1469/4</link>
+        <pubDate>Mon, 03 Oct 2022 03:39:31 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1469-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/1469.rss">几个计算机领域的计划</source>
+      </item>
+      <item>
+        <title>几个计算机领域的计划</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="gonzalofficial" data-post="1" data-topic="1469">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/g/8e8cbc/40.png" class="avatar"> gonzalofficial:</div>
+<blockquote>
+<p>1、在群众中普及i2p</p>
+</blockquote>
+</aside>
+<p>i2p比tor更加去中心化，但是匿名性不如tor好。<br>
+i2p并非不能审查，目前天朝的做法是封锁初始化节点+部署大量僵尸节点让网络速度变得很慢。<br>
+如果非常时期，有关部门可能会狠下心把所有UDP都封锁，这时候i2p失去了hole punching的功能。</p>
+<aside class="quote no-group" data-username="gonzalofficial" data-post="1" data-topic="1469">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/g/8e8cbc/40.png" class="avatar"> gonzalofficial:</div>
+<blockquote>
+<p>直接架10ghz微波线路</p>
+</blockquote>
+</aside>
+<p>这个倒是可行</p>
+<aside class="quote no-group" data-username="gonzalofficial" data-post="1" data-topic="1469">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/g/8e8cbc/40.png" class="avatar"> gonzalofficial:</div>
+<blockquote>
+<p>德国有wifi接力公共wifi计划</p>
+</blockquote>
+</aside>
+<p>这个也可行</p>
+<aside class="quote no-group" data-username="gonzalofficial" data-post="1" data-topic="1469">
+<div class="title">
+<div class="quote-controls"></div>
+<img loading="lazy" alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/g/8e8cbc/40.png" class="avatar"> gonzalofficial:</div>
+<blockquote>
+<p>攻击GFW</p>
+</blockquote>
+</aside>
+<p>这个属于天马行空，退一万步讲，攻击成功了又怎么样呢？只会搞得大家都上不了网。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1469/3">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1469/3</link>
+        <pubDate>Mon, 03 Oct 2022 03:08:02 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1469-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/1469.rss">几个计算机领域的计划</source>
+      </item>
+      <item>
+        <title>几个计算机领域的计划</title>
+        <dc:creator><![CDATA[gonzalofficial]]></dc:creator>
+        <description><![CDATA[
+            <p>(来自群组：信息安全与革命自由软件讨论交流）</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1469/2">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1469/2</link>
+        <pubDate>Sun, 02 Oct 2022 17:17:40 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1469-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/1469.rss">几个计算机领域的计划</source>
+      </item>
+      <item>
+        <title>几个计算机领域的计划</title>
+        <dc:creator><![CDATA[gonzalofficial]]></dc:creator>
+        <description><![CDATA[
+            <p>正如azide同志所说，自由软件运动“并不需要有那么一个聊天室去专门学习这个事”。所以，我们群组中一些讨论的成果也应当发动这里群众讨论一下，以实现或否决。虽然在信息技术方面我是个半吊子，但我还有几个计划要与同志们分享。</p>
+<p>分享一下聊天记录<br>
+<a class="attachment" href="https://mlmmlm.icu/uploads/short-url/yHgWh4kZBYEtr7gpxlfNGiWYqTy.txt">matrix-export-2022-10-3 的 00-56-54.txt</a> (50.5 KB)</p>
+<h2>
+<a name="h-1i2p-1" class="anchor" href="https://mlmmlm.icu#h-1i2p-1"></a>1、在群众中普及i2p</h2>
+<p>理由：i2p与tor相比完全实现了去中心化<br>
+原话<br>
+2022/10/2 20:54:36 - administrator: &lt;@narratorz:matrix.org “做好私自拉光缆的准备吧（迫真IEPL”&gt; 深圳连接香港<br>
+2022/10/2 20:55:05 - administrator: 云南连接缅甸<br>
+2022/10/2 20:55:12 - narratorz: 真革命了香港肯定也要被切<br>
+2022/10/2 20:55:19 - narratorz: 云南到缅甸还有点戏<br>
+2022/10/2 20:55:39 - Lanky Lonky: <img src="https://mlmmlm.icu/images/emoji/twitter/smile.png?v=12" title=":smile:" class="emoji" alt=":smile:" loading="lazy" width="20" height="20"><br>
+2022/10/2 20:55:55 - Lanky Lonky: <img src="https://mlmmlm.icu/images/emoji/twitter/money_mouth_face.png?v=12" title=":money_mouth_face:" class="emoji" alt=":money_mouth_face:" loading="lazy" width="20" height="20"><br>
+2022/10/2 20:55:58 - administrator: 什么越南/俄罗斯/蒙古国/金门  也看看<br>
+2022/10/2 20:58:53 - administrator: 上海（各个沿海）无线电连接台湾日本<br>
+2022/10/2 20:59:05 - administrator: <img src="https://mlmmlm.icu/images/emoji/twitter/joy.png?v=12" title=":joy:" class="emoji" alt=":joy:" loading="lazy" width="20" height="20"><br>
+2022/10/2 20:59:16 - narratorz: 直接架10ghz微波线路（<br>
+2022/10/2 20:59:29 - Lanky Lonky: &lt;@narratorz:matrix.org “直接架10ghz微波线路（”&gt; <img src="https://mlmmlm.icu/images/emoji/twitter/hugs.png?v=12" title=":hugs:" class="emoji" alt=":hugs:" loading="lazy" width="20" height="20"><br>
+2022/10/2 20:59:32 - narratorz: 想想都刺激（bushi<br>
+2022/10/2 21:00:50 - administrator: 或者更加 低成本的，就是国内大局域网  建立 去中心化 P2P 或者 i2p/blockchain  等等分布式网络架构<br>
+2022/10/2 21:01:26 - administrator: 比如 IPFS 和 BitTorrent 分享文件<br>
+2022/10/2 21:02:12 - administrator: 顺便用这种架构建立聊天方法<br>
+2022/10/2 21:03:02 - narratorz: &lt;@administrator:matrix.im “或者更加 低成本的，就是国内大局域网  建立 去中心化 P2P …”&gt; 德国有wifi接力公共wifi计划<br>
+2022/10/2 21:03:05 - narratorz: 可以学习<br>
+2022/10/2 21:03:13 - narratorz: 家庭路由刷固件就行<br>
+2022/10/2 21:03:26 - administrator: （或者更那个的，比如连大内网都没了，那就蓝牙/Wi-Fi 做网状拓扑架构的网络<br>
+2022/10/2 21:03:57 - narratorz: matrix是联邦式聊天软件的最佳答案<br>
+2022/10/2 21:04:09 - administrator: &lt;@narratorz:matrix.org “德国有wifi接力公共wifi计划”&gt; 这种是提供 internet 接入？还是自己组网的 mesh network？<br>
+2022/10/2 21:04:15 - narratorz: 我觉得多托管些墙内服务器就行<br>
+2022/10/2 21:04:17 - narratorz: &lt;@administrator:matrix.im “这种是提供 internet 接入？还是自己组网的 mesh n…”&gt; 1<br>
+2022/10/2 21:06:08 - narratorz: i2p肯定得普及下，毕竟就是断网了也能组成墙内的网中网</p>
+<p>2022/10/2 21:45:27 - Gonzal0_official: &lt;@narratorz:matrix.org “i2p肯定得普及下，毕竟就是断网了也能组成墙内的网中网”&gt; 我认为可以在马列毛群众开一个i2pd本地化项目<br>
+2022/10/2 21:45:42 - narratorz: i2pd已经有中文本地化了<br>
+2022/10/2 21:45:47 - narratorz: 我是说web控制台<br>
+2022/10/2 21:46:56 - Gonzal0_official: 那不是还要投入人力宣传、普及嘛<br>
+2022/10/2 21:47:12 - narratorz: 官网有中文会好很多（恼<br>
+2022/10/2 21:48:02 - Gonzal0_official: 搞一个github网页<br>
+2022/10/2 21:48:32 - narratorz: <img src="https://mlmmlm.icu/images/emoji/twitter/white_check_mark.png?v=12" title=":white_check_mark:" class="emoji" alt=":white_check_mark:" loading="lazy" width="20" height="20">，现在就去fork罢（</p>
+<h2>
+<a name="h-2gfw-2" class="anchor" href="https://mlmmlm.icu#h-2gfw-2"></a>2、攻击GFW</h2>
+<p>原话：2022/10/2 22:20:35 - administrator: &lt;@narratorz:matrix.org “反射ddos，然后被百倍反弹（bushi”&gt; 要是能找到那种自触发的packet的话，伪造一个源IP能再次经过gfw的，一个包又能再产生一个包，然后让它们自己攻击自己，死循环直接自己搞死自己<img src="https://mlmmlm.icu/images/emoji/twitter/sweat_smile.png?v=12" title=":sweat_smile:" class="emoji" alt=":sweat_smile:" loading="lazy" width="20" height="20"><img src="https://mlmmlm.icu/images/emoji/twitter/rofl.png?v=12" title=":rofl:" class="emoji" alt=":rofl:" loading="lazy" width="20" height="20"><br>
+2022/10/2 22:22:21 - narratorz: <img src="https://mlmmlm.icu/images/emoji/twitter/innocent.png?v=12" title=":innocent:" class="emoji" alt=":innocent:" loading="lazy" width="20" height="20"><br>
+2022/10/2 22:24:35 - administrator: &lt;@administrator:matrix.im “要是能找到那种自触发的packet的话，伪造一个源IP能再次经过…”&gt; 而且是指数J型 增长，一个 DNS 有 2~3 个回复，这 两三个又产生N个（当然不太好找到那种让gfw回应一个能再触发自己  的这种数据包<br>
+2022/10/2 22:35:30 - Gonzal0_official: &lt;@administrator:matrix.im “而且是指数J型 增长，一个 DNS 有 2~3 个回复，这 两三…”&gt; 这时候就要求助于群众了。群众的力量是伟大的。我也建议在马列毛群众上设一个关于此的专项计划<br>
+2022/10/2 22:35:59 - narratorz: 全民ddos gfw是吧</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1469/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1469/1</link>
+        <pubDate>Sun, 02 Oct 2022 17:08:13 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1469-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1469.rss">几个计算机领域的计划</source>
+      </item>
+  </channel>
+</rss>

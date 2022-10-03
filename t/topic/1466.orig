@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>使用 Matrix 进行匿名加密的私聊 - 技术 - 马列毛群众</title>
+<meta name="description" content="编者按：此文转载于2047，并针对目前情况做了修改。无产阶级革命派的联合不能依靠网络论坛这种约束力较低的方式组织起来。因此，需要使用即时通讯软件。微幕（微信）、阿Q（QQ）等即时通讯软件是中国政府网络审查群众、镇压群众计划不可或缺的的一部分&amp;hellip;">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1466" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;使用 Matrix 进行匿名加密的私聊&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1466.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/optimized/2X/f/f7e30a6d76b0387d9db1d5deaab50215ca425ef7_2_1024x529.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/optimized/2X/f/f7e30a6d76b0387d9db1d5deaab50215ca425ef7_2_1024x529.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1466" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1466" />
+<meta property="og:title" content="使用 Matrix 进行匿名加密的私聊" />
+<meta name="twitter:title" content="使用 Matrix 进行匿名加密的私聊" />
+<meta property="og:description" content="编者按：此文转载于2047，并针对目前情况做了修改。无产阶级革命派的联合不能依靠网络论坛这种约束力较低的方式组织起来。因此，需要使用即时通讯软件。微幕（微信）、阿Q（QQ）等即时通讯软件是中国政府网络审查群众、镇压群众计划不可或缺的的一部分，而中国人所熟知且使用最广泛的加密通讯软件 telegram 由于电话号码的强制要求、在群聊中不提供端到端加密（即在服务器中明文存储信息）、操作空间极大的的免责声明、对 IP 地址、设备信息和用户名更改等长达 12 个月的存储、服务端的软件私有、对中国华为的软件服务的使用、根据法律要求向当局提供电话号码和 IP 地址的声明和坊间流传的与中国警方达成共识的传言等而饱受诟病。[1]自由的通讯协议 IRC 无法实现多服务器互联，session 群组支持的人数不多，baiar 无法查看离线消息。而群众中广为人知的邦联式即时通讯协议 XMPP 的客户端功能较为简陋配置较为困难、服务器比较不稳定等诸多因素有所衰落。因此，这里为同志们介绍一种安全性和易用性都较好的通讯协议——Matrix。  Matrix是一个强加密、去中心化的即时通信协议。此协议最早在2047论..." />
+<meta name="twitter:description" content="编者按：此文转载于2047，并针对目前情况做了修改。无产阶级革命派的联合不能依靠网络论坛这种约束力较低的方式组织起来。因此，需要使用即时通讯软件。微幕（微信）、阿Q（QQ）等即时通讯软件是中国政府网络审查群众、镇压群众计划不可或缺的的一部分，而中国人所熟知且使用最广泛的加密通讯软件 telegram 由于电话号码的强制要求、在群聊中不提供端到端加密（即在服务器中明文存储信息）、操作空间极大的的免责声明、对 IP 地址、设备信息和用户名更改等长达 12 个月的存储、服务端的软件私有、对中国华为的软件服务的使用、根据法律要求向当局提供电话号码和 IP 地址的声明和坊间流传的与中国警方达成共识的传言等而饱受诟病。[1]自由的通讯协议 IRC 无法实现多服务器互联，session 群组支持的人数不多，baiar 无法查看离线消息。而群众中广为人知的邦联式即时通讯协议 XMPP 的客户端功能较为简陋配置较为困难、服务器比较不稳定等诸多因素有所衰落。因此，这里为同志们介绍一种安全性和易用性都较好的通讯协议——Matrix。  Matrix是一个强加密、去中心化的即时通信协议。此协议最早在2047论..." />
+<meta name="twitter:label1" value="阅读时间" />
+<meta name="twitter:data1" value="1 mins 🕑" />
+<meta name="twitter:label2" value="赞" />
+<meta name="twitter:data2" value="4 ❤" />
+<meta property="article:published_time" content="2022-10-02T08:36:37+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1466">使用 Matrix 进行匿名加密的私聊</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+ <span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/gonzalofficial'><span itemprop='name'>gonzalofficial</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1466">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/f/f7e30a6d76b0387d9db1d5deaab50215ca425ef7.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-02T08:36:37Z' class='post-time'>
+2022 年10 月 2 日 08:36
+</time>
+<meta itemprop='dateModified' content='2022-10-02T08:57:23Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>编者按：此文转载于2047，并针对目前情况做了修改。无产阶级革命派的联合不能依靠网络论坛这种约束力较低的方式组织起来。因此，需要使用即时通讯软件。微幕（微信）、阿Q（QQ）等即时通讯软件是中国政府网络审查群众、镇压群众计划不可或缺的的一部分，而中国人所熟知且使用最广泛的加密通讯软件 telegram 由于电话号码的强制要求、在群聊中不提供端到端加密（即在服务器中明文存储信息）、操作空间极大的的免责声明、对 IP 地址、设备信息和用户名更改等长达 12 个月的存储、服务端的软件私有、对中国华为的软件服务的使用、根据法律要求向当局提供电话号码和 IP 地址的声明和坊间流传的与中国警方达成共识的传言等而饱受诟病。[1]自由的通讯协议 IRC 无法实现多服务器互联，session 群组支持的人数不多，baiar 无法查看离线消息。而群众中广为人知的邦联式即时通讯协议 XMPP 的客户端功能较为简陋配置较为困难、服务器比较不稳定等诸多因素有所衰落。因此，这里为同志们介绍一种安全性和易用性都较好的通讯协议——Matrix。</p>
+<p>Matrix是一个强加密、去中心化的即时通信协议。此协议最早在2047论坛上由 @沉默的广场 （即本文的原文作者）推荐，并在 <span class="mention">@thphd</span> 的支持下得到使用（这也是 <span class="mention">@thphd</span> 为革命群众做出的贡献之一）。[2]在无产阶级革命派中，Matrix 的应用可以追溯到 <a href="https://mlmmlm.icu/t/topic/1091" class="inline-onebox">我们需要联合：一个组织招募帖</a> 。当然，那篇帖子将 Matrix 的主要客户端 Element 和 Matrix 协议本身混为一谈[3]，导致了革命群众对其存在诸多误解。下面，我们将对此做出详细的介绍。<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/f/f7e30a6d76b0387d9db1d5deaab50215ca425ef7.png" alt="Screenshot 2022-10-01 at 16-44-45 Element Spite – Security &amp; Privacy" data-base62-sha1="zmUmNxL5ASElMhQKmNWavziuwET" width="690" height="356"><br>
+<em>Matrix 主要客户端 Element 桌面和移动客户端截图</em></p>
+<p>Matrix有很多优点，包括：</p>
+<ul>
+<li>
+<p>隐私：注册无需电话号码（电话号码的使用在中国大陆显然不是安全的），有的服务器需要使用电子邮件地址（你可以使用临时邮箱或匿名邮箱，例如protonmail或tutanota），而某些服务器则无此要求。<br>
+安全加密：Matrix私聊和群聊是端到端加密的，即使是服务器的所有者，也无法看到用户的聊天内容。Matrix 存在一个统一、完备（但可能不方便，不过至少比XMPP上各加密协议方便）的端对端加密协议。</p>
+</li>
+<li>
+<p>自由开源：Matrix客户端和服务器软件全部是自由软件，任何人都可以审查代码，检查代码中的漏洞。有兴趣的人也可以用开源代码搭建自己的 Matrix 服务器。</p>
+</li>
+<li>
+<p>去中心化：Matrix是联邦式协议，Matrix网络由分布在世界各地，由不同个人和组织运营的服务器组成，因此Matrix协议不容易被单个组织垄断。</p>
+</li>
+</ul>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/c/c524483845263b50e5315a22bcf5f527a366bce1.png" alt="0d0d87590678eca733714" data-base62-sha1="s7ZNkOz4BT3ZIBkK89LXSTvZD8J" width="690" height="473"><br>
+<em>Matrix网络组成结构</em></p>
+<p>Matrix网络是联邦式结构，由多个地位平等的服务器连接而成</p>
+<p>“联邦式协议”听上去十分晦涩，事实上，电子邮件就是一种联邦式协议，每个电子邮件服务器之间的地位平等。在收发电子邮件时，只要指定一个电子邮件服务器和服务器上的用户，就可以通信。例如<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="610419000c110d042111130e150e0f0c00080d4f020e0c">[email&#160;protected]</a> 这个电子邮件地址，example是用户名，<a href="https://protonmail.com" rel="noopener nofollow ugc">protonmail.com</a> 是服务器名。</p>
+<p>在Telegram，微信等聊天软件中，添加好友需要指定手机号或者用户名。而Matrix非常像电子邮件，一个matrix账号ID如下：</p>
+<p><code>@example:matrix.org</code></p>
+<p>这里example是用户名，<a href="https://matrix.org" rel="noopener nofollow ugc">matrix.org</a> 是服务器名。Matrix 添加好友和收发电邮一样，需要填写完整的 <code>@MatrixID:服务器名</code>。在这里就是 <code>@example:matrix.org</code>。</p>
+<h1>
+<a name="matrix-1" class="anchor" href="#matrix-1"></a>安全使用Matrix</h1>
+<h3>
+<a name="h-2" class="anchor" href="#h-2"></a>选择服务器</h3>
+<p>matrix官方服务器安全性和稳定性有保证，但是在中国大陆遭遇封锁。即便如此，作为一种与电子邮箱类似的联邦式协议，Matrix 自然也有第三方很多服务器可以选择。Join Matrix 网站上提供了一份非官方服务器列表，可供选择注册：</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://joinmatrix.org/servers/">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/d/d9d4f35df5464589617b8f423e94334ebc98a9cd.png" class="site-icon" width="" height="">
+<a href="https://joinmatrix.org/servers/" target="_blank" rel="noopener nofollow ugc">Join Matrix!</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://joinmatrix.org/servers/" target="_blank" rel="noopener nofollow ugc">List of Public Matrix Homeservers</a></h3>
+<p>Support the decentralization of Matrix by getting your account on an alternative homeserver!</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<p>除此之外，你还可以使用 mozilla.modular.im [4]。</p>
+<h3>
+<a name="h-3" class="anchor" href="#h-3"></a>客户端</h3>
+<p>Matrix协议的主流客户端叫Element（原名Riot.im）。Element有桌面和移动客户端，提供和Telegram、Discord等聊天工具类似的体验，如果您追求易用性，您可以使用网页版。Element网页版和桌面客户端的界面完全相同，功能也完全等价。</p>
+<p>如果你追求更高的安全性，您可以在Tor浏览器中使用网页版，并且账号注册和使用的全程都用网页版在Tor浏览器中完成。这样你不仅可以做到加密通信，还可以全程隐匿IP。</p>
+<p>Element的下载页面提供网页版，也可以点以下链接直接进入注册页面。全过程可用Tor浏览器完成。</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://app.element.io/#/register">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/0/043a2a262fb6ea4fb5202f1f23f702068390016f.png" class="site-icon" width="" height="">
+<a href="https://app.element.io/#/register" target="_blank" rel="noopener nofollow ugc">app.element.io</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/e/e39f7ba2e88993613d91ab63e2c35094dd44e872.png" class="thumbnail" width="" height="">
+<h3><a href="https://app.element.io/#/register" target="_blank" rel="noopener nofollow ugc">Element</a></h3>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<p>（当然几乎每个服务器都会内置Element实例，但可能会有限制，这个还未被封锁的官方实例自然是最新和最稳定的在线实例）</p>
+<p>这里以PC为例。首次注册如下图</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/5/52f4cb77949775778479367e841fda9f8726e5fe.jpeg" alt="Screenshot 2022-10-01 at 14-39-48 Element" data-base62-sha1="bPRCCP1wGGH75zRpnd7nw4KNmGy" width="690" height="349"></p>
+<p>先在左下角语言栏内修改语言（如果找不到“简体中文”请缩小页面）。</p>
+<p>修改完成如下。<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/d/d2d46e5ec024df01887a67078aa4ee6d912fbeb4.jpeg" alt="Screenshot 2022-10-01 at 14-43-42 Element" data-base62-sha1="u55oP87UyqVnSEorKrrvdYngPrK" width="690" height="349"></p>
+<p>您可以使用默认的 <a href="https://matrix.org" rel="noopener nofollow ugc">matrix.org</a>，也可以将“账户托管于”下面的服务器换成某个第三方服务器。当然，不同的服务器注册的条件也有所不同。大部分服务器都强制要求要求你输入邮箱并验证（有些服务器可能不需要，某些服务器使用单点登录）。您可使用临时邮箱以确保更好的安全性。想一个你喜欢的用户名，并设置密码（用户名不可改变，请谨慎选择，也不要与境内身份一致）</p>
+<p>在邮件中按照指引验证完成后即注册成功。</p>
+<p>注册成功后如下图<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/c/c08c916ee51998c0131e7c66c1f8c7c64c9bde72.jpeg" alt="Screenshot 2022-10-01 at 14-58-36 Element" data-base62-sha1="rtmQ5iuQ0Y7qxQf4sj26gj9W0cG" width="690" height="349"></p>
+<p>在浏览器中保存账号密码（或记住它们）。以后要进入Matrix网页版，访问app.element.io就可以直接登录。（注册成功进入客户端后如果客户端提示你要匿名收集数据，请拒绝）</p>
+<p>创建恢复密钥</p>
+<p>注册完成后，客户端会提醒你生成恢复密钥。原因是Matrix使用端到端加密，加密后的聊天记录又（可能）保存在多个服务器上，为了能查看历史聊天记录，需要创建恢复密钥。</p>
+<p>恢复密钥并不复杂，本质上就是给你的账户设置两道密码。登录密码用来登录Matrix账户，恢复密钥用来查看历史消息。当你在新的设备上登录时，Matrix服务器会要求验证第二道密码，没有第二密码（恢复密钥）仍然可以登录，但是无法查看历史消息。</p>
+<p>请按提示生成安全密钥。如果你需要管理这些用户名、密码、密钥串，可以使用KeepassXC等密码管理器。</p>
+<p>温馨提示：如果语言重新变为英文，点击左上头像，选择【All settings】，在【General】的【Language and region】中选择【简体中文】</p>
+<h3>
+<a name="h-4" class="anchor" href="#h-4"></a>开始聊天</h3>
+<p>在Matrix中，知道对方的ID（类似@example:matrix.org这格式），点击左边栏上边的“+”号，输入地址就可以私聊了。</p>
+<p>群聊的方法类似。点击左边栏下方的“+”号（Add Room）就可以创建或加入群聊。选择【探索公共房间】，可以使用加群连接加入他人群聊。群ID类似于以下格式:</p>
+<p><code>#exaple:matrix.org</code></p>
+<p>网页邀请格式为 <code>https://matrix.to/#/#example:matrix.org</code></p>
+<p>也可以选择【新房间】自行建群。</p>
+<p>你还可以建立空间。空间是房间的集合。</p>
+<p>如果你因为离线时间过长而无法查看消息，可以请求他人在【所有设置】下【隐私安全】中导出端到端加密密钥（类似GPG的公钥）。你可导入公钥，输入口令并查看消息。</p>
+<p>Matrix的其它用法和主流聊天软件类似，在此不再赘述。</p>
+<p>[1] Matrix具有强于XMPP和IRC的易用性，与telegram相比更是一个天上一个地下——telegram在群聊中只提供端到服务器加密（跟推特没啥两样），你发布的内容等都将以明文的形式储存在telegram的服务器上。Telegram的隐私政策包含许多您在注重隐私的应用程序中不会看到的免责声明。例如，公司会记录您的 IP 地址、设备信息和用户名更改 — 将它们存储长达 12 个月。可以说telegram的信息保护全凭自觉。Telegram 还可以阅读您的云聊天消息以调查垃圾邮件和其他形式的“滥用”。此外，如果法律要求，他们可以向当局提供您的电话号码和 IP 地址。曾经还流传过telegram与中国警方中国警方达成共识的说法（如果你追求隐私，你可以买虚拟手机号码，但前提是你资金充足）。对于更多对telegram的具体批判，您可以查阅 <a href="https://pincong.rocks/article/11131" rel="noopener nofollow ugc">https://pincong.rocks/article/11131</a></p>
+<p>[2] 详情可查阅 <a href="https://2047.one/t/10095" rel="noopener nofollow ugc">https://2047.one/t/10095</a></p>
+<p>[3] “我们是一个将交流，联系建立在element平台（这是一个可以解绑邮箱的平台，同志们可以用虚拟邮箱注册…”（原文）。Matrix的客户端除Element外还有 <a href="https://cinny.in/" rel="noopener nofollow ugc">Cinny</a> 、 <a href="https://github.com/Nheko-Reborn/nheko" rel="noopener nofollow ugc">Nheko </a>、<a href="https://hydrogen.element.io/" rel="noopener nofollow ugc">Hydrogen</a> 、<a href="https://schildi.chat/" rel="noopener nofollow ugc">SchildiChat</a>、 <a href="https://fluffychat.im/" rel="noopener nofollow ugc">FluffyChat</a> 等。使用添加第三方插件的 Pidgin 也可达到部分功能。</p>
+<p>[4] modular.im 是 Element 的商业化托管平台（Element Matrix Service）。该服务在中国大陆暂未被封锁。<a href="http://joinmatrix.org" rel="noopener nofollow ugc">joinmatrix.org</a> 不收录 modular.im 的服务器。</p>
+<h1>
+<a name="h-5" class="anchor" href="#h-5"></a>奖励资源</h1>
+<p>[1] <a href="https://matrixim.cc/sfd2017-matrix.pdf%EF%BC%8C%E5%8C%97%E5%A4%A7Matrix%E5%85%B4%E8%B6%A3%E7%A4%BE%E5%9B%A2%E7%9A%84slides%E3%80%82" rel="noopener nofollow ugc">https://matrixim.cc/sfd2017-matrix.pdf，北大Matrix兴趣社团的slides。</a></p>
+<p>[2] <a href="https://matrix.org/docs/develop" rel="noopener nofollow ugc">https://matrix.org/docs/develop</a> Matrix开发文档，可用于bot，bridge的开发参考。也描述了很多Matrix的内部细节。</p>
+<h3>
+<a name="httpsmatrixtozxamatrixorg-6" class="anchor" href="#httpsmatrixtozxamatrixorg-6"></a>最后，欢迎同志们加入我建立的讨论群 <a href="https://matrix.to/#/#zxa:matrix.org" rel="noopener nofollow ugc">https://matrix.to/#/#zxa:matrix.org</a>
+</h3>
+<h3>
+<a name="h-7" class="anchor" href="#h-7"></a>其他群组：</h3>
+<h3>
+<a name="httpmatrixtoppykjzqevsiqlbymykmatrixorgviamattixorg-8" class="anchor" href="#httpmatrixtoppykjzqevsiqlbymykmatrixorgviamattixorg-8"></a><a href="http://matrix.to/#/!PPykjzqEVSiqLbyMYK:matrix.org?via=mattix.org" rel="noopener nofollow ugc">http://matrix.to/#/!PPykjzqEVSiqLbyMYK:matrix.org?via=mattix.org</a> 组织审核处</h3>
+<h3>
+<a name="httpsmatrixtoxinxianquanmatrixorg-9" class="anchor" href="#httpsmatrixtoxinxianquanmatrixorg-9"></a><a href="https://matrix.to/#/#xinxianquan:matrix.org" rel="noopener nofollow ugc">https://matrix.to/#/#xinxianquan:matrix.org</a> 信息安全与革命自由软件运动讨论交流</h3>
+<h3>
+<a name="httpsmatrixtomaoismmatrixorg-10" class="anchor" href="#httpsmatrixtomaoismmatrixorg-10"></a><a href="https://matrix.to/#/#Maoism:matrix.org" rel="noopener nofollow ugc">https://matrix.to/#/#Maoism:matrix.org</a> 马列毛革委会</h3>
+<h3>
+<a name="httpsmatrixtoteahallmatrixorg-thphd-11" class="anchor" href="#httpsmatrixtoteahallmatrixorg-thphd-11"></a><a href="https://matrix.to/#/#teahall:matrix.org" rel="noopener nofollow ugc">https://matrix.to/#/#teahall:matrix.org</a> 讲茶大堂（ thphd 的政治遗产）</h3>
+</div>
+<meta itemprop='headline' content='使用 Matrix 进行匿名加密的私聊'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1466">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-02T09:54:44Z' class='post-time'>
+2022 年10 月 2 日 09:54
+</time>
+<meta itemprop='dateModified' content='2022-10-02T09:54:44Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>文章對邦聯制認識描述圖有誤，邦聯制允許大量非官方服務器不互聯，因而就允許局域網使用邦聯制協議，進而無需連接互聯網。</p>
+</div>
+<meta itemprop='headline' content='使用 Matrix 进行匿名加密的私聊'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1466">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/6/6cf10d104010b21ab97836071c0203b5ea399811.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-02T10:01:09Z' class='post-time'>
+2022 年10 月 2 日 10:01
+</time>
+<meta itemprop='dateModified' content='2022-10-02T10:01:09Z'>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>這才是邦聯制：<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/6/6cf10d104010b21ab97836071c0203b5ea399811.png" alt="fediverse" data-base62-sha1="fxK10ur2tlhDq7hXLToOpIqNSi5" width="690" height="473"></p>
+</div>
+<meta itemprop='headline' content='使用 Matrix 进行匿名加密的私聊'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/xjds0'><span itemprop='name'>xjds0</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1466">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-02T12:54:45Z' class='post-time'>
+2022 年10 月 2 日 12:54
+</time>
+<meta itemprop='dateModified' content='2022-10-02T12:54:45Z'>
+<span itemprop='position'>#4</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>即时聊天工具相对于邮件更容易截获。<br>
+如果《红旗》要出新刊，建议把3D打印，无线电，火箭也给写进去。</p>
+</div>
+<meta itemprop='headline' content='使用 Matrix 进行匿名加密的私聊'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1466">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/f/f5d8ff0594891d494e9c3ebea73a0d61bdbecc25.jpeg">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-02T14:51:36Z' class='post-time'>
+2022 年10 月 2 日 14:51
+</time>
+<meta itemprop='dateModified' content='2022-10-02T14:51:36Z'>
+<span itemprop='position'>#5</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a href="https://chinadigitaltimes.net/chinese/549878.html" class="onebox" target="_blank" rel="noopener">https://chinadigitaltimes.net/chinese/549878.html</a></p>
+<aside class="onebox wikipedia" data-onebox-src="https://en.m.wikipedia.org/wiki/2019_Internet_blackout_in_Iran">
+<header class="source">
+<a href="https://en.m.wikipedia.org/wiki/2019_Internet_blackout_in_Iran" target="_blank" rel="noopener">en.m.wikipedia.org</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://en.m.wikipedia.org/wiki/2019_Internet_blackout_in_Iran" target="_blank" rel="noopener">2019 Internet blackout in Iran</a></h3>
+<p>The 2019 Internet blackout in Iran was a week-long total shutdown of Internet. It was ordered by Supreme National Security Council and imposed by the Ministry of ICT. The blackout was one of the Iranian government's efforts to suppress 2019 protests. During the blackout, Iranian citizens could only access the National Information Network. Mohammad-Javad Jahromi was sanctioned by the United States Department of the Treasury because of his role in Internet censorship in Iran.
+The 2019 blackout was...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+<aside class="onebox wikipedia" data-onebox-src="https://en.wikipedia.org/wiki/Digital_hoarding">
+<header class="source">
+<a href="https://en.wikipedia.org/wiki/Digital_hoarding" target="_blank" rel="noopener">en.wikipedia.org</a>
+</header>
+<article class="onebox-body">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/f/f5d8ff0594891d494e9c3ebea73a0d61bdbecc25.jpeg" class="thumbnail" width="" height="">
+<h3><a href="https://en.wikipedia.org/wiki/Digital_hoarding" target="_blank" rel="noopener">Digital hoarding</a></h3>
+<p>Digital hoarding (also known as e-hoarding, e-clutter, datahoarding, digital pack-rattery or cyberhoarding) is defined by researchers as an emerging sub-type of hoarding disorder characterized by individuals collecting excessive digital material which lead to those individuals experiencing stress and disorganization. Digital hoarding takes place in electronic environments where information is stored digitally. The term gained popularity among online forums and in the media before receiving sch Se...</p>
+</article>
+<div class="onebox-metadata">
+ </div>
+<div style="clear: both"></div>
+</aside>
+<p><a href="https://www.reddit.com/r/DataHoarder/" class="onebox" target="_blank" rel="noopener">https://www.reddit.com/r/DataHoarder/</a></p>
+</div>
+<meta itemprop='headline' content='使用 Matrix 进行匿名加密的私聊'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/gonzalofficial'><span itemprop='name'>gonzalofficial</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1466">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-02T16:31:23Z' class='post-time'>
+2022 年10 月 2 日 16:31
+</time>
+<meta itemprop='dateModified' content='2022-10-02T16:31:23Z'>
+<span itemprop='position'>#6</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h2>
+<a name="matrix-1" class="anchor" href="#matrix-1"></a>《红旗》虽然是综合性刊物，但编辑部成员对这些专业知识了解不多，故无法独立完成这类教程。 当然如果同志们愿意在这方面提供投稿，那编辑部肯定会刊载。编辑部公共邮箱账户的密码已在讨论中遗失。请在Matrix群组中投稿。谢谢合作。</h2>
+</div>
+<meta itemprop='headline' content='使用 Matrix 进行匿名加密的私聊'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_7' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/gonzalofficial'><span itemprop='name'>gonzalofficial</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1466">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-02T16:33:26Z' class='post-time'>
+2022 年10 月 2 日 16:33
+</time>
+<meta itemprop='dateModified' content='2022-10-02T16:33:26Z'>
+<span itemprop='position'>#7</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>我说的是<strong>联邦制</strong><br>
+其次Matrix确实能在局域网组成邦联（那你自己的电脑做服务器呗）</p>
+</div>
+<meta itemprop='headline' content='使用 Matrix 进行匿名加密的私聊'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

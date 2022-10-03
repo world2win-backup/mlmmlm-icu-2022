@@ -1,0 +1,509 @@
+2022/10/1 15:02:19 - narratorz: Hi
+2022/10/1 15:04:01 - Gonzal0_official: hi
+2022/10/1 15:04:26 - Gonzal0_official: 有什么问题尽管问
+2022/10/1 15:04:54 - narratorz: i2p项目的中文翻译进度堪忧
+2022/10/1 15:05:10 - narratorz: 有无水怪来transifex灌水（
+2022/10/1 15:20:15 - Gonzal0_official: 我不太会翻译这些，我们主要应该利用现有的技术
+2022/10/1 15:38:21 - narratorz: 那没事了，我只是希望能给这些项目多少做些贡献，何况“现有的技术”也都是大量志愿者工作的结果
+2022/10/1 15:40:48 - narratorz: 如果有空，还是不要只做个使用者的好
+2022/10/1 15:45:12 - narratorz: 对了，有还没被墙的matrix服务器吗
+2022/10/1 15:45:54 - administrator: <@narratorz:matrix.org "i2p项目的中文翻译进度堪忧"> 尤其是繁体版把russia翻译成什么蘇聯 ... 额太逗
+2022/10/1 15:46:22 - administrator: <@narratorz:matrix.org "对了，有还没被墙的matrix服务器吗"> 肯定很多
+2022/10/1 15:46:49 - narratorz: <@administrator:matrix.im "肯定很多"> 大多都是个人在用罢（悲
+2022/10/1 15:46:50 - narratorz: 也是，国内目前没有组织
+2022/10/1 15:48:00 - administrator: 额我发现其他homeserver能注册十分好玩的用户名 比如我这个
+2022/10/1 15:48:58 - 莫名: i2p 中文挺好的。，i2p的主要的问题还是结点少。技术再好。用户少是问题。 i2p就是软路邮，通过 隧道管理器实现。可以实现任何人匿名和隐藏位置 提供网络服务。
+2022/10/1 15:49:37 - administrator: <@administrator:matrix.im "额我发现其他homeserver能注册十分好玩的用户名 比如我这..."> 而且还有很多三方服务器  甚至不需要 email 验证就能注册账号🤣比如 matrix.im
+2022/10/1 15:50:51 - narratorz: 节点不少啊
+2022/10/1 15:50:52 - narratorz: 我这挂一晚上就有2200多个了
+2022/10/1 15:50:52 - narratorz: 主要是慢，不过他们最近在升级加密协议抛弃elgamal
+2022/10/1 15:51:44 - narratorz: 出口代理慢可以试试purokishi.i2p
+2022/10/1 15:52:02 - narratorz: 这个还蛮快的，昨晚最高速度都13mbps了
+2022/10/1 15:52:39 - 莫名: martix 可以用mozilla 测试 需要非中国的邮件服务器才能注册。我用protonmail 注册的。注册后登陆不需要代理
+2022/10/1 15:52:54 - administrator: <@narratorz:matrix.org "节点不少啊"> 额我这里一开 flood fill 功能立刻就到 1000+ 然后过山车一样直接归零+自动reseed+再次归零...... 然后关了就再也不敢开了（目前~400节点左右
+2022/10/1 15:53:17 - narratorz 发送了一张图片。 (省略了媒体文件)
+2022/10/1 15:54:08 - administrator: <@narratorz:matrix.org "sent an image."> 我这里 1.9.0 你什么版本能这么多？是不是翻墙后网络环境？
+2022/10/1 15:54:22 - narratorz: i2p+,开发测试版
+2022/10/1 15:54:32 - 莫名: 出口代理 也可以用exit.stormycloud.i2p
+这是官方建议的
+
+2022/10/1 15:54:47 - administrator: <@xsoldiers:mozilla.org "出口代理 也可以用exit.stormycloud.i2p"> 对我就想说这个
+2022/10/1 15:55:03 - administrator: false.i2p 老早就无了
+2022/10/1 15:55:32 - narratorz: 官方那个我这暴毙了（😂
+2022/10/1 15:55:41 - narratorz: 我现在没用官方客户端
+2022/10/1 15:55:52 - narratorz: i2p+更棒
+2022/10/1 15:56:15 - narratorz: 16隧道我就问你怕不怕（
+2022/10/1 15:56:19 - administrator: <@narratorz:matrix.org "我现在没用官方客户端"> 是不是不兼容还是bug，你可以试试report一下问问
+2022/10/1 15:56:24 - 莫名: 我用i2pd
+
+2022/10/1 15:56:57 - narratorz: i2p+的合作者还运行着一个i2p内的youtube
+2022/10/1 15:57:00 - narratorz: http://tube.i2p/
+2022/10/1 15:57:11 - narratorz: 可以看720p了
+2022/10/1 15:57:18 - administrator: <@narratorz:matrix.org "16隧道我就问你怕不怕（"> 额这是隧道数量吧  要是跳数的话慢死
+2022/10/1 15:57:44 - administrator: 原版java最多 6 隧道
+2022/10/1 15:57:45 - narratorz: <@administrator:matrix.im "额这是隧道数量吧  要是跳数的话慢死"> 跳数三跳以上意义不大了吧
+2022/10/1 15:57:56 - administrator: <@narratorz:matrix.org "跳数三跳以上意义不大了吧"> 当然
+2022/10/1 15:57:59 - 莫名: 有时可以达到300Kb/s 要看连到的结点
+2022/10/1 15:58:04 - narratorz: https://incogtube.com/ ，表网链接
+2022/10/1 15:58:08 - narratorz: 没被墙
+2022/10/1 15:58:39 - administrator: <@narratorz:matrix.org "http://tube.i2p/"> ？piped 这类还是什么 youtube web 前端是吧
+2022/10/1 15:58:54 - narratorz: 嗯， Invidious 
+2022/10/1 15:59:18 - narratorz: 中国数字时代也有i2p镜像
+2022/10/1 15:59:28 - 莫名 发送了一张图片。 (省略了媒体文件)
+2022/10/1 15:59:39 - narratorz: 我现在能在i2p内冲浪都不想出去了（
+2022/10/1 16:00:09 - narratorz: 手机啊，i2pd是合适些
+2022/10/1 16:00:29 - narratorz: 可惜pd的qt界面似乎没人去做多语言支持
+2022/10/1 16:00:31 - administrator: <@narratorz:matrix.org "中国数字时代也有i2p镜像"> 额编程随想的blog貌似也有 ~~（额  数 字 化 墓 地 2333~~
+2022/10/1 16:00:34 - 莫名: 最高速率438.98KIB/s
+2022/10/1 16:00:53 - narratorz: i2p还是很值得推广的
+2022/10/1 16:01:06 - narratorz: 毕竟用的人越多越快
+2022/10/1 16:01:54 - narratorz: 马上又要全面换ssu2了，udp速度应该能大提升
+2022/10/1 16:02:06 - administrator: <@narratorz:matrix.org "毕竟用的人越多越快"> 假设 internet 有 40% 这么多部分都有 i2p router 那有估计能有多快呢
+2022/10/1 16:02:32 - 莫名: 我pc上也是，连接共享隧道效率高
+2022/10/1 16:02:53 - narratorz: <@administrator:matrix.im "假设 internet 有 40% 这么多部分都有 i2p ro..."> tor都没这么多用户（
+2022/10/1 16:03:19 - 莫名: i2pd已经是ssu2了
+2022/10/1 16:03:20 - narratorz: 到那时候i2p都可以定义新的互联网协议了
+2022/10/1 16:03:32 - narratorz: 还基于什么tcp/ip啊（
+2022/10/1 16:03:41 - administrator: <@narratorz:matrix.org "马上又要全面换ssu2了，udp速度应该能大提升"> 个人觉得还是换 quic 类流控吧，可靠性也跟上（除非他要做类似IP层那种不可靠datagram那直接类似wireguard就差不多了
+2022/10/1 16:03:51 - administrator: <@narratorz:matrix.org "到那时候i2p都可以定义新的互联网协议了"> hahaha
+2022/10/1 16:04:18 - narratorz: <@xsoldiers:mozilla.org "i2pd已经是ssu2了"> 1.9.0以上都是启用了吧
+2022/10/1 16:04:37 - narratorz: 1.11.0就禁用ssu1了
+2022/10/1 16:04:54 - administrator: <@narratorz:matrix.org "1.9.0以上都是启用了吧"> 我这貌似并没有，官方说是 ARM 和部分 beta 有ssu2
+2022/10/1 16:05:19 - administrator: 另外android上的apk版已经有了（因 i2pd
+2022/10/1 16:05:23 - narratorz: 还是文档和i2p内部的服务少了些，这些就是纯粹看有没有人做了
+2022/10/1 16:05:41 - narratorz: 我是i2p plus dev倒是一直有
+2022/10/1 16:06:18 - administrator: <@narratorz:matrix.org "还是文档和i2p内部的服务少了些，这些就是纯粹看有没有人做了"> 如果能发展到 onion 网站群  那种级别  那就不愁没人了
+2022/10/1 16:06:35 - narratorz: http://skank.i2p/ ， https://i2pplus.github.io/ i2p plus主页
+2022/10/1 16:06:52 - narratorz: dread已经有i2p镜像了
+2022/10/1 16:07:16 - narratorz: 美国的i2p用户数量看统计站都2w多了
+2022/10/1 16:07:26 - administrator: <@narratorz:matrix.org "draed已经有i2p镜像了"> 什么意思
+2022/10/1 16:07:27 - narratorz: 但是你国常年200
+2022/10/1 16:07:43 - 莫名: tube.i2p 下面有小字 它们的网址支持出i2p，tor,（暗网）和clearnet（明网）
+2022/10/1 16:08:11 - narratorz: <@administrator:matrix.im "什么意思"> 最大的洋葱网络论坛
+2022/10/1 16:08:44 - narratorz: <@xsoldiers:mozilla.org "tube.i2p 下面有小字 它们的网址支持出i2p，tor,（..."> http://incognet.io 价格挺好看的
+2022/10/1 16:09:11 - narratorz: 可靠性我觉得也不错，i2p+的默认代理purokishi.i2p也是他们赞助的
+2022/10/1 16:09:54 - administrator: 前段时间那个美团以及上海数据的那个站，我不知道竟然能在 cloudflare 和 .to域名注册局  上存活这么久真是奇迹
+2022/10/1 16:09:54 - narratorz: 有xmr了我一定去定一年他们的vps(
+2022/10/1 16:10:43 - administrator: <@administrator:matrix.im "前段时间那个美团以及上海数据的那个站，我不知道竟然能在 clou..."> 按理说数据/个人隐私泄露 算是灰黑产 的吧
+2022/10/1 16:11:03 - narratorz: <@administrator:matrix.im "前段时间那个美团以及上海数据的那个站，我不知道竟然能在 clou..."> 那个论坛最奇葩的是他们压根不搞暗网镜像
+2022/10/1 16:11:11 - narratorz: 纯纯的裸奔（
+2022/10/1 16:11:51 - administrator: <@narratorz:matrix.org "那个论坛最奇葩的是他们压根不搞暗网镜像"> 额额啊这那可能要有一天 突然炸站 过后 才会吸取教训
+2022/10/1 16:11:55 - narratorz: administrator: 你现在是官方java i2p吗
+2022/10/1 16:12:08 - narratorz: 可以来试试i2p+
+2022/10/1 16:12:10 - administrator: <@narratorz:matrix.org "administrator: 你现在是官方java i2p吗"> 是
+2022/10/1 16:12:13 - narratorz: 无缝升级，无需重装
+2022/10/1 16:12:33 - administrator: 哦稍后我看看 raspberry pi
+2022/10/1 16:12:53 - narratorz: 😉
+2022/10/1 16:14:50 - narratorz: 官方i2p那个easy套装就挺脑瘫
+2022/10/1 16:14:54 - narratorz: 压根没用
+2022/10/1 16:15:45 - narratorz: 直接学习i2pd打包成绿色软件得了，整一堆我都不知道说什么好的玩意（
+2022/10/1 16:16:54 - administrator: <@narratorz:matrix.org "可靠性我觉得也不错，i2p+的默认代理purokishi.i2p..."> 我之前用过（apk版）但是那个我看貌似只有http呀，https没连成功
+2022/10/1 16:17:29 - administrator: <@narratorz:matrix.org "官方i2p那个easy套装就挺脑瘫"> 我用的 .deb 添加的 apt repo
+2022/10/1 16:17:30 - narratorz: https代理在官方i2p上得单独设置吧
+2022/10/1 16:17:34 - narratorz: 但是没必要
+2022/10/1 16:17:47 - narratorz: http代理也能访问https网站
+2022/10/1 16:17:59 - narratorz: 本机代理用什么协议都无所谓
+2022/10/1 16:18:03 - administrator: <@narratorz:matrix.org "但是没必要"> 额clearnet怎么不用https
+2022/10/1 16:18:18 - narratorz: 127.0.0.1都能泄漏了那早完蛋了
+2022/10/1 16:18:23 - administrator: <@narratorz:matrix.org "http代理也能访问https网站"> 我就是http 4444 然后不行
+2022/10/1 16:18:52 - narratorz: <@administrator:matrix.im "额clearnet怎么不用https"> i2p网站不用https是因为i2p本身的协议就是端对端加密的
+2022/10/1 16:19:05 - narratorz: 再套一层tls意义不大
+2022/10/1 16:19:19 - administrator: <@administrator:matrix.im "我就是http 4444 然后不行"> 看来多半我记错了用的好像是另外几个outproxy中的哪个
+2022/10/1 16:19:55 - narratorz: 而且.i2p域名没有被ICANN批准
+2022/10/1 16:19:29 - administrator: <@narratorz:matrix.org "i2p网站不用https是因为i2p本身的协议就是端对端加密的"> 这个知道
+2022/10/1 16:20:01 - administrator: 所以单说clearnet
+2022/10/1 16:20:22 - narratorz: clearnet用http代理也是https的阿
+2022/10/1 16:20:40 - narratorz: http代理只处理终端到i2p jvm
+2022/10/1 16:20:49 - narratorz: 这一段是http的
+2022/10/1 16:21:03 - administrator: <@narratorz:matrix.org "而且.i2p域名没有被ICANN批准"> 还不是和onion差不多一样（onion不就是多了个 rfc 嘛
+2022/10/1 16:21:31 - narratorz: 用户多了或者i2p有自己的浏览器了就无所谓了（笑
+2022/10/1 16:21:50 - narratorz: 其实i2p完全可以拿着tor browser改改就上
+2022/10/1 16:21:58 - administrator: <@administrator:matrix.im "所以单说clearnet"> .i2p 结尾的，无论如何 i2p router 都是不经过outproxy 直接是自己处理的
+2022/10/1 16:22:11 - narratorz: 把tor换成i2pd就行
+2022/10/1 16:22:29 - narratorz: <@administrator:matrix.im ".i2p 结尾的，无论如何 i2p router 都是不经过ou..."> 多半是你outproxy的问题
+2022/10/1 16:22:43 - administrator: <@narratorz:matrix.org "用户多了或者i2p有自己的浏览器了就无所谓了（笑"> 其实官方之前搞了一个browser的    就是后续貌似不知了
+2022/10/1 16:23:04 - narratorz: i2pd有一个browser套装
+2022/10/1 16:23:21 - narratorz: 但是自定义程度。。。logo都没改
+2022/10/1 16:23:43 - narratorz: i2p java其实还不太适合搞浏览器套装
+2022/10/1 16:23:55 - narratorz: 客户端本身就挺臃肿了
+2022/10/1 16:24:25 - administrator: <@narratorz:matrix.org "多半是你outproxy的问题"> ? 什么意思，那意思就是 i2p 内部网络无论如何不需要连接 outproxy。（比如我测试过  就算4444设置无效（或者down）的outproxy 都能正常打开 stats.i2p
+2022/10/1 16:24:44 - narratorz: 内部网络不需要出口代理阿
+2022/10/1 16:24:56 - administrator: 所以就是这个意思
+2022/10/1 16:24:59 - narratorz: 你留空都能访问
+2022/10/1 16:25:18 - 莫名: 一般我用火狐 再安装 Foxyproxy 作自动代理设置
+2022/10/1 16:25:28 - narratorz: 本地那个4445屁用没有
+2022/10/1 16:25:48 - narratorz: <@xsoldiers:mozilla.org "一般我用火狐 再安装 Foxyproxy 作自动代理设置"> switchyomega直观好看些
+2022/10/1 16:26:11 - narratorz: 给*.i2p一个4444再给其他默认走20170（我是v2raya
+2022/10/1 16:26:17 - administrator: <@narratorz:matrix.org "switchyomega直观好看些"> 是，同时个人喜欢用 librewolf 不要原版ff
+2022/10/1 16:26:37 - Gonzal0_official: <@narratorz:matrix.org "对了，有还没被墙的matrix服务器吗"> 才看到。推荐一个：converser.eu
+2022/10/1 16:26:42 - narratorz: netsurf浏览器（？
+2022/10/1 16:26:46 - 莫名 发送了一张图片。 (省略了媒体文件)
+2022/10/1 16:26:51 - administrator: <@soe:mozilla.org "才看到。推荐一个：converser.eu"> 空格呢
+2022/10/1 16:27:00 - narratorz: <@soe:mozilla.org "才看到。推荐一个：converser.eu"> 谢谢
+2022/10/1 16:27:50 - Gonzal0_official: 其实我也试过i2p，但是英文劝退了
+2022/10/1 16:28:07 - narratorz: i2p主页确实很他妈
+2022/10/1 16:28:17 - narratorz: transifex上面都翻译了一半了
+2022/10/1 16:28:19 - 莫名: 我现在就没用代理
+2022/10/1 16:28:32 - narratorz: 官网啥动静没有
+2022/10/1 16:28:40 - narratorz: 不过客户端是全中文支持的
+2022/10/1 16:29:05 - administrator: <@narratorz:matrix.org "transifex上面都翻译了一半了"> （额看过 weblate 不知道这个什么翻译平台
+2022/10/1 16:29:18 - administrator: <@narratorz:matrix.org "不过客户端是全中文支持的"> 对
+2022/10/1 16:29:26 - narratorz: i2p+本来只有一半，但是dev 1.9.0.6的时候我赶着把控制台翻完了
+2022/10/1 16:29:41 - narratorz: 这也是为啥我在用开发版本的i2p+(
+2022/10/1 16:30:18 - administrator: <@narratorz:matrix.org "官网啥动静没有"> 额试试 deepl 然后在基础上人工改改
+2022/10/1 16:30:44 - narratorz: <@administrator:matrix.im "额试试 deepl 然后在基础上人工改改"> 主要是翻完了他们不部署啊（恼
+2022/10/1 16:30:44 - Gonzal0_official: <@administrator:matrix.im "额试试 deepl 然后在基础上人工改改"> 对，是应该贡献一下
+2022/10/1 16:30:56 - administrator: <@narratorz:matrix.org "主要是翻完了他们不部署啊（恼"> 啊这
+2022/10/1 16:31:02 - Gonzal0_official: <@narratorz:matrix.org "主要是翻完了他们不部署啊（恼"> 整一个分支吧
+2022/10/1 16:31:17 - narratorz: 谁去他妈的催下zzz（不是
+2022/10/1 16:31:27 - narratorz: <@soe:mozilla.org "整一个分支吧"> 官网官网，网站啊（
+2022/10/1 16:31:42 - administrator: <@soe:mozilla.org "整一个分支吧"> 弄个汉语分站（类似 7-zip 
+2022/10/1 16:31:45 - narratorz: 客户端早就100%了
+2022/10/1 16:32:05 - narratorz: 好主意，我们去嫖wordpress罢（
+2022/10/1 16:32:11 - Gonzal0_official: 整一个分支吧，发布在GitHub上。《革命自由软件宣言》就告诉我们要开发新的革命软件嘛
+2022/10/1 16:32:26 - Gonzal0_official: 不能局限于旧的
+2022/10/1 16:33:00 - administrator: <@narratorz:matrix.org "好主意，我们去嫖wordpress罢（"> s/wordpress/github pages/g
+2022/10/1 16:33:02 - narratorz: 我倒是可以去问问dr|z3d能不能给i2p+整个中文官网
+2022/10/1 16:33:35 - narratorz: plus不比官方好用多了（喜
+2022/10/1 16:33:44 - narratorz: 没有安卓（悲
+2022/10/1 16:34:04 - administrator: <@narratorz:matrix.org "没有安卓（悲"> 等哪个人port一下
+2022/10/1 16:34:12 - narratorz: <@administrator:matrix.im "s/wordpress/github pages/g"> pages被墙死了
+2022/10/1 16:34:34 - narratorz: wordpress倒是只有点dns污染
+2022/10/1 16:34:49 - administrator: <@narratorz:matrix.org "pages被墙死了"> 没事 好东西都是需要翻墙了（不是
+2022/10/1 16:35:03 - administrator: <@narratorz:matrix.org "wordpress倒是只有点dns污染"> 额 glitch.com
+2022/10/1 16:35:27 - narratorz: 目的就是让小白也能接触到的话是得废点力（
+2022/10/1 16:35:50 - Gonzal0_official: 我想先改i2pd，这个比较轻量化，运行也快，就是没被发掘出来
+2022/10/1 16:35:56 - administrator: <@administrator:matrix.im "额 glitch.com"> 还能搭建服务器端（我之前测试过websocket能通，所以你们懂的都知道了吧
+2022/10/1 16:36:13 - narratorz: i2pd那个控制台的中文也挺那啥
+2022/10/1 16:36:25 - narratorz: “优雅地重启”
+2022/10/1 16:37:13 - narratorz: <@administrator:matrix.im "还能搭建服务器端（我之前测试过websocket能通，所以你们懂..."> https://gitlab.com/ripaojiedian/freenode/-/raw/main/sub
+2022/10/1 16:37:15 - narratorz: 来
+2022/10/1 16:37:26 - narratorz: 高品质白嫖订阅
+2022/10/1 16:38:00 - narratorz: 基本全是trojan，ws,ws tls这种伪装极好的
+2022/10/1 16:38:40 - narratorz: <@soe:mozilla.org "我想先改i2pd，这个比较轻量化，运行也快，就是没被发掘出来"> i2pd用的真不少
+2022/10/1 16:39:06 - 莫名: http://notbob.i2p/ 也是一个网址大全还能显示网站语言(旗帜标识)
+2022/10/1 16:39:19 - narratorz: 暴风云那个官方出口的服务器根据官网所述全是i2pd
+2022/10/1 16:39:22 - administrator: <@narratorz:matrix.org "https://gitlab.com/ripaojiedian/..."> openit是不是也用过这个（不然我看看submit个
+2022/10/1 16:39:55 - narratorz: <@soe:mozilla.org "我想先改i2pd，这个比较轻量化，运行也快，就是没被发掘出来"> https://crowdin.com/project/i2pd ，i2pd的本地化平台
+2022/10/1 16:40:04 - administrator: 额我都不好意思了我给个demo  https://quic.glitch.me/config.json
+2022/10/1 16:40:53 - narratorz: 不过i2pd确实少个各平台原生的控制台就是了（i2pd-qt没有多语言支持而且挺难看的😇
+2022/10/1 16:41:02 - 莫名: i2p文档很简单。需要中文翻译
+2022/10/1 16:41:31 - narratorz: <@xsoldiers:mozilla.org "i2p文档很简单。需要中文翻译"> 很多其实翻译了，但是没人从transifex部署到官网
+2022/10/1 16:41:48 - 莫名: 就编辑几个配置文件
+2022/10/1 16:42:05 - narratorz: <@xsoldiers:mozilla.org "就编辑几个配置文件"> 客户端翻译了的啊
+2022/10/1 16:42:13 - narratorz: 客户端是100%完成度了
+2022/10/1 16:42:23 - administrator: <@administrator:matrix.im "额我都不好意思了我给个demo  https://quic.gl..."> 欢迎remix  https://glitch.com/edit/#!/quic 
+2022/10/1 16:43:41 - 莫名: 客户web前端不主要。关键就是如何配置。
+2022/10/1 16:43:57 - narratorz: i2pd的配置全靠配置文件
+2022/10/1 16:44:05 - narratorz: 你怎么翻（
+2022/10/1 16:44:31 - narratorz: 会配的人不需要，不会动配置文件的翻了也配不来
+2022/10/1 16:44:47 - 莫名: 主要是配置文档的帮助文档
+2022/10/1 16:44:54 - narratorz: i2p javaweb页就配置了，倒是挺简单
+2022/10/1 16:45:03 - administrator: <@narratorz:matrix.org "i2pd的配置全靠配置文件"> 还是有人翻一下docs就差不多了
+2022/10/1 16:45:43 - narratorz: <@xsoldiers:mozilla.org "主要是配置文档的帮助文档"> 这个完成度是挺堪忧的
+2022/10/1 16:46:00 - narratorz: 我去i2p gitlab看看
+2022/10/1 16:48:41 - administrator: <@soe:mozilla.org "整一个分支吧，发布在GitHub上。《革命自由软件宣言》就告诉我..."> ?什么宣言
+2022/10/1 16:50:04 - narratorz: 这个？https://mlmmlm-icu.github.io/t/topic/259.html
+2022/10/1 16:51:51 - 莫名: xmmp协议软件都用吗比如。pidgin，gajim,psi+，dino。，手机端有conversatins,monoles chat
+2022/10/1 16:52:02 - narratorz: xmpp本身不够靠谱
+2022/10/1 16:52:19 - narratorz: 这玩意能玩成什么样全看客户端
+2022/10/1 16:52:42 - narratorz: pidgin 我都是拿来上IRC的（
+2022/10/1 16:54:48 - 莫名: 我觉得还行。我说用的人这么少呢。
+2022/10/1 16:54:57 - narratorz: 我觉得i2p比洋葱适合推广
+2022/10/1 16:55:30 - narratorz: 毕竟i2p更加道德（运行客户端就是贡献流量）也不需要前置代理
+2022/10/1 16:55:32 - Gonzal0_official: <@narratorz:matrix.org "我觉得i2p比洋葱适合推广"> 我也觉得，前提是我们得努力改造和推广
+2022/10/1 16:55:46 - narratorz: 嗯，本地化工作确实很重要
+2022/10/1 16:55:50 - Gonzal0_official: <@narratorz:matrix.org "毕竟i2p更加道德（运行客户端就是贡献流量）也不需要前置代理"> 简直是翻墙的应许之地
+2022/10/1 16:56:08 - narratorz: 直接地上天国
+2022/10/1 16:56:21 - narratorz: 大家用毛线出口代理
+2022/10/1 16:56:32 - narratorz: 都在i2p内网聊！（
+2022/10/1 16:57:19 - narratorz: i2p原生的网站也有800多个了
+2022/10/1 16:57:36 - narratorz: 大多是资讯和论坛
+2022/10/1 16:58:25 - Gonzal0_official: 我还打算发动群众，往后搞一种基于i2p的matrix或xmpp协议
+2022/10/1 16:58:39 - narratorz: matrix应该可以在i2p使用
+2022/10/1 16:58:48 - narratorz: 你直接建服务器就行
+2022/10/1 16:59:09 - narratorz: 问题是移动端i2p路由客户端
+2022/10/1 17:01:33 - narratorz: ios我估计可以不用想了
+2022/10/1 17:01:46 - narratorz: 不过以后可能会有公共i2p入口代理
+2022/10/1 17:02:17 - narratorz: 还是用的人太少了以至于没有需求（恼
+2022/10/1 17:04:33 - 莫名: martix 有一个问题就是没有设置代理服务器的功能。使用时。需要开全局代理。
+2022/10/1 17:04:37 - administrator: <@narratorz:matrix.org "这个？https://mlmmlm-icu.github.io/..."> 额什么貓... 「||信不信毛泽东再回来给你搞个大吃饱三年 okk 😅」听过的一句话||
+2022/10/1 17:04:40 - narratorz: 感觉暗网市场都在往i2p转移
+2022/10/1 17:04:48 - narratorz: 我感觉tor迟早药丸
+2022/10/1 17:04:55 - narratorz: 这是个机会（喜
+2022/10/1 17:06:26 - narratorz: 至于i2p官方会如何应对网络犯罪倒是容易，毕竟有susidns
+2022/10/1 17:06:36 - narratorz: 不给短域名就好了
+2022/10/1 17:06:44 - Gonzal0_official: <@administrator:matrix.im "额什么貓... 「||信不信毛泽东再回来给你搞个大吃饱三年 ok..."> **革命**自由软件运动
+2022/10/1 17:06:52 - 莫名: i2p.改了加密算法。和一些功能。我用i2psnark 下载速率确实快了
+2022/10/1 17:06:59 - narratorz: 我估计没几个人想用洋葱那种他妈的base32连接
+2022/10/1 17:07:19 - administrator: <@narratorz:matrix.org "不过以后可能会有公共i2p入口代理"> 有了（tor和i2p都有人搞过）但因为隐私问题太大所以根本不推荐使用，不是受众少  而是根本不安全  例如http代理服务器所有者  能直接看你的所有网络活动
+2022/10/1 17:08:11 - administrator: <@administrator:matrix.im "有了（tor和i2p都有人搞过）但因为隐私问题太大所以根本不推荐..."> 本质上要安全那用 router 不管什么实现    都是很必要的
+2022/10/1 17:08:26 - narratorz: <@administrator:matrix.im "有了（tor和i2p都有人搞过）但因为隐私问题太大所以根本不推荐..."> i2p似乎在推广自签名证书，再套一层https的意义来了（
+2022/10/1 17:09:05 - narratorz: 不过没有根证书那自签名肯定要被中间人攻击
+2022/10/1 17:09:08 - #archlinux-cn-offtopic:nichi.co 楊嘉晨 已加入房间
+2022/10/1 17:09:39 - narratorz: 所以又绕回到要有洋葱那种定制浏览器上了（
+2022/10/1 17:09:41 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: 大家可以叫我杨嘉晨
+2022/10/1 17:09:44 - 莫名: 现在exit.stormycloud.i2p 的出口代理。就都可以访问，包括明网和暗网
+2022/10/1 17:09:51 - narratorz: 欢迎新同志
+2022/10/1 17:09:56 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: <@narratorz:matrix.org "所以又绕回到要有洋葱那种定制浏览器上了（"> 那玩意不如自己配tor+firefox
+2022/10/1 17:10:13 - Lanky Lonky 已加入房间
+2022/10/1 17:10:16 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: <@narratorz:matrix.org "欢迎新同志"> 未必，我是小丑
+2022/10/1 17:10:16 - narratorz: <@trazyntheinfinite0:matrix.org "那玩意不如自己配tor+firefox"> tor抗指纹啊
+2022/10/1 17:10:35 - administrator: <@narratorz:matrix.org "i2p似乎在推广自签名证书，再套一层https的意义来了（"> 额根本没用，还不如 ssh 那种验证体系都更加安全（至少人家除了第一次以外，后续都安全了）... 任何你 self signed TLS 😅 额你这什么玩意连服务器身份都不持久储存
+2022/10/1 17:10:55 - narratorz: 当然要进一步提升还得装随机指纹插件
+2022/10/1 17:11:08 - administrator: <@narratorz:matrix.org "不过没有根证书那自签名肯定要被中间人攻击"> 所以还是 SSH 那种保存并且固定服务器的公钥
+2022/10/1 17:11:22 - narratorz: <@administrator:matrix.im "所以还是 SSH 那种保存并且固定一个公钥"> 😂
+2022/10/1 17:11:26 - Gonzal0_official 将话题修改为 “”。
+2022/10/1 17:11:40 - narratorz: 所以还是得自己运行节点
+2022/10/1 17:11:41 - Lanky Lonky: sup
+2022/10/1 17:12:24 - administrator: 扛着红旗反红旗👍是good
+2022/10/1 17:12:55 - administrator: 共产党多半自己知道是恐怕的  所以对国内左派社团 镇压的厉害🤣
+2022/10/1 17:13:00 - narratorz: i2pd速速给我推出完整的安卓gui😤
+2022/10/1 17:13:42 - 莫名: 单一tor软件我还不会配置。只用tor+浏览器。或者手机上用orbot
+2022/10/1 17:13:58 - narratorz: tor以前有gui
+2022/10/1 17:13:59 - Lanky Lonky: <@narratorz:matrix.org> cant view ur msg
+2022/10/1 17:14:03 - narratorz: 不知道他们什么脑子
+2022/10/1 17:14:15 - administrator: <@narratorz:matrix.org "tor以前有gui"> pip3 install nyx
+2022/10/1 17:14:18 - administrator: TUI
+2022/10/1 17:14:23 - narratorz: vidalia停止维护了
+2022/10/1 17:14:23 - administrator: Terminal UI
+2022/10/1 17:14:38 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: arti
+2022/10/1 17:14:43 - narratorz: nyx也就看着玩，gui whonix那个不错
+2022/10/1 17:14:50 - administrator: <@administrator:matrix.im "pip3 install nyx"> 哈哈 nyx 个人觉得够用了
+2022/10/1 17:15:04 - administrator: <@trazyntheinfinite0:matrix.org "arti"> 嗯这是API呀
+2022/10/1 17:15:13 - Lanky Lonky: clipboard.png (省略了媒体文件)
+2022/10/1 17:15:17 - narratorz: 不过没适配雪花桥
+2022/10/1 17:15:20 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: <@administrator:matrix.im "嗯这是API呀"> rust
+2022/10/1 17:15:35 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: https://blog.torproject.org/arti_100_released/
+2022/10/1 17:15:41 - narratorz: <@lankylonky:matrix.org "sent an image."> 退出重进？
+2022/10/1 17:15:59 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: 我说过我是小丑，要么证明你们是要么我是
+2022/10/1 17:16:16 - administrator: <@trazyntheinfinite0:matrix.org "https://blog.torproject.org/arti..."> 哦眼花以为是 stem 了
+2022/10/1 17:16:29 - Lanky Lonky: <@narratorz:matrix.org "退出重进？"> 其他msg都是可以看到的
+2022/10/1 17:16:32 - #archlinux-cn-offtopic:nichi.co 楊嘉晨: 所以挂杨嘉晨的名我也不在乎
+2022/10/1 17:16:55 - narratorz: 你第二密码输了吗
+2022/10/1 17:17:04 - narratorz: 这个房间开了端对端的
+2022/10/1 17:18:02 - narratorz: i2p 用java是个败笔，好在现在有了i2pd，假以时日官方i2p java肯定💊
+2022/10/1 17:18:21 - Lanky Lonky: 加入e2ee房间之后，之前的聊天记录是看不到吗
+2022/10/1 17:18:32 - narratorz: <@lankylonky:matrix.org "加入e2ee房间之后，之前的聊天记录是看不到吗"> ✅
+2022/10/1 17:18:51 - administrator: <@narratorz:matrix.org "i2p 用java是个败笔，好在现在有了i2pd，假以时日官方i..."> 还是支持 Rust 语言一万年不动摇
+2022/10/1 17:18:52 - Gonzal0_official: <@narratorz:matrix.org "i2p 用java是个败笔，好在现在有了i2pd，假以时日官方i..."> 对的，好像除了mc以外java软件都没太多发展
+2022/10/1 17:19:14 - Gonzal0_official: 还是得用c++之类开发
+2022/10/1 17:19:31 - Lanky Lonky: <@narratorz:matrix.org "✅"> 但是你那个msg是lanky lonky joined之后的信息呀
+2022/10/1 17:19:38 - narratorz: i2pd 6年了才这个样，rust i2p可能得有生之年了（
+2022/10/1 17:19:57 - narratorz: 还是毛子给力
+2022/10/1 17:20:15 - 莫名: <@narratorz:matrix.org "✅"> 如果以前保存了密钥。导入就可以看到
+2022/10/1 17:20:41 - Gonzal0_official: 主要是得我们自己开发、优化。中国人的事情得中国人干
+2022/10/1 17:21:05 - narratorz: 草，还真有i2pd安卓
+2022/10/1 17:21:10 - narratorz: https://f-droid.org/packages/org.purplei2p.i2pd/
+2022/10/1 17:21:11 - administrator: <@administrator:matrix.im "还是支持 Rust 语言一万年不动摇"> C根本没什么安全性所以就算 java 甚至都比 c / c++ 好太多了... 额新项目千万不要C了(求求了)，除非是现有或者中古程序才需要C吧（或者是因为生态问题例如 linux kernel）不然新程序也会出现内存安全问题!
+2022/10/1 17:21:20 - 莫名: eclipse 也挺好用的
+2022/10/1 17:21:21 - narratorz: 非常简陋的web，和pc差不多（
+2022/10/1 17:21:40 - narratorz: <@administrator:matrix.im "C根本没什么安全性所以就算 java 甚至都比 c / c++ ..."> i2pd c++啊
+2022/10/1 17:21:45 - administrator: <@soe:mozilla.org "还是得用c++之类开发"> 然后结果是... 你看看这个 https://rentry.co/gfwdump-md
+2022/10/1 17:22:05 - administrator: c runtime 😅
+2022/10/1 17:22:07 - narratorz: 除非嵌入式要不然一般用不上了吧
+2022/10/1 17:23:01 - administrator: <@administrator:matrix.im "然后结果是... 你看看这个 https://rentry.co..."> 然后gfw直接heartbleed各种变体... 遍地开花
+2022/10/1 17:23:09 - Lanky Lonky 发送了一张图片。 (省略了媒体文件)
+2022/10/1 17:23:25 - 莫名: 要求极致的才用c。
+2022/10/1 17:23:32 - 无产☭ 已加入房间
+2022/10/1 17:23:47 - Lanky Lonky: <@lankylonky:matrix.org "sent an image."> 就这条msg看不到
+2022/10/1 17:24:11 - administrator: <@xsoldiers:mozilla.org "要求极致的才用c。"> 比如某些系统真的很低配环境（mips路由器 还是什么 IoT 等嵌入式
+2022/10/1 17:24:53 - Lanky Lonky: 😭
+2022/10/1 17:25:25 - narratorz: 来点百元成本魔改老手机wifi天线中继接力组网（什么玩意
+2022/10/1 17:26:00 - narratorz: 不过airchat偶尔很有用就是了
+2022/10/1 17:26:03 - administrator: <@administrator:matrix.im "然后gfw直接heartbleed各种变体... 遍地开花"> 这个是受到 gfw-looking-glass.sh 的启发才研究出来的 https://gfw.report/blog/gfw_looking_glass/zh
+2022/10/1 17:26:35 - Lanky Lonky: <@narratorz:matrix.org "你第二密码输了吗"> recovery key吗
+2022/10/1 17:26:44 - narratorz: <@lankylonky:matrix.org "recovery key吗"> ✅
+2022/10/1 17:27:11 - Lanky Lonky: <@narratorz:matrix.org "✅"> 我的设备都是verified的呀
+2022/10/1 17:27:14 - administrator 发送了一张图片。 (省略了媒体文件)
+2022/10/1 17:27:24 - narratorz: 那就不知道了
+2022/10/1 17:28:46 - administrator: <@administrator:matrix.im "sent an image."> 甚至做个 fuzz 搞个随机ASCII两个域名后缀，证明触发是根本不需要有效cctld的
+2022/10/1 17:29:20 - administrator: **这就是C语言写程序的后果。**
+2022/10/1 17:32:14 - administrator: （试试用 python3 -i 运行会如何，你就得到gfw某一部分中的内存（memory）信息
+2022/10/1 17:33:17 - Lanky Lonky: 🥰
+2022/10/1 17:33:19 - narratorz: 谁要是能把gfw搞成僵尸网络拿来翻墙就更讽刺了（
+2022/10/1 17:33:50 - administrator: <@narratorz:matrix.org "谁要是能把gfw搞成僵尸网络拿来翻墙就更讽刺了（"> gfw本身就是一个 ddos 的天然反射放大器
+2022/10/1 17:34:27 - administrator: 仅仅30字节的DNS请求...... 变成200+
+2022/10/1 17:34:27 - narratorz: 草，确实，这种东西只能说是你大清自有国情在此
+2022/10/1 17:35:00 - narratorz: 确实是生产关系拖累生产力的年代了啊...
+2022/10/1 17:36:00 - administrator: <@administrator:matrix.im "仅仅30字节的DNS请求...... 变成200+"> 反射率嘛  取决于 政府的设备有多强力（而且gfw发出的来源IP是伪造的  反而受害运维更加不方便屏蔽😅
+2022/10/1 17:36:43 - narratorz: 乐不出来
+2022/10/1 17:39:17 - administrator: 另外github以前就被一种名为「大炮」的手法攻击过... gfw（或者某种其他方面）劫持baidu首页插入 javascript 每两秒钟加载一次github站  然后中国大陆 全国设备 开始波及(油泼鸡全球XXX个设备
+2022/10/1 17:40:15 - narratorz: cloudflare和gfw拼流量有望吗（好奇
+2022/10/1 17:40:28 - Lanky Lonky 已离开房间
+2022/10/1 17:46:57 - Lanky Lonky 已加入房间
+2022/10/1 17:54:44 - Gonzal0_official更改了@n2n8f7gphc:matrix.org 从 默认 变为 协管员的权力级别。
+2022/10/1 17:55:30 - Gonzal0_official: <@narratorz:matrix.org "cloudflare和gfw拼流量有望吗（好奇"> 感觉不行
+2022/10/1 17:56:20 - Gonzal0_official: 不过gfw真顽强啊，每天都至少接受几十亿次访问，结果屹立不倒
+2022/10/1 18:12:24 - narratorz: gfw倒了那特色垮台也不远了
+2022/10/1 18:15:22 - 马列毛主义红卫兵: 那不行，个人认为gfw的用处并不大
+2022/10/1 18:15:41 - narratorz: gfw代表的是整个自动化审查和压制体系
+2022/10/1 18:15:55 - narratorz: 失去了这老大哥之眼
+2022/10/1 18:16:10 - narratorz: 老大哥也没那么有威慑力了
+2022/10/1 18:16:53 - 马列毛主义红卫兵: 那最好的结果就是六四的成功版——群众造反，私资窃取政权
+2022/10/1 18:17:41 - narratorz: 能不能窃取这得看后面怎么维护革命
+2022/10/1 18:17:55 - narratorz: 民众在中期是很好的助力
+2022/10/1 18:18:12 - narratorz: 但是大众的短视迟早会变成阻力
+2022/10/1 18:20:19 - Gonzal0_official: 短视与否取决于阶级地位，无产阶级没那么短视，小资产阶级和农民就不行了。被打倒的资产阶级最短视，他们千方百计恢复旧的生产关系。无产阶级文化大革命很大程度上败于小生产者和党内资产阶级
+2022/10/1 18:22:33 - Gonzal0_official: 真正革命的群众是看的很远的（当然了，在自由派领导的”革命“中群众肯定会转化为阻力
+2022/10/1 18:25:52 - narratorz: 自由派就是阻力（恼
+2022/10/1 18:26:16 - narratorz: 而你国人均精致利己的情况下转变成自由派很轻松
+2022/10/1 18:26:34 - Gonzal0_official: 还是看阶级地位。你看到了小资产阶级、工人贵族和资本家，没看到电子厂和工地的无产阶级
+2022/10/1 18:26:42 - 马列毛主义红卫兵: <@narratorz:matrix.org "而你国人均精致利己的情况下转变成自由派很轻松"> 那是资产阶级和部分小资产阶级
+2022/10/1 18:28:17 - administrator: 共产党本来是靠革命起家的，结果反而打压+害怕 革命，确实是算是 动物庄园 里的经典「有一天猪们都站起来了，变成了他们一开始反对的样子，从猪看到人 从人看到猪  人人猪猪 最后分不清了」
+2022/10/1 18:28:35 - Lanky Lonky: 🫠
+2022/10/1 18:30:02 - Gonzal0_official: <@administrator:matrix.im "共产党本来是靠革命起家的，结果反而打压+害怕 革命，确实是算是 ..."> 听没听过资本主义复辟
+2022/10/1 18:30:23 - narratorz: 走集权革命本来就容易腐烂
+2022/10/1 18:30:31 - MLM principally Maoism: <@narratorz:matrix.org "走集权革命本来就容易腐烂"> ？
+2022/10/1 18:30:38 - Gonzal0_official: \*先注意和风细雨的交流原则（预先警告
+2022/10/1 18:30:45 - narratorz: 一代人建不成地上天国
+2022/10/1 18:30:47 - MLM principally Maoism: 不集权怎么革命？
+2022/10/1 18:30:54 - narratorz: 毛...可惜了
+2022/10/1 18:31:24 - narratorz: 生前的努力能传承到现在的也只有精神了
+2022/10/1 18:31:25 - 马列毛主义红卫兵: <@administrator:matrix.im "共产党本来是靠革命起家的，结果反而打压+害怕 革命，确实是算是 ..."> 现在这个玩意儿连自由派都有人不承认他是共产党
+2022/10/1 18:32:37 - administrator: haha
+2022/10/1 18:32:52 - administrator: <@administrator:matrix.im "共产党本来是靠革命起家的，结果反而打压+害怕 革命，确实是算是 ..."> https://www.bbc.com/zhongwen/simp/chinese-news-57581184
+2022/10/1 18:33:14 - 马列毛主义红卫兵: 当然奥威尔无非就是重复资产阶级的滥调——斯大林背叛列宁
+2022/10/1 18:33:45 - narratorz: 列宁想起来自己走歪了时已经来不及拐回去了
+2022/10/1 18:33:55 - Gonzal0_official: 就像《三大工具建设路线》指出的那样，“**当资产阶级失去权力时，它会在党内寻找代理人，利用军队，企图篡夺权力，破坏无产阶级专政，恢复资本主义。**”
+2022/10/1 18:34:23 - narratorz: 倒不如说，拥有特权的党本身就会产生新阶级
+2022/10/1 18:34:45 - Gonzal0_official: <@narratorz:matrix.org "倒不如说，拥有特权的党本身就会产生新阶级"> 这个我们以后批判
+2022/10/1 18:34:49 - 马列毛主义红卫兵: <@narratorz:matrix.org "列宁想起来自己走歪了时已经来不及拐回去了"> 无产阶级专政=走歪😅
+看看国家与革命后半段
+2022/10/1 18:35:21 - narratorz: 国家和革命...算了，以后再说这个小册子
+2022/10/1 18:36:17 - 马列毛主义红卫兵: <@administrator:matrix.im "托洛斯基... 反映了当时共党内稍微温和/理智的创始人被打倒，这..."> 托洛茨基直接屠农剥削农+刺刀传播马克思主义，理智?温和?
+不如布哈林
+2022/10/1 18:37:13 - Gonzal0_official: <@administrator:matrix.im "托洛斯基... 反映了当时共党内稍微温和/理智的创始人被打倒，这..."> 托洛茨基还在部队中推行沙俄旧军法
+2022/10/1 18:38:30 - Lanky Lonky: hehe
+2022/10/1 18:38:52 - Gonzal0_official: 托洛茨基就是个低配版邓小平
+2022/10/1 18:39:16 - 马列毛主义红卫兵: 邓小平?波尔布特！
+2022/10/1 18:41:58 - narratorz: 托是邓你也太高看邓了
+2022/10/1 18:42:53 - Gonzal0_official: 泛左导师三剑客：托洛茨基、切格瓦拉、阿连德
+2022/10/1 18:44:01 - Lanky Lonky: <@soe:mozilla.org "泛左导师三剑客：托洛茨基、切格瓦拉、阿连德"> 🫠
+2022/10/1 18:44:13 - Lanky Lonky 已离开房间
+2022/10/1 18:44:39 - narratorz: 坏了，我都不了解
+2022/10/1 18:44:45 - 马列毛主义红卫兵: 明明应该是:萨布林、阿连德、切格瓦拉
+2022/10/1 18:45:15 - narratorz: 竟是泛左不如😭
+2022/10/1 18:46:47 - Gonzal0_official: 不过大伙可以想一想能否攻击gfw
+2022/10/1 18:47:19 - Gonzal0_official: 比如用大量的请求直接拖垮gfw
+2022/10/1 18:47:20 - narratorz: 反射ddos，然后被百倍反弹（bushi
+2022/10/1 18:48:06 - 马列毛主义红卫兵: 建议在硬件上部署IED
+2022/10/1 18:48:25 - narratorz: 建议直接去炸数据中心（
+2022/10/1 18:49:43 - Gonzal0_official: 革命战争应该不考虑攻击通讯设备，那也是我们的宣传工具
+2022/10/1 18:49:55 - narratorz: gfw是旁路设备
+2022/10/1 18:50:08 - narratorz: 而且到时候特色肯定切光缆
+2022/10/1 18:51:15 - narratorz: 做好私自拉光缆的准备吧（迫真IEPL
+2022/10/1 18:52:28 - 马列毛主义红卫兵: 乌克兰方面的消息——星链不会向中国大陆提供服务
+2022/10/1 18:52:44 - narratorz: 早想到了，肯定要施压的
+2022/10/1 18:52:45 - Lanky Lonky 已加入房间
+2022/10/1 18:53:05 - Lanky Lonky: im back
+2022/10/1 18:55:04 - Lanky Lonky 发送了一张图片。 (省略了媒体文件)
+2022/10/1 18:55:05 - Lanky Lonky: 我离开room这段时间的聊天记录怎末看不了
+2022/10/1 18:55:25 - narratorz: 。。。
+2022/10/1 18:55:37 - narratorz: 所以你在干啥
+2022/10/1 18:55:39 - narratorz: 测试吗
+2022/10/1 18:56:11 - 马列毛主义红卫兵: 找个人给你密钥即可
+2022/10/1 18:56:24 - Lanky Lonky: <@mlmrg:matrix.org "找个人给你密钥即可"> 谁有呀
+2022/10/1 18:57:39 - 莫名: 因为是e2e 没有密钥 看看不了历史记录
+2022/10/1 18:58:27 - Lanky Lonky: <@narratorz:matrix.org "测试吗"> 对
+2022/10/1 18:58:29 - 马列毛主义红卫兵: 导入别人的端到端加密密钥即可
+2022/10/1 18:59:03 - Lanky Lonky: <@mlmrg:matrix.org "导入别人的端到端加密密钥即可"> 怎末操作
+2022/10/1 19:02:04 - 马列毛主义红卫兵: 密码1
+2022/10/1 19:02:43 - 马列毛主义红卫兵: 传输文件有点慢
+2022/10/1 19:02:51 - 马列毛主义红卫兵: key.txt (省略了媒体文件)
+2022/10/1 19:03:29 - Lanky Lonky: clipboard.png (省略了媒体文件)
+2022/10/1 19:03:53 - narratorz: 你为什么不设置中文界面呢（
+2022/10/1 19:04:07 - 马列毛主义红卫兵: <@lankylonky:matrix.org "sent an image."> 输入1
+2022/10/1 19:04:11 - narratorz: <@mlmrg:matrix.org "密码1"> Lanky Lonky: 
+2022/10/1 19:04:17 - Lanky Lonky: <@narratorz:matrix.org "你为什么不设置中文界面呢（"> nheko没有中文吧
+2022/10/1 19:04:32 - narratorz: 那没事了
+2022/10/1 19:04:37 - 马列毛主义红卫兵: <@narratorz:matrix.org "你为什么不设置中文界面呢（"> 有的人喜欢English
+2022/10/1 19:07:25 - Lanky Lonky 发送了一张图片。 (省略了媒体文件)
+2022/10/1 19:07:36 - Lanky Lonky: 怎末还是不行
+2022/10/1 19:08:01 - narratorz: 重启试试？（
+2022/10/1 19:08:06 - narratorz: 我是说软件
+2022/10/1 19:08:26 - Lanky Lonky: <@narratorz:matrix.org "我是说软件"> 可以拉
+2022/10/1 19:08:32 - Lanky Lonky: *了
+2022/10/1 19:09:43 - Lanky Lonky: <@narratorz:matrix.org "Hi"> hi
+2022/10/1 19:21:01 - Lanky Lonky: Key requests can be sent to all of the current user's devices, as well as the original sender of the session, and other devices present in the room. When the client receives the requested key, it should send a m.room_key_request event to all the devices it requested the key from, setting the action property to "cancel_request" and request_id to the ID of the initial request.
+2022/10/1 19:24:20 - Lanky Lonky 发送了一张图片。 (省略了媒体文件)
+2022/10/1 19:24:23 - Lanky Lonky: 这个选项打开就可以自动分享session key喇叭
+2022/10/1 19:24:45 - narratorz: 这是跨设备同步
+2022/10/1 19:24:48 - narratorz: 不是跨用户同步（
+2022/10/1 19:25:55 - Lanky Lonky: <@narratorz:matrix.org "这是跨设备同步"> tooltip说了其他用户呀
+2022/10/1 19:29:15 - narratorz: 需要有已验证的用户
+2022/10/1 19:31:52 - Lanky Lonky: <@narratorz:matrix.org "需要有已验证的用户"> matrix home server的群聊不能自动对新入群用户分发key吗
+2022/10/1 19:32:25 - narratorz: 大概只会从进入房间开始
+2022/10/1 19:34:03 - Lanky Lonky: <@narratorz:matrix.org "大概只会从进入房间开始"> 是home server才能决定的吗
+2022/10/1 20:00:07 - エクヂケシス 已加入房间
+2022/10/1 21:30:26 - narratorz: 推荐一个浏览器扩展，把指纹随机器集成到了一个插件里
+2022/10/1 21:30:46 - narratorz: https://doext.github.io/fps
+2022/10/1 21:33:37 - Lanky Lonky: <@narratorz:matrix.org "推荐一个浏览器扩展，把指纹随机器集成到了一个插件里"> simply use FF
+2022/10/1 23:07:58 - Gonzal0_official 已设置资料图片
+2022/10/1 23:08:30 - Gonzal0_official 已移除他们的资料图片
+2022/10/1 23:12:18 - Gonzal0_official 已设置资料图片
+2022/10/2 00:07:27 - 苏弈远 已更改他们的资料图片
+2022/10/2 07:47:34 - #archlinux-cn-offtopic:nichi.co 楊嘉晨 已离开房间
+2022/10/2 10:57:51 - 苏弈远 已更改他们的资料图片
+2022/10/2 20:54:15 - administrator: <@mlmrg:matrix.org "托洛茨基直接屠农剥削农+刺刀传播马克思主义，理智?温和?"> 额看错了  就是那啥动物庄园一个译本里那啥看岔了
+2022/10/2 20:54:36 - administrator: <@narratorz:matrix.org "做好私自拉光缆的准备吧（迫真IEPL"> 深圳连接香港
+2022/10/2 20:55:05 - administrator: 云南连接缅甸
+2022/10/2 20:55:12 - narratorz: 真革命了香港肯定也要被切
+2022/10/2 20:55:19 - narratorz: 云南到缅甸还有点戏
+2022/10/2 20:55:39 - Lanky Lonky: 😄
+2022/10/2 20:55:55 - Lanky Lonky: 🤑
+2022/10/2 20:55:58 - administrator: 什么越南/俄罗斯/蒙古国/金门  也看看
+2022/10/2 20:58:53 - administrator: 上海（各个沿海）无线电连接台湾日本
+2022/10/2 20:59:05 - administrator: 😂
+2022/10/2 20:59:16 - narratorz: 直接架10ghz微波线路（
+2022/10/2 20:59:29 - Lanky Lonky: <@narratorz:matrix.org "直接架10ghz微波线路（"> 🤗
+2022/10/2 20:59:32 - narratorz: 想想都刺激（bushi
+2022/10/2 21:00:50 - administrator: 或者更加 低成本的，就是国内大局域网  建立 去中心化 P2P 或者 i2p/blockchain  等等分布式网络架构
+2022/10/2 21:01:26 - administrator: 比如 IPFS 和 BitTorrent 分享文件
+2022/10/2 21:02:12 - administrator: 顺便用这种架构建立聊天方法
+2022/10/2 21:03:02 - narratorz: <@administrator:matrix.im "或者更加 低成本的，就是国内大局域网  建立 去中心化 P2P ..."> 德国有wifi接力公共wifi计划
+2022/10/2 21:03:05 - narratorz: 可以学习
+2022/10/2 21:03:13 - narratorz: 家庭路由刷固件就行
+2022/10/2 21:03:26 - administrator: （或者更那个的，比如连大内网都没了，那就蓝牙/Wi-Fi 做网状拓扑架构的网络
+2022/10/2 21:03:57 - narratorz: matrix是联邦式聊天软件的最佳答案
+2022/10/2 21:04:09 - administrator: <@narratorz:matrix.org "德国有wifi接力公共wifi计划"> 这种是提供 internet 接入？还是自己组网的 mesh network？
+2022/10/2 21:04:15 - narratorz: 我觉得多托管些墙内服务器就行
+2022/10/2 21:04:17 - narratorz: <@administrator:matrix.im "这种是提供 internet 接入？还是自己组网的 mesh n..."> 1
+2022/10/2 21:06:08 - narratorz: i2p肯定得普及下，毕竟就是断网了也能组成墙内的网中网
+2022/10/2 21:06:17 - narratorz: 总归是达到了目的
+2022/10/2 21:09:42 - narratorz: 就是得有志愿者搭建susidns地址簿和跳转服务器而已
+2022/10/2 21:09:55 - narratorz: 这个有用户了一切好说
+2022/10/2 21:10:23 - narratorz: 毕竟i2p现在国内不过千人，就算有隐身模式的吸血虫也不会超过2k
+2022/10/2 21:15:31 - administrator: <@narratorz:matrix.org "1"> 那这个任何路由器就能做到的功能，提供 guest wifi 嘛，设置一下就是 open wifi
+2022/10/2 21:15:41 - narratorz: 中继
+2022/10/2 21:16:06 - narratorz: 这些路由器自行组网也提供internet，跨片区使用无线电台中继
+2022/10/2 21:16:40 - narratorz: 我也不知道他们为什么非得中继然后走一个出口，谁知道呢
+2022/10/2 21:16:49 - administrator: <@narratorz:matrix.org "中继"> 哦明白了，网络内所有设备也参与中继流量的吧，那的确需要ROM
+2022/10/2 21:16:51 - narratorz: 可惜我忘了项目地址了
+2022/10/2 21:17:54 - administrator: <@narratorz:matrix.org "我也不知道他们为什么非得中继然后走一个出口，谁知道呢"> 额... 其实每个路由器都能走出到 互联网的吧，难道为了防止某人查看流量？那岂不是对单个实体信任过度？
+2022/10/2 21:18:42 - narratorz: 我去找找，我最早在iyp上面看到的介绍
+2022/10/2 21:20:38 - administrator: <@narratorz:matrix.org "可惜我忘了项目地址了"> 额是不是这个呢 https://en.wikipedia.org/wiki/Freifunk
+2022/10/2 21:21:04 - narratorz: 对！
+2022/10/2 21:21:07 - narratorz: 谢谢
+2022/10/2 21:21:56 - administrator: 哦看见了  去学一下 https://freifunk.net/
+2022/10/2 21:23:46 - administrator: BattleMesh v14 他们也参加了，看来确实是网状拓扑  https://freifunk.net/2022/06/battlemesh-v14-und-wcw-2022/
+2022/10/2 21:31:27 - administrator: <@administrator:matrix.im "哦看见了  去学一下 https://freifunk.net/"> 呃我之前还看见一个人说德国因版权为了封禁BT，非常严格、国内连公共wifi都特别少（火星了？）...... 当时我还以为是这样，然后看了这个就发现实际上人家国家自从2003年开始就搭建了一个至今有 50000+ 台设备的开放式网状 Wi-Fi 网络集群😅
+2022/10/2 21:32:19 - administrator: 这网络算是很大了，有这么多的设备（一个2020年的统计）
+2022/10/2 21:33:32 - narratorz: 属于是蚌埠住了
+2022/10/2 21:34:01 - administrator: <@administrator:matrix.im "这网络算是很大了，有这么多的设备（一个2020年的统计）"> 现在看起来是 四万七千多台 路由设备 的大型网络 https://freifunk.net/wie-mache-ich-mit/community-finden/
+2022/10/2 21:36:06 - narratorz: 社区维护自由网络的伟大实践
+2022/10/2 21:45:27 - Gonzal0_official: <@narratorz:matrix.org "i2p肯定得普及下，毕竟就是断网了也能组成墙内的网中网"> 我认为可以在马列毛群众开一个i2pd本地化项目
+2022/10/2 21:45:42 - narratorz: i2pd已经有中文本地化了
+2022/10/2 21:45:47 - narratorz: 我是说web控制台
+2022/10/2 21:46:56 - Gonzal0_official: 那不是还要投入人力宣传、普及嘛
+2022/10/2 21:47:12 - narratorz: 官网有中文会好很多（恼
+2022/10/2 21:48:02 - Gonzal0_official: 搞一个github网页
+2022/10/2 21:48:32 - narratorz: ✅，现在就去fork罢（
+2022/10/2 22:20:35 - administrator: <@narratorz:matrix.org "反射ddos，然后被百倍反弹（bushi"> 要是能找到那种自触发的packet的话，伪造一个源IP能再次经过gfw的，一个包又能再产生一个包，然后让它们自己攻击自己，死循环直接自己搞死自己😅🤣
+2022/10/2 22:22:21 - narratorz: 😇
+2022/10/2 22:24:35 - administrator: <@administrator:matrix.im "要是能找到那种自触发的packet的话，伪造一个源IP能再次经过..."> 而且是指数J型 增长，一个 DNS 有 2~3 个回复，这 两三个又产生N个（当然不太好找到那种让gfw回应一个能再触发自己  的这种数据包
+2022/10/2 22:35:30 - Gonzal0_official: <@administrator:matrix.im "而且是指数J型 增长，一个 DNS 有 2~3 个回复，这 两三..."> 这时候就要求助于群众了。群众的力量是伟大的。我也建议在马列毛群众上设一个关于此的专项计划
+2022/10/2 22:35:59 - narratorz: 全民ddos gfw是吧
+2022/10/2 22:36:27 - narratorz: 软件不难弄，但是开发者信任是个问题
+2022/10/2 22:36:43 - narratorz: 这相当于把自己送进僵尸网络啊（
+2022/10/2 22:36:53 - Lanky Lonky: <@narratorz:matrix.org "这相当于把自己送进僵尸网络啊（"> hehe

@@ -351,7 +351,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
@@ -542,7 +542,7 @@
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
- <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="2" />
 </div>
@@ -640,7 +640,7 @@
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
-<span itemprop='name'>
+ <span itemprop='name'>
 <a href='/privacy' itemprop="url">隐私政策 </a>
 </span>
 </li>
