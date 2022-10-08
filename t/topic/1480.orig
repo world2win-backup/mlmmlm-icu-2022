@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>一个云汉化平台 - 技术 - 马列毛群众</title>
+<meta name="description" content="https://paratranz.cn 
+还没找到这种网站的简单搭建方法。">
+<meta name="generator" content="Discourse 2.9.0.beta5 - https://github.com/discourse/discourse version f73796b2584e126fa099a406cc5c9835c05dd4ea">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/1480" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
+<link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
+<link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
+<link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
+<link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
+<link href="/stylesheets/discourse-narrative-bot_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-narrative-bot" />
+<link href="/stylesheets/discourse-presence_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-presence" />
+<link href="/stylesheets/lazy-yt_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="lazy-yt" />
+<link href="/stylesheets/poll_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll" />
+<link href="/stylesheets/poll_desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="poll_desktop" />
+<link href="/stylesheets/desktop_theme_2_5c7afc50a8762da6a0ad2ee11d015b58caf98336.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" data-theme-name="light" />
+<link rel="alternate nofollow" type="application/rss+xml" title="&#39;一个云汉化平台&#39; 的 RSS Feed" href="https://mlmmlm.icu/t/topic/1480.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/1480" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/1480" />
+<meta property="og:title" content="一个云汉化平台" />
+<meta name="twitter:title" content="一个云汉化平台" />
+<meta property="og:description" content="https://paratranz.cn  还没找到这种网站的简单搭建方法。" />
+<meta name="twitter:description" content="https://paratranz.cn  还没找到这种网站的简单搭建方法。" />
+<meta name="twitter:label1" value="阅读时间" />
+<meta name="twitter:data1" value="1 mins 🕑" />
+<meta name="twitter:label2" value="赞" />
+<meta name="twitter:data2" value="1 ❤" />
+<meta property="article:published_time" content="2022-10-06T13:22:09+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<h1>马列毛群众</h1>
+</a>
+</header>
+<div id="main-outlet" class="wrap" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/1480">一个云汉化平台</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div id='post_1' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/treaty'><span itemprop='name'>treaty</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1480">
+ <span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-06T13:22:09Z' class='post-time'>
+2022 年10 月 6 日 13:22
+</time>
+<meta itemprop='dateModified' content='2022-10-06T13:22:09Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><a href="https://paratranz.cn" class="onebox" target="_blank" rel="noopener nofollow ugc">https://paratranz.cn</a><br>
+还没找到这种网站的简单搭建方法。</p>
+</div>
+<meta itemprop='headline' content='一个云汉化平台'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1480">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-06T13:59:01Z' class='post-time'>
+2022 年10 月 6 日 13:59
+</time>
+<meta itemprop='dateModified' content='2022-10-06T15:17:59Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>首先，“雲”的概念就是違反自由軟件運動的原則的。</p>
+<p>《理查德·斯託曼選集：自由軟件，自由社會》（第三版，应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的）<br>
+云计算（Cloud Computing）<br>
+“云计算” 这一短语（或者在表示计算的上下文中进一步简称为 “云”）是一种含混不清的市场化流行语，它没有任何合乎逻辑的涵义。它被用于指代一系列不同的活动，其唯一的共同点是它们都使用互联网进行文件传输以外的事情。因此，这一短语是在散布混淆。如果您基于它进行思考，您的思考将会是混乱的。<br>
+当您思考或是回应一个由他人提出的并且使用这一概念的论述时，第一步是要澄清话题。该论述是关于什么场景的？适用于此场景的恰当并且清晰的概念是什么？只有当话题被清晰阐述之时，合乎逻辑的讨论才是可能的。<br>
+“云计算” 的众多可能的涵义之一是将您的数据存储于在线服务上。在大多数场景中，这是愚蠢的做法，由于这使您暴露在监控之下2。另一种可能的涵义（与上一条有所重叠但又不完全相同）是 “作为软件替代品的服务”（SaaSS），它拒绝了您对于您自己的计算的控制权。您应该从不使用 SaaSS3。<br>
+另一种可能的涵义包括租赁远程的实体或虚拟服务器。这些实践在某些特定环境下是可以接受的。<br>
+另一种可能的涵义是通过您自己的移动设备访问您自己的服务器。这并不会产生特别的伦理问题。<br>
+美国国家标准技术研究所（NIST）为 “云计算” 的定义4提出了三种场<br>
+1参见《自由与非自由软件的分类》以获得关于私有软件的更多信息 (p. 87) 。<br>
+2John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年 四 月<br>
+25 日，<a href="http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-" rel="noopener nofollow ugc">http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-</a><br>
+antiauthoritarian-dream。<br>
+3参见《服务器真正是在为谁服务？》 (p. 302) 以获得关于此问题的更多信息。<br>
+4Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations<br>
+of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年<br>
+九月)，<a href="http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf%E3%80%82" rel="noopener nofollow ugc">http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf。</a><br>
+109<br>
+110 第 2 部分 名字的含义<br>
+景，它们会带来不同的伦理问题：软件即服务（SaaS）、平台即服务（PaaS）、基础设施即服务（IaaS）。然而，这种定义与 “云计算” 通常的用法并不匹配，由于它并未包括向在线服务中存储数据。由 NIST 定义的 SaaS 在很大程度上与 SaaSS 重叠，后者虐待它的用户，但这两个概念并不等同。这些不同的计算实践甚至不属于同一个讨论范围。避免使用 “云计算”这一带来混淆的概念，最佳方式是不使用术语 “云” 与计算相关联。只谈论您想要表达的话题，并且以一种具体的概念称呼它。有趣的是，Larry Ellison，一位私有软件开发者也注意到了 “云计算”这一概念的空泛性1。但他决定仍然使用这一概念，因为他是一位私有软件开发者，毕竟此人与我们不是由相同理念所驱使的。</p>
+<p>裡面全是私有軟件，基本上全是特色黑幫，不能限制限制你們私有軟件分子要求搞官僚壟斷資本主義漢化工作的要求嗎？<br>
+在參與漢化的人員當中，絕大多數都是中共修正主義黨員，這是毫無疑問的。<br>
+這些漢化組和群眾搞內外有別，造成大量過剩漢化產品的出現，這是某一段時間的事情了；並且他們拒絕與群眾進行公開的、廣泛的溝通，這也就導致與其使用英文版而不使用漢化版的情況出現。<br>
+裡面有大量漢化工作是非公開的，這也就導致這些漢化具有閉源性，雲漢化用gitlab即可，其他的平臺都是畫蛇添足。<br>
+至於中國：毛的遺產的高考吃屁漢化組，使用MEGA網盤是有安全問題的，MEGA網盤只能作為過渡儲存介質使用。<br>
+當前漢化工作應該搞百花齊放、百家爭鳴，而不是集中壟斷到某一組員成分、路線不明的閉源組織上。<br>
+與其壟斷到某一組員成分、路線不明的閉源組織上，不如直接使用廣泛的與自由軟件運動高度合流的機器翻譯（ <a href="https://niutrans.com/trans" rel="noopener nofollow ugc">Niutrans</a>、 <a href="https://www.iciba.com/fy" rel="noopener nofollow ugc">Iciba</a>，等。付費的和內外有別的百毒翻譯不在範圍內）+人工校對代替對主要為紙質產品化的、低電子化的官僚壟斷資產階級。高質量的人工翻譯價格是非常高昂的。（大約好幾萬元一本書）<br>
+經人工手越少越好，否則多少有小生產的資本主義自發傾向在起作用，這是不可避免的。也保證了充分的匿名性。<br>
+沒有廣泛的民主的翻譯工作是得不到信任的。<br>
+私有軟件的百毒貼吧管理層一直都是無產階級的尖銳敵人（什麼搞“小王國”，搞“奴隸制”，這些管理層已經徹底腐化了。他們毫無疑問是自由軟件運動的敵人。），他們在鋼鐵雄心4的漢化推廣方面搞52pcgame壟斷制，52pcgame壟斷制遭衝擊的時候我可看得清清楚楚，52pcgame黑幫大肆刪貼的狀態被廣大群眾抓個正著。<br>
+考慮到馬哲吧才是主要敵人，這就和馬哲吧管理層搞了個mebk縮水版的百毒網盤是一樣的。寧要貼吧陷入無政府狀態，也不要貼吧有管理人員。<br>
+百毒貼吧本身就有大量法西斯主義者參與活動，這也就導致這些漢化組也有法西斯主義者參與活動。<br>
+翻譯工作的兩個階級、兩條路線爭議是非常激烈的，是不可調和的。<br>
+此外，高考吃屁黑幫佔領了的貼吧“貓的遺產”也是高考吃屁黑幫的一部分，值得加以打擊。<br>
+高考吃屁黑幫在百毒貼吧勾結、收買了系統的一部分人員，大搞一言堂和一長制，已經徹底腐化了。</p>
+<p>他們竭力強化和擴大資產階級法權，搞管、卡、壓，搞利潤掛帥和物質刺激，利用合法和大量非法的手段吮吸工人、貧下中農的血汗。不管個人在主觀上意識到與否，我們“這裡涉及到的人，只是經濟範疇的人格化，是一定的階級關係和利益的承擔者” 。（①馬克思：《資本論》第 1 卷。 《馬克思恩格斯全集》第 23 卷，第 12 頁。）</p>
+</div>
+<meta itemprop='headline' content='一个云汉化平台'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/treaty'><span itemprop='name'>treaty</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1480">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-07T14:05:52Z' class='post-time'>
+2022 年10 月 7 日 14:05
+</time>
+<meta itemprop='dateModified' content='2022-10-07T14:05:52Z'>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>感谢解答</p>
+</div>
+<meta itemprop='headline' content='一个云汉化平台'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">类别 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">常见问题解答/准则 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a> 提供技术支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>

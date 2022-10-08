@@ -79,7 +79,7 @@
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
 </span>
- <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1289">
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1289">
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2022-08-08T14:09:49Z' class='post-time'>
 2022 年8 月 8 日 14:09
@@ -180,7 +180,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
- <meta itemprop="userInteractionCount" content="1" />
+<meta itemprop="userInteractionCount" content="1" />
 </div>
 </div>
 <div id='post_24' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>

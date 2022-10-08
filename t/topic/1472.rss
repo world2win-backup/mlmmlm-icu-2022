@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>一種多線程加載的有限內存批量pdf轉圖片技術</title>
+    <link>https://mlmmlm.icu/t/topic/1472</link>
+    <description>文件名列表進程：
+
+```
+import os,sys,time
+n=0
+while True:
+    n+=1
+    print(n)
+    fl=[]
+    for a,b,c in os.walk(sys.path[0]):
+        for d in c:
+            if d[-3:]in[&#39;pdf&#39;,&#39;PDF&#39;]:fl.append([a,d])
+    f=open(&#39;fl.list&#39;,&#39;w+&#39;);f.write(repr(fl));f.close()
+    time.sleep(10)
+```
+轉換進程：
+```
+import os,sys,PyPDF2,gc,time
+from pdf2image import convert_from_path
+import pikepdf
+def restart():
+    python=sys.executable
+    os.execl(python,python,*sys.argv)
+base,z=1,0
+zl=[]
+afi=[]
+if os.path.exists(&#39;afi_op.list&#39;):
+    try:
+        f=open(&#39;afi_op.list&#39;,&#39;r&#39;);t=f.read();f.close()
+        afi=eval(t)
+    except:pass
+fl=[]
+def loadfi_cycle():time.sleep(1);loadfi()
+def loadfi():
+    global fl
+    try:f=open(&#39;fl.list&#39;,&#39;r&#39;);fl=eval(f.read());f.close()
+    except:loadfi_cycle()
+if not os.path.exists(&#39;fl.list&#39;):quit()
+else:loadfi()
+zl=len(fl)
+for h in fl:
+    a,d=h[0],h[1]
+    z+=1
+    n=(&#39;%s/%s&#39;%(a,d[:-4]))
+    if not os.path.exists(n):os.mkdir(n)
+    af=(&#39;%s/%s&#39;%(a,d[:-4]))
+    if not af in afi:
+        print(d)
+        pdfFileObj=open(zn:=&#39;%s/%s&#39;%(a,d),&#39;rb&#39;)
+        #print(zn)
+        try:pdfReader,e=PyPDF2.PdfFileReader(pdfFileObj),0
+        except:print(&#39;%s/%s&#39;%(a,d),&#39;ERROR=============&#39;);continue
+        full=True
+        while(e*base+1)&lt;=pdfReader.numPages:
+            fname=&#39;%s/%s.png&#39;%(n,str(e*base).rjust(6).replace(&#39; &#39;,&#39;0&#39;))
+            if os.path.exists(fname):e+=1
+            else:full=False;break
+        if full:afi.append(af);f=open(&#39;afi_op.list&#39;,&#39;w+&#39;);f.write(repr(afi));f.close()
+        else:print(&#39;%d/%d&#39;%(z,zl))
+        if(e*base+1)&lt;=pdfReader.numPages:
+            print(&#39;Start &quot;%s/%s&quot; ... Reading %d ... Fragment %d ... Percent %f％ ...&#39;%(a,d,pdfReader.numPages,e*base,e*base/pdfReader.numPages*100))
+            try:images = convert_from_path(&#39;%s/%s&#39;%(a,d),dpi=300,first_page=e*base+1,last_page=(e+1)*base)
+            except:continue
+            for i,image in enumerate(images):
+                fname = &#39;%s/%s.png&#39;%(n,str(e*base+i).rjust(6).replace(&#39; &#39;,&#39;0&#39;))
+                try:image.save(fname, &quot;PNG&quot;)
+                except:print(&#39;WHAT?????&#39;);continue
+            restart()
+```</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 03 Oct 2022 23:13:03 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1472.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>一種多線程加載的有限內存批量pdf轉圖片技術</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>文件名列表進程：</p>
+<pre><code class="lang-auto">import os,sys,time
+n=0
+while True:
+    n+=1
+    print(n)
+    fl=[]
+    for a,b,c in os.walk(sys.path[0]):
+        for d in c:
+            if d[-3:]in['pdf','PDF']:fl.append([a,d])
+    f=open('fl.list','w+');f.write(repr(fl));f.close()
+    time.sleep(10)
+</code></pre>
+<p>轉換進程：</p>
+<pre><code class="lang-auto">import os,sys,PyPDF2,gc,time
+from pdf2image import convert_from_path
+import pikepdf
+def restart():
+    python=sys.executable
+    os.execl(python,python,*sys.argv)
+base,z=1,0
+zl=[]
+afi=[]
+if os.path.exists('afi_op.list'):
+    try:
+        f=open('afi_op.list','r');t=f.read();f.close()
+        afi=eval(t)
+    except:pass
+fl=[]
+def loadfi_cycle():time.sleep(1);loadfi()
+def loadfi():
+    global fl
+    try:f=open('fl.list','r');fl=eval(f.read());f.close()
+    except:loadfi_cycle()
+if not os.path.exists('fl.list'):quit()
+else:loadfi()
+zl=len(fl)
+for h in fl:
+    a,d=h[0],h[1]
+    z+=1
+    n=('%s/%s'%(a,d[:-4]))
+    if not os.path.exists(n):os.mkdir(n)
+    af=('%s/%s'%(a,d[:-4]))
+    if not af in afi:
+        print(d)
+        pdfFileObj=open(zn:='%s/%s'%(a,d),'rb')
+        #print(zn)
+        try:pdfReader,e=PyPDF2.PdfFileReader(pdfFileObj),0
+        except:print('%s/%s'%(a,d),'ERROR=============');continue
+        full=True
+        while(e*base+1)&lt;=pdfReader.numPages:
+            fname='%s/%s.png'%(n,str(e*base).rjust(6).replace(' ','0'))
+            if os.path.exists(fname):e+=1
+            else:full=False;break
+        if full:afi.append(af);f=open('afi_op.list','w+');f.write(repr(afi));f.close()
+        else:print('%d/%d'%(z,zl))
+        if(e*base+1)&lt;=pdfReader.numPages:
+            print('Start "%s/%s" ... Reading %d ... Fragment %d ... Percent %f％ ...'%(a,d,pdfReader.numPages,e*base,e*base/pdfReader.numPages*100))
+            try:images = convert_from_path('%s/%s'%(a,d),dpi=300,first_page=e*base+1,last_page=(e+1)*base)
+            except:continue
+            for i,image in enumerate(images):
+                fname = '%s/%s.png'%(n,str(e*base+i).rjust(6).replace(' ','0'))
+                try:image.save(fname, "PNG")
+                except:print('WHAT?????');continue
+            restart()
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1472/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1472/1</link>
+        <pubDate>Mon, 03 Oct 2022 20:56:26 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1472-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1472.rss">一種多線程加載的有限內存批量pdf轉圖片技術</source>
+      </item>
+  </channel>
+</rss>

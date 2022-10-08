@@ -36,9 +36,9 @@
 <meta property="og:description" content="国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知" />
 <meta name="twitter:description" content="国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知" />
 <meta name="twitter:label1" value="阅读时间" />
-<meta name="twitter:data1" value="2 mins 🕑" />
+<meta name="twitter:data1" value="3 mins 🕑" />
 <meta name="twitter:label2" value="赞" />
-<meta name="twitter:data2" value="2 ❤" />
+<meta name="twitter:data2" value="5 ❤" />
 <meta property="article:published_time" content="2022-09-25T07:54:25+00:00" />
 <meta property="og:ignore_canonical" content="true" />
 <link rel="prev" href="/t/topic/1301">
@@ -437,6 +437,247 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_30' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/3/3afec885a36c45a398e1545a3885562fa2e65d63.gif">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-07T05:02:38Z' class='post-time'>
+2022 年10 月 7 日 05:02
+</time>
+<meta itemprop='dateModified' content='2022-10-07T05:08:22Z'>
+<span itemprop='position'>#30</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h1>
+<a name="microwaveradio-frequency-1" class="anchor" href="#microwaveradio-frequency-1"></a>关于微波（microwave）与射频（radio frequency）</h1>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/3/3afec885a36c45a398e1545a3885562fa2e65d63.gif" alt="Figure 3-1" data-base62-sha1="8pTyXSMkoVBTjqjiOUJVwTuk4XF" width="646" height="262"></p>
+<p>微波是频率比较高的射频。<br>
+微波的频率范围大约在 300MHz至 300GHz之间，是涵盖 UHF、SHF、EHF 范围的一种射频。所对应的波长为 1米至 1mm之间。微波频率比无线电波频率高，通常也称为“超高频电磁波”。</p>
+<p>甚 特 超 极<br>
+Very Ultra Super Extremely</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>9</th>
+<th>特高频</th>
+<th>UHF</th>
+<th>300–3000 百万赫（300MHz–3GHz）</th>
+<th>分米波</th>
+<th>1米 – 100毫米</th>
+<th>电视广播、无线电话通讯、无线网络、微波炉</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td>超高频</td>
+<td>SHF</td>
+<td>3–30 吉赫（3GHz–30GHz）</td>
+<td>厘米波</td>
+<td>100毫米 – 10毫米</td>
+<td>无线网络、雷达、人造卫星接收</td>
+</tr>
+<tr>
+<td>11</td>
+<td>极高频</td>
+<td>EHF</td>
+<td>30–300 吉赫（30GHz–300GHz）</td>
+<td>毫米波</td>
+<td>10毫米 – 1毫米</td>
+<td>射电天文学、遥感、人体扫描安检仪</td>
+</tr>
+<tr>
+<td>12</td>
+<td>至高频</td>
+<td>THF</td>
+<td>0.3-3 兆赫（0.3THz–3THz）</td>
+<td>微米波</td>
+<td>1毫米 – 0.1毫米</td>
+<td>回旋管、人体扫描安检仪等</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<p>（前面提到的短波电台工作于高频（HF）频率为3-30MHz）</p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_31' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-07T05:07:44Z' class='post-time'>
+2022 年10 月 7 日 05:07
+</time>
+<meta itemprop='dateModified' content='2022-10-07T05:18:47Z'>
+<span itemprop='position'>#31</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h1>
+<a name="wifi24ghz-1" class="anchor" href="#wifi24ghz-1"></a>家用微波炉与wifi工作频率是2.4GHz左右，属于微波范围</h1>
+<p>但是微波炉靠磁控管工作，wifi靠场效应管工作所以功率差别很大。</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.zhihu.com/question/24559305">
+<header class="source">
+<img src="https://mlmmlm.icu/uploads/default/original/2X/1/1b93d4b41546bf11f46719fe9093e88ca3a4cae1.png" class="site-icon" width="" height="">
+<a href="https://www.zhihu.com/question/24559305" target="_blank" rel="noopener nofollow ugc">zhihu.com</a>
+</header>
+<article class="onebox-body">
+<h3><a href="https://www.zhihu.com/question/24559305" target="_blank" rel="noopener nofollow ugc">为什么2.4G通信使用的频段和微波炉的工作频率重合? - 知乎</a></h3>
+<p>微波炉工作频率2450Mhz，2.4G开放2400～2500Mhz频段。大家都知道其中的制度因素，但是为何各国都选择这个…</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_32' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-07T05:23:00Z' class='post-time'>
+2022 年10 月 7 日 05:23
+</time>
+<meta itemprop='dateModified' content='2022-10-07T05:23:00Z'>
+<span itemprop='position'>#32</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>关键词： 速调管、行波管、磁控管、正交场放大器和回旋管</p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1 个赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_33' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/2/2bccf7180e785189a189c498e28200cbc67c187e.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-07T15:09:14Z' class='post-time'>
+2022 年10 月 7 日 15:09
+</time>
+<meta itemprop='dateModified' content='2022-10-07T15:09:14Z'>
+<span itemprop='position'>#33</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>二战时候的雷达确实是用磁控管工作的，跟现在的微波炉一样，但是现代的雷达一般只有大功率的采用磁控管。<br>
+<img src="https://mlmmlm.icu/uploads/default/original/2X/2/2bccf7180e785189a189c498e28200cbc67c187e.png" alt="image" data-base62-sha1="6ftFmARRB3opgj76zs4e7sVkxbw" width="690" height="497"></p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_34' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1301">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/7/73451016b76e6645e5aa0ee2ac156d2cd9bb33b7.png">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-07T15:45:49Z' class='post-time'>
+2022 年10 月 7 日 15:45
+</time>
+<meta itemprop='dateModified' content='2022-10-07T15:45:49Z'>
+<span itemprop='position'>#34</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/7/73451016b76e6645e5aa0ee2ac156d2cd9bb33b7.png" alt="image" data-base62-sha1="grIShGoNM5Xw5RIlUARj1PRbug7" width="570" height="500"><br>
+现在的雷达使用固体晶体管是主流，以后的微波炉也可能用GaN场效应管产生微波。（目前手机和笔记本电脑快充和电动自行车充电器已经用上了GaN）</p>
+</div>
+<meta itemprop='headline' content='一些无线电的基础知识'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+ <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">

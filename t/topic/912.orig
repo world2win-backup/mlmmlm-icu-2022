@@ -135,7 +135,7 @@
 <meta itemprop='keywords' content=''>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
-<meta itemprop="userInteractionCount" content="0" />
+ <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -164,7 +164,7 @@
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
- <a href='/tos' itemprop="url">服务条款 </a>
+<a href='/tos' itemprop="url">服务条款 </a>
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
