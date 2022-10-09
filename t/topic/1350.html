@@ -238,7 +238,7 @@
 <p>[全尺寸表 ]</p>
 <h3>
 <a name="h-19" class="anchor" href="1350.html#h-19"></a>基于闪存的存储系统的安全删除</h3>
-<p>上述基于 HDD 的存储系统的安全删除方法依赖于硬盘的属性：基于磁性和支持就地更新。然而，闪存不具备这些特性。魏等人。( [2011] ) 进行了一系列实验，表明适用于 HDD 的删除技术可能不适用于 NAND 闪存。由于 NAND 闪存不是基于磁性的，因此消磁方法可能会损坏 NAND 闪存芯片并导致数据不可读，但所有数据仍可能保持完整（[Wei et al. 2011]）。魏等人。( [2011]) 在 SSD 上创建了 1000 个小文件，然后拆下驱动器，并搜索这些文件的内容。他们发现 SSD 包含多达 16 个测试文件的陈旧副本。这是因为 FTL 在垃圾收集和异地更新期间会创建冗余文件副本，不幸的是，这会使闪存的安全删除设计复杂化。他们还测试了 13 种基于单文件覆盖的清理工具（[LSoft Technologies Inc：<a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="68290b1c011e0d28">[email&#160;protected]</a> KillDisk 2017]；[GEEP EDS LLC：Darik’s Boot 和 Nuke 2017])，以确定它们是否适用于闪存。不幸的是，所有这些工具都无法清理闪存中的数据：4% 到 75% 的文件内容保留在 SATA SSD 中，而 0.57% 到 84.9% 的数据保留在 USB 驱动器中。所有上述结果表明，由于 NAND 闪存的特殊性质，与 HDD 相比，安全地从 NAND 闪存中删除数据更具挑战性。在下文中，我们总结了旨在从基于闪存的存储系统中安全删除数据的现有工作，这些工作分为两类：基于覆盖的和基于加密的。</p>
+<p>上述基于 HDD 的存储系统的安全删除方法依赖于硬盘的属性：基于磁性和支持就地更新。然而，闪存不具备这些特性。魏等人。( [2011] ) 进行了一系列实验，表明适用于 HDD 的删除技术可能不适用于 NAND 闪存。由于 NAND 闪存不是基于磁性的，因此消磁方法可能会损坏 NAND 闪存芯片并导致数据不可读，但所有数据仍可能保持完整（[Wei et al. 2011]）。魏等人。( [2011]) 在 SSD 上创建了 1000 个小文件，然后拆下驱动器，并搜索这些文件的内容。他们发现 SSD 包含多达 16 个测试文件的陈旧副本。这是因为 FTL 在垃圾收集和异地更新期间会创建冗余文件副本，不幸的是，这会使闪存的安全删除设计复杂化。他们还测试了 13 种基于单文件覆盖的清理工具（[LSoft Technologies Inc：<a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="357456415c435075">[email&#160;protected]</a> KillDisk 2017]；[GEEP EDS LLC：Darik’s Boot 和 Nuke 2017])，以确定它们是否适用于闪存。不幸的是，所有这些工具都无法清理闪存中的数据：4% 到 75% 的文件内容保留在 SATA SSD 中，而 0.57% 到 84.9% 的数据保留在 USB 驱动器中。所有上述结果表明，由于 NAND 闪存的特殊性质，与 HDD 相比，安全地从 NAND 闪存中删除数据更具挑战性。在下文中，我们总结了旨在从基于闪存的存储系统中安全删除数据的现有工作，这些工作分为两类：基于覆盖的和基于加密的。</p>
 <h4>
 <a name="nand-20" class="anchor" href="1350.html#nand-20"></a>用于 NAND 闪存的基于覆盖的安全删除。</h4>
 <p>基于覆盖的安全删除方法的一个常见想法是用无意义的信息（例如，有噪声的随机数据）替换已删除的数据。</p>
@@ -312,7 +312,7 @@
 <p>所有作者阅读并认可的终稿。</p>
 <h3>
 <a name="h-29" class="anchor" href="1350.html#h-29"></a>通讯作者</h3>
-<p>给<a href="../../cdn-cgi/l/email-protection.html#87edeee6f4efeeedeee2c7eeeee2a9e6e4a9e4e9b8d8ffd8f3f5d8f4ebbae6f2f3e8a1e6eaf7bcd8ffd8f3f5d8f3ebbafdefaac4c9a1e6eaf7bcd8ffd8f3f5d8efebbae2e9a1e6eaf7bcd8ffd8f3f5d8f7f3e8baf0e6f7f7">世杰嘉</a>或<a href="../../cdn-cgi/l/email-protection.html#c3a1a0aba6ad83aeb7b6eda6a7b6fc9cbb9cb7b19cb0affea2b6b7ace5a2aeb3f89cbb9cb7b19cb7affeb9abee808de5a2aeb3f89cbb9cb7b19cabaffea6ade5a2aeb3f89cbb9cb7b19cb3b7acfeb4a2b3b3">陈博</a>的来信。</p>
+<p>给<a href="../../cdn-cgi/l/email-protection.html#dab0b3bba9b2b3b0b3bf9ab3b3bff4bbb9f4b9b4e585a285aea885a9b6e7bbafaeb5fcbbb7aae185a285aea885aeb6e7a0b2f79994fcbbb7aae185a285aea885b2b6e7bfb4fcbbb7aae185a285aea885aaaeb5e7adbbaaaa">世杰嘉</a>或<a href="../../cdn-cgi/l/email-protection.html#4725242f2229072a33326922233278183f18333518342b7a2632332861262a377c183f18333518332b7a3d2f6a040961262a377c183f183335182f2b7a222961262a377c183f183335183733287a30263737">陈博</a>的来信。</p>
 <h2>
 <a name="h-30" class="anchor" href="1350.html#h-30"></a>道德声明</h2>
 <h3>
@@ -446,7 +446,7 @@
 <li>Lee, J, Heo J, Cho Y, Hong J, Shin SY (2008) Nand flash 文件系统的安全删除 In: Proceedings of the 2008 ACM symposium on Applied Computing, 1710–1714… ACM。</li>
 <li>Lee, J, Yi S, Heo J, Park H, Shin SY, Cho Y (2010) Flash 文件系统的高效安全删除方案。J Inf Sci Eng 26（1）：27-38。<a href="https://translate.google.com/website?sl=auto&amp;tl=zh-CN&amp;hl=en&amp;client=webapp&amp;u=http://scholar.google.com/scholar_lookup?%26title%3DAn%2520efficient%2520secure%2520deletion%2520scheme%2520for%2520flash%2520file%2520systems%26journal%3DJ%2520Inf%2520Sci%2520Eng%26volume%3D26%26issue%3D1%26pages%3D27-38%26publication_year%3D2010%26author%3DLee%252CJ%26author%3DYi%252CS%26author%3DHeo%252CJ%26author%3DPark%252CH%26author%3DShin%252CSY%26author%3DCho%252CY" rel="noopener nofollow ugc">谷歌学术</a>
 </li>
-<li>LSoft Technologies Inc：<a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="1e5f7d6a77687b5e">[email&#160;protected]</a> KillDisk（2017 年）。检索于 2017 年 12 月 17 日，来自<a href="https://translate.google.com/website?sl=auto&amp;tl=zh-CN&amp;hl=en&amp;client=webapp&amp;u=http://www.killdisk.com/" rel="noopener nofollow ugc">http://www.killdisk.com/</a>。</li>
+<li>LSoft Technologies Inc：<a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="5b1a382f322d3e1b">[email&#160;protected]</a> KillDisk（2017 年）。检索于 2017 年 12 月 17 日，来自<a href="https://translate.google.com/website?sl=auto&amp;tl=zh-CN&amp;hl=en&amp;client=webapp&amp;u=http://www.killdisk.com/" rel="noopener nofollow ugc">http://www.killdisk.com/</a>。</li>
 <li>McDonald, AD, Kuhn MG (2000) Stegfs: A steganographic file system for linux In: Information Hiding, 463–477… Springer。</li>
 <li>内存技术设备：UBIFS (2015)。检索于 2017 年 12 月 17 日，来自<a href="https://translate.google.com/website?sl=auto&amp;tl=zh-CN&amp;hl=en&amp;client=webapp&amp;u=http://www.linux-mtd.infradead.org/doc/ubifs.html" rel="noopener nofollow ugc">http://www.linux-mtd.infradead.org/doc/ubifs.html</a>。</li>
 <li>Meng, B, Wang Jq (2009) A receiver deniable encryption scheme In: International Symposium on Information Processing (ISIP '09)。</li>
@@ -560,7 +560,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
@@ -621,7 +621,7 @@
 <span itemprop='position'>#5</span>
 </span>
 </div>
- <div class='post' itemprop='articleBody'>
+<div class='post' itemprop='articleBody'>
 <p>一波取证题<br>
 <a href="https://archive.ph/Z5UyL" class="onebox" target="_blank" rel="noopener nofollow ugc">https://archive.ph/Z5UyL</a><br>
 2020美亚杯个人赛<br>

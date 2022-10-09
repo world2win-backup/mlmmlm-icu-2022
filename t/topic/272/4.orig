@@ -257,7 +257,7 @@ PAPER在提及扎姆的時候並沒有提及它的名字。<br>
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="1" />
 </div>
 </div>

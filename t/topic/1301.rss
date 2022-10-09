@@ -11,9 +11,22 @@ https://www.ecb.torontomu.ca/~lzhao/ELE635/Chap3_AM-notes%20Part%202.pdf
 
 https://www.youtube.com/watch?v=o9XCnZQkvQ0</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Oct 2022 15:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2022 03:06:49 +0000</lastBuildDate>
     <category>技术</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1301.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>一些无线电的基础知识</title>
+        <dc:creator><![CDATA[azide]]></dc:creator>
+        <description><![CDATA[
+            <p>我最近看了一些俄乌战争的视频，发现有很多用无人机定点清除的例子。<br>
+所以雷达和防空导弹很重要。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1301/35">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1301/35</link>
+        <pubDate>Sun, 09 Oct 2022 03:06:49 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1301-35</guid>
+        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
+      </item>
       <item>
         <title>一些无线电的基础知识</title>
         <dc:creator><![CDATA[adt]]></dc:creator>
@@ -768,142 +781,6 @@ bash -c "$(curl -LfsS 'https://gitee.com/mo2/linux/raw/master/debian.sh')"
         <link>https://mlmmlm.icu/t/topic/1301/11</link>
         <pubDate>Mon, 15 Aug 2022 05:25:27 +0000</pubDate>
         <guid isPermaLink="false">mlmmlm.icu-post-1301-11</guid>
-        <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
-      </item>
-      <item>
-        <title>一些无线电的基础知识</title>
-        <dc:creator><![CDATA[azide]]></dc:creator>
-        <description><![CDATA[
-            <aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/5498616/83dd0c">
-  <header class="source">
-      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
-
-      <a href="https://b-ok.cc/book/5498616/83dd0c" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://b-ok.cc/book/5498616/83dd0c" target="_blank" rel="noopener nofollow ugc">电磁学 第四版-赵凯华 陈熙谋 | 赵凯华 陈熙谋 | download</a></h3>
-
-  <p>电磁学 第四版-赵凯华 陈熙谋 | 赵凯华 陈熙谋 | download | Z-Library. Download books for free. Find books</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/11736537/73ed7a">
-  <header class="source">
-      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
-
-      <a href="https://b-ok.cc/book/11736537/73ed7a" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://b-ok.cc/book/11736537/73ed7a" target="_blank" rel="noopener nofollow ugc">电磁场与电磁波 第2版 | （美）程著；何业军，桂良启译 | download</a></h3>
-
-  <p>电磁场与电磁波 第2版 | （美）程著；何业军，桂良启译 | download | Z-Library. Download books for free. Find books</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/3511909/db1f53">
-  <header class="source">
-      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
-
-      <a href="https://b-ok.cc/book/3511909/db1f53" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://b-ok.cc/book/3511909/db1f53" target="_blank" rel="noopener nofollow ugc">电动力学导论 | David. J. Griffiths | download</a></h3>
-
-  <p>电动力学导论 | David. J. Griffiths | download | Z-Library. Download books for free. Find books</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/2050807/2ed8a0">
-  <header class="source">
-      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
-
-      <a href="https://b-ok.cc/book/2050807/2ed8a0" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://b-ok.cc/book/2050807/2ed8a0" target="_blank" rel="noopener nofollow ugc">Fundamentals of electromagnetics for electrical and computer engineering |...</a></h3>
-
-  <p>Fundamentals of electromagnetics for electrical and computer engineering | Nannapaneni Narayana Rao | download | Z-Library. Download books for free. Find books</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://b-ok.cc/book/2695051/36d409">
-  <header class="source">
-      <span class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span>
-
-      <a href="https://b-ok.cc/book/2695051/36d409" target="_blank" rel="noopener nofollow ugc">b-ok.cc</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://b-ok.cc/book/2695051/36d409" target="_blank" rel="noopener nofollow ugc">Classical Electrodynamics | John David Jackson | download</a></h3>
-
-  <p>Classical Electrodynamics | John David Jackson | download | Z-Library. Download books for free. Find books</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-          <p><a href="https://mlmmlm.icu/t/topic/1301/10">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1301/10</link>
-        <pubDate>Mon, 15 Aug 2022 05:20:10 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1301-10</guid>
         <source url="https://mlmmlm.icu/t/topic/1301.rss">一些无线电的基础知识</source>
       </item>
   </channel>
