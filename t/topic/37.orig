@@ -103,7 +103,7 @@
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="https://mlmmlm.icu/t/topic/562/8" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
-<meta itemprop='url' content='https://mlmmlm.icu/t/topic/562/8'>
+ <meta itemprop='url' content='https://mlmmlm.icu/t/topic/562/8'>
 <span itemprop='name'>可否使用 redmine 之类的软件进行作业？</span>
 </a>
 <meta itemprop='position' content='1'>
@@ -584,7 +584,7 @@
 <time itemprop='datePublished' datetime='2020-08-30T13:58:24Z' class='post-time'>
 2020 年8 月 30 日 13:58
 </time>
- <meta itemprop='dateModified' content='2020-08-30T13:58:24Z'>
+<meta itemprop='dateModified' content='2020-08-30T13:58:24Z'>
 <span itemprop='position'>#10</span>
 </span>
 </div>
@@ -652,7 +652,7 @@
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2020-09-01T11:20:06Z' class='post-time'>
 2020 年9 月 1 日 11:20
-</time>
+ </time>
 <meta itemprop='dateModified' content='2020-09-01T11:20:06Z'>
 <span itemprop='position'>#12</span>
 </span>
@@ -882,7 +882,7 @@
 <p>他还是人民内部问题，引导得好，可以不走到对抗方面去，如刘少奇、林彪那样。邓与刘、林还是有一些区别，邓愿作自我批评，而刘、林则根本不愿。要帮助他，批他的错误就是帮助，顺着不好。批是要批的，但不应一棍子打死。对犯有缺点和错误的人，我们党历来有政策，就是惩前毖后，治病救人。要互相帮助，改正错误，搞好团结，搞好工作。</p>
 <hr>
 <p>注：事实证明了邓小平是翻案狂魔。</p>
-</div>
+ </div>
 <meta itemprop='headline' content='认真学习毛主席重要指示 搞清楚资产阶级就在共产党内'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />

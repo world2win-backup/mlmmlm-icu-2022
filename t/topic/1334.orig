@@ -45,7 +45,7 @@
 <h1>马列毛群众</h1>
 </a>
 </header>
-<div id="main-outlet" class="wrap" role="main">
+ <div id="main-outlet" class="wrap" role="main">
 <div id="topic-title">
 <h1>
 <a href="/t/topic/1334">江青、張春橋、王洪文等同志用MockingBird朗讀《社會主義政治經濟學》</a>
@@ -411,7 +411,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="1" />
+ <meta itemprop="userInteractionCount" content="1" />
 </div>
 </div>
 <div id='post_12' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -474,7 +474,7 @@
 <time itemprop='datePublished' datetime='2022-08-18T04:24:20Z' class='post-time'>
 2022 年8 月 18 日 04:24
 </time>
-<meta itemprop='dateModified' content='2022-08-18T04:24:20Z'>
+ <meta itemprop='dateModified' content='2022-08-18T04:24:20Z'>
 <span itemprop='position'>#13</span>
 </span>
 </div>

@@ -778,7 +778,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="1" />
-</div>
+ </div>
 </div>
 <div id='post_42' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
@@ -846,7 +846,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="0" />
+ <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 <div id='post_44' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -908,7 +908,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2022-07-18T21:37:37Z' class='post-time'>
 2022 年7 月 18 日 21:37
-</time>
+ </time>
 <meta itemprop='dateModified' content='2022-07-18T21:46:00Z'>
 <span itemprop='position'>#47</span>
 </span>
