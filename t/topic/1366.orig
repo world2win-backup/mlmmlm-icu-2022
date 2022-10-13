@@ -276,7 +276,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="1" />
 </div>
 </div>
 <div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -360,7 +360,7 @@
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
-</div>
+ </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
@@ -497,6 +497,104 @@
 </div>
 <div style="clear: both"></div>
 </aside>
+</div>
+<meta itemprop='headline' content='【科普】三酸两碱，无机含氮化合物，含能材料，化工有机产品的科普（关于历史上的制备方法和当前的制备方法）'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_10' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1366">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/2X/a/acc25cf11e70efbdfce3abfe98fdd7b04bcae2d8.jpeg">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-11T14:58:42Z' class='post-time'>
+2022 年10 月 11 日 14:58
+</time>
+<meta itemprop='dateModified' content='2022-10-11T14:58:42Z'>
+<span itemprop='position'>#10</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h2>
+<a name="h-1" class="anchor" href="#h-1"></a>重要更新，三氧化硫具有简便的制作方法</h2>
+<p>有了三氧化硫之后可以在甲苯上引入第三个硝基。<br>
+乙酸酐也可以由此制得。</p>
+<p><img src="https://mlmmlm.icu/uploads/default/original/2X/a/acc25cf11e70efbdfce3abfe98fdd7b04bcae2d8.jpeg" alt="image" data-base62-sha1="oEixQd1PABdwEeKDy5jxdwfw5xm" width="640" height="480"><br>
+<a href="https://web.archive.org/web/20130329061610/https://www.sciencemadness.org/talk/viewthread.php?tid=10217" class="onebox" target="_blank" rel="noopener nofollow ugc">https://web.archive.org/web/20130329061610/https://www.sciencemadness.org/talk/viewthread.php?tid=10217</a></p>
+<p><strong>Sulfur trioxide from sodium hydrogen sulfate</strong></p>
+<p>With this preparation I think I have found the easiest, cheapest and highest-yielding method of sulfur trioxide production for the amateur chemist.</p>
+<p>The idea of making sulfur trioxide by heating sodium hydrogen sulfate has been brought up since the beginning of discussion on oleum production on this board, more specifically here:<br>
+<a href="https://web.archive.org/web/20130329061610/https://sciencemadness.org/talk/viewthread.php?tid=727&amp;page=1#pid6198" rel="noopener nofollow ugc">The old Oleum &amp; SO3 thread</a><br>
+But as far as I know, I am the first one to have success with it.</p>
+<p>For more information about other methods, look at the <a href="https://web.archive.org/web/20130329061610/https://sciencemadness.org/talk/viewthread.php?tid=10012" rel="noopener nofollow ugc">ferric sulfate method</a>, the <a href="https://web.archive.org/web/20130329061610/https://sciencemadness.org/talk/viewthread.php?tid=5495&amp;page=1" rel="noopener nofollow ugc">persulfate method</a> and the <a href="https://web.archive.org/web/20130329061610/https://sciencemadness.org/talk/viewthread.php?tid=8923&amp;page=1" rel="noopener nofollow ugc">vanadium(V)oxide catalysed method</a>.</p>
+<p><strong>Theory</strong><br>
+Sodium hydrogen sulfate gives off water when heated at 300- 500°C and turns into sodium pyrosulfate:</p>
+<p>2 NaHSO4 -----&gt; Na2S2O7 + H2O</p>
+<p>This in turn gives off SO3 at 680- 880°C:</p>
+<p>Na2S2O7 -----&gt; Na2SO4 + SO3.</p>
+<p>The temperatures stated are the ones I observed, they were measured at the outside of the test tube.<br>
+In literature you will find very much lower temperatures- I assume those are the temperatures at which the corresponding decomposition just starts, not the ones at which the decomposition goes at a useful rate.</p>
+<p>The two reactions are not cleanly separated. Even when one heats at 480°C until absolutely no more water vapor is being produced, as I have done, some concentrated H2SO4 will come over from 500- 670°C, no matter how slowly the heating is carried out.<br>
+The yield of SO3 coming over at 680- 880°C is still extremely good, though.</p>
+<p>But what makes the NaHSO4 method so much better than the ferric sulfate method, which operates at a similar temperature, is the fact that the SO3 does not decompose to SO2 and O2 at all.<br>
+The equilibrium for the thermal decomposition and formation of SO3 indicates that ca. 70% of the SO3 should be decomposed at 800°C- see the diagram that I posted in the ferric sulfate method.</p>
+<p>I cite Ullmann’s Encyclopedia:</p>
+<p>Quote:<br>
+Pure sulfur trioxide is in fact extremely resistant to thermal decomposition because of kinetic inhibition, even at elevated temperatures where thermodynamic equilibrium is shifted heavily toward SO2 + O2. However, certain catalytically active substances are able to increase the rate of equilibration substantially. In the presence of metals such as platinum or of metal oxides and sulfates (e.g., of iron, copper, and, of course, vanadium) the decomposition approaches equilibrium at temperatures above ca. 700 °C.</p>
+<p>The ferric sulfate/oxide in my ferric sulfate method catalyzed the dissociation of SO3.<br>
+No iron or other heavy metal compounds are present in the NaHSO4 method, hence no dissociation of SO3 here.</p>
+<p>This explains the unusually high yield of SO3 obtained from NaHSO4 and the complete absence of any SO2 smell.</p>
+<p><strong>Precursor</strong></p>
+<p>The precursor is technical grade sodium hydrogen sulfate, purchased from the pool section of the home store.<br>
+It is used for lowering the pH of swimming pools, and comes in buckets of 1,5kg.<br>
+<span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span></p>
+<p><strong>Apparatus and Procedure</strong></p>
+<p>100g NaHSO4 were filled into a quartz glass test tube with joint, the same one I had used for the ferric sulfate pyrolysis.<br>
+<img src="https://web.archive.org/web/20130329061610im_/http://img502.imageshack.us/img502/9938/pyrosulfateingeflltwa4.jpg" alt="" width="" height=""><br>
+After melting, the melt filled only half of the test tube.</p>
+<p>This was then slowly heated in the tube furnace. At 300-450°C there was a strong evolution of water vapor after melting.<br>
+<img src="https://web.archive.org/web/20130329061610im_/http://img510.imageshack.us/img510/7512/pyrosulfatdampfri5.jpg" alt="" width="" height=""><br>
+It was held at 480°C for 45min, after which the steam evolution had ceased entirely.</p>
+<p>Upon further heating from 500- 670°C, small amounts of concentrated H2SO4 slowly distill off. To capture and condense the vapors, I placed a round-bottom flask in front of the test tube:<br>
+<img src="https://web.archive.org/web/20130329061610im_/http://img361.imageshack.us/img361/6281/pyrosulfatrauchpz5.jpg" alt="" width="" height=""><br>
+A quartz joint with a bent tube would have been much better to use, but I didn’t have such a thing.</p>
+<p>At 680°C, SO3 evolution started. A quartz glass extension was put on the test tube, and a glass joint adapter carrying a bent glass tube was put on the extension. The glass tube led into a cylindrical receptacle cooled with water from the outside, so this was essentially the same apparatus I used for the ferric sulfate pyrolysis.<br>
+Since the SO3 is pure and not diluted with SO2, no ice is necessary for cooling.</p>
+<p>The SO3 had a tendency to crystallize inside the glass tube, potentially leading to plugging. To remedy this, I increased the heating power on the tube furnace so that the SO3 came over faster and at a temperature above the melting point of solid SO3. Here is a picture of the SO3 in the tube melting:<br>
+<span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span></p>
+<p>Some crystals of solid SO3 deposited on the walls of the receptacle, while the bulk of the product collects below the cooling water surface:<br>
+<span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span></p>
+<p>The evolution of SO3 was complete at 880°C. I briefly heated to 930°C to melt the sodium sulfate into a single chunk:<br>
+<img src="https://web.archive.org/web/20130329061610im_/http://img403.imageshack.us/img403/6774/pyrosulfatnatriumsulfatiq4.jpg" alt="" width="" height=""></p>
+<p>And this is the product after solidification- an astounding 23,8g of SO3, from 100g NaHSO4, a 71% yield!<br>
+<img src="https://web.archive.org/web/20130329061610im_/http://img394.imageshack.us/img394/4766/pyrosulfatproduktdb3.jpg" alt="" width="" height=""></p>
+<p><strong>Conclusion</strong><br>
+I think the yield of the NaHSO4 method speaks for itself. This is a much better method than the ferric sulfate pyrolysis.</p>
+<p>Adding to that, the precursor can simply be bought OTC instead of having to prepare the ferric sulfate precursor beforehand.</p>
+<p>Now we have a high-yielding and cheap method of SO3 production.<br>
+This should open up lots of possibilities- the synthesis of TNT, which requires oleum in the last step, springs to mind.</p>
+<p>I have already explained in the other thread how useful SO3 and oleum are for the synthetic chemist. Thionyl chloride, dimethyl sulfate, chlorosulfonic acid, Oleum as dehydrating agent etc… are just a few applications of SO3.</p>
+<p><strong>If you choose to make SO3, please make yourself aware of the dangers of this substance first.<br>
+The warning “Extremely corrosive” does not really express the dangers appropriately. Oleum destroys many plastics, like PE and PP, that are completely resistant to 98% H2SO4- only glass and fluoropolymers like PTFE are really safe.</strong></p><strong>
+<p>The reaction of SO3 with water is explosively violent. SO3 must only be diluted with concentrated H2SO4!</p>
+</strong><p><strong>SO3 and Oleum also create an extremely dense fog when handled in open air, due to reaction of gaseous SO3 with aerial moisture forming droplets of H2SO4. If using a fume hood, be aware that all this thick fog will come out the exhaust! Most filters are incapable of precipitating H2SO4 fogs!</strong></p>
+<p>[Edited on 24-3-2008 by garage chemist]</p>
 </div>
 <meta itemprop='headline' content='【科普】三酸两碱，无机含氮化合物，含能材料，化工有机产品的科普（关于历史上的制备方法和当前的制备方法）'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">

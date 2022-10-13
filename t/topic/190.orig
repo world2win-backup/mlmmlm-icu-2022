@@ -138,7 +138,7 @@
 <span itemprop='position'>#2</span>
 </span>
 </div>
-<div class='post' itemprop='articleBody'>
+ <div class='post' itemprop='articleBody'>
 <p>农村人民公社工作条例修正草案<br>
 （一九六二年九月二十七日，中国共产党第八届中央委员会第十次全体会议通过）</p>
 <p>第一章 农村人民公社<br>
@@ -484,7 +484,7 @@
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
- </div>
+</div>
 <div id='post_6' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
@@ -580,7 +580,7 @@
 </div>
 <meta itemprop='headline' content='公有制的两种形式——集体所有制和全民所有制'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
-<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+ <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
@@ -621,7 +621,7 @@
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
-<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+ <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
