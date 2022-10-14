@@ -535,7 +535,7 @@
 </div>
 <meta itemprop='headline' content='右人观察 or 🀄特👑观察 [Don&#39;t click when you have cardiovascular disease]'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>

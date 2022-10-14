@@ -53,60 +53,9 @@
 </thead>
 <tbody>
 <tr>
-<td class='category' style='border-color: #F1592A;'>
-<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<meta itemprop='position' content='0'>
-<meta itemprop='url' content='/c/8-category/8'>
-<h3>
-<a href='/c/8-category/8'>
-<span itemprop='name'>新闻</span>
-</a>
-</h3>
-<div itemprop='description'></div>
-</div>
-</td>
-<td class='topics'>
-<div title='38 话题'>38</div>
-</td>
-</tr>
-<tr>
-<td class='category' style='border-color: #0088CC;'>
-<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<meta itemprop='position' content='1'>
-<meta itemprop='url' content='/c/6-category/6'>
-<h3>
-<a href='/c/6-category/6'>
-<span itemprop='name'>一般讨论</span>
-</a>
-</h3>
-<div itemprop='description'></div>
-</div>
-</td>
-<td class='topics'>
-<div title='80 话题'>80</div>
-</td>
-</tr>
-<tr>
-<td class='category' style='border-color: #BF1E2E;'>
-<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<meta itemprop='position' content='2'>
-<meta itemprop='url' content='/c/7-category/7'>
-<h3>
-<a href='/c/7-category/7'>
-<span itemprop='name'>文献 | 书籍</span>
-</a>
-</h3>
-<div itemprop='description'></div>
-</div>
-</td>
-<td class='topics'>
-<div title='191 话题'>191</div>
-</td>
-</tr>
-<tr>
 <td class='category' style='border-color: #0E76BD;'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<meta itemprop='position' content='3'>
+<meta itemprop='position' content='0'>
 <meta itemprop='url' content='/c/10-category/10'>
 <h3>
 <a href='/c/10-category/10'>
@@ -123,7 +72,7 @@
 <tr>
 <td class='category' style='border-color: #9EB83B;'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<meta itemprop='position' content='4'>
+<meta itemprop='position' content='1'>
 <meta itemprop='url' content='/c/9-category/9'>
 <h3>
 <a href='/c/9-category/9'>
@@ -135,6 +84,57 @@
 </td>
 <td class='topics'>
 <div title='68 话题'>68</div>
+</td>
+</tr>
+<tr>
+<td class='category' style='border-color: #F1592A;'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<meta itemprop='position' content='2'>
+<meta itemprop='url' content='/c/8-category/8'>
+<h3>
+<a href='/c/8-category/8'>
+<span itemprop='name'>新闻</span>
+</a>
+</h3>
+<div itemprop='description'></div>
+</div>
+</td>
+<td class='topics'>
+<div title='38 话题'>38</div>
+</td>
+</tr>
+<tr>
+<td class='category' style='border-color: #0088CC;'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<meta itemprop='position' content='3'>
+<meta itemprop='url' content='/c/6-category/6'>
+<h3>
+<a href='/c/6-category/6'>
+<span itemprop='name'>一般讨论</span>
+</a>
+</h3>
+<div itemprop='description'></div>
+</div>
+</td>
+<td class='topics'>
+<div title='80 话题'>80</div>
+</td>
+</tr>
+<tr>
+<td class='category' style='border-color: #BF1E2E;'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<meta itemprop='position' content='4'>
+<meta itemprop='url' content='/c/7-category/7'>
+<h3>
+<a href='/c/7-category/7'>
+<span itemprop='name'>文献 | 书籍</span>
+</a>
+</h3>
+<div itemprop='description'></div>
+</div>
+</td>
+<td class='topics'>
+<div title='191 话题'>191</div>
 </td>
 </tr>
 <tr>
