@@ -54,7 +54,7 @@
 <div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 <a href="https://mlmmlm.icu/c/8-category/8" class="badge-wrapper bullet" itemprop="item">
-<span class='badge-category-bg' style='background-color: #F1592A'></span>
+ <span class='badge-category-bg' style='background-color: #F1592A'></span>
 <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>新闻</span>
 </span>
@@ -80,7 +80,7 @@
 2020 年9 月 15 日 18:08
 </time>
 <meta itemprop='dateModified' content='2020-09-17T12:52:44Z'>
- <span itemprop='position'>#1</span>
+<span itemprop='position'>#1</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
@@ -115,7 +115,6 @@
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
-
 </div>
 </div>
 <footer class="container wrap">

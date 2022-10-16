@@ -67,7 +67,7 @@
 <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>闲谈 | 灌水</span>
 </span>
-</a>
+ </a>
 <meta itemprop="position" content="1" />
 </span>
 </div>
@@ -272,7 +272,7 @@ AGC有特定内容，小资娱乐偏多。<br>
 2021 年3 月 10 日 12:44
 </time>
 <meta itemprop='dateModified' content='2021-03-10T12:44:55Z'>
-<span itemprop='position'>#5</span>
+ <span itemprop='position'>#5</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
@@ -528,7 +528,7 @@ blender 没有具体实践。<br>
 这种技术上束手束脚的自我设限反而给自由软件运动的崛起拖后了。( 怕被执行也是一方面 )<br>
 我也看到了自由软件的缓慢崛起，所以资本主义转而支持开源协议来对抗自由协议。(那篇帖子就是你发的)</p>
 </div>
- <meta itemprop='headline' content='你们可信赖吗'>
+<meta itemprop='headline' content='你们可信赖吗'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
@@ -830,7 +830,7 @@ ps：不建议你听信某p说的话，他的很多话纯属子虚乌有，尤�
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
- <span class='post-likes'></span>
+<span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />

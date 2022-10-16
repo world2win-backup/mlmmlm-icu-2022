@@ -5,8 +5,52 @@
     <link>https://mlmmlm.icu/c/8-category/8</link>
     <description>&#39;新闻&#39; 类别中的话题 </description>
     <language>zh-CN</language>
-      <lastBuildDate>Wed, 12 Oct 2022 11:34:24 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 16 Oct 2022 04:41:55 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/c/8-category/8.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Wordle——一個在百毒翻譯和中文Mastodon圈火熱的私有猜單詞遊戲</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>新闻</category>
+          <description><![CDATA[
+            <p>《Wordle》是喬什·沃德爾（Josh Wardle）編寫的<a href="https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E9%81%8A%E6%88%B2" rel="noopener nofollow ugc">網頁</a><a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F" rel="noopener nofollow ugc">文字遊戲</a>。</p>
+<p>在《Wordle》中，玩家要在一天內用六次機會內猜中某個有五字英文字母的詞彙。每次嘗試後，玩家可能得到三種回饋：綠色表示字母位置正確；黃色表示答案包含該字母但位置錯誤；灰色表示答案沒有該字母。這種玩法和<a href="https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97" rel="noopener nofollow ugc">珠璣妙算</a> (Mastermind)之類的遊戲相似，但《Wordle》會明確指出哪些字母猜中了。</p>
+<p>沃德爾曾在<a href="https://zh.wikipedia.org/wiki/Reddit" rel="noopener nofollow ugc">Reddit</a>上創作了社會實驗《<a href="https://zh.wikipedia.org/wiki/Place" rel="noopener nofollow ugc">Place</a>》和《<a href="https://zh.wikipedia.org/wiki/%E6%8C%89%E9%92%AE_(Reddit)" rel="noopener nofollow ugc">The Button</a>》。</p>
+<p>之後，他設計了《Wordle》，但最初只是給自己和伴侶帕拉克·沙（Palak Shah）遊玩。2021年10月，他正式在網上發布了遊戲。同年12月，沃德爾增加了將遊玩結果分享成<a href="https://zh.wikipedia.org/wiki/%E7%B9%AA%E6%96%87%E5%AD%97" rel="noopener nofollow ugc">繪文字</a>方塊的功能，於是引起大批玩家在<a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%89%B9" rel="noopener nofollow ugc">推特</a>上分享遊玩結果，令遊戲受關注。許多<a href="https://zh.wikipedia.org/w/index.php?title=%E9%9B%BB%E7%8E%A9%E4%BB%BF%E4%BD%9C&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">仿作</a>、變種及不同語言的版本相繼誕生。</p>
+<p>玩家每日可挑戰在六次嘗試內，猜出由五個字母所組成的英文單詞。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-smh-1" rel="noopener nofollow ugc">[1]</a>每次嘗試後，每個字會顯示為綠、黃或灰色：綠色表示字母猜中，而且位置正確；黃色表示單詞包含此字母但位置不正確；灰色則表示字母出現的次數多於實際出現的次數。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-tie-2" rel="noopener nofollow ugc">[2]</a>所有人每天的單詞都一樣。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-:0-3" rel="noopener nofollow ugc">[3]</a></p>
+<p>另外遊戲提供困難模式，玩家在後續猜測中必須包含先前猜出的綠色或黃色字母。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4" rel="noopener nofollow ugc">[4]</a>遊戲還有<a href="https://zh.wikipedia.org/wiki/%E5%A4%9C%E9%96%93%E6%A8%A1%E5%BC%8F" rel="noopener nofollow ugc">夜間模式</a>，以及為<a href="https://zh.wikipedia.org/wiki/%E8%89%B2%E7%9B%B2" rel="noopener nofollow ugc">色盲</a>玩家提供的高對比模式，該模式下，黃和綠色塊換成了橙和藍色塊。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4" rel="noopener nofollow ugc">[4]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-5" rel="noopener nofollow ugc">[5]</a></p>
+<p>此遊戲在概念及樣式上與1955年的紙筆遊戲<a href="https://zh.wikipedia.org/w/index.php?title=Jotto&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">Jotto</a>，以及遊戲綜藝節目<a href="https://zh.wikipedia.org/w/index.php?title=Lingo_(%E7%BE%8E%E5%9C%8B%E7%B6%9C%E8%97%9D%E7%AF%80%E7%9B%AE)&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">Lingo</a>相近。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-6" rel="noopener nofollow ugc">[6]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-7" rel="noopener nofollow ugc">[7]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-8" rel="noopener nofollow ugc">[8]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-9" rel="noopener nofollow ugc">[9]</a>遊戲玩法亦同兩人遊玩的桌遊<a href="https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97" rel="noopener nofollow ugc">珠璣妙算</a>以及<a href="https://zh.wikipedia.org/wiki/%E7%8C%9C%E6%95%B8%E5%AD%97" rel="noopener nofollow ugc">猜數字</a>相似，不過《Wordle》會顯示字母是否完全正確。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10" rel="noopener nofollow ugc">[10]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-11" rel="noopener nofollow ugc">[11]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-12" rel="noopener nofollow ugc">[12]</a></p>
+<p>每日的遊戲是從2315個單詞中隨機抽取的（英文約共有120000個五字母單詞）。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10" rel="noopener nofollow ugc">[10]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-13" rel="noopener nofollow ugc">[13]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-14" rel="noopener nofollow ugc">[14]</a>這些單詞是由Shah選擇的，她將這些詞分成她認得的，她不認得的以及她有可能接觸到的。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Slate0119-15" rel="noopener nofollow ugc">[15]</a></p>
+<p>雖然沃德爾的故鄉是<a href="https://zh.wikipedia.org/wiki/%E5%A8%81%E7%88%BE%E6%96%AF" rel="noopener nofollow ugc">威爾斯</a>，不過他居住在<a href="https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6" rel="noopener nofollow ugc">紐約</a>，所以《Wordle》內的單詞使用<a href="https://zh.wikipedia.org/w/index.php?title=%E7%BE%8E%E5%BC%8F%E6%8B%BC%E5%AF%AB&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">美式拼寫</a>，令使用美式拼法的玩家更有優勢。此事也導致其中一天的答案「favor」觸怒了一些認為不公平的<a href="https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B" rel="noopener nofollow ugc">英國</a>玩家。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-16" rel="noopener nofollow ugc">[16]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-17" rel="noopener nofollow ugc">[17]</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1513">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1513</link>
+          <pubDate>Sun, 16 Oct 2022 04:41:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1513</guid>
+          <source url="https://mlmmlm.icu/t/topic/1513.rss">Wordle——一個在百毒翻譯和中文Mastodon圈火熱的私有猜單詞遊戲</source>
+        </item>
+        <item>
+          <title>在北京清華南路的貢薩羅主席塗鴉，感謝清華梁浩宇同志校對社政</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>新闻</category>
+          <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/2/2ff0162a6a9c1334d52296dffd6046224a8c9c5d.jpeg" alt="Image" data-base62-sha1="6Q4P6p2cW5z7p7q01bTCnC573tP" width="" height=""></p>
+<p>社會主義政治經濟學1976.09，清華大學源：<br>
+<a href="https://cloud.tsinghua.edu.cn/seafhttp/files/6bbd2c51-faf9-48a5-b7f3-f7da91772484/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A61976.docx" class="onebox" target="_blank" rel="noopener nofollow ugc">https://cloud.tsinghua.edu.cn/seafhttp/files/6bbd2c51-faf9-48a5-b7f3-f7da91772484/社会主义政治经济学1976.docx</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1511">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1511</link>
+          <pubDate>Fri, 14 Oct 2022 08:13:03 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1511</guid>
+          <source url="https://mlmmlm.icu/t/topic/1511.rss">在北京清華南路的貢薩羅主席塗鴉，感謝清華梁浩宇同志校對社政</source>
+        </item>
         <item>
           <title>倍受The Banned Thought推崇的PAPER兄弟刊物《進步雜誌》也已經跑路了！</title>
           <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
@@ -882,59 +926,6 @@
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1035</guid>
           <source url="https://mlmmlm.icu/t/topic/1035.rss">贡萨罗主席去世</source>
-        </item>
-        <item>
-          <title>《共产国际》：论阿富汗和东非</title>
-          <dc:creator><![CDATA[ILA-80]]></dc:creator>
-          <category>新闻</category>
-          <description><![CDATA[
-            <p>二〇二一年八月十三日<br>
-（节选）</p>
-<p>I.<br>
-……</p>
-<p>在所谓的《不受美利坚合众国承认作为国家而将其称作塔利班的阿富汗伊斯兰酋长国和美利坚合众国为阿富汗争取和平的协议》里明确提到：</p>
-<p>“阿富汗伊斯兰酋长国……会明确告诉那些给美国及其盟友安全带来威胁的人在阿富汗没有位置。阿富汗伊斯兰酋长国会指示其成员……不予那些威胁美利坚合众国及其盟友安全的组织或是个人合作。”</p>
-<p>接下来，“美利坚合众国将寻求与协议后的阿富汗伊斯兰政府在重建方面的经济合作……”</p>
-<p>唯一能够把阿富汗等被压迫民族从帝国主义下解放出来的力量，是有共产党领导下的无产阶级领导的贫苦农民。被压迫民族群众唯一通向解放的道路是通过人民战争的新民主主义革命。</p>
-<p>在这一切开始以前，我们明确地看到美帝国主义将会继续控制阿富汗全国，美帝这只蚂蟥将会继续吸着阿富汗劳动群众的血。但是，战争的结果——产生了在我们讲话的同时发生的一系列事件，告诉了我们一件至关重要的事。</p>
-<p>世界唯一的帝国主义霸权超级大国及其的盟友在一场对被压迫民族的侵略战争中获得了失败。这是一个惊人的迹象。<strong>帝国主义侵略战争不再能象以前一样成功和建立稳固的立脚点了。帝国主义正处在全面危机之中</strong>。它完全腐烂透了。它已经到了癌症第四期，离灭亡不远了。</p>
-<p><strong>这一切告诉全世界群众，我们生活的历史时代是情况正在起变化的时代。帝国主义处在战略防御的阶段，世界无产阶级革命处在战略进攻的阶段。光明的未来，新的黎明，已经出现在了地平线上。</strong></p>
-<p>II.<br>
-在八月八日星期日，布基纳法索军队在布基纳法索、尼日尔和马里三国边境的顿昆村附近遭受了袭击。初步报告显示十二名士兵被击毙，八人受伤。</p>
-<p>这次伏击战是最近在非洲东部布尼马边境的一系列武装行动的一部分。布基纳法索政府宣称袭击是伊斯兰圣战者所为，来作为近日两名所谓圣战者领导人被武装部队击毙的报复。</p>
-<p>从更大的背景下来看，这些事件不是特别的。在世界的不同地区，武装斗争正在上升。但是问题在于，<strong>群众的怒火被反动派误导了</strong>。问题在于受马列毛主义，主要是毛主义指导的共产主义者<strong>不在那里领导他们</strong>。这就是为什么在世界的许多地方，比如布基纳法索，群众在反动的旗号下战斗。他们在反动的旗号下战斗因为我们的旗号不在那里。<strong>换句话说，他们在反动的旗号下战斗是因为我们的不足。</strong></p>
-<p>共产主义者，今天是毛主义者的任务，是去领导群众。他们准备好了战斗，更是一直在战斗着。<strong>现在的任务是打出马列毛主义，主要是毛主义的旗号，去领导和指导人民斗争，把毛主义作为世界无产阶级革命唯一的向导和指南。</strong></p>
-            <p><small>2 个帖子 - 2 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/967">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/967</link>
-          <pubDate>Sun, 15 Aug 2021 19:24:24 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-967</guid>
-          <source url="https://mlmmlm.icu/t/topic/967.rss">《共产国际》：论阿富汗和东非</source>
-        </item>
-        <item>
-          <title>中帝政府开放三胎生育，妄图扭转人口颓势</title>
-          <dc:creator><![CDATA[Sis6P]]></dc:creator>
-          <category>新闻</category>
-          <description><![CDATA[
-            <p>新华社5月31日在新浪微博发布消息称，“<em>中共中央政治局5月31日召开会议，会议指出，进一步优化生育政策，实施一对夫妻可以生育三个子女政策及配套支持措施</em>”。这表明中帝继续开放生育政策妄图扭转人口颓势，缓解人口老龄化。中帝中央政治局发布此消息时仅距离第七次人口普查结果公布不到一个月，中帝的心虚和黔驴技穷可见一般。</p>
-<p>据西南财经大学统计，2016年中国的基尼系数便已达到0.6，而这也只是保守估计，在如今，中帝官僚垄断资产阶级以及整个资产阶级对人民群众的剥削力度在不断地大力强化，人民群众生育意愿低下的主要原因是剥削压迫力度极大，而非生育政策不合理，对于这种面对人口增长率下滑趋势时中帝的放宽人口政策行为，群众戏称为“饿的时候给换大碗却不给添饭”。</p>
-<p>不过生育政策的放宽并非不能增加新生儿的数量，富裕的资产阶级家庭以及比较富裕的中上小资产阶级家庭可能会选择继续生育，只是资产阶级人数极少，他们的生育行为对中帝人口的增长影响微乎其微；中上小资产阶级人数较多，但在总人口中所占比例仍然较低，他们的生育行为都不会对总人口有多少贡献，因此，三胎开放并不能缓解多少中帝面临的困局。</p>
-<p>尽管不能缓解多少，但中帝仍然选择了这种做法，这一方面是因为他们在面对资本主义经济危机时的无力和虚弱，一方面也一定程度上和面子工程有关，2021年是中帝自认为的成立100周年，2022年是中帝二十大召开的年份，如果这两年的数据太过难看，恐怕官僚垄断资本家的面子也会挂不住。而于中帝而言，面子工程是极其重要的。</p>
-<p>另外，对于这些生三胎的中上小资产阶级家庭来说，家庭负担会变重很多，阶级下坠的可能性将大大增强，三胎的开放会加速小资产阶级的分化。相信在阶级斗争日渐激烈的现在，敌人所做的一切自救努力，都只会像毛泽东同志说的那样“搬起石头砸自己的脚”。<img src="https://mlmmlm.icu/uploads/default/original/2X/2/240a82945a914d58c399a21236c7658cf8f70b7b.jpeg" alt="e1bd-kquziii8532926" data-base62-sha1="58PHOrnO5U2GfzEuW4ck9VNyzQT" width="550" height="293"></p>
-            <p><small>15 个帖子 - 6 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/911">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/911</link>
-          <pubDate>Mon, 31 May 2021 09:37:25 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-911</guid>
-          <source url="https://mlmmlm.icu/t/topic/911.rss">中帝政府开放三胎生育，妄图扭转人口颓势</source>
         </item>
   </channel>
 </rss>

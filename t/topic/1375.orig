@@ -428,7 +428,7 @@
 </div>
 <meta itemprop='headline' content='教员真说了这样的话的吗？'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
-<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+ <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
@@ -584,7 +584,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
-<span class='post-likes'></span>
+ <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -825,7 +825,7 @@
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='/categories' itemprop="url">类别 </a>
- </span>
+</span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>

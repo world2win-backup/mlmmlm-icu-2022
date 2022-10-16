@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Wordle——一個在百毒翻譯和中文Mastodon圈火熱的私有猜單詞遊戲</title>
+    <link>https://mlmmlm.icu/t/topic/1513</link>
+    <description>《Wordle》是喬什·沃德爾（Josh Wardle）編寫的[網頁](https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E9%81%8A%E6%88%B2)[文字遊戲](https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F)。
+
+在《Wordle》中，玩家要在一天內用六次機會內猜中某個有五字英文字母的詞彙。每次嘗試後，玩家可能得到三種回饋：綠色表示字母位置正確；黃色表示答案包含該字母但位置錯誤；灰色表示答案沒有該字母。這種玩法和[珠璣妙算](https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97) (Mastermind)之類的遊戲相似，但《Wordle》會明確指出哪些字母猜中了。
+
+沃德爾曾在[Reddit](https://zh.wikipedia.org/wiki/Reddit)上創作了社會實驗《[Place](https://zh.wikipedia.org/wiki/Place)》和《[The Button](https://zh.wikipedia.org/wiki/%E6%8C%89%E9%92%AE_(Reddit))》。
+
+之後，他設計了《Wordle》，但最初只是給自己和伴侶帕拉克·沙（Palak Shah）遊玩。2021年10月，他正式在網上發布了遊戲。同年12月，沃德爾增加了將遊玩結果分享成[繪文字](https://zh.wikipedia.org/wiki/%E7%B9%AA%E6%96%87%E5%AD%97)方塊的功能，於是引起大批玩家在[推特](https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%89%B9)上分享遊玩結果，令遊戲受關注。許多[仿作](https://zh.wikipedia.org/w/index.php?title=%E9%9B%BB%E7%8E%A9%E4%BB%BF%E4%BD%9C&amp;action=edit&amp;redlink=1)、變種及不同語言的版本相繼誕生。
+
+玩家每日可挑戰在六次嘗試內，猜出由五個字母所組成的英文單詞。[[1]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-smh-1)每次嘗試後，每個字會顯示為綠、黃或灰色：綠色表示字母猜中，而且位置正確；黃色表示單詞包含此字母但位置不正確；灰色則表示字母出現的次數多於實際出現的次數。[[2]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-tie-2)所有人每天的單詞都一樣。[[3]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-:0-3)
+
+另外遊戲提供困難模式，玩家在後續猜測中必須包含先前猜出的綠色或黃色字母。[[4]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4)遊戲還有[夜間模式](https://zh.wikipedia.org/wiki/%E5%A4%9C%E9%96%93%E6%A8%A1%E5%BC%8F)，以及為[色盲](https://zh.wikipedia.org/wiki/%E8%89%B2%E7%9B%B2)玩家提供的高對比模式，該模式下，黃和綠色塊換成了橙和藍色塊。[[4]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4)[[5]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-5)
+
+此遊戲在概念及樣式上與1955年的紙筆遊戲[Jotto](https://zh.wikipedia.org/w/index.php?title=Jotto&amp;action=edit&amp;redlink=1)，以及遊戲綜藝節目[Lingo](https://zh.wikipedia.org/w/index.php?title=Lingo_(%E7%BE%8E%E5%9C%8B%E7%B6%9C%E8%97%9D%E7%AF%80%E7%9B%AE)&amp;action=edit&amp;redlink=1)相近。[[6]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-6)[[7]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-7)[[8]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-8)[[9]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-9)遊戲玩法亦同兩人遊玩的桌遊[珠璣妙算](https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97)以及[猜數字](https://zh.wikipedia.org/wiki/%E7%8C%9C%E6%95%B8%E5%AD%97)相似，不過《Wordle》會顯示字母是否完全正確。[[10]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10)[[11]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-11)[[12]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-12)
+
+每日的遊戲是從2315個單詞中隨機抽取的（英文約共有120000個五字母單詞）。[[10]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10)[[13]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-13)[[14]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-14)這些單詞是由Shah選擇的，她將這些詞分成她認得的，她不認得的以及她有可能接觸到的。[[15]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Slate0119-15)
+
+雖然沃德爾的故鄉是[威爾斯](https://zh.wikipedia.org/wiki/%E5%A8%81%E7%88%BE%E6%96%AF)，不過他居住在[紐約](https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6)，所以《Wordle》內的單詞使用[美式拼寫](https://zh.wikipedia.org/w/index.php?title=%E7%BE%8E%E5%BC%8F%E6%8B%BC%E5%AF%AB&amp;action=edit&amp;redlink=1)，令使用美式拼法的玩家更有優勢。此事也導致其中一天的答案「favor」觸怒了一些認為不公平的[英國](https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B)玩家。[[16]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-16)[[17]](https://zh.wikipedia.org/zh-tw/Wordle#cite_note-17)</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 16 Oct 2022 04:49:14 +0000</lastBuildDate>
+    <category>新闻</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/1513.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Wordle——一個在百毒翻譯和中文Mastodon圈火熱的私有猜單詞遊戲</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>《Wordle》是喬什·沃德爾（Josh Wardle）編寫的<a href="https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E9%81%8A%E6%88%B2" rel="noopener nofollow ugc">網頁</a><a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F" rel="noopener nofollow ugc">文字遊戲</a>。</p>
+<p>在《Wordle》中，玩家要在一天內用六次機會內猜中某個有五字英文字母的詞彙。每次嘗試後，玩家可能得到三種回饋：綠色表示字母位置正確；黃色表示答案包含該字母但位置錯誤；灰色表示答案沒有該字母。這種玩法和<a href="https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97" rel="noopener nofollow ugc">珠璣妙算</a> (Mastermind)之類的遊戲相似，但《Wordle》會明確指出哪些字母猜中了。</p>
+<p>沃德爾曾在<a href="https://zh.wikipedia.org/wiki/Reddit" rel="noopener nofollow ugc">Reddit</a>上創作了社會實驗《<a href="https://zh.wikipedia.org/wiki/Place" rel="noopener nofollow ugc">Place</a>》和《<a href="https://zh.wikipedia.org/wiki/%E6%8C%89%E9%92%AE_(Reddit)" rel="noopener nofollow ugc">The Button</a>》。</p>
+<p>之後，他設計了《Wordle》，但最初只是給自己和伴侶帕拉克·沙（Palak Shah）遊玩。2021年10月，他正式在網上發布了遊戲。同年12月，沃德爾增加了將遊玩結果分享成<a href="https://zh.wikipedia.org/wiki/%E7%B9%AA%E6%96%87%E5%AD%97" rel="noopener nofollow ugc">繪文字</a>方塊的功能，於是引起大批玩家在<a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%89%B9" rel="noopener nofollow ugc">推特</a>上分享遊玩結果，令遊戲受關注。許多<a href="https://zh.wikipedia.org/w/index.php?title=%E9%9B%BB%E7%8E%A9%E4%BB%BF%E4%BD%9C&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">仿作</a>、變種及不同語言的版本相繼誕生。</p>
+<p>玩家每日可挑戰在六次嘗試內，猜出由五個字母所組成的英文單詞。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-smh-1" rel="noopener nofollow ugc">[1]</a>每次嘗試後，每個字會顯示為綠、黃或灰色：綠色表示字母猜中，而且位置正確；黃色表示單詞包含此字母但位置不正確；灰色則表示字母出現的次數多於實際出現的次數。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-tie-2" rel="noopener nofollow ugc">[2]</a>所有人每天的單詞都一樣。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-:0-3" rel="noopener nofollow ugc">[3]</a></p>
+<p>另外遊戲提供困難模式，玩家在後續猜測中必須包含先前猜出的綠色或黃色字母。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4" rel="noopener nofollow ugc">[4]</a>遊戲還有<a href="https://zh.wikipedia.org/wiki/%E5%A4%9C%E9%96%93%E6%A8%A1%E5%BC%8F" rel="noopener nofollow ugc">夜間模式</a>，以及為<a href="https://zh.wikipedia.org/wiki/%E8%89%B2%E7%9B%B2" rel="noopener nofollow ugc">色盲</a>玩家提供的高對比模式，該模式下，黃和綠色塊換成了橙和藍色塊。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4" rel="noopener nofollow ugc">[4]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-5" rel="noopener nofollow ugc">[5]</a></p>
+<p>此遊戲在概念及樣式上與1955年的紙筆遊戲<a href="https://zh.wikipedia.org/w/index.php?title=Jotto&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">Jotto</a>，以及遊戲綜藝節目<a href="https://zh.wikipedia.org/w/index.php?title=Lingo_(%E7%BE%8E%E5%9C%8B%E7%B6%9C%E8%97%9D%E7%AF%80%E7%9B%AE)&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">Lingo</a>相近。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-6" rel="noopener nofollow ugc">[6]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-7" rel="noopener nofollow ugc">[7]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-8" rel="noopener nofollow ugc">[8]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-9" rel="noopener nofollow ugc">[9]</a>遊戲玩法亦同兩人遊玩的桌遊<a href="https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97" rel="noopener nofollow ugc">珠璣妙算</a>以及<a href="https://zh.wikipedia.org/wiki/%E7%8C%9C%E6%95%B8%E5%AD%97" rel="noopener nofollow ugc">猜數字</a>相似，不過《Wordle》會顯示字母是否完全正確。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10" rel="noopener nofollow ugc">[10]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-11" rel="noopener nofollow ugc">[11]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-12" rel="noopener nofollow ugc">[12]</a></p>
+<p>每日的遊戲是從2315個單詞中隨機抽取的（英文約共有120000個五字母單詞）。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10" rel="noopener nofollow ugc">[10]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-13" rel="noopener nofollow ugc">[13]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-14" rel="noopener nofollow ugc">[14]</a>這些單詞是由Shah選擇的，她將這些詞分成她認得的，她不認得的以及她有可能接觸到的。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Slate0119-15" rel="noopener nofollow ugc">[15]</a></p>
+<p>雖然沃德爾的故鄉是<a href="https://zh.wikipedia.org/wiki/%E5%A8%81%E7%88%BE%E6%96%AF" rel="noopener nofollow ugc">威爾斯</a>，不過他居住在<a href="https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6" rel="noopener nofollow ugc">紐約</a>，所以《Wordle》內的單詞使用<a href="https://zh.wikipedia.org/w/index.php?title=%E7%BE%8E%E5%BC%8F%E6%8B%BC%E5%AF%AB&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">美式拼寫</a>，令使用美式拼法的玩家更有優勢。此事也導致其中一天的答案「favor」觸怒了一些認為不公平的<a href="https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B" rel="noopener nofollow ugc">英國</a>玩家。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-16" rel="noopener nofollow ugc">[16]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-17" rel="noopener nofollow ugc">[17]</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/1513/1">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1513/1</link>
+        <pubDate>Sun, 16 Oct 2022 04:41:55 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1513-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/1513.rss">Wordle——一個在百毒翻譯和中文Mastodon圈火熱的私有猜單詞遊戲</source>
+      </item>
+  </channel>
+</rss>

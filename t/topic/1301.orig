@@ -1128,7 +1128,7 @@ bash -c "$(curl -LfsS 'https://gitee.com/mo2/linux/raw/master/debian.sh')"
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
- </div>
+</div>
 <div id='post_18' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
@@ -1217,7 +1217,7 @@ bash -c "$(curl -LfsS 'https://gitee.com/mo2/linux/raw/master/debian.sh')"
 <time itemprop='datePublished' datetime='2022-09-25T07:30:33Z' class='post-time'>
 2022 年9 月 25 日 07:30
 </time>
-<meta itemprop='dateModified' content='2022-09-25T07:30:33Z'>
+ <meta itemprop='dateModified' content='2022-09-25T07:30:33Z'>
 <span itemprop='position'>#20</span>
 </span>
 </div>

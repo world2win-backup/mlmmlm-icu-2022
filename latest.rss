@@ -5,8 +5,172 @@
     <link>https://mlmmlm.icu/latest</link>
     <description>最新话题</description>
     <language>zh-CN</language>
-      <lastBuildDate>Wed, 12 Oct 2022 11:47:38 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 16 Oct 2022 04:41:55 +0000</lastBuildDate>
       <atom:link href="https://mlmmlm.icu/latest.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Wordle——一個在百毒翻譯和中文Mastodon圈火熱的私有猜單詞遊戲</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>新闻</category>
+          <description><![CDATA[
+            <p>《Wordle》是喬什·沃德爾（Josh Wardle）編寫的<a href="https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E9%81%8A%E6%88%B2" rel="noopener nofollow ugc">網頁</a><a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F" rel="noopener nofollow ugc">文字遊戲</a>。</p>
+<p>在《Wordle》中，玩家要在一天內用六次機會內猜中某個有五字英文字母的詞彙。每次嘗試後，玩家可能得到三種回饋：綠色表示字母位置正確；黃色表示答案包含該字母但位置錯誤；灰色表示答案沒有該字母。這種玩法和<a href="https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97" rel="noopener nofollow ugc">珠璣妙算</a> (Mastermind)之類的遊戲相似，但《Wordle》會明確指出哪些字母猜中了。</p>
+<p>沃德爾曾在<a href="https://zh.wikipedia.org/wiki/Reddit" rel="noopener nofollow ugc">Reddit</a>上創作了社會實驗《<a href="https://zh.wikipedia.org/wiki/Place" rel="noopener nofollow ugc">Place</a>》和《<a href="https://zh.wikipedia.org/wiki/%E6%8C%89%E9%92%AE_(Reddit)" rel="noopener nofollow ugc">The Button</a>》。</p>
+<p>之後，他設計了《Wordle》，但最初只是給自己和伴侶帕拉克·沙（Palak Shah）遊玩。2021年10月，他正式在網上發布了遊戲。同年12月，沃德爾增加了將遊玩結果分享成<a href="https://zh.wikipedia.org/wiki/%E7%B9%AA%E6%96%87%E5%AD%97" rel="noopener nofollow ugc">繪文字</a>方塊的功能，於是引起大批玩家在<a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%89%B9" rel="noopener nofollow ugc">推特</a>上分享遊玩結果，令遊戲受關注。許多<a href="https://zh.wikipedia.org/w/index.php?title=%E9%9B%BB%E7%8E%A9%E4%BB%BF%E4%BD%9C&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">仿作</a>、變種及不同語言的版本相繼誕生。</p>
+<p>玩家每日可挑戰在六次嘗試內，猜出由五個字母所組成的英文單詞。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-smh-1" rel="noopener nofollow ugc">[1]</a>每次嘗試後，每個字會顯示為綠、黃或灰色：綠色表示字母猜中，而且位置正確；黃色表示單詞包含此字母但位置不正確；灰色則表示字母出現的次數多於實際出現的次數。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-tie-2" rel="noopener nofollow ugc">[2]</a>所有人每天的單詞都一樣。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-:0-3" rel="noopener nofollow ugc">[3]</a></p>
+<p>另外遊戲提供困難模式，玩家在後續猜測中必須包含先前猜出的綠色或黃色字母。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4" rel="noopener nofollow ugc">[4]</a>遊戲還有<a href="https://zh.wikipedia.org/wiki/%E5%A4%9C%E9%96%93%E6%A8%A1%E5%BC%8F" rel="noopener nofollow ugc">夜間模式</a>，以及為<a href="https://zh.wikipedia.org/wiki/%E8%89%B2%E7%9B%B2" rel="noopener nofollow ugc">色盲</a>玩家提供的高對比模式，該模式下，黃和綠色塊換成了橙和藍色塊。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Verge0120-4" rel="noopener nofollow ugc">[4]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-5" rel="noopener nofollow ugc">[5]</a></p>
+<p>此遊戲在概念及樣式上與1955年的紙筆遊戲<a href="https://zh.wikipedia.org/w/index.php?title=Jotto&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">Jotto</a>，以及遊戲綜藝節目<a href="https://zh.wikipedia.org/w/index.php?title=Lingo_(%E7%BE%8E%E5%9C%8B%E7%B6%9C%E8%97%9D%E7%AF%80%E7%9B%AE)&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">Lingo</a>相近。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-6" rel="noopener nofollow ugc">[6]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-7" rel="noopener nofollow ugc">[7]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-8" rel="noopener nofollow ugc">[8]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-9" rel="noopener nofollow ugc">[9]</a>遊戲玩法亦同兩人遊玩的桌遊<a href="https://zh.wikipedia.org/wiki/%E7%8F%A0%E7%92%A3%E5%A6%99%E7%AE%97" rel="noopener nofollow ugc">珠璣妙算</a>以及<a href="https://zh.wikipedia.org/wiki/%E7%8C%9C%E6%95%B8%E5%AD%97" rel="noopener nofollow ugc">猜數字</a>相似，不過《Wordle》會顯示字母是否完全正確。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10" rel="noopener nofollow ugc">[10]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-11" rel="noopener nofollow ugc">[11]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-12" rel="noopener nofollow ugc">[12]</a></p>
+<p>每日的遊戲是從2315個單詞中隨機抽取的（英文約共有120000個五字母單詞）。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-NYT0103-10" rel="noopener nofollow ugc">[10]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-13" rel="noopener nofollow ugc">[13]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-14" rel="noopener nofollow ugc">[14]</a>這些單詞是由Shah選擇的，她將這些詞分成她認得的，她不認得的以及她有可能接觸到的。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-Slate0119-15" rel="noopener nofollow ugc">[15]</a></p>
+<p>雖然沃德爾的故鄉是<a href="https://zh.wikipedia.org/wiki/%E5%A8%81%E7%88%BE%E6%96%AF" rel="noopener nofollow ugc">威爾斯</a>，不過他居住在<a href="https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6" rel="noopener nofollow ugc">紐約</a>，所以《Wordle》內的單詞使用<a href="https://zh.wikipedia.org/w/index.php?title=%E7%BE%8E%E5%BC%8F%E6%8B%BC%E5%AF%AB&amp;action=edit&amp;redlink=1" rel="noopener nofollow ugc">美式拼寫</a>，令使用美式拼法的玩家更有優勢。此事也導致其中一天的答案「favor」觸怒了一些認為不公平的<a href="https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B" rel="noopener nofollow ugc">英國</a>玩家。<a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-16" rel="noopener nofollow ugc">[16]</a><a href="https://zh.wikipedia.org/zh-tw/Wordle#cite_note-17" rel="noopener nofollow ugc">[17]</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1513">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1513</link>
+          <pubDate>Sun, 16 Oct 2022 04:41:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1513</guid>
+          <source url="https://mlmmlm.icu/t/topic/1513.rss">Wordle——一個在百毒翻譯和中文Mastodon圈火熱的私有猜單詞遊戲</source>
+        </item>
+        <item>
+          <title>和谐历史档案馆招募志愿者</title>
+          <dc:creator><![CDATA[fffv]]></dc:creator>
+          <category>闲谈 | 灌水</category>
+          <description><![CDATA[
+            <aside class="onebox allowlistedgeneric" data-onebox-src="https://banned-historical-archives.github.io">
+  <header class="source">
+
+      <a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">banned-historical-archives.github.io</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">和谐历史档案馆 Banned Historical Archives</a></h3>
+
+  <p>和谐历史档案馆 Banned Historical Archives</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>我们开发了很多易用的工具使多人协作更高效：</p>
+<ol>
+<li>自动化的OCR录入机器人</li>
+<li>全新的在线文稿校对工具以及机器人</li>
+</ol>
+<p>目前录入和校对工作量都很大，希望有更多志愿者前来帮忙。</p>
+            <p><small>9 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1512">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1512</link>
+          <pubDate>Sat, 15 Oct 2022 15:04:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1512</guid>
+          <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+        </item>
+        <item>
+          <title>在北京清華南路的貢薩羅主席塗鴉，感謝清華梁浩宇同志校對社政</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>新闻</category>
+          <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/2/2ff0162a6a9c1334d52296dffd6046224a8c9c5d.jpeg" alt="Image" data-base62-sha1="6Q4P6p2cW5z7p7q01bTCnC573tP" width="" height=""></p>
+<p>社會主義政治經濟學1976.09，清華大學源：<br>
+<a href="https://cloud.tsinghua.edu.cn/seafhttp/files/6bbd2c51-faf9-48a5-b7f3-f7da91772484/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A61976.docx" class="onebox" target="_blank" rel="noopener nofollow ugc">https://cloud.tsinghua.edu.cn/seafhttp/files/6bbd2c51-faf9-48a5-b7f3-f7da91772484/社会主义政治经济学1976.docx</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1511">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1511</link>
+          <pubDate>Fri, 14 Oct 2022 08:13:03 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1511</guid>
+          <source url="https://mlmmlm.icu/t/topic/1511.rss">在北京清華南路的貢薩羅主席塗鴉，感謝清華梁浩宇同志校對社政</source>
+        </item>
+        <item>
+          <title>AI作画会让你没工作吗？【晨曦】——來自b站up主 梅特涅和基佐</title>
+          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+          <category>一般讨论</category>
+          <description><![CDATA[
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/c/ca352aef8009df0b9602d84919452862acf50bc9.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/ca352aef8009df0b9602d84919452862acf50bc9" title="Screenshot from 2022-10-14 03-54-54"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-54-54" data-base62-sha1="sQOml8RZi5Popb7SPt0n6EeuwXf" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/f2e9bdb757a564f015c80980a1f0ffd29a072630" title="Screenshot from 2022-10-14 03-55-02"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-55-02" data-base62-sha1="yEUkOOEqAAUu3NUwnHzNZnQU5A4" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf" title="Screenshot from 2022-10-14 03-55-49"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-55-49" data-base62-sha1="wRA2nnsvj9IOO48Y9qVSDDHEj8P" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/307473723bbfd518a4151cd5e3d47a78e3d112c1" title="Screenshot from 2022-10-14 03-59-27"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-59-27" data-base62-sha1="6UEpDWpzuI6zX467ZQDb07EGZZT" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/584f46dc9733dd2ab15720848ece8f6270bed0e7" title="Screenshot from 2022-10-14 03-56-52"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-56-52" data-base62-sha1="cBdRLojfp48Fx3EOW5qcczos8v5" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/64e7fa70af2ca59b027d333691aedbe81cadc043" title="Screenshot from 2022-10-14 03-57-17"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-57-17" data-base62-sha1="eoEL0BtbRbPr2ZqSmRb4egaCxs7" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_10x10.png"></a></div><p></p>
+<h1>
+<a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>可以參考《底特律·成為人類》中的馬庫斯作畫。</h1>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.bilibili.com/video/BV1bW4y1H7pW/">
+  <header class="source">
+
+      <a href="https://www.bilibili.com/video/BV1bW4y1H7pW/" target="_blank" rel="noopener nofollow ugc">bilibili.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:453/288;"><img src="https://mlmmlm.icu/uploads/default/original/2X/0/085a15ee7d2da1d97941e1d34cc52d7558e25fa5.jpeg" class="thumbnail" width="453" height="288"></div>
+
+<h3><a href="https://www.bilibili.com/video/BV1bW4y1H7pW/" target="_blank" rel="noopener nofollow ugc">AI作画会让你没工作吗？_哔哩哔哩_bilibili</a></h3>
+
+  <p>注：封面人物为AI绘制，关键词：matrix, a girl, 视频播放量 5862、弹幕量 37、点赞数 553、投硬币枚数 313、收藏人数 161、转发人数 141, 视频作者 梅特涅和基佐, 作者简介 英特纳雄纳尔就一定要实现，相关视频：免费使用支持中文的novelAI绘画哦，确定不来试试吗，【AI绘画】再次进化！novelai真官网版本解压即用 无需下载！这次1分钟内不用学也能会用，Ai画图背后的种种违规行为！美国资本的无耻侵权！，NovelAI模型融合其他模型得到新风格Stable...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1509">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1509</link>
+          <pubDate>Fri, 14 Oct 2022 08:00:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1509</guid>
+          <source url="https://mlmmlm.icu/t/topic/1509.rss">AI作画会让你没工作吗？【晨曦】——來自b站up主 梅特涅和基佐</source>
+        </item>
+        <item>
+          <title>【批判用】某合法主义者与泛左群众的辩论集</title>
+          <dc:creator><![CDATA[3_3]]></dc:creator>
+          <category>一般讨论</category>
+          <description><![CDATA[
+            <p>起因：網絡上一位合法主義者轉載了一篇</p>
+<blockquote>
+<p>[关于“人民经济”论争的思考与建议——与李晓西教授等商榷]<br>
+<a href="https://web.archive.org/web/20221014071025/https://afdian.net/p/2b39830e47e211ed900152540025c377" rel="noopener nofollow ugc">https://web.archive.org/web/20221014071025/https://afdian.net/p/2b39830e47e211ed900152540025c377</a></p>
+</blockquote>
+<p>的文章之後引來了泛左翼群眾與其進行了激烈爭論，其後此人將它與泛左群衆的討論內容整理了下來。這些討論作爲具有一定價值的材料，可以看出雙方都有一定的理論基礎。我也將網頁保存了下來，我們可以對此進行系統批判。</p>
+<blockquote>
+<p>上：<a href="https://web.archive.org/web/20221014065955/https://afdian.net/p/97d46dc24b5b11ed90b052540025c377" rel="noopener nofollow ugc">https://web.archive.org/web/20221014065955/https://afdian.net/p/97d46dc24b5b11ed90b052540025c377</a><br>
+下：<a href="https://web.archive.org/web/20221014070034/https://afdian.net/p/1fade4444b5c11ed88db52540025c377" rel="noopener nofollow ugc">https://web.archive.org/web/20221014070034/https://afdian.net/p/1fade4444b5c11ed88db52540025c377</a></p>
+</blockquote>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1507">阅读完整话题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1507</link>
+          <pubDate>Fri, 14 Oct 2022 07:18:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1507</guid>
+          <source url="https://mlmmlm.icu/t/topic/1507.rss">【批判用】某合法主义者与泛左群众的辩论集</source>
+        </item>
         <item>
           <title>是否同意釋放前PAPER及其子系刊物？還有大量各色機會主義刊物？</title>
           <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
@@ -270,37 +434,17 @@
           <source url="https://mlmmlm.icu/t/topic/1489.rss">打倒以金正恩為首的東北病毒殺人集團，取消朝鮮在我國的一切經貿特權！XXX就是一株訪問東北的病毒！</source>
         </item>
         <item>
-          <title>[供批判用]网络上的“懂得活学活用不教条僵死的马克思主义者”的奇谈怪论</title>
-          <dc:creator><![CDATA[3_3]]></dc:creator>
-          <category>一般讨论</category>
-          <description><![CDATA[
-            <p>搜集了网络上的自称“懂得活学活用不教条僵死的马克思主义者”一些奇谈怪论，主要论点是“支持人民经济”“哪怕非无产阶级专政下的人民经济也能够促进社会主义共产主义革命”下面的内容主要为其与自发批判ta的泛左群众中所回复的内容，希望大家踊跃批判。</p>
-<blockquote>
-<p>阶级是一种对于社会权力的代表状态，那么当一个阶级开始占有和代表社会权力的时候，他们是否还是原来的阶级？无产阶级取得生产资料那一刻起其实就已经不是无产阶级，而是成了有产阶级，那么假如还有尚未取得生产资料的群体，哪怕只有一个人，那么他或者他们就成了最正统的无产阶级，于是取得生产资料的阶级是否就成了他们革命的对象，不管有产阶级是如何标榜自己，这个是否是事实？如果这个事实成立，那么是否只有一瞬间让全世界都进入共产才没有所谓“路线”问题而派生的上述矛盾？如果不是，而是说因为无产阶级是大多数所以他们应该接受无产阶级专政，那么首先无产阶级已经没有了，现在是有产阶级专政。其次，如果多数就可以专政，那么假如资本主义进化到通过数字让大部分人都在形式上占有生产资料时，他们能不能专政？如果不能，是不是又落入了“出身说”的逻辑里面？</p>
-</blockquote>
-<blockquote>
-<p>如果因为自己能够产出新型生产资料而立刻被迫把这份自己的劳动成果“公有”，这算不算是另一种强权和压迫？由此派生的各种问题如何解决？为什么我会说共产状态下依旧可以有市场？如果没有，那么共产中本应是最基础的“以人的姿态发展”是不是就成了笑话？</p>
-</blockquote>
-<blockquote>
-<p>退一万步说，所谓“路线”问题是对的，那么要如何实践？需不需要获取、抢夺社会权力（资本）才可能发展无产阶级专政？哪怕你想暴力gm，是不是在现如今的时代都需要资本？而一旦你需要资本，是不是就需要占有生产资料，从而变成有产者然后变成需要革命的对象？这里是不是出现路线矛盾？还是说因为是你们这些无产阶级，所以又不矛盾了？这是不是圣战士和异教徒思维？</p>
-</blockquote>
-            <p><small>13 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1488">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1488</link>
-          <pubDate>Tue, 11 Oct 2022 13:19:25 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1488</guid>
-          <source url="https://mlmmlm.icu/t/topic/1488.rss">[供批判用]网络上的“懂得活学活用不教条僵死的马克思主义者”的奇谈怪论</source>
-        </item>
-        <item>
           <title>貢薩羅主席-中央文革小組人像動漫化</title>
           <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
           <category>技术</category>
           <description><![CDATA[
-            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/5/5066e2c859b9085d2124e8007f48736fa0c63b16.png" alt="Screenshot from 2022-10-11 07-18-24" data-base62-sha1="btgD2a6h8DExVvWkOVFcPcWFskS" width="501" height="500"></p>
+            <p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/5/5066e2c859b9085d2124e8007f48736fa0c63b16.png" data-download-href="https://mlmmlm.icu/uploads/default/5066e2c859b9085d2124e8007f48736fa0c63b16" title="Screenshot from 2022-10-11 07-18-24"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/5/5066e2c859b9085d2124e8007f48736fa0c63b16_2_501x500.png" alt="Screenshot from 2022-10-11 07-18-24" data-base62-sha1="btgD2a6h8DExVvWkOVFcPcWFskS" width="501" height="500" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/5/5066e2c859b9085d2124e8007f48736fa0c63b16_2_501x500.png, https://mlmmlm.icu/uploads/default/optimized/2X/5/5066e2c859b9085d2124e8007f48736fa0c63b16_2_751x750.png 1.5x, https://mlmmlm.icu/uploads/default/original/2X/5/5066e2c859b9085d2124e8007f48736fa0c63b16.png 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/5/5066e2c859b9085d2124e8007f48736fa0c63b16_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/c/ca352aef8009df0b9602d84919452862acf50bc9.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/ca352aef8009df0b9602d84919452862acf50bc9" title="Screenshot from 2022-10-14 03-54-54"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-54-54" data-base62-sha1="sQOml8RZi5Popb7SPt0n6EeuwXf" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/c/ca352aef8009df0b9602d84919452862acf50bc9_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/f2e9bdb757a564f015c80980a1f0ffd29a072630" title="Screenshot from 2022-10-14 03-55-02"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-55-02" data-base62-sha1="yEUkOOEqAAUu3NUwnHzNZnQU5A4" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/f/f2e9bdb757a564f015c80980a1f0ffd29a072630_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf" title="Screenshot from 2022-10-14 03-55-49"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-55-49" data-base62-sha1="wRA2nnsvj9IOO48Y9qVSDDHEj8P" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/e/e6541dfcbe2763bc150be5aeaabd2efc9fc74fbf_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/307473723bbfd518a4151cd5e3d47a78e3d112c1" title="Screenshot from 2022-10-14 03-59-27"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-59-27" data-base62-sha1="6UEpDWpzuI6zX467ZQDb07EGZZT" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/3/307473723bbfd518a4151cd5e3d47a78e3d112c1_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/584f46dc9733dd2ab15720848ece8f6270bed0e7" title="Screenshot from 2022-10-14 03-56-52"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-56-52" data-base62-sha1="cBdRLojfp48Fx3EOW5qcczos8v5" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/5/584f46dc9733dd2ab15720848ece8f6270bed0e7_2_10x10.png"></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043.jpeg" data-download-href="https://mlmmlm.icu/uploads/default/64e7fa70af2ca59b027d333691aedbe81cadc043" title="Screenshot from 2022-10-14 03-57-17"><img src="https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_690x388.jpeg" alt="Screenshot from 2022-10-14 03-57-17" data-base62-sha1="eoEL0BtbRbPr2ZqSmRb4egaCxs7" width="690" height="388" srcset="https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_690x388.jpeg, https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_1035x582.jpeg 1.5x, https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_1380x776.jpeg 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/2X/6/64e7fa70af2ca59b027d333691aedbe81cadc043_2_10x10.png"></a></div><p></p>
             <p><small>53 个帖子 - 1 位参与者</small></p>
             <p><a href="https://mlmmlm.icu/t/topic/1487">阅读完整话题</a></p>
           ]]></description>
@@ -1786,189 +1930,6 @@ p2●</p>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">mlmmlm.icu-topic-1464</guid>
           <source url="https://mlmmlm.icu/t/topic/1464.rss">国庆节，纪念活动中却不见毛主席的身影</source>
-        </item>
-        <item>
-          <title>PAPER與國際共運新聞摘要</title>
-          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-          <category>新闻</category>
-          <description><![CDATA[
-            <p>最新鏈接：</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA">
-  <header class="source">
-      <img src="https://mlmmlm.icu/uploads/default/original/2X/f/f270ef26f0ffe2cb7a62e19eb82b0b4d15f72a8b.png" class="site-icon" width="" height="">
-
-      <a href="https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
-  </header>
-
-  <article class="onebox-body">
-    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
-
-<h3><a href="https://mega.nz/folder/rWRHWIoC#6qCHgyh3DLwXpEJ9O54cfA" target="_blank" rel="noopener nofollow ugc">1.66 GB folder on MEGA</a></h3>
-
-  <p>3356 files and 117 subfolders</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-<p>
-舊鏈接：</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://mega.nz/folder/XGx2gD7Z#PZQh61ZZS8PPbUbtZGthLQ">
-  <header class="source">
-      <img src="https://mlmmlm.icu/uploads/default/original/2X/f/f270ef26f0ffe2cb7a62e19eb82b0b4d15f72a8b.png" class="site-icon" width="" height="">
-
-      <a href="https://mega.nz/folder/XGx2gD7Z#PZQh61ZZS8PPbUbtZGthLQ" target="_blank" rel="noopener nofollow ugc">mega.nz</a>
-  </header>
-
-  <article class="onebox-body">
-    <img src="https://mlmmlm.icu/uploads/default/original/2X/6/646b383f14a90eec1945726c9b3aaa1870cb263c.png" class="thumbnail" width="" height="">
-
-<h3><a href="https://mega.nz/folder/XGx2gD7Z#PZQh61ZZS8PPbUbtZGthLQ" target="_blank" rel="noopener nofollow ugc">8.52 GB folder on MEGA</a></h3>
-
-  <p>2177 files and 111 subfolders</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-            <p><small>2 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1463">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1463</link>
-          <pubDate>Sat, 01 Oct 2022 07:38:19 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1463</guid>
-          <source url="https://mlmmlm.icu/t/topic/1463.rss">PAPER與國際共運新聞摘要</source>
-        </item>
-        <item>
-          <title>《红旗》休刊公告</title>
-          <dc:creator><![CDATA[gonzalofficial]]></dc:creator>
-          <category>一般讨论</category>
-          <description><![CDATA[
-            <p>公告:<br>
-由于编辑人员较为繁忙，《红旗》暂时休刊。具体恢复时间另行告知。<br>
-请同志们保持订阅状态以获取最新消息</p>
-            <p><small>1 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1462">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1462</link>
-          <pubDate>Sat, 01 Oct 2022 06:32:17 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1462</guid>
-          <source url="https://mlmmlm.icu/t/topic/1462.rss">《红旗》休刊公告</source>
-        </item>
-        <item>
-          <title>[转][批判][反革命大毒草][马列毛主义之声]评右倾机会主义者的“怕字当头”——兼论赤眉《社会主义革命如何胜利？》的空想性</title>
-          <dc:creator><![CDATA[3_3]]></dc:creator>
-          <category>时评</category>
-          <description><![CDATA[
-            <p>原文：<a href="https://telegra.ph/%E8%AF%84%E5%8F%B3%E5%80%BE%E6%9C%BA%E4%BC%9A%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E6%80%95%E5%AD%97%E5%BD%93%E5%A4%B4%E5%85%BC%E8%AE%BA%E8%B5%A4%E7%9C%89%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E9%9D%A9%E5%91%BD%E5%A6%82%E4%BD%95%E8%83%9C%E5%88%A9%E7%9A%84%E7%A9%BA%E6%83%B3%E6%80%A7-05-06" rel="noopener nofollow ugc">https://telegra.ph/评右倾机会主义者的怕字当头兼论赤眉社会主义革命如何胜利的空想性-05-06</a></p>
-            <p><small>14 个帖子 - 6 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1459">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1459</link>
-          <pubDate>Fri, 30 Sep 2022 07:33:27 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1459</guid>
-          <source url="https://mlmmlm.icu/t/topic/1459.rss">[转][批判][反革命大毒草][马列毛主义之声]评右倾机会主义者的“怕字当头”——兼论赤眉《社会主义革命如何胜利？》的空想性</source>
-        </item>
-        <item>
-          <title>德法首都同時爆發紀念貢薩羅主席的運動</title>
-          <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-          <category>新闻</category>
-          <description><![CDATA[
-            <h1>
-<a name="h-1" class="anchor" href="https://mlmmlm.icu#h-1"></a>法國：為貢薩羅主席及其全能思想辯護的三月走上了首都街頭</h1>
-<p><span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span> <span alt="" class="broken-image" title="此图片已损坏"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use href="#unlink"></use></svg></span></p>
-<p>2022-09-26T14:30:16-03:00</p>
-<p>作者::<br>
-卡洛斯·奧利維拉 (Carlos Oliveira)</p>
-<p>[‘<a href="https://anovademocracia.com.br/images/logo/logo2.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/logo/logo2.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/0-2022/09/outros/and-249.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/0-2022/09/outros/and-249.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/248/capap.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/248/capap.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/247/capap.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/247/capap.webp</a>’, ‘<a href="https://anovademocracia.com.br/246/capaP.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/246/capaP.webp</a>’, ‘<a href="https://anovademocracia.com.br/245/capaP.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/245/capaP.webp</a>’, ‘<a href="https://anovademocracia.com.br/244/capaP.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/244/capaP.webp</a>’, ‘<a href="https://anovademocracia.com.br/243/capaP.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/243/capaP.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/signal-2022-09-25-204116_011-696x464-1.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/signal-2022-09-25-204116_011-696x464-1.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/signal-2022-09-25-204116_005-1024x683-1.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/signal-2022-09-25-204116_005-1024x683-1.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/signal-2022-09-25-204116_004-1024x567-1.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/signal-2022-09-25-204116_004-1024x567-1.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/signal-2022-09-25-204116_002-1024x683-1.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/signal-2022-09-25-204116_002-1024x683-1.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/signal-2022-09-25-204116_012-1-1024x549-1.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/signal-2022-09-25-204116_012-1-1024x549-1.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_15647.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_15647.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6366.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6366.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_12201.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_12201.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_9642.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_9642.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_7618.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_7618.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_10355.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_10355.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6315.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6315.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6659.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6659.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_8511.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_8511.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_16445.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_16445.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_17786.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_17786.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_9951.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_9951.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_10045.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_10045.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6105.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_6105.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_16567.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_16567.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_11530.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_11530.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_9007.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_9007.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_1090.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_1090.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_16481.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_16481.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_14251.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/thumbnails/lne/thumb_197_14251.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/araguaia-anuncio.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/araguaia-anuncio.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/promo_2019.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/promo_2019.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/2017-apoie2.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/2017-apoie2.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/0-2022/09/outros/and-249.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/0-2022/09/outros/and-249.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/karl-marx-selo-3.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/karl-marx-selo-3.webp</a>’, ‘<a href="https://anovademocracia.com.br/images/onde_encontrar.webp" rel="noopener nofollow ugc">https://anovademocracia.com.br/images/onde_encontrar.webp</a>’, ‘<a href="https://anovademocracia.com.br/artimania.png" rel="noopener nofollow ugc">https://anovademocracia.com.br/artimania.png</a>’]</p>
-<p>2022年9月24日，在巴黎郊區舉行了一場強有力的毛主義示威遊行，為秘魯共產黨（PCP）和秘魯革命的領導人貢薩羅主席及其全能的貢薩羅思想辯護。</p>
-<p>儘管警方禁止遊行，但遊行還是在法國首都的一個工人區成功組織。一片紅旗海洋，一幅貢薩羅主席的肖像和一條標語為保衛貢薩羅思想的旗幟！毛主義團結萬歲！，這次示威活動“證明了在法國為毛主義團結而進行的鬥爭，證明了在全世界捍衛貢薩羅主席及其全能思想的鬥爭”，這也是《共產國際報》（CI-IC）的特色。</p>
-<p>遊行期間，人們唱口號，唱革命歌曲，用法語和西班牙語發表演講。遊行受到了工人和路人的歡迎，他們詢問遊行的原因，並意識到遊行的正確性，舉起拳頭或加入口號迎接遊行。</p>
-<p>國際共產主義運動中的團結鬥爭</p>
-<p>據CI-IC報報道，示威活動是一年前開始的運動的一部分，“當時PCP與巴西共產黨（P.C.B.）呼籲國際共產主義運動（MCI）各黨派、革命者和世界人民捍衛貢薩羅主席的切法圖拉（Chefatura）及其全能的貢薩羅思想。”</p>
-<p>據CI-IC稱，“這場運動始於2021 9月18日在漢堡舉行的國際遊行，並在巴西數千名農民遊行時達到最高點。”現在，“MCI左翼正在進行的一年艱苦鬥爭，最終於2022年9月24日在法國首都舉行示威。”該報還指出，“示威活動震撼了敵人，MCI、我們的階級和世界人民都很高興”，但指出“捍衛貢薩羅主席偉大的化學療法及其全能的貢薩羅思想的任務仍在繼續，並且與毛主義運動密不可分”。</p>
-<p>CI-IC在最近的一份聲明中還表示，“我們正在為毛主義統一國際會議（CIMU）而前進，為新國際無產階級組織（NOIP）注入活力這將是貢薩羅主席贏得的又一次歷史性勝利。沒有人能懷疑這個事實。這將是MCI的一個轉折點和里程碑，它將加強和加強毛主義運動！。這場運動已經持續了40多年，貢薩羅主席為捍衛化療和他的全能思想而開展的運動。”</p>
-<p>我們在下面複製CI-IC關於為貢薩羅主席的化療和他全能的貢薩羅思想辯護的最新記錄。</p>
-<p>貢薩羅主席生活在他全能的貢薩羅思想中</p>
-<p>2022年9月24日</p>
-<p>所有國家的無產者，團結起來！</p>
-<p>貢薩羅主席生活在他全能的貢薩羅思想中</p>
-<p>慶祝為貢薩羅主席的化療和全能思想辯護運動的一年。</p>
-<p>慶祝貢薩羅主席演講30週年，該演講作為共產黨人、戰鬥人員和群眾的戰鬥武器，在世界面前閃耀著勝利和挑戰的光輝。</p>
-<p>一年前，秘魯共產黨（PCP）和巴西共產黨（P.C.B.）向國際共產主義運動各黨派、革命者和世界人民發出呼籲，作為介紹：</p>
-<p>“我們懷著最深切的階級仇恨，讚揚、譴責和反對這一對貢薩羅主席犯下的可怕和不可估量的罪行，這一罪行是在舊秘魯國總統佩德羅·卡斯蒂略·特朗斯的授權下完成的。這個機會主義領導的反動政府已剝去一切偽裝，以其前任從未見過的種族滅絕性反革命罪行來掩蓋自己。他想接手，只模仿他的法西斯、種族滅絕和賣國教授阿爾貝託·藤森（Alberto Fujimori）。人民，只有發動持久人民戰爭的人民，才能對所有這些可悲的反動帝國主義者和叛國黨老鼠犯下的巨大和可恥的罪行給予適當的制裁。</p>
-<p>……（貢薩羅主席）將卡勞海軍基地的集中營改造成最高的發光戰壕。</p>
-<p>貢薩羅主席英勇投降，讚揚了以老鼠米里亞姆為首的機會主義右翼修正主義和投降主義路線。LOD呼籲結束持久人民戰爭，放棄貢薩羅主席、毛主義，貢薩羅認為，黨的團結基礎，在PCP第一次大會上獲得批准，所有這些都是因為更好的監禁條件，跪下呼籲大赦以服務於帝國主義計劃，以及摧毀黨總部和貢薩羅思想的反應，為總統的絕對和永久隔離服務了大約29年。</p>
-<p>貢薩羅主席，像共產黨人、戰鬥人員和民眾的孩子一樣，在這41多年的持久人民戰爭中，釋放了意識形態、勇氣和英雄主義，在激烈的軍事挑戰中大膽超脫，為持久人民戰爭獻出了生命。</p>
-<p>貢薩羅主席為毛主義、秘魯共產黨、持久人民戰爭、民主革命贏得了巨大的政治、軍事和道義勝利，為階級、秘魯人民和世界人民、國際共產主義運動不斷走向社會主義和共產主義。9月11日將被地球上所有共產黨人銘記，因為它具有普遍影響的重大歷史意義，這是一個時期的結束，也是一個新的革命時期的開始。</p>
-<p>他稱之為：“慶祝貢薩羅主席在秘魯贏得的持久人民戰爭的政治、軍事和道德勝利。</p>
-<p><a href="https://anovademocracia.com.br/noticias/18155-franca-marcha-defendendo-o-presidente-gonzalo-e-seu-todo-poderoso-pensamento-toma-as-ruas-da-capital" class="onebox" target="_blank" rel="noopener nofollow ugc">https://anovademocracia.com.br/noticias/18155-franca-marcha-defendendo-o-presidente-gonzalo-e-seu-todo-poderoso-pensamento-toma-as-ruas-da-capital</a></p>
-<h1>
-<a name="h-2022924-2" class="anchor" href="https://mlmmlm.icu#h-2022924-2"></a>柏林：2022年9月24日行動</h1>
-<p><img src="https://mlmmlm.icu/uploads/default/original/2X/c/c9193faa40f95ff245678a56a11912f6de4b076e.png" alt="" data-base62-sha1="sH0488pavFtvQZtOVvoPtXTnIaW" width="" height=""></p>
-<p>2022-09-26T17:00:00+00:00</p>
-<p>[‘<a href="https://www.demvolkedienen.org/images/Berlin/24.09.2022_II.png" rel="noopener nofollow ugc">https://www.demvolkedienen.org/images/Berlin/24.09.2022_II.png</a>’]</p>
-<p>標籤::<br>
-[‘秘魯 (Peru)’, ‘KPP公司 (KPP)’, ‘貢薩羅主席 (Vorsitzender Gonzalo)’, ‘傳單 (Flugblätter)’, ‘透明的 (Transparent)’]</p>
-<p>1992年9月24日，在貢薩羅主席發表監獄演講的週年紀念日，在柏林婚禮上舉行了一次簡短的自發集會，並散發了傳單。</p>
-<p>“貢薩羅主席1992年9月24日發表演講30週年萬歲，演講作為共產黨人、戰士和群眾鬥爭的武器，勝利而有力地展現在世界面前！"</p>
-<p>這場運動引起了鄰近每週市場的顧客和經銷商的興趣，他們對共產黨的存在感到高興，並通過近年來的冠狀病毒措施譴責了他們的生存擔憂。隨後，在社區和女權運動集會上散發了更多傳單。</p>
-<p>科魯2022年9月26日編寫的詳細信息秘魯KPP主席貢薩羅傳單透明</p>
-<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.demvolkedienen.org/index.php/de/t-brd/7123-berlin-aktion-zum-24-09-2022">
-  <header class="source">
-      <img src="https://mlmmlm.icu/uploads/default/original/2X/d/df0df5b88dd2daecee1c375df5a9fc5a2776fed6.png" class="site-icon" width="" height="">
-
-      <a href="https://www.demvolkedienen.org/index.php/de/t-brd/7123-berlin-aktion-zum-24-09-2022" target="_blank" rel="noopener nofollow ugc">demvolkedienen.org</a>
-  </header>
-
-  <article class="onebox-body">
-    
-
-<h3><a href="https://www.demvolkedienen.org/index.php/de/t-brd/7123-berlin-aktion-zum-24-09-2022" target="_blank" rel="noopener nofollow ugc">Berlin: Aktion zum 24.09.2022</a></h3>
-
-  <p>Internetplattform für die Entwicklung einer revolutionären Bewegung</p>
-
-
-  </article>
-
-  <div class="onebox-metadata">
-    
-    
-  </div>
-
-  <div style="clear: both"></div>
-</aside>
-
-            <p><small>1 个帖子 - 1 位参与者</small></p>
-            <p><a href="https://mlmmlm.icu/t/topic/1451">阅读完整话题</a></p>
-          ]]></description>
-          <link>https://mlmmlm.icu/t/topic/1451</link>
-          <pubDate>Tue, 27 Sep 2022 08:16:17 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">mlmmlm.icu-topic-1451</guid>
-          <source url="https://mlmmlm.icu/t/topic/1451.rss">德法首都同時爆發紀念貢薩羅主席的運動</source>
         </item>
   </channel>
 </rss>

@@ -214,7 +214,7 @@ https://webcache.googleusercontent.com/search?q=cache:6j1J_Wwp7MYJ:https://commu
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="4" />
-</div>
+ </div>
 </div>
 <div id='post_4' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
@@ -279,7 +279,7 @@ https://webcache.googleusercontent.com/search?q=cache:6j1J_Wwp7MYJ:https://commu
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
-<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+ <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
@@ -314,7 +314,7 @@ https://webcache.googleusercontent.com/search?q=cache:6j1J_Wwp7MYJ:https://commu
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
- <span class='post-likes'></span>
+<span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -343,7 +343,7 @@ https://webcache.googleusercontent.com/search?q=cache:6j1J_Wwp7MYJ:https://commu
 </div>
 <div class='post' itemprop='articleBody'>
 <p>不重視自由軟體的論壇，自由軟體就不會重視論壇。</p>
-</div>
+ </div>
 <meta itemprop='headline' content='對隔壁“泛左自由軟件教程”的評價，“泛左”魚龍混雜，不能團結RMS。'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />

@@ -14,7 +14,6 @@
 <link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
 <link href="/stylesheets/color_definitions_scheme__2_15b1cd2fbffec9dff6d542a0deb4c6258c847190.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" class="light-scheme" />
 <link href="/stylesheets/desktop_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" />
-
 <link href="/stylesheets/discourse-bbcode_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-bbcode" />
 <link href="/stylesheets/discourse-details_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-details" />
 <link href="/stylesheets/discourse-local-dates_d1772b6bf343e88610864d368a6829b9d3a02edd.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="discourse-local-dates" />
@@ -77,7 +76,7 @@
 </div>
 </td>
 <td class='posters'>
- <a href="https://mlmmlm.icu/u/mlmmlm_admin" class="latest single">
+<a href="https://mlmmlm.icu/u/mlmmlm_admin" class="latest single">
 <img width="25" height="25" src="/user_avatar/mlmmlm.icu/mlmmlm_admin/25/6_2.png" class="avatar" title='mlmmlm_admin - 原始发帖人、最新发帖人' aria-label='mlmmlm_admin - 原始发帖人、最新发帖人'>
 </a>
 </td>
@@ -85,7 +84,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>223</span>
+<span class='views' title='浏览量'>224</span>
 </td>
 <td>
 2020 年8 月 28 日
@@ -105,7 +104,7 @@
 </div>
 </div>
 </td>
-<td class='posters'>
+ <td class='posters'>
 <a href="https://mlmmlm.icu/u/Xuan_JunHe" class="latest single">
 <img width="25" height="25" src="/user_avatar/mlmmlm.icu/xuan_junhe/25/1867_2.png" class="avatar" title='Xuan_JunHe - 原始发帖人、最新发帖人' aria-label='Xuan_JunHe - 原始发帖人、最新发帖人'>
 </a>
@@ -114,7 +113,7 @@
 <span class='posts' title='帖子'>1</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>32</span>
+<span class='views' title='浏览量'>40</span>
 </td>
 <td>
 2022 年10 月 12 日
@@ -146,7 +145,7 @@
 <span class='posts' title='帖子'>1</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>18</span>
+<span class='views' title='浏览量'>23</span>
 </td>
 <td>
 2022 年10 月 12 日
@@ -178,7 +177,7 @@
 <span class='posts' title='帖子'>2</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>102</span>
+<span class='views' title='浏览量'>111</span>
 </td>
 <td>
 2022 年10 月 7 日
@@ -206,7 +205,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>49</span>
+<span class='views' title='浏览量'>57</span>
 </td>
 <td>
 2022 年10 月 6 日
@@ -234,7 +233,7 @@
 <span class='posts' title='帖子'>2</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>60</span>
+<span class='views' title='浏览量'>65</span>
 </td>
 <td>
 2022 年10 月 5 日
@@ -262,7 +261,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>72</span>
+<span class='views' title='浏览量'>78</span>
 </td>
 <td>
 2022 年10 月 5 日
@@ -294,7 +293,7 @@
 <span class='posts' title='帖子'>2</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>250</span>
+<span class='views' title='浏览量'>255</span>
 </td>
 <td>
 2022 年10 月 5 日
@@ -322,7 +321,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>39</span>
+<span class='views' title='浏览量'>44</span>
 </td>
 <td>
 2022 年10 月 3 日
@@ -332,7 +331,7 @@
 <td class="main-link" itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <meta itemprop='name' content='【供批判用】《关于加快工业发展的若干问题》（讨论稿）1975.08.11'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/1465'>
-<meta itemprop='position' content='10'>
+ <meta itemprop='position' content='10'>
 <span class="link-top-line">
 <a href='https://mlmmlm.icu/t/topic/1465' class='title raw-link raw-topic-link'>【供批判用】《关于加快工业发展的若干问题》（讨论稿）1975.08.11</a>
 </span>
@@ -356,7 +355,7 @@
 <span class='posts' title='帖子'>6</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>79</span>
+<span class='views' title='浏览量'>82</span>
 </td>
 <td>
 2022 年10 月 2 日
@@ -391,7 +390,7 @@
 <span class='posts' title='帖子'>8</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>102</span>
+<span class='views' title='浏览量'>105</span>
 </td>
 <td>
 2022 年9 月 25 日
@@ -419,7 +418,7 @@
 <span class='posts' title='帖子'>3</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>94</span>
+<span class='views' title='浏览量'>97</span>
 </td>
 <td>
 2022 年9 月 24 日
@@ -456,7 +455,7 @@
 <span class='posts' title='帖子'>6</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>164</span>
+<span class='views' title='浏览量'>166</span>
 </td>
 <td>
 2022 年9 月 21 日
@@ -496,7 +495,7 @@
 <span class='posts' title='帖子'>22</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>629</span>
+<span class='views' title='浏览量'>636</span>
 </td>
 <td>
 2022 年9 月 15 日
@@ -525,7 +524,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>128</span>
+<span class='views' title='浏览量'>132</span>
 </td>
 <td>
 2022 年9 月 14 日
@@ -554,7 +553,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>124</span>
+<span class='views' title='浏览量'>125</span>
 </td>
 <td>
 2022 年9 月 12 日
@@ -585,7 +584,7 @@
 <span class='posts' title='帖子'>1</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>76</span>
+<span class='views' title='浏览量'>78</span>
 </td>
 <td>
 2022 年9 月 10 日
@@ -613,7 +612,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>125</span>
+<span class='views' title='浏览量'>129</span>
 </td>
 <td>
 2022 年9 月 9 日
@@ -645,7 +644,7 @@
 <span class='posts' title='帖子'>1</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>96</span>
+<span class='views' title='浏览量'>99</span>
 </td>
 <td>
 2022 年9 月 9 日
@@ -676,7 +675,7 @@
 <span class='posts' title='帖子'>2</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>76</span>
+<span class='views' title='浏览量'>77</span>
 </td>
 <td>
 2022 年9 月 8 日
@@ -708,7 +707,7 @@
 <span class='posts' title='帖子'>2</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>112</span>
+<span class='views' title='浏览量'>114</span>
 </td>
 <td>
 2022 年9 月 2 日
@@ -742,7 +741,7 @@
 <span class='posts' title='帖子'>25</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>197</span>
+<span class='views' title='浏览量'>200</span>
 </td>
 <td>
 2022 年9 月 1 日
@@ -771,7 +770,7 @@
 <span class='posts' title='帖子'>2</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>119</span>
+<span class='views' title='浏览量'>120</span>
 </td>
 <td>
 2022 年8 月 31 日
@@ -799,7 +798,7 @@
 <span class='posts' title='帖子'>0</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>118</span>
+<span class='views' title='浏览量'>120</span>
 </td>
 <td>
 2022 年8 月 26 日
@@ -831,7 +830,7 @@
 <span class='posts' title='帖子'>1</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>92</span>
+<span class='views' title='浏览量'>94</span>
 </td>
 <td>
 2022 年8 月 25 日
@@ -854,12 +853,12 @@
 <a href="https://mlmmlm.icu/u/one_normal_one" class="latest single">
 <img width="25" height="25" src="/letter_avatar_proxy/v4/letter/o/e99b99/25.png" class="avatar" title='one_normal_one - 原始发帖人、最新发帖人' aria-label='one_normal_one - 原始发帖人、最新发帖人'>
 </a>
-</td>
+ </td>
 <td class="replies">
 <span class='posts' title='帖子'>3</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>82</span>
+<span class='views' title='浏览量'>84</span>
 </td>
 <td>
 2022 年8 月 25 日
@@ -887,7 +886,7 @@
 <span class='posts' title='帖子'>8</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>99</span>
+<span class='views' title='浏览量'>100</span>
 </td>
 <td>
 2022 年8 月 22 日
@@ -906,7 +905,7 @@
 </div>
 </div>
 </td>
- <td class='posters'>
+<td class='posters'>
 <a href="https://mlmmlm.icu/u/Xuan_JunHe" class="latest single">
 <img width="25" height="25" src="/user_avatar/mlmmlm.icu/xuan_junhe/25/1867_2.png" class="avatar" title='Xuan_JunHe - 原始发帖人、最新发帖人' aria-label='Xuan_JunHe - 原始发帖人、最新发帖人'>
 </a>
@@ -915,7 +914,7 @@
 <span class='posts' title='帖子'>4</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>115</span>
+<span class='views' title='浏览量'>116</span>
 </td>
 <td>
 2022 年8 月 22 日
@@ -934,7 +933,7 @@
 </div>
 </div>
 </td>
-<td class='posters'>
+ <td class='posters'>
 <a href="https://mlmmlm.icu/u/Xuan_JunHe" class="">
 <img width="25" height="25" src="/user_avatar/mlmmlm.icu/xuan_junhe/25/1867_2.png" class="avatar" title='Xuan_JunHe - 原始发帖人' aria-label='Xuan_JunHe - 原始发帖人'>
 </a>
@@ -955,7 +954,7 @@
 <span class='posts' title='帖子'>22</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>250</span>
+<span class='views' title='浏览量'>251</span>
 </td>
 <td>
 2022 年8 月 18 日
@@ -974,7 +973,7 @@
 <div class="discourse-tags">
 </div>
 </div>
- </td>
+</td>
 <td class='posters'>
 <a href="https://mlmmlm.icu/u/Xuan_JunHe" class="">
 <img width="25" height="25" src="/user_avatar/mlmmlm.icu/xuan_junhe/25/1867_2.png" class="avatar" title='Xuan_JunHe - 原始发帖人' aria-label='Xuan_JunHe - 原始发帖人'>
@@ -993,7 +992,7 @@
 <span class='posts' title='帖子'>13</span>
 </td>
 <td class="views">
-<span class='views' title='浏览量'>135</span>
+<span class='views' title='浏览量'>138</span>
 </td>
 <td>
 2022 年8 月 18 日
