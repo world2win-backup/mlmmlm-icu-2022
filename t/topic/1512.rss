@@ -11,126 +11,74 @@
 
 目前录入和校对工作量都很大，希望有更多志愿者前来帮忙。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Oct 2022 10:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2022 05:07:34 +0000</lastBuildDate>
     <category>闲谈 | 灌水</category>
     <atom:link href="https://mlmmlm.icu/t/topic/1512.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>和谐历史档案馆招募志愿者</title>
         <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
         <description><![CDATA[
-            <p>GitHub的網頁少量使用了JavaScript，並且GitHub在中國有無法訪問的GFW的干擾。Tor可以訪問GitHub，但是不能改變代碼、文本文風識別、詞頻分析確證身份問題，因而使用Tor也不可以做到完全的匿名。而根據IP直接訪問就更沒有匿名可言了。<br>
-代碼領域也有自由軟件的劃分（如GCC），其中的代碼主要是JavaScript，因而主要是私有軟件。虛擬機的存在早已打破了操作系統界限，哪怕是在Mac OS，因而我說的是要不要以自由軟件操作系統為主的問題。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/9">阅读完整话题</a></p>
+            <p>可是實際上這裡的數據庫不是mysql，而只是一個後端文件夾，只是把結果放進去。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/89">阅读完整话题</a></p>
         ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/9</link>
-        <pubDate>Sun, 16 Oct 2022 10:11:16 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-9</guid>
-        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
-      </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[fffv]]></dc:creator>
-        <description><![CDATA[
-            <p>github可以匿名注册的。</p>
-<p>另外我们使用什么操作系统和这个repo没有什么联系吧？<br>
-运行其中的代码不依赖特定的操作系统。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/8">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/8</link>
-        <pubDate>Sun, 16 Oct 2022 10:03:52 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-8</guid>
+        <link>https://mlmmlm.icu/t/topic/1512/89</link>
+        <pubDate>Tue, 18 Oct 2022 05:07:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-89</guid>
         <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
       </item>
       <item>
         <title>和谐历史档案馆招募志愿者</title>
         <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
         <description><![CDATA[
-            <p>特色的主要目標是清除、關押個體，清除、關押資料只是次要的。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/7">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/7</link>
-        <pubDate>Sun, 16 Oct 2022 09:56:13 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-7</guid>
-        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
-      </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[fffv]]></dc:creator>
-        <description><![CDATA[
-            <p>特色走狗们毁灭这些资料都来不及，怎么可能把自己老底公开出来</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/6">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/6</link>
-        <pubDate>Sun, 16 Oct 2022 09:54:38 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-6</guid>
-        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
-      </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-        <description><![CDATA[
-            <p>此外，組織並沒有解釋成員使用的操作系統是不是自由軟件，並且與資產階級曖昧地使用“開源軟件”的說法，這是值得警惕的，如何解釋這個Repo.不是國安局的傑作呢？</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/5">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/5</link>
-        <pubDate>Sun, 16 Oct 2022 09:00:46 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-5</guid>
-        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
-      </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-        <description><![CDATA[
-            <p>是的，否則縮小了傳播渠道，提高了傳播門檻</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/4">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/4</link>
-        <pubDate>Sun, 16 Oct 2022 06:45:35 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-4</guid>
-        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
-      </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[fffv]]></dc:creator>
-        <description><![CDATA[
-            <p>簡化文本開源是什么？<br>
-定期发个txt release包吗？</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/3">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/3</link>
-        <pubDate>Sun, 16 Oct 2022 06:44:18 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-3</guid>
-        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
-      </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
-        <description><![CDATA[
-            <p>在實現簡化文本開源以前還是先不要讓太多人參與了，分佈式存儲效果不好，這是第一版TXT散裝數據：<br>
-<a href="https://github.com/ProletRevDicta/Prolet/raw/master/A4%20%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%85%A8%E9%9B%86/%E6%95%A3%E8%A3%85%E5%BB%BA%E5%9B%BD%E5%90%8E%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%85%A8%E9%9B%86%E3%80%8B%E3%80%81%E4%B8%AD%E5%9B%BD%E6%8C%81%E4%B9%85%E4%BA%BA%E6%88%98%E3%80%81%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96%20-%20%E5%92%8C%E8%B0%90%E5%8E%86%E5%8F%B2%E6%A1%A3%E6%A1%88%E9%A6%86%E7%BC%96%202022.10.10%E7%89%88.txt.7z" class="onebox" target="_blank" rel="noopener nofollow ugc">https://github.com/ProletRevDicta/Prolet/raw/master/A4%20毛泽东全集/散装建国后《毛泽东全集》、中国持久人战、无产阶级文化大革命资料汇编%20-%20和谐历史档案馆编%202022.10.10版.txt.7z</a></p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/2">阅读完整话题</a></p>
-        ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/2</link>
-        <pubDate>Sun, 16 Oct 2022 04:59:09 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-2</guid>
-        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
-      </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[fffv]]></dc:creator>
-        <description><![CDATA[
-            <aside class="onebox allowlistedgeneric" data-onebox-src="https://banned-historical-archives.github.io">
-  <header class="source">
+            <h2>
+<a name="insert-into-table-1" class="anchor" href="https://mlmmlm.icu#insert-into-table-1"></a>Insert Into Table</h2>
+<p>To fill a table in MySQL, use the “INSERT INTO” statement.</p>
+<h3>
+<a name="example-2" class="anchor" href="https://mlmmlm.icu#example-2"></a>Example</h3>
+<p>Insert a record in the “customers” table:</p>
+<pre><code class="lang-auto">import mysql.connector
 
-      <a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">banned-historical-archives.github.io</a>
+mydb = mysql.connector.connect(
+host="localhost",
+user="*yourusername*",
+password="*yourpassword*",
+database="mydatabase"
+)
+
+mycursor = mydb.cursor()
+
+sql = "INSERT INTO customers (name, address) VALUES (%s, %s)"
+val = ("John", "Highway 21")
+mycursor.execute(sql, val)
+
+&lt;strong&gt;mydb.commit()&lt;/strong&gt;
+
+print(mycursor.rowcount, "record inserted.")
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/88">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/88</link>
+        <pubDate>Tue, 18 Oct 2022 05:06:06 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-88</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>那主要靠這個：</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://www.w3schools.com/python/python_mysql_getstarted.asp">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/2/2a09391f1b96403240ec59e662a4e3e1ba96ed47.png" class="site-icon" width="" height="">
+
+      <a href="https://www.w3schools.com/python/python_mysql_getstarted.asp" target="_blank" rel="noopener nofollow ugc">w3schools.com</a>
   </header>
 
   <article class="onebox-body">
-    
+    <img src="https://mlmmlm.icu/uploads/default/original/2X/a/ac8a965c5b8d5e134da82e686a4e29398012d17b.png" class="thumbnail" width="" height="">
 
-<h3><a href="https://banned-historical-archives.github.io" target="_blank" rel="noopener nofollow ugc">和谐历史档案馆 Banned Historical Archives</a></h3>
+<h3><a href="https://www.w3schools.com/python/python_mysql_getstarted.asp" target="_blank" rel="noopener nofollow ugc">Python MySQL</a></h3>
 
-  <p>和谐历史档案馆 Banned Historical Archives</p>
+  <p>W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.</p>
 
 
   </article>
@@ -143,17 +91,691 @@
   <div style="clear: both"></div>
 </aside>
 
-<p>我们开发了很多易用的工具使多人协作更高效：</p>
-<ol>
-<li>自动化的OCR录入机器人</li>
-<li>全新的在线文稿校对工具以及机器人</li>
-</ol>
-<p>目前录入和校对工作量都很大，希望有更多志愿者前来帮忙。</p>
-          <p><a href="https://mlmmlm.icu/t/topic/1512/1">阅读完整话题</a></p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://www.runoob.com/python/python-mysql.html">
+  <header class="source">
+      <img src="https://mlmmlm.icu/uploads/default/original/2X/f/f254ff1c421cac1364e22dbeeb0ad490c004cdf0.png" class="site-icon" width="" height="">
+
+      <a href="https://www.runoob.com/python/python-mysql.html" target="_blank" rel="noopener nofollow ugc">runoob.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://www.runoob.com/python/python-mysql.html" target="_blank" rel="noopener nofollow ugc">Python 操作 MySQL 数据库 | 菜鸟教程</a></h3>
+
+  <p>Python 操作 MySQL 数据库  Python 标准数据库接口为 Python DB-API，Python DB-API为开发人员提供了数据库应用编程接口。 Python 数据库接口支持非常多的数据库，你可以选择适合你项目的数据库：  GadFly mSQL MySQL PostgreSQL Microsoft SQL Server 2000 Informix Interbase Oracle Sybase  你可以访问Pyth..</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1512/87">阅读完整话题</a></p>
         ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512/1</link>
-        <pubDate>Sat, 15 Oct 2022 15:04:36 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-1512-1</guid>
+        <link>https://mlmmlm.icu/t/topic/1512/87</link>
+        <pubDate>Tue, 18 Oct 2022 05:05:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-87</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[fffv]]></dc:creator>
+        <description><![CDATA[
+            <p>可以使用词法分析预标注，然后人工处理边缘情况，就像OCR一样。不需要8年。</p>
+<p>为啥不愿意把这些分类信息存在数据库中呢？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/86">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/86</link>
+        <pubDate>Tue, 18 Oct 2022 05:03:07 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-86</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>內存佔用是1.2GB，但很顯然一般的個人計算機不能完成這個窮舉搜索相似文本過程。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/85">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/85</link>
+        <pubDate>Tue, 18 Oct 2022 04:49:21 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-85</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>內存佔用倒是不怎麼高，因為我使用了文本化的變量儲存方法，否則可能需要128G內存才能完成一個表文件的讀取和保存，算是黑科技；如果要在超級計算機上運行，則必須修改為C語言、彙編代碼才可以。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/84">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/84</link>
+        <pubDate>Tue, 18 Oct 2022 04:48:33 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-84</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>結果顯示：</p>
+<pre><code class="lang-auto">['中国农民中各阶级的分析及其对于革命的态度 - 和谐历史档案馆 Banned Historical Archives', '11926.1.1-中国农民中各阶级的分析及其对于革命的态度']
+['农民对新政权、对国民党和对整个中国革命的态度，首先是看革命军队的行为，看它对农民和地主的态度，看它帮助农民的决心而定的', '08新编《斯大林全集》第八卷（1926.1-11)']
+0.40406101782088427
+</code></pre>
+<pre><code class="lang-auto">['中国农民中各阶级的分析及其对于革命的态度 - 和谐历史档案馆 Banned Historical Archives', '11926.1.1-中国农民中各阶级的分析及其对于革命的态度']
+['农民对新政权、对国民党和对整个中国革命的态度，首先是看革命军队的行为，看它对农民和地主的态度，看它帮助农民的决心而定的', '最新上传新编《斯大林全集》正卷全20卷【合集】']
+0.40406101782088427
+</code></pre>
+<pre><code class="lang-auto">['标题： 中国农民中各阶级的分析及其对于革命的态度', '11926.1.1-中国农民中各阶级的分析及其对于革命的态度']
+['布尔什维克从正面肯定了革命的阶级性质和阶级意义，说胜利的革命就是“无产阶级和农民的革命民主专政”', '列宁全集第16卷']
+0.41702882811414954
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/83">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/83</link>
+        <pubDate>Tue, 18 Oct 2022 04:46:47 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-83</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>運行效果：</p>
+<pre><code class="lang-auto">banned-historical-archives.github.io/selenium$ pyth findalls.py 
+length: 652627 1610748
+a: 0
+b: 0 0
+= time: 0.000012
+0.09925833339709303
+0.1336306209562122
+0.1889822365046136
+0.20203050891044214
+0.23904572186687872
+0.2672612419124244
+/home/a/banned-historical-archives.github.io/selenium/findalls.py:5: RuntimeWarning: invalid value encountered in true_divide
+  cos=(numpy.dot(laa,lbb.T))/((math.sqrt(numpy.dot(laa,laa.T)))*(math.sqrt(numpy.dot(lbb,lbb.T))))
+0.27863910628767646
+0.3086066999241839
+0.33436692754521175
+0.40406101782088427
+target/11926.1.1-中国农民中各阶级的分析及其对于革命的态度/0000042420.txt
+b: 100000 0.0
+= time: 25.282850
+0.0668153104781061
+0.07142857142857142
+0.07412493166611013
+0.10101525445522107
+0.11952286093343936
+0.14824986333222026
+0.19446111706564934
+0.20203050891044214
+0.2182178902359924
+0.23145502494313788
+0.3086066999241839
+0.3857583749052298
+b: 200000 0.1781741612749496
+= time: 25.693682
+0.09166984970282112
+0.11952286093343936
+0.16116459280507606
+0.253546276418555
+0.3086066999241839
+0.3779644730092272
+b: 300000 0.0
+= time: 26.392931
+0.052414241836095915
+0.06299407883487121
+0.15430334996209194
+0.20619652471058064
+0.24174688920761409
+0.2452557357939863
+0.2760262237369417
+0.30304576336566325
+0.33407655239053047
+0.3779644730092272
+b: 400000 0.058321184351980436
+= time: 26.237072
+0.07412493166611013
+0.0890870806374748
+0.11145564251507058
+0.11952286093343936
+0.1336306209562122
+0.17496355305594133
+0.1889822365046136
+0.20869596778242056
+0.23904572186687872
+0.24565184222025874
+0.2849014411490949
+0.3086066999241839
+b: 500000 0.0
+= time: 25.105136
+0.16116459280507606
+0.1781741612749496
+0.1889822365046136
+0.18898223650461363
+0.2182178902359924
+0.2672612419124244
+0.2964997266644405
+b: 600000 0.0
+= time: 23.073432
+0.06299407883487121
+0.09166984970282112
+0.1091089451179962
+0.12964074471043288
+0.1889822365046136
+0.23904572186687872
+0.2672612419124244
+0.3779644730092272
+b: 700000 0.1336306209562122
+= time: 24.273195
+0.11952286093343936
+0.13957263155977062
+0.20573779994945587
+0.21055872190307892
+0.25928148942086576
+0.2836832573067901
+0.3086066999241839
+0.33436692754521175
+0.40406101782088427
+target/11926.1.1-中国农民中各阶级的分析及其对于革命的态度/0000720831.txt
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/82">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/82</link>
+        <pubDate>Tue, 18 Oct 2022 04:45:50 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-82</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>搜索引擎初步：</p>
+<pre><code class="lang-auto">import numpy,math,os,time
+def ccos(la,lb):
+    laa=numpy.array(la)
+    lbb=numpy.array(lb)
+    cos=(numpy.dot(laa,lbb.T))/((math.sqrt(numpy.dot(laa,laa.T)))*(math.sqrt(numpy.dot(lbb,lbb.T))))
+    return cos
+
+f=open('target_pure.list','r');tp=f.read().split('\n');f.close()
+f=open('original_pure.list','r');op=f.read().split('\n');f.close()
+f=open('target_tab.list','r');tt=f.read().split('\n');f.close()
+f=open('original_tab.list','r');ot=f.read().split('\n');f.close()
+print('length:',len(tp),len(op))
+n=0
+si=0
+sil=0
+t0=time.time()
+for a in tp:
+    n2=0
+    if n%100000==0:print('a: %d'%n)
+    t2=time.time()
+    for b in op:
+        if n2%100000==0:
+            print('b: %d'%n2,si);sil=0
+            t3=time.time()
+            print('= time: %f'%(t3-t2))
+            t2=time.time()
+        a2=eval(a)
+        b2=eval(b)
+        ve=[]
+        for c in a2.keys():
+            if c not in ve:ve.append(c)
+        for c in b2.keys():
+            if c not in ve:ve.append(c)
+        vea=[]
+        veb=[]
+        for c in ve:
+            if c in a2:
+                vea.append(a2[c])
+            else:
+                vea.append(0)
+            if c in b2:
+                veb.append(b2[c])
+            else:
+                veb.append(0)
+        si=ccos(vea,veb)
+        if si&gt;sil:sil=si;print(sil)
+        if si&gt;0.4:
+            a3=eval(tt[n])
+            b3=eval(ot[n2])
+            if not os.path.exists(pa:='target/%s'%a3[1]):os.makedirs(pa)
+            f=open(dn:='%s/%s.txt'%(pa,str(n2).rjust(10).replace(' ','0')),'w+');f.write('\n'.join([tt[n],ot[n2],str(si)]));f.close()
+            print(dn)
+        n2+=1
+    t1=time.time()
+    print('time: %f'%(t1-t0))
+    t0=time.time()
+    n+=1
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/81">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/81</link>
+        <pubDate>Tue, 18 Oct 2022 04:44:23 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-81</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>我不認為你的引文標註是個好主意，因為我計算了一下，大約需要25.282850×16.10748×652627÷60÷60÷24÷365=8.427758049年的時間計算機才能完成引文標註。<br>
+除非你有超級計算機的控制權，而人工標註能標註的相似文本又太過稀少，還有路線鬥爭和反腐敗鬥爭干擾，因而引文標註不是主要矛盾，因此不建議標註引文，這是徒勞的。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/80">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/80</link>
+        <pubDate>Tue, 18 Oct 2022 04:43:44 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-80</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[fffv]]></dc:creator>
+        <description><![CDATA[
+            <p><img src="https://mlmmlm.icu/uploads/default/original/2X/9/93aa745a032ba5d237597c8bbcd110e890276260.jpeg" alt="图片" data-base62-sha1="l4jnSQdRcFFsBimsiC1EWwPum1a" width="690" height="470"></p>
+<p><a class="mention" href="https://mlmmlm.icu/u/adt">@adt</a></p>
+<p>有些情况，如果不从图像特征上分析，甚至无法判断一段话是引文还是当时的讲话或者其他的类型。</p>
+<p>词法分析只能辅助分类，需要准确性还得依赖其他特征或者人工校对。</p>
+<p>另外词法分析出的段落类型静态存储在数据库中不是更好？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/79">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/79</link>
+        <pubDate>Mon, 17 Oct 2022 21:51:45 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-79</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>已經完成的代碼：</p>
+<pre><code class="lang-auto">import os,re
+p=re.compile(r'\d+')
+p2=re.compile(r'[一二三四五六七八九十年、，〇月日至和0-9O]+')
+#p3=re.compile(r'◇\d+?◇')
+r=[]
+li=[]
+for a in os.walk('old'):
+    for b in a[2]:
+        li.append([a[0],a[1],b])
+li.sort(key=lambda x:x[2])
+if True:
+    for a in li:
+        b=a[2]
+        f=open('%s/%s'%(a[0],b),'r');t=f.read().split('==========');f.close()
+        t2=[]
+        for c in range(len(t)):
+            if c%2==0:t2.append(t[c])
+        t=t2
+        t=[c.split('\n')for c in t if'。'in c]
+        t=[[d.strip()for d in c if d.strip()] for c in t if c]
+        t2=[]
+        for c in t:
+            for d in c:
+                t2.append(d)
+        t=[c.split('。')for c in t2]
+        t=[[d.strip()for d in c if d.strip()] for c in t if c]
+        t2=[]
+        for c in t:
+            for d in c:
+                t2.append(d)
+        t=t2
+        t=[c.split('！')for c in t2]
+        t=[[d.strip()for d in c if d.strip()] for c in t if c]
+        t2=[]
+        for c in t:
+            for d in c:
+                t2.append(d)
+        t=t2
+        t=[c.split('？')for c in t2]
+        t=[[d.strip()for d in c if d.strip()] for c in t if c]
+        t2=[]
+        for c in t:
+            for d in c:
+                t2.append(d)
+        t=t2
+        t2=[]
+        for c in t:
+            no=True
+            nu=re.findall(p,c)
+            if len(nu)==1:
+                if nu[0]==c:no=False
+            if no:t2.append(c)
+        t=t2
+        t2=[]
+        for c in t:
+            no=True
+            nu=re.findall(p2,c)
+            if len(nu)==1:
+                if nu[0]==c:no=False
+            if no:t2.append(c)
+        t=[c for c in t2 if len(c)&gt;5]
+        print(t)
+        r.append({'.'.join(b.split('.')[:-1]):t})
+f=open('original.list','w+');f.write(repr(r));f.close()
+</code></pre>
+<pre><code class="lang-auto">f=open('original.list','r');l=f.read();f.close()
+l=eval(l)
+fl=[]
+n=0
+ll=len(l)
+for a in l:
+    for b in a.keys():
+        n+=1
+        print(n,ll)
+        for c in range(len(a[b])):
+            fl.append(repr([a[b][c],b]))
+f=open('original_tab.list','w+');f.write('\n'.join(fl));f.close()
+</code></pre>
+<pre><code class="lang-auto">import jieba
+def fre(a):
+    z=[b for b in a if len(b)&gt;1]
+    d={}
+    for b in z:
+        if b not in d:d[b]=1
+        else:d[b]+=1
+    return d
+f=open('original_tab.list','r');l=[eval(a)for a in f.read().split('\n')];f.close()
+print('READED...')
+n=0
+ll=len(l)
+for a in range(ll):
+    n+=1
+    print(n,ll)
+    l[a]=repr([l[a][0],fre(jieba.cut(l[a][0],cut_all=False)),l[a][1]])
+f=open('original_fre.list','w+');f.write('\n'.join(l));f.close()
+</code></pre>
+<pre><code class="lang-auto">f=open('original_fre.list');t=f.read().split('\n');f.close()
+l=[]
+n=0
+ll=len(t)
+for a in t:
+    n+=1
+    print(n,ll)
+    l.append(repr(eval(a)[1]))
+f=open('original_pure.list','w+');f.write('\n'.join(l));f.close()
+</code></pre>
+<pre><code class="lang-auto">f=open('original_pure.list','r');o=f.read().split('\n');f.close()
+f=open('target_pure.list','r');t=f.read().split('\n');f.close()
+ve=[]
+ll=len(o)+len(t)
+n=0
+for a in o:
+    n+=1
+    print(n,ll)
+    a=eval(a).keys()
+    for b in a:
+        if b not in ve:ve.append(b)
+for a in t:
+    n+=1
+    print(n,ll)
+    a=eval(a).keys()
+    for b in a:
+        if b not in ve:ve.append(b)
+f=open('vector_id.list','w+');f.write('\n'.join(ve));f.close()
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/77">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/77</link>
+        <pubDate>Mon, 17 Oct 2022 16:30:46 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-77</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>我正在開發一一對應的詞頻向量，以計算文本相似度（餘弦夾角），最後把前導師的著作的語句作為搜索引擎內容，把毛澤東全集語句作為要搜索的內容，遍歷一遍文本相似度，最後取得你要的毛澤東引用了多少前導師的著作語句。每一句的搜索結果最後從tab裡取列表id，取來源，然後儲存到來源文件夾內。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/76">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/76</link>
+        <pubDate>Mon, 17 Oct 2022 16:27:02 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-76</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>如果你那麼關心文本相似度，應該從詞頻向量機制上入手。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/75">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/75</link>
+        <pubDate>Mon, 17 Oct 2022 16:24:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-75</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>那就做txt的release就好了</p>
+<p>本来文化大革命文库就是都可以用txt表示。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/74">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/74</link>
+        <pubDate>Mon, 17 Oct 2022 16:23:31 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-74</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <pre><code class="lang-auto">def calculate_cos(la,lb):
+    laa=numpy.array(la)
+    lbb=numpy.array(lb)
+    cos=(numpy.dot(laa,lbb.T))/((math.sqrt(numpy.dot(laa,laa.T)))*(math.sqrt(numpy.dot(lbb,lbb.T))))
+    return cos
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/73">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/73</link>
+        <pubDate>Mon, 17 Oct 2022 16:23:22 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-73</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox stackexchange" data-onebox-src="https://stackoverflow.com/questions/2500732/defining-the-context-of-a-word-python">
+  <header class="source">
+
+      <a href="https://stackoverflow.com/questions/2500732/defining-the-context-of-a-word-python" target="_blank" rel="noopener nofollow ugc">stackoverflow.com</a>
+  </header>
+
+  <article class="onebox-body">
+      <a href="https://stackoverflow.com/users/208827/radianthex" target="_blank" rel="noopener nofollow ugc">
+    <img alt="RadiantHex" src="https://mlmmlm.icu/uploads/default/original/2X/4/4723c6900623b75a935b3935fb7320329c1806d2.jpeg" class="thumbnail onebox-avatar" width="256" height="256">
+  </a>
+
+<h4>
+  <a href="https://stackoverflow.com/questions/2500732/defining-the-context-of-a-word-python" target="_blank" rel="noopener nofollow ugc">Defining the context of a word - Python</a>
+</h4>
+
+<div class="tags">
+  <strong>python, django, dictionary, nlp</strong>
+</div>
+
+<div class="date">
+  asked by
+  
+  <a href="https://stackoverflow.com/users/208827/radianthex" target="_blank" rel="noopener nofollow ugc">
+    RadiantHex
+  </a>
+  on <a href="https://stackoverflow.com/questions/2500732/defining-the-context-of-a-word-python" target="_blank" rel="noopener nofollow ugc">02:37PM - 23 Mar 10 UTC</a>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>概念整合对网络流行语的阐释力</p><aside class="onebox allowlistedgeneric" data-onebox-src="https://www.zz-news.com/com/bfwxzx/news/itemid-1381112.html">
+  <header class="source">
+
+      <a href="https://www.zz-news.com/com/bfwxzx/news/itemid-1381112.html" target="_blank" rel="noopener nofollow ugc">zz-news.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://www.zz-news.com/com/bfwxzx/news/itemid-1381112.html" target="_blank" rel="noopener nofollow ugc">概念整合对网络流行语的阐释力_杂志论文_北方文学(中旬)杂志</a></h3>
+
+  <p>张玮玲摘 要：网络流行语是适应网络在线交际的需要而产生的语言变异。理解网络语言的意义，必先了解其在线意义建构过程。本文在概念整合理论的视角下，对经典网络流行语的在线意义建构过程进行解析，并归纳网络流行</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>基于语料库的现代汉语新词语构词法统计研究</p><aside class="onebox pdf" data-onebox-src="https://colips.org/conferences/iccc2005/papers/ICCC-05-101.pdf">
+  <header class="source">
+
+      <a href="https://colips.org/conferences/iccc2005/papers/ICCC-05-101.pdf" target="_blank" rel="noopener nofollow ugc">colips.org</a>
+  </header>
+
+  <article class="onebox-body">
+    <a href="https://colips.org/conferences/iccc2005/papers/ICCC-05-101.pdf" target="_blank" rel="noopener nofollow ugc"><span class="pdf-onebox-logo"></span></a>
+
+<h3><a href="https://colips.org/conferences/iccc2005/papers/ICCC-05-101.pdf" target="_blank" rel="noopener nofollow ugc">ICCC-05-101.pdf</a></h3>
+
+  <p class="filesize">215.33 KB</p>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://mlmmlm.icu/t/topic/1512/72">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/72</link>
+        <pubDate>Mon, 17 Oct 2022 16:23:07 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-72</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[fffv]]></dc:creator>
+        <description><![CDATA[
+            <p>我没否定yaml或者json。</p>
+<p>Xuan认为txt更优，理由是便于传播。<br>
+我认为txt会破坏文稿的内部联系和内部属性，除非使用一些特殊的定制的语法塞进txt文本中（但这更不利于传播了）。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/71">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/71</link>
+        <pubDate>Mon, 17 Oct 2022 12:46:48 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-71</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[adt]]></dc:creator>
+        <description><![CDATA[
+            <p>这样发明yaml就没有意义了</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/70">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/70</link>
+        <pubDate>Mon, 17 Oct 2022 12:16:11 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-70</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>訪問數據庫過於浪費時間。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/69">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/69</link>
+        <pubDate>Mon, 17 Oct 2022 11:29:30 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-69</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[fffv]]></dc:creator>
+        <description><![CDATA[
+            <p>你做文本挖掘可以在py里面访问数据库啊，读取导出的文本等于脱裤子放屁</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/68">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/68</link>
+        <pubDate>Mon, 17 Oct 2022 11:28:59 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-68</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>直接訪問數據庫也和直接訪問前端沒有多大區別了。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/67">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/67</link>
+        <pubDate>Mon, 17 Oct 2022 11:18:51 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-67</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[Xuan_JunHe]]></dc:creator>
+        <description><![CDATA[
+            <p>馬列主義方面。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/66">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/66</link>
+        <pubDate>Mon, 17 Oct 2022 11:17:17 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-66</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[fffv]]></dc:creator>
+        <description><![CDATA[
+            <p>哪方面不全面？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/65">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/65</link>
+        <pubDate>Mon, 17 Oct 2022 11:16:59 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-65</guid>
+        <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
+      </item>
+      <item>
+        <title>和谐历史档案馆招募志愿者</title>
+        <dc:creator><![CDATA[fffv]]></dc:creator>
+        <description><![CDATA[
+            <p>文本挖掘直接访问数据库更好</p>
+          <p><a href="https://mlmmlm.icu/t/topic/1512/64">阅读完整话题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/1512/64</link>
+        <pubDate>Mon, 17 Oct 2022 11:16:28 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-1512-64</guid>
         <source url="https://mlmmlm.icu/t/topic/1512.rss">和谐历史档案馆招募志愿者</source>
       </item>
   </channel>

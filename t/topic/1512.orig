@@ -42,6 +42,7 @@
 <meta name="twitter:description" content="我们开发了很多易用的工具使多人协作更高效：   自动化的OCR录入机器人 全新的在线文稿校对工具以及机器人  目前录入和校对工作量都很大，希望有更多志愿者前来帮忙。" />
 <meta property="article:published_time" content="2022-10-15T15:04:36+00:00" />
 <meta property="og:ignore_canonical" content="true" />
+<link rel="next" href="/t/topic/1512?page=2">
 </head>
 <body class="crawler">
 <header>
@@ -62,7 +63,7 @@
 <span class='category-name' itemprop='name'>闲谈 | 灌水</span>
 </span>
 </a>
- <meta itemprop="position" content="1" />
+<meta itemprop="position" content="1" />
 </span>
 </div>
 </div>
@@ -134,13 +135,14 @@
 <time itemprop='datePublished' datetime='2022-10-16T04:59:09Z' class='post-time'>
 2022 年10 月 16 日 04:59
 </time>
-<meta itemprop='dateModified' content='2022-10-16T04:59:09Z'>
+<meta itemprop='dateModified' content='2022-10-16T11:33:10Z'>
 <span itemprop='position'>#2</span>
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
 <p>在實現簡化文本開源以前還是先不要讓太多人參與了，分佈式存儲效果不好，這是第一版TXT散裝數據：<br>
 <a href="https://github.com/ProletRevDicta/Prolet/raw/master/A4%20%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%85%A8%E9%9B%86/%E6%95%A3%E8%A3%85%E5%BB%BA%E5%9B%BD%E5%90%8E%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%85%A8%E9%9B%86%E3%80%8B%E3%80%81%E4%B8%AD%E5%9B%BD%E6%8C%81%E4%B9%85%E4%BA%BA%E6%88%98%E3%80%81%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96%20-%20%E5%92%8C%E8%B0%90%E5%8E%86%E5%8F%B2%E6%A1%A3%E6%A1%88%E9%A6%86%E7%BC%96%202022.10.10%E7%89%88.txt.7z" class="onebox" target="_blank" rel="noopener nofollow ugc">https://github.com/ProletRevDicta/Prolet/raw/master/A4%20毛泽东全集/散装建国后《毛泽东全集》、中国持久人战、无产阶级文化大革命资料汇编%20-%20和谐历史档案馆编%202022.10.10版.txt.7z</a></p>
+<p><a href="https://github.com/hubred-rev/Prolet/blob/master/A4%20%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%85%A8%E9%9B%86/%E6%95%A3%E8%A3%85%E5%BB%BA%E5%9B%BD%E5%90%8E%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%85%A8%E9%9B%86%E3%80%8B%E3%80%81%E4%B8%AD%E5%9B%BD%E6%8C%81%E4%B9%85%E4%BA%BA%E6%88%98%E3%80%81%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96%20-%20%E5%92%8C%E8%B0%90%E5%8E%86%E5%8F%B2%E6%A1%A3%E6%A1%88%E9%A6%86%E7%BC%96%202022.10.10%E7%89%88%EF%BC%88%E5%8D%95%E6%96%87%E4%BB%B6%E7%89%88%EF%BC%89.txt.7z" class="onebox" target="_blank" rel="noopener nofollow ugc">https://github.com/hubred-rev/Prolet/blob/master/A4%20毛泽东全集/散装建国后《毛泽东全集》、中国持久人战、无产阶级文化大革命资料汇编%20-%20和谐历史档案馆编%202022.10.10版（单文件版）.txt.7z</a></p>
 </div>
 <meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -219,7 +221,7 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
-<meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="1" />
 </div>
 </div>
 <div id='post_5' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -317,7 +319,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
- <span class='post-likes'></span>
+<span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -392,8 +394,493 @@
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_10' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/fffv'><span itemprop='name'>fffv</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T10:19:12Z' class='post-time'>
+2022 年10 月 16 日 10:19
+</time>
+<meta itemprop='dateModified' content='2022-10-16T10:19:12Z'>
+<span itemprop='position'>#10</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>为啥使用JavaScript就是私有软件？<br>
+也没有限制你的js运行环境吧，什么浏览器都可以，你可以选择开源浏览器，后端可以使用Node v8也是开源的。没有后门问题。</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
+</div>
+<div id='post_11' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/fffv'><span itemprop='name'>fffv</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T10:58:52Z' class='post-time'>
+2022 年10 月 16 日 10:58
+</time>
+<meta itemprop='dateModified' content='2022-10-16T10:58:52Z'>
+<span itemprop='position'>#11</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>txt也不一定提高传播门槛吧？总共有1万多篇文稿，下载下来怎么看啊？一般人还是得依赖各种维度的筛选器</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="7" />
+</div>
+</div>
+<div id='post_12' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T11:00:56Z' class='post-time'>
+2022 年10 月 16 日 11:00
+</time>
+<meta itemprop='dateModified' content='2022-10-16T11:34:06Z'>
+<span itemprop='position'>#12</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>開源從來不一定導致沒有後門，主要看軟件是否被收錄進 <a href="https://gnu.org" rel="noopener nofollow ugc">gnu.org</a> GNU/Linux的軟件源裡，第三方的話仍然有風險，使用任何私有軟件都有風險。</p>
+<p>而M$WIN可以使用glogg、Notepad++閱讀把10000多個文件合併成一個文件的版本，glogg、Notepad++可以處理大數據。（但是標題倒找會有問題）</p>
+<p>終結胡言亂語：</p><aside class="onebox stackexchange" data-onebox-src="https://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-string-on-linux/27481639#27481639">
+<header class="source">
+<a href="https://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-string-on-linux/27481639#27481639" target="_blank" rel="noopener nofollow ugc">stackoverflow.com</a>
+</header>
+<article class="onebox-body">
+<a href="https://stackoverflow.com/users/4356919/tayab-hussain" target="_blank" rel="noopener nofollow ugc">
+<img alt="Tayab Hussain" src="https://mlmmlm.icu/uploads/default/original/2X/c/c4e9aa53f5d4d61aab71cdc3d9fbdb2cddaf195a.jpeg" class="thumbnail onebox-avatar" width="" height="">
+</a>
+<h4>
+<a href="https://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-string-on-linux/27481639#27481639" target="_blank" rel="noopener nofollow ugc">How to find all files containing specific text (string) on Linux?</a>
+</h4>
+<div class="tags">
+<strong>linux, text, grep, directory</strong>
+</div>
+<div class="date">
+answered by
+<a href="https://stackoverflow.com/users/4356919/tayab-hussain" target="_blank" rel="noopener nofollow ugc">
+Tayab Hussain
+</a>
+on <a href="https://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-specific-text-string-on-linux/27481639#27481639" target="_blank" rel="noopener nofollow ugc">10:10AM - 15 Dec 14 UTC</a>
+</div>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_13' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T11:02:14Z' class='post-time'>
+2022 年10 月 16 日 11:02
+</time>
+<meta itemprop='dateModified' content='2022-10-16T11:07:58Z'>
+<span itemprop='position'>#13</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>查詢文件內內容（去掉l即可返回文件內容）：<br>
+<code>find . | xargs grep '&lt;你需要的文件內容&gt;' -sl</code></p>
+<p>查詢文件名內容：<br>
+<code>find . | grep '&lt;你需要的文件名內容&gt;'</code></p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_14' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T11:02:44Z' class='post-time'>
+2022 年10 月 16 日 11:02
+</time>
+<meta itemprop='dateModified' content='2022-10-16T11:21:48Z'>
+<span itemprop='position'>#14</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>篩選器提供的維度太有限了，似乎有打壓毛主義探討的意思。</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_15' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T11:10:09Z' class='post-time'>
+2022 年10 月 16 日 11:10
+</time>
+<meta itemprop='dateModified' content='2022-10-16T11:18:56Z'>
+<span itemprop='position'>#15</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>然而M$WIN使用文件內搜索只有付費軟件是支持的，可見M$WIN壟斷了多少自由軟件下可以免費完成的操作，繼續M$WIN的付費文件內搜索的邏輯是反動的。</p>
+<p>一般人總有願意在M$WIN上掏錢購買搜索軟件（說的就是那幾個反動得要死的M$WIN文件內容搜索軟件）搜索文件內容的人，低覺悟的群眾不在少數，PAPER WPS的付費裝潢就是一個例子。</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_16' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T11:10:41Z' class='post-time'>
+2022 年10 月 16 日 11:10
+</time>
+<meta itemprop='dateModified' content='2022-10-16T11:12:37Z'>
+<span itemprop='position'>#16</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>散装建国后《毛泽东全集》、中国持久人战、无产阶级文化大革命资料汇编 - 和谐历史档案馆编$ find . | xargs grep ‘毛主义’ -sl<br>
+./1965.12.21-上面要靠党的领导，下面要靠广大群众.txt<br>
+散装建国后《毛泽东全集》、中国持久人战、无产阶级文化大革命资料汇编 - 和谐历史档案馆编$ find . | xargs grep ‘毛主义’ -s<br>
+./1965.12.21-上面要靠党的领导，下面要靠广大群众.txt:〔 1 〕 艾思奇（一九一〇年——一九六六年），我国着名的马克思主义哲学家、教育家和革命家，原名李生萱，哲学家。云南腾冲人，蒙古族后裔。“艾思奇”的名字是从英文SH（其英文转写ShengHsuen）……那是一个非常有破坏力的思想，是和谐社会的主要对立面。”</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_17' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T11:11:33Z' class='post-time'>
+2022 年10 月 16 日 11:11
+</time>
+<meta itemprop='dateModified' content='2022-10-16T11:42:53Z'>
+<span itemprop='position'>#17</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>散装建国后《毛泽东全集》、中国持久人战、无产阶级文化大革命资料汇编 - 和谐历史档案馆编$ find . | xargs grep ‘毛泽东主义’ -sl<br>
+./1966.10.9-周荣鑫在北京地质学院师生员工大会上的讲话.txt<br>
+./1966.12.22-王力等接见北京医学院“八·一八”部分战士座谈纪要.txt<br>
+./1968.6.21-毛泽东主席会见坦桑尼亚总统尼雷尔谈话记录.txt<br>
+./1967.4.2-戚本禹对中央音乐学院等院校组织的讲话.txt<br>
+./1966.10.26-谢富治戚本禹与北京政法学院红卫兵的谈话.txt<br>
+./1966.8-破旧立新一百例.txt<br>
+./1966.5.25-康生在中央政治局扩大会议上的讲话.txt<br>
+./1945.4.21-中国共产党第七次全国代表大会的工作方针.txt<br>
+./1967.3.2-李先念接见北京外贸学院红卫兵代表的讲话.txt<br>
+./1967.1.22-中央首长在首都部分院校师生座谈会上的讲话（一）.txt<br>
+./1966.9.12-再论革命的怀疑一切──砸碎形而上学的谬论.txt<br>
+./1967.1.30-李先念与北京外贸学院“财贸红色造反团”代表座谈记录.txt<br>
+./1966.9.6-毛泽东主义万岁！.txt<br>
+./1966.8.15-李富春对团中央机关工作人员和首都青年师生的讲话.txt<br>
+./1967.3.8-中共中央转发《天津延安中学以教学班为基础实现全校大联合和整顿巩固发展红卫兵的体会》及附件.txt<br>
+./1967.1.10-王新亭关锋戚本禹对军队总参三部工作人员的讲话.txt<br>
+./1967.1.22-中央首长与北京工农兵体院毛泽东主义兵团谈话纪要.txt<br>
+./1966.9.13-谢富治接见北京政法学院红卫兵的讲话.txt<br>
+./1966.10.11-周恩来关于北京外语学院工作组长刘新权问题的口头指示.txt<br>
+./1966.10.30-陶铸接见湖南赴京工人师生干部代表座谈纪要.txt<br>
+./1966.8.28-八项禁令.txt<br>
+./1966.8.25-首都红卫兵纠察队（西城分队）宣告成立.txt<br>
+./1966.6.18-谭震林在文革初期的十三次讲话.txt<br>
+./1966.8.24-最后通谍.txt<br>
+./1966.10.29-陈伯达王力同福建惠安一中二十五名战士座谈纪要.txt<br>
+./1967.2.5-陈毅接见西安交大及西安医学院部分师生时的谈话.txt<br>
+./1967.2.26-李先念与北京外贸学院红卫兵的谈话.txt<br>
+./1967.12.18-中共中央、国务院、中央军委、中央文革小组关于连云港事件的决定.txt<br>
+./1966.10.3-林杰接见北京航空学院和北京地质学院部分同志的讲话.txt<br>
+./1967.1.31-王力与浙江省革命造反派赴京代表团的谈话.txt<br>
+./1967.1.9-紧急通告.txt<br>
+./1967.3-江青谢富治与北京中学生代表座谈纪要.txt<br>
+./1965.1.9-和美国记者斯诺的谈话.txt<br>
+./1966.12.4-周恩来接见中央戏剧学院等文艺单位代表时的谈话.txt<br>
+./1967.2.7-王力关锋对山东省造反派代表的讲话.txt<br>
+./1967.1-刘邓路线在六中的滔天罪行.txt<br>
+./1966.10.29-戚本禹余秋里接见北京师范大学“井冈山”时的讲话.txt<br>
+./1948.8.15-不同意毛泽东主义的提法.txt<br>
+./1967.1.27-周恩来与铁路系统革命造反组织的谈话.txt<br>
+./1966.12.1-周恩来接见大连铁道学院红色造反团代表时的讲话.txt<br>
+./1966.8-勒令.txt<br>
+./1966.8.27-首都大专院校红卫兵司令部组织条例（暂行）.txt<br>
+./1967.1.11-张春桥在上海市革命造反派座谈会上的讲话.txt<br>
+./1966.10.12-谭力夫讲话注释.txt<br>
+./1967.1.22-青岛市革命造反委员会告全市人民书.txt<br>
+./1966.8.27-毛泽东红卫兵宣言.txt<br>
+./1966.9.3-王力关锋接见山东大学红卫兵代表记录.txt<br>
+./1966.8.27-宣言.txt<br>
+./1966.11.26-周恩来和西南赴京联合告状团四十名代表座谈纪要.txt<br>
+./1966.9.1-给全国红五类子弟的一封信.txt<br>
+./1967.5.9-戚本禹在北京芭蕾舞蹈学校全体革命师生座谈会上的讲话.txt<br>
+./1967.10.17-刘宁一接见全国总工会工人文工团和东方歌舞团演员时的讲话.txt<br>
+./1966.9.6-南下宣言.txt<br>
+./1967.2.3-毛泽东主席接见卡博、巴卢库谈话记录.txt<br>
+./1966.10.4-周恩来同哈尔滨军事工程学院三个团体同学谈话要点.txt<br>
+./1966.9.15-周恩来给西安工业学院二十四位同学的电话.txt<br>
+./1966.8.16-林杰给北京师范大学樊立耀等27位同学的信.txt<br>
+./1966.9.1-周恩来王任重对北京市红卫兵代表的讲话.txt<br>
+./1967.2.3-接见卡博和巴卢库时的谈话（节录）.txt<br>
+./1965.12.21-上面要靠党的领导，下面要靠广大群众.txt<br>
+./1966.9.7-革命的“怀疑一切”万岁.txt<br>
+./1967.2.14-王力对《红旗》杂志通讯员的讲话.txt<br>
+./1966.11.17-陈伯达王力与北京工矿企业职工少数派代表的座谈记录.txt<br>
+./1966.8.29-反修的大示威──北京“反修路”命名大会记实.txt</p>
+<p>尼雷尔：我听莫斯科广播电台说，现在法国的麻烦是由毛泽东主义的极端分子搞的。听了这样东西以后我就明确知道法共要采取什么行动。</p>
+<p>毛主席：最近铁托发表演说，说那些造反的学生是纳粹分子、兰科维奇分子、毛泽东主义分子及其他分子，有10%的学生不听话，90%是好的。我说，真有10%学生造铁托的反，我们就很满意了。</p>
+<p>巴：尽管合在一起也是一个没有思想的军队。</p>
+<p>主席：他是灭亡的阶级，他们的代表人物，在3000多万人里顶多有几十万人，也分散，分到各城市、各街道、各农村、各学校、各机关。所以，大字报一出来，群众运动一出来，红卫兵一出来，他们吓得要死。</p>
+<p>另外，还有一些什么东西也搞得很乱，又是什么毛泽东思想，又是什么毛泽东主义，我就不喜欢这个“主义”，就不喜欢这个“ism”。</p>
+<p>周：我们说就是将来也用毛泽东思想，这也是一个体系嘛。</p>
+<p>主席：又给我封了好几个官，什么伟大导师、伟大领袖、伟大统帅、伟大舵手，我就不高兴。但是，有什么办法！他们到处这么搞。有人建议保留一个teacher，我是个小学教员嘛，就是一个普通教员多好。至于什么Professor（教授）谈不上，我没有进过大学，你们都进过大学吧？</p>
+<p>嚴格來說，毛澤東主席是進過北京大學的，並且在那裡擔任過圖書管理員。</p>
+<p>國內革命戰爭階段毛主席是不同意毛澤東主義的提法，到了新民主主義階段就漸漸地默許了，也沒有和祕魯發生過太多書信關係，也允許毛主義者看望了。</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_18' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Xuan_JunHe'><span itemprop='name'>Xuan_JunHe</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T11:14:58Z' class='post-time'>
+2022 年10 月 16 日 11:14
+</time>
+<meta itemprop='dateModified' content='2022-10-16T11:14:58Z'>
+<span itemprop='position'>#18</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>那麼故意把事情搞得更加複雜只能是因為重複造輪子了，自由軟件學藝不精不是閉源可讀性的藉口。</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div id='post_19' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/fffv'><span itemprop='name'>fffv</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T13:03:51Z' class='post-time'>
+2022 年10 月 16 日 13:03
+</time>
+<meta itemprop='dateModified' content='2022-10-16T13:03:51Z'>
+<span itemprop='position'>#19</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>打压毛主义？怎么说？</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div id='post_20' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/fffv'><span itemprop='name'>fffv</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1512">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2022-10-16T13:35:24Z' class='post-time'>
+2022 年10 月 16 日 13:35
+</time>
+<meta itemprop='dateModified' content='2022-10-16T13:35:24Z'>
+<span itemprop='position'>#20</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>你本地初始化数据库以后也可以全文搜索，比txt更细粒度。当然我们提供一个txt的release也是没问题的。</p>
+</div>
+<meta itemprop='headline' content='和谐历史档案馆招募志愿者'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+<span itemprop='name'><b><a rel="next" itemprop="url" href="/t/topic/1512?page=2">下一页 →</a></b></span>
 </div>
 </div>
 <footer class="container wrap">

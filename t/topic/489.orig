@@ -462,7 +462,7 @@ for i in range(305, 468):
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
-<span class='post-likes'></span>
+ <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -559,7 +559,7 @@ for i in range(305, 468):
 </div>
 <div class='post' itemprop='articleBody'>
 <p>已解决。</p>
- </div>
+</div>
 <meta itemprop='headline' content='百度大脑高精度版，含段落信息'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />

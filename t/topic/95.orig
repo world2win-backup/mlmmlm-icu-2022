@@ -159,7 +159,6 @@
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/anon25548698'><span itemprop='name'>anon25548698</span></a>
-
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/95">
 <span class="crawler-post-infos">
@@ -403,7 +402,7 @@
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
- </div>
+</div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
 </span>
@@ -512,7 +511,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
- </div>
+</div>
 </div>
 <div id='post_11' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
