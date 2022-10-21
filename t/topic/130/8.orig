@@ -65,7 +65,6 @@ https://www.marxists.org/chinese/&amp;hellip;">
 </span>
 </div>
 </div>
-
 <div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
@@ -194,7 +193,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
-</span>
+ </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/130">
 <link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/1X/064d033c413f49536353740a4b0ed23f5d91c2cb.jpeg">
 <span class="crawler-post-infos">
@@ -211,7 +210,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <meta itemprop='headline' content='必读的文章和书籍'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
- <meta itemprop="userInteractionCount" content="1" />
+<meta itemprop="userInteractionCount" content="1" />
 <span class='post-likes'>1 个赞</span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -590,13 +589,13 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
- </div>
+</div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/130">
 <span class="crawler-post-infos">
-<time itemprop='datePublished' datetime='2020-11-05T16:02:56Z' class='post-time'>
+ <time itemprop='datePublished' datetime='2020-11-05T16:02:56Z' class='post-time'>
 2020 年11 月 5 日 16:02
 </time>
 <meta itemprop='dateModified' content='2020-11-05T16:02:56Z'>
@@ -1057,7 +1056,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
- <a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/130">
 <link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/1X/6fd9aab3feaca729941ec19b9ebaa12b751eda3d.png">
@@ -1142,7 +1141,7 @@ https://www.marxists.org/chinese/&amp;hellip;">
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2020-11-29T14:01:22Z' class='post-time'>
 2020 年11 月 29 日 14:01
- </time>
+</time>
 <meta itemprop='dateModified' content='2020-11-29T14:01:22Z'>
 <span itemprop='position'>#24</span>
 </span>

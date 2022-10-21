@@ -231,7 +231,7 @@
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2020-12-12T16:07:50Z' class='post-time'>
 2020 年12 月 12 日 16:07
- </time>
+</time>
 <meta itemprop='dateModified' content='2020-12-12T16:07:50Z'>
 <span itemprop='position'>#6</span>
 </span>
@@ -420,7 +420,7 @@ The proletarian cultural revolution initiated and led by Chairman Mao Zedong, th
 </div>
 </div>
 <div id='post_12' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
-<div class='crawler-post-meta'>
+ <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
@@ -543,7 +543,7 @@ The proletarian cultural revolution initiated and led by Chairman Mao Zedong, th
 </span>
 <link itemprop="mainEntityOfPage" href="../173.html">
 <span class="crawler-post-infos">
- <time itemprop='datePublished' datetime='2021-01-19T07:26:53Z' class='post-time'>
+<time itemprop='datePublished' datetime='2021-01-19T07:26:53Z' class='post-time'>
 2021 年1 月 19 日 07:26
 </time>
 <meta itemprop='dateModified' content='2021-01-19T07:26:53Z'>
@@ -737,7 +737,7 @@ The proletarian cultural revolution initiated and led by Chairman Mao Zedong, th
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
- </div>
+</div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='../../../u/Xuan_JunHe.html'><span itemprop='name'>Xuan_JunHe</span></a>
 </span>
