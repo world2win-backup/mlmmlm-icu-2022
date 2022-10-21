@@ -279,7 +279,7 @@
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="1" />
 </div>
-</div>
+ </div>
 <div id='post_3' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
@@ -345,7 +345,7 @@
 <div class='post' itemprop='articleBody'>
 <p>讳莫如深，藏起来了。就像毛主席还有九篇文章，也压箱底了。 <img src="https://mlmmlm.icu/images/emoji/twitter/grinning.png?v=9" title=":grinning:" class="emoji" alt=":grinning:"></p>
 </div>
-<meta itemprop='headline' content='张角：略论无产阶级专政的政体问题'>
+ <meta itemprop='headline' content='张角：略论无产阶级专政的政体问题'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />

@@ -34,6 +34,7 @@
 <meta name="twitter:title" content="关于 - 马列毛群众" />
 <meta property="og:description" content="捍卫和发扬马列毛主义。Defend and promote Marxism-Leninism-Maoism." />
 <meta name="twitter:description" content="捍卫和发扬马列毛主义。Defend and promote Marxism-Leninism-Maoism." />
+
 </head>
 <body class="crawler">
 <header>
@@ -66,14 +67,14 @@ mlmmlm_admin
 <h2>我们的版主</h2>
 <div class='moderators-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<meta itemprop='url' content='/u/none'>
-<a href='/u/none' itemprop='item'>
+<meta itemprop='url' content='/u/msc'>
+<a href='/u/msc' itemprop='item'>
 <span itemprop='image'>
-<img width="45" height="45" class="avatar" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/n/f19dbf/45.png">
+<img width="45" height="45" class="avatar" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/msc/45/46_2.png">
 </span>
 <span itemprop='name'>
-None
-- None
+msc
+- msc
 </span>
 </a>
 </div>
@@ -90,14 +91,14 @@ longliveproletariat
 </a>
 </div>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<meta itemprop='url' content='/u/msc'>
-<a href='/u/msc' itemprop='item'>
+<meta itemprop='url' content='/u/none'>
+<a href='/u/none' itemprop='item'>
 <span itemprop='image'>
-<img width="45" height="45" class="avatar" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/msc/45/46_2.png">
+<img width="45" height="45" class="avatar" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/n/f19dbf/45.png">
 </span>
 <span itemprop='name'>
-msc
-- msc
+None
+- None
 </span>
 </a>
 </div>
@@ -106,7 +107,7 @@ msc
 <a href='/u/news_porter' itemprop='item'>
 <span itemprop='image'>
 <img width="45" height="45" class="avatar" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/n/839c29/45.png">
- </span>
+</span>
 <span itemprop='name'>
 news_porter
 - 《新闻》搬运工
@@ -131,7 +132,7 @@ mlmlearner
 <span itemprop='image'>
 <img width="45" height="45" class="avatar" src="https://mlmmlm.icu/user_avatar/mlmmlm.icu/ila-80/45/1936_2.png">
 </span>
-<span itemprop='name'>
+ <span itemprop='name'>
 ILA-80
 - 无所不能的贡萨罗思想万岁！
 </span>
@@ -150,38 +151,38 @@ ILA-80
 </tr>
 <tr>
 <td class='title'>话题</td>
-<td>566</td>
+<td>567</td>
 <td>0</td>
-<td>14</td>
+<td>4</td>
 <td>46</td>
 </tr>
 <tr>
 <td>帖子</td>
-<td>5284</td>
-<td>49</td>
-<td>212</td>
+<td>5295</td>
+<td>2</td>
+<td>121</td>
 <td>446</td>
 </tr>
 <tr>
 <td>用户</td>
-<td>270</td>
-<td>0</td>
-<td>0</td>
-<td>9</td>
+<td>271</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
 </tr>
 <tr>
 <td>活跃用户</td>
 <td>&mdash;</td>
-<td>10</td>
-<td>22</td>
-<td>37</td>
+<td>11</td>
+<td>19</td>
+<td>38</td>
 </tr>
 <tr>
 <td>赞</td>
 <td>1392</td>
 <td>0</td>
-<td>3</td>
-<td>72</td>
+<td>1</td>
+<td>70</td>
 </tr>
 </table>
 </section>

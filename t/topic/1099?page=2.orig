@@ -131,7 +131,7 @@
 </time>
 <meta itemprop='dateModified' content='2022-09-23T08:20:36Z'>
 <span itemprop='position'>#23</span>
-</span>
+ </span>
 </div>
 <div class='post' itemprop='articleBody'>
 <p>M$WIN裡最常見的pdf閱讀器之一如Firefox瀏覽器、Evince。</p>
@@ -176,7 +176,7 @@
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
- <a href='/privacy' itemprop="url">隐私政策 </a>
+<a href='/privacy' itemprop="url">隐私政策 </a>
 </span>
 </li>
 </ul>

@@ -99,7 +99,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
- </div>
+</div>
 </div>
 <div id='post_2' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
@@ -278,7 +278,7 @@
 <span itemprop='position'>#7</span>
 </span>
 </div>
- <div class='post' itemprop='articleBody'>
+<div class='post' itemprop='articleBody'>
 <p>周恩来会见缅甸总理奈温时的谈话</p>
 <p>今天上午主席阁下谈到 1967 年的事情，这件事正如阁下所说，的确是很遗憾的。……你知道 1967 年我们正进行无产阶级文化大革命，有一些极左思潮，你们新大使来后可能知道一些。 1967 年事件的直接起因，是华侨学生佩戴毛主席像章，引起纠纷，以后牵涉到我们驻缅甸使馆，发生了数十人死亡以及华侨被捕的情况。 </p>
 <p>当时我国政府想尽量把这件事约束在政府交涉的范围之内。开始我国使馆有一份抗议照会送给了贵国外交部，我记得照会中提出了五点要求。接着我国外交部发表声明支持抗议照会的要求。《人民日报》就这件事刊登了一些文章和消息。当时正是文化大革命运动发展到高潮的时候，上百万群众连续几天在你们使馆门前过来过去。我担心会发生像在仰光对中国使馆采取的那种激烈的行动，冲进去，伤害了人。我打电话给外交部和北京卫戍区制止了事态的发展。幸好那时我打电话还有效，把你们使馆保住了，没有发生像我们驻仰光使馆所遇到的情况。还有一次，大约在七月初，受极左思潮影响的群众在坏人的操纵下，开了一个大会，要冲外交部，同时要冲缅甸驻华使馆。这件事被我挡住了。运动发展到八月份，外交部也受了极左思潮的影响，坏分子钻进去夺了权。…… </p>
@@ -300,7 +300,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
-<span class='post-likes'></span>
+ <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -406,7 +406,7 @@
 </div>
 <meta itemprop='headline' content='关于周恩来在cr中干过的事诸位有何靠谱的文献记载吗？'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
-<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+ <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
@@ -464,7 +464,7 @@
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
-</div>
+ </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/longlivePPW'><span itemprop='name'>longlivePPW</span></a>
 </span>
@@ -540,7 +540,7 @@
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
-</div>
+ </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/one_normal_one'><span itemprop='name'>one_normal_one</span></a>
@@ -670,7 +670,7 @@
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="2" />
 </div>
-</div>
+ </div>
 <div id='post_18' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
@@ -692,7 +692,7 @@
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
-<p>我们只使用 GNU/Linux，不使用 windows 这种侵犯用户隐私的系统，自然对 windows 上的软件缺乏了解。如果想学习有关 GNU/Linux 的知识可以到我们设在自由的邦联制即时通讯系统 xmpp 平台上的聊天室找我们， JID 是 <a href="/cdn-cgi/l/email-protection#b6e2c4d3c28ff6dbc3d598c6dfdbc3ce98d2d3"><span class="__cf_email__" data-cfemail="80d4f2e5f4b9c0edf5e3aef0e9edf5f8aee4e5">[email&#160;protected]</span></a> 口令是 Oup)OtofWecin0 ，欢迎大家的加入。</p>
+<p>我们只使用 GNU/Linux，不使用 windows 这种侵犯用户隐私的系统，自然对 windows 上的软件缺乏了解。如果想学习有关 GNU/Linux 的知识可以到我们设在自由的邦联制即时通讯系统 xmpp 平台上的聊天室找我们， JID 是 <a href="/cdn-cgi/l/email-protection#b2e6c0d7c68bf2dfc7d19cc2dbdfc7ca9cd6d7"><span class="__cf_email__" data-cfemail="d286a0b7a6eb92bfa7b1fca2bbbfa7aafcb6b7">[email&#160;protected]</span></a> 口令是 Oup)OtofWecin0 ，欢迎大家的加入。</p>
 </div>
 <meta itemprop='headline' content='关于周恩来在cr中干过的事诸位有何靠谱的文献记载吗？'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
