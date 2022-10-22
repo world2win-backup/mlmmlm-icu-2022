@@ -7,6 +7,17 @@ https://o.mlm01.icu
 # wget
 ` wget --wait=0.3 -r -l 2 -p -E -k -np -K -e robots=off -i urls.txt`
 use `-l 2` instead of `-l 1` to backup uploads.
+
+## whole site backup
+
+by default `-r` is eq to `-r -l 5`
+
+you may use 
+```
+wget --wait=0.2 -K -e robots=off --mirror --convert-links --adjust-extension --page-requisites --no-parent https://site-to-download.com
+```
+to backup entire site
+
 # urls.txt
 ```
 https://mlmmlm.icu/latest?no_definitions=true
