@@ -1316,13 +1316,5 @@ f=open('vector_id.list','w+');f.write('\n'.join(ve));f.close()
         <pubDate>Mon, 17 Oct 2022 12:46:48 +0000</pubDate>
         <guid isPermaLink="false">mlmmlm.icu-post-6276</guid>
       </item>
-      <item>
-        <title>和谐历史档案馆招募志愿者</title>
-        <dc:creator><![CDATA[@adt adt]]></dc:creator>
-        <description><![CDATA[ <p>这样发明yaml就没有意义了</p> ]]></description>
-        <link>https://mlmmlm.icu/t/topic/1512?page=4#post_70</link>
-        <pubDate>Mon, 17 Oct 2022 12:16:11 +0000</pubDate>
-        <guid isPermaLink="false">mlmmlm.icu-post-6275</guid>
-      </item>
   </channel>
 </rss>
