@@ -493,7 +493,7 @@ libreoffice 官网上有详细的用户文档 <a href="https://www.libreofficech
 </div>
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<a href="https://mlmmlm.icu/t/topic/1253/15" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+ <a href="https://mlmmlm.icu/t/topic/1253/15" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/1253/15'>
 <span itemprop='name'>转载：常见的支持 ActivityPub 协议的社交媒体项目</span>
 </a>
@@ -511,7 +511,6 @@ libreoffice 官网上有详细的用户文档 <a href="https://www.libreofficech
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/106coup'><span itemprop='name'>106coup</span></a>
-
 </span>
 <link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/1199">
 <span class="crawler-post-infos">
@@ -566,7 +565,7 @@ libreoffice 官网上有详细的用户文档 <a href="https://www.libreofficech
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
-<p>我们依然欢迎同志们加入我们在 xmpp 上的聊天室 JID 是 <a href="/cdn-cgi/l/email-protection#9fcbedfaeba6dff2eafcb1eff6f2eae7b1fbfa"><span class="__cf_email__" data-cfemail="b4e0c6d1c08df4d9c1d79ac4ddd9c1cc9ad0d1">[email&#160;protected]</span></a> 口令是 Oup)OtofWecin0 。欢迎大家来到聊天室讨论，学习自由软件和保密技术。</p>
+<p>我们依然欢迎同志们加入我们在 xmpp 上的聊天室 JID 是 <a href="/cdn-cgi/l/email-protection#de8aacbbaae79eb3abbdf0aeb7b3aba6f0babb"><span class="__cf_email__" data-cfemail="184c6a7d6c2158756d7b366871756d60367c7d">[email&#160;protected]</span></a> 口令是 Oup)OtofWecin0 。欢迎大家来到聊天室讨论，学习自由软件和保密技术。</p>
 </div>
 <meta itemprop='headline' content='自由软件与保密技术交流小组招新'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -576,7 +575,7 @@ libreoffice 官网上有详细的用户文档 <a href="https://www.libreofficech
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
- <meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 <div id='post_15' itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
@@ -668,7 +667,7 @@ It is an open standard based on the Double R In...</p>
 </div>
 <div style="clear: both"></div>
 </aside>
-</div>
+ </div>
 <meta itemprop='headline' content='自由软件与保密技术交流小组招新'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
@@ -687,7 +686,7 @@ It is an open standard based on the Double R In...</p>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
- </div>
+</div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='https://mlmmlm.icu/u/cocuj331'><span itemprop='name'>cocuj331</span></a>
 </span>
@@ -732,7 +731,7 @@ It is an open standard based on the Double R In...</p>
 </time>
 <meta itemprop='dateModified' content='2022-07-15T11:23:46Z'>
 <span itemprop='position'>#18</span>
-</span>
+ </span>
 </div>
 <div class='post' itemprop='articleBody'>
 <p>omemo 协议实现的 xmpp 聊天已经广泛有很广泛的运用了，c11s 系的 xmpp 客户端都是用的 omemo 。</p>
@@ -750,7 +749,7 @@ It is an open standard based on the Double R In...</p>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
- <span class='post-likes'></span>
+<span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -897,7 +896,7 @@ It is an open standard based on the Double R In...</p>
 </blockquote>
 </aside>
 <p>不应该假设执法机关已经发现软件在计算机的情况，敌人能检查计算机的情况等同于泄密。正确的做法是对计算机设备加密，在敌人能打开设备前就主动销毁密钥。</p>
-<p>欢迎同志到我们的聊天室讨论有关话题，我们在 xmpp 上的聊天室 JID 是 <a href="/cdn-cgi/l/email-protection#1d496f7869245d70687e336d74706865337978"><span class="__cf_email__" data-cfemail="7e2a0c1b0a473e130b1d500e17130b06501a1b">[email&#160;protected]</span></a> 口令是 Oup)OtofWecin0</p>
+<p>欢迎同志到我们的聊天室讨论有关话题，我们在 xmpp 上的聊天室 JID 是 <a href="/cdn-cgi/l/email-protection#712503140548311c04125f01181c04095f1514"><span class="__cf_email__" data-cfemail="0b5f796e7f324b667e68257b62667e73256f6e">[email&#160;protected]</span></a> 口令是 Oup)OtofWecin0</p>
 </div>
 <meta itemprop='headline' content='自由软件与保密技术交流小组招新'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">

@@ -157,7 +157,7 @@ mebk org One Drive Die。<br>
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="1" />
 <span class='post-likes'>1 个赞</span>
- </div>
+</div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
@@ -223,7 +223,7 @@ mebk org One Drive Die。<br>
 </div>
 <meta itemprop='headline' content='【歌詞=一問聽聽看看我就是'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="1" />
 <span class='post-likes'>1 个赞</span>
 </div>
